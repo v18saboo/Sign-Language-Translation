@@ -1,0 +1,1994 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	ncslgr10m	Firewire 38200:NCSLGRv2:ncslgr10m
+Number of utterances:	69
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-395_43_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-395_43_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-395_43_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1240
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	IX-1p:i	140	160	FIND	220	260	SOMETHING/ONE:j 	340	460	POSS-3p:j	600	660	BOOK	820	880
+non-dominant hand gloss
+eye brows	start	60	120	lowered	140	860	end	880	1120
+eye aperture	start	20	40	squint	60	80	end	100	120	blink	1200	1240
+eye gaze	right	200	260	right	380	480
+nose	start	60	120	wrinkle	140	860	end	880	1000
+mouth	intense	340	380	raised upper lip	560	600
+head pos: turn	start	240	440	right	460	480	start	500	800	left	820	960	end	980	1240
+head pos: jut	start	60	240	back	260	500	end	520	700
+body lean	start	160	400	further back	420	560	back	580	960	end	980	1240
+POS	Pronoun	140	160	Verb	220	260	Determiner	340	460	Possessive	600	660	Noun	820	880
+English translation	I found someone's book.
+Notes - number of character bytes:	63
+1) ok, so do I say eg:rt or look at hand?
+2) is mouth correct?
+
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-498_45_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-498_45_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-498_45_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1160
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	010
+main gloss	fs-JOHN	240	320	BROTHER	500	620	ARRIVE	740	880	|>		960
+non-dominant hand gloss
+eye brows	start	120	220	raised	240	540	end	560	640
+eye aperture	blink	0	40	lowered lid	60	100	blink	120	160	start	300	420	wide	440	520	end	540	560	blink	1000	1080
+eye gaze	right	280	360
+head pos: tilt fr/bk	start	0	40	back	60	420	end	440	600
+head pos: jut	start	740	780	back	800	900	end	920	1020
+head pos: turn	right	0	20	end	40	240	start	560	600	slightly right	620	1040	end	1060	1160
+POS	Proper Noun	240	320	Noun	500	620	Verb	740	880
+English translation	John's brother arrives.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-525_37_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-525_37_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-525_37_small_2.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	760
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	007
+main gloss	SOMETHING/ONE	180	200	ARRIVE	300	460	HERE	540	640
+non-dominant hand gloss
+eye gaze	right	80	160
+nose	wrinkle	120	140
+head mvmt: nod	rapid	80	640
+POS	Pronoun	180	200	Verb	300	460	Adverb	540	640
+English translation	Someone arrives here.
+Notes - number of character bytes:	45
+1) check eng trans against original sentence
+
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-526_343_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-526_343_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-526_343_small_2.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1960
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	014
+main gloss	fs-JOHN:i	240	360	i:GIFT:j	600	720	IX-3p:j	840	940	MAN	1100	1220	NEW	1380	1500	COAT	1600	1760
+non-dominant hand gloss
+eye brows	raised	140	320	end	340	400	start	740	800	raised	820	1220	end	1240	1300
+eye aperture	lowered lid	800	820	wide	1000	1180	blink	1220	1260
+eye gaze	right	820	1180
+cheeks	puffed	620	680	tensed	920	940
+mouth	lips pursed: mm	540	600
+head pos: tilt fr/bk	start	80	240	back	260	840	end	860	940
+head pos: jut	start	840	960	back	980	1220	end	1240	1360
+head pos: tilt side	start	420	580	right	600	640	end	660	760
+head pos: turn	start	760	880	right	900	1220	end	1240	1400
+body lean	start	780	940	back	960	1700	end	1720	1860
+POS	Proper Noun	240	360	Verb	600	720	Determiner	840	940	Noun	1100	1220	Adjective	1380	1500	Noun	1600	1760
+English translation	John gave that man a new coat.
+Notes - number of character bytes:	264
+While signing GIVE, she realses air from between her lips.  I don't know how to gloss that. JL.
+
+1) is utt really in past tense?
+2) I want to say there's a squint near GIVE but I can't be sure
+3) same ? as Judith! it's not a puff cheek but don't know what to put!
+
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-527_347_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-527_347_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-527_347_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	2260
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	fs-JOHN	60	180	IX-3p:i	320	360	i:GIFT:j	480	600	IX-3p:j	620	660	MAN	820	1000	IX-loc:j	1200	1380	NEW	1680	1780	COAT	1880	2020
+non-dominant hand gloss
+eye brows	start	1080	1140	lowered	1160	1320	end	1340	1380
+eye aperture	blink	1040	1100	squint	1120	1340	blink	1380	1440
+eye gaze	right	240	320	left	1100	1380
+nose	start	1080	1120	wrinkle	1140	1340	end	1360	1380
+mouth	lips spread:  crnrs down	1140	1340
+head pos: turn	start	1040	1160	left	1180	1260	end	1280	1360
+head pos: tilt side	start	440	620	right	640	940	end	960	1100	start	1220	1340	right	1360	1400	end	1420	1520
+head pos: tilt fr/bk	start	680	800	front	820	980	start	1000	1180	back	1200	1320	end	1340	1440
+head mvmt: shake	single	780	1020
+POS	Proper Noun	60	180	Pronoun	320	360	Verb	480	600	Determiner	620	660	Noun	820	1000	Adverb	1200	1380	Adjective	1680	1780	Noun	1880	2020
+English translation	John, he gave the man over there a new coat.
+Notes - number of character bytes:	118
+1) should the IX after JOHN be a loc?
+2) is JOHN a topic?
+3) I don't like how the head mvmts are coded for some reason
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-528_344_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-528_344_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-528_344_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	2460
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	300	400	neu:GIFT:j	540	640	IX-3p:j	720	820	MAN	960	1060	IX-loc:j	1220	1440	NEW	1840	1920	COAT	2040	2220
+non-dominant hand gloss
+eye brows	start	1040	1080	raised	1100	1380	end	1400	1540
+eye aperture	blink	660	720	start	740	840	wide	860	1360	blink	1380	1480
+eye gaze	right	700	860	right	1160	1380
+mouth	lips pursed: mm	500	660	raised upper lip	1160	1360
+head pos: tilt fr/bk	start	80	300	back	320	720	end	740	860	start	1100	1200	back	1220	1300	end	1320	1440
+head pos: turn	start	680	780	slightly right	800	920	end	940	960	start	1120	1200	slightly right	1220	2180	end	2200	2360
+body lean	start	1220	1320	back/left	1340	1460	end	1480	1720
+adverbial	start	1120	1200	far	1220	1340	end	1360	1400
+POS	Proper Noun	300	400	Verb	540	640	Determiner	720	820	Noun	960	1060	Adverb	1220	1440	Adjective	1840	1920	Noun	2040	2220
+English translation	John gave the man way over there a new coat.
+Notes - number of character bytes:	79
+1) I think JOHN is a topic but need to dbl chk
+2) how to gloss mouth: mm? wrong
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-529_346_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-529_346_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-529_346_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	2340
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	fs-JOHN	120	160	IX-3p:i	260	380	i:GIFT:j	420	740	IX-3p:j	820	880	MAN	1060	1220	IX-loc:j	1480	1720	BOOK	2020	2080
+non-dominant hand gloss
+head pos: tilt fr/bk	start	380	560	back	580	760	end	780	840	start	860	960	front	980	1140	end	1160	1220	start	1260	1380	back	1400	1640	end	1660	1860
+eye brows	start	20	100	raised	120	360	end	380	440
+eye aperture	blink	340	400	blink	760	800	blink	1240	1300	blink	1660	1720
+eye gaze	right	220	340	left	800	940	left	1300	1660
+cheeks	start	1280	1500	tensed	1520	1660	end	1680	1740
+mouth	lips spread:  crnrs down	460	960	lips spread	1320	1660
+head pos: tilt side	start	460	700	right	720	1180	end	1200	1300
+head pos: turn	start	760	800	left	820	920	end	940	1060	start	1220	1360	left	1380	1640	end	1660	1780
+head mvmt: shake	start	1200	1280	single	1300	1620	end	1640	1800
+POS	Proper Noun	120	160	Pronoun	260	380	Verb	420	740	Determiner	820	880	Noun	1060	1220	Adverb	1480	1720	Noun	2020	2080
+English translation	John, he, gave a man over there a book.
+Notes - number of character bytes:	71
+1) is the 2nd bl a  low?
+2) how to code the blowing out of air on GIVE?
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-530_348_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-530_348_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-530_348_small_2.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	2140
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	014
+main gloss	fs-JOHN	280	380	neu:GIVE-indef:j	520	660	IX-loc:j	960	1360	SOMETHING/ONE	1480	1600	WOMAN	1680	1780	BOOK	1920	2000
+non-dominant hand gloss
+eye brows	start	100	120	slightly raised	140	360	end	380	400	start	820	900	lowered	920	1100	end	1120	1200
+eye aperture	squint	900	1120	blink	1380	1440
+eye gaze	left	820	1360
+nose	wrinkle	900	1080
+mouth	raised upper lip	800	1100	lips spread	1160	1340
+head pos: tilt fr/bk	start	260	320	slightly back	340	380	end	400	440
+head pos: tilt side	start	540	580	right	600	900	end	920	940	start	1000	1080	right	1100	1160	end	1180	1240
+head pos: jut	start	420	560	back	580	680	end	700	720	start	1440	1480	back	1500	1720	end	1740	1820
+head mvmt: shake	rapid	480	1600
+head mvmt: nod	single	1840	2020
+POS	Proper Noun	280	380	Verb	520	660	Adverb	960	1360	Determiner	1480	1600	Noun	1680	1780	Noun	1920	2000
+English translation	John gave a woman over there a book.
+Notes - number of character bytes:	179
+1) not sure POS is right for the IX
+2) don't know what POS for SOMETHING/ONE
+3) should eng trans be "some woman over there"?
+4) over the LOC, don't know if that's a tilt or a jut!
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-531_169_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-531_169_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-531_169_small_2.mov
+Video	
+Audio	
+Start frame:	120
+End frame:	2700
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	013
+main gloss	fs-JOHN	360	740	neu:GIVE-indef:j	860	1000	IX-loc:j	1220	1420	SOMETHING/ONE	1660	1700	WOMAN	1800	1900	BOOK	2040	2200
+non-dominant hand gloss
+eye aperture	blink	360	420	lowered lid	440	760
+eye gaze	right	1100	1420
+nose	wrinkle	820	920	wrinkle	1480	1700
+mouth	lips spread:  crnrs down	800	900	lips spread:  crnrs down	1200	1700
+head pos: tilt fr/bk	start	120	400	back	420	1300	further back	1320	1480	end	1500	1640
+head pos: tilt side	start	720	840	left	860	1120	start	1140	1320	further left	1340	2460	end	2480	2700
+head pos: turn	start	860	960	left	980	1040	start	1060	1180	right	1200	1420	start	1440	1560	left	1580	1660	end	1680	1780	start	1840	1920	left	1940	2460	end	2480	2700
+head pos: jut	start	1800	1820	back	1840	2080	more back	2100	2200	back	2220	2340	end	2360	2700
+body lean	start	1240	1440	left	1460	1540	end	1560	1780	start	1960	2020	back	2040	2220	end	2240	2480
+POS	Proper Noun	360	740	Verb	860	1000	Adverb	1220	1420	Determiner	1660	1700	Noun	1800	1900	Noun	2040	2200
+English translation	John gave some woman over there a book.
+Notes - number of character bytes:	332
+1) having a pblm w/ eyebrows lowering and squints!  First I think it's there and then I don't!  Need a 2nd pair of eyes...
+2) also can't tell if it should be a shake instead of all the left and right turns...like over WOMAN--feel like a head shake with the lip spread is like a nonmanual expression of uncertainty or unimportance
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-532_349_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-532_349_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-532_349_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1840
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	180	280	neu:GIVE-indef:j	420	540	IX-loc:j	720	980	SOMETHING/ONE	1100	1160	WOMAN	1280	1380	BOOK	1580	1660
+non-dominant hand gloss
+eye brows	start	660	700	lowered	720	960	end	980	1100
+eye aperture	blink	640	700	squint	720	940	end	960	1100	blink	1340	1400
+eye gaze	left	700	1000
+nose	start	660	680	wrinkle	700	1040	end	1060	1100
+mouth	lips spread:  crnrs down	720	920	raised upper lip	980	1060
+head pos: tilt side	start	620	640	right	660	860	further right	880	1080	right	1100	1220	end	1240	1440
+head pos: jut	start	240	440	back	460	520	end	540	600	start	960	1080	back	1100	1380	end	1400	1520
+head mvmt: shake	slow	480	1160
+POS	Proper Noun	180	280	Verb	420	540	Adverb	720	980	Determiner	1100	1160	Noun	1280	1380	Noun	1580	1660
+English translation	John gave some woman over there a book.
+Notes - number of character bytes:	136
+1) same re: shake as previous utt.
+2) dbl chk that can repeat IX--feel like she's trying to express uncertainty or is kind place-holding
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-533_168_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-533_168_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-533_168_small_2.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	2680
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	012
+main gloss	fs-JOHN	400	740	neu:GIVE-indef:j	900	1100	IX-loc:j	1380	1580	SOMETHING/ONE	1760	1900	WOMAN	2020	2160	BOOK	2360	2500
+non-dominant hand gloss
+eye brows	start	320	460	lowered	480	2680
+eye aperture	blink	260	320
+eye gaze	right	1160	1940
+mouth	lips spread:  crnrs down	900	1000	lips spread:  crnrs down	1360	1860
+head pos: tilt fr/bk	start	80	280	back	300	1440	further back	1460	1960	end	1980	2100	start	2440	2660
+head pos: tilt side	end	80	180	start	1260	1340	left	1360	1980	end	2000	2120
+head pos: turn	start	780	900	left	920	940	end	960	1020	start	1140	1260	right	1280	1560	end	1580	1660
+head mvmt: shake	slow	1240	1840
+POS	Proper Noun	400	740	Verb	900	1100	Adverb	1380	1580	Determiner	1760	1900	Noun	2020	2160	Noun	2360	2500
+English translation	John gave some woman over there a book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-534_178_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-534_178_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-534_178_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1520
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	014
+main gloss	IX-3p:i	320	560	WOMAN	780	900	HAVE	1080	1140	BOOK	1240	1300
+non-dominant hand gloss
+head pos: tilt fr/bk	start	20	160	back	180	780	end	820	1240
+head mvmt: nod	rapid	920	1140
+head pos: tilt side	start	180	360	left	380	1300	end	1320	1500
+shoulders	start	360	520	slightly left	560	1060	end	1080	1200
+topic	top1	160	860
+eye brows	start	20	140	raised	160	860	end	880	980	slightly lowered	1060	1380
+eye aperture	start	60	160	end	860	880	blink	900	960	end	980	1040	slightly lowered	1060	1180	end	1200	1380
+eye gaze	right	240	900
+mouth	start	160	260	open	280	600	end	620	680
+adverbial	far	280	600
+POS	Determiner	320	560	Noun	780	900	Verb	1080	1140	Noun	1240	1300
+English translation	That woman way over there has a book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-535_179_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-535_179_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-535_179_small_2.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	1060
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	014
+main gloss	IX-3p:i	340	500	HAVE	680	720	BOOK	800	880
+non-dominant hand gloss
+head pos: tilt fr/bk	back	100	480	end	500	600
+head mvmt: nod	single	500	600
+head pos: tilt side	start	160	360	left	380	580	end	600	820	start	940	960	slightly right	980	1060
+shoulders	start	380	480	left	500	640	end	660	760
+topic	top1	200	480
+eye brows	start	100	180	raised	200	480	end	500	580
+eye aperture	start	100	180	end	500	540
+eye gaze	right	140	480
+mouth	start	180	280	open	300	540	end	560	680
+adverbial	far	300	540
+POS	Pronoun	340	500	Verb	680	720	Noun	800	880
+English translation	He/she over there has a book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-536_350_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-536_350_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-536_350_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1380
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	011
+main gloss	fs-FRANK	160	460	POSS-3p:i	540	600	NEW	740	820	CAR	920	960	BREAK-DOWN	1060	1220
+non-dominant hand gloss
+head pos: tilt fr/bk	start	700	840	slightly front	860	1080	end	1100	1340
+head pos: turn	start	980	1060	slightly right	1080	1260	end	1280	1380
+eye brows	slightly raised	140	560	slightly lowered	680	1320
+eye aperture	wide	700	880	end	900	940	slightly lowered	960	1240	blink	1260	1320	lowered lid	1340	1380
+eye gaze	right	500	600
+cheeks	puffed	1040	1120
+mouth	lips pursed: mm	940	1240
+POS	Proper Noun	160	460	Pronoun	540	600	Adjective	740	820	Noun	920	960	Verb	1060	1220
+English translation	Frank's new car broke down.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	Databases to be verified:All the compressed videos:master-compressed:ch6-537_38_small_0.mov
+Video	Databases to be verified:All the compressed videos:slave1-compressed:ch6-537_38_small_1.mov
+Video	Databases to be verified:All the compressed videos:slave2-compressed:ch6-537_38_small_2.mov
+Video	
+Audio	
+Start frame:	240
+End frame:	1640
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	POSS-3p:i	380	400	fs-FRANK	480	680	NEW	840	920	CAR	1020	1180	BREAK-DOWN	1280	1460
+non-dominant hand gloss
+topic	top1	480	1100
+head pos: tilt fr/bk	start	240	520	back	540	1040	end	1060	1200
+head pos: tilt side	start	1300	1400	slightly right	1420	1540	end	1560	1640
+eye brows	start	240	460	raised	480	1100	end	1120	1220
+eye gaze	right	260	380
+eye aperture	start	440	640	wide	660	1080	end	1100	1120	blink	1600	1640
+mouth	tongue out	1340	1400
+cheeks	puffed	1320	1420
+head pos: turn	start	300	360	slightly right	380	440	end	460	520	start	1220	1340	slightly right	1360	1640
+POS	Pronoun	380	400	Proper Noun	480	680	Adjective	840	920	Noun	1020	1180	Verb	1280	1460
+English translation	Frank's new car broke down.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-538_39_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-538_39_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-538_39_small_2.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	1460
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	fs-FRANK	280	440	POSS-3p:i	520	640	CAR	800	880	BREAK-DOWN	980	1260
+non-dominant hand gloss
+topic	top1	460	920
+head pos: tilt fr/bk	start	180	460	slightly back	480	940	end	960	1180
+head pos: tilt side	start	920	1040	slightly right	1060	1260	end	1280	1400
+head pos: turn	start	960	1040	slightly right	1060	1460
+eye brows	start	180	360	raised	380	920	end	940	1020
+eye aperture	start	240	500	wide	520	940	end	960	1040	blink	1260	1320
+eye gaze	right	460	680	right	1300	1460
+cheeks	puffed	1060	1120
+mouth	tongue out	1020	1180
+POS	Proper Noun	280	440	Pronoun	520	640	Noun	800	880	Verb	980	1260
+English translation	Frank's car broke down.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-540_41_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-540_41_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-540_41_small_2.mov
+Video	
+Audio	
+Start frame:	300
+End frame:	1500
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	POSS-3p:i	480	580	NEW	760	880	CAR	980	1060	BREAK-DOWN	1140	1400
+non-dominant hand gloss
+topic	top1	480	1060
+head pos: tilt fr/bk	start	300	500	back	520	1060	end	1080	1320
+head pos: tilt side	start	1160	1240	right	1260	1320	end	1340	1500
+head pos: turn	start	300	400	slightly right	420	540	end	560	700
+eye brows	start	300	440	raised	460	1040	end	1060	1160
+eye gaze	right	300	500
+eye aperture	blink	520	580	start	620	680	wide	700	1000	end	1020	1120	blink	1460	1500
+cheeks	puffed	1220	1280
+mouth	tongue out	1120	1320
+POS	Pronoun	480	580	Adjective	760	880	Noun	980	1060	Verb	1140	1400
+English translation	His/her new car broke down.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	Databases to be verified:All the compressed videos:master-compressed:ch6-541_180_small_0.mov
+Video	Databases to be verified:All the compressed videos:slave1-compressed:ch6-541_180_small_1.mov
+Video	Databases to be verified:All the compressed videos:slave2-compressed:ch6-541_180_small_2.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	1200
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	011
+main gloss	IX:i	400	480	BOOK	580	640	POSS:j	760	1020
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	140	400	end	420	460
+head pos: tilt side	start	300	460	slightly right	480	660	end	680	740	slightly left	780	900	end	920	1020
+head pos: turn	slightly right	1020	1060
+head mvmt: nod	single	740	1040
+eye brows	start	140	380	raised	400	620	end	640	700	slightly lowered	740	1200
+eye gaze	right	280	360
+eye aperture	start	340	480	wide	500	580	end	600	680	slightly lowered	740	1080	blink	1100	1140	slightly lowered	1160	1200
+POS	Determiner	400	480	Noun	580	640	Pronoun	760	1020
+English translation	That book is his/hers.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-542_42_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-542_42_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-542_42_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1100
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	011
+main gloss	IX-1p	80	100	FIND	220	320	SOMETHING/ONE	380	540	BOOK	700	920
+non-dominant hand gloss
+head pos: tilt fr/bk	start	100	260	slightly front	280	720	end	740	1040
+head pos: turn	right	20	480	end	500	680
+head mvmt: shake	single	340	520
+eye brows	lowered	0	1100
+eye aperture	start	100	140	lowered lid	160	1100
+eye gaze	right	180	480
+nose	start	120	260	wrinkle	280	900	end	920	1040
+POS	Pronoun	80	100	Verb	220	320	Determiner	380	540	Noun	700	920
+English translation	I found someone's book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-543_351_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-543_351_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-543_351_small_2.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1800
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	011
+main gloss	fs-FRANK	140	320	SEARCH-FOR	400	620	WHO	720	820	POSS-3p:i	880	940	BOOK	1060	1160	"WHAT"	1220	1520
+non-dominant hand gloss
+head pos: jut	start	660	860	forward	880	1600	end	1620	1800
+head pos: tilt side	slightly right	900	1320	end	1340	1700
+body lean	start	720	1100	forward	1120	1300	end	1320	1560
+head pos: turn	start	340	480	right	500	620	end	640	720
+eye brows	start	60	380	lowered	400	1800
+eye aperture	slightly lowered	60	520	start	540	660	squint	680	1760	blink	1780	1800
+eye gaze	right	320	560
+POS	Proper Noun	140	320	Verb	400	620	Wh-word	720	820	Possessive	880	940	Noun	1060	1160	Particle	1220	1520
+English translation	Frank is looking for whose book?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-544_44_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-544_44_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-544_44_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1220
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	011
+main gloss	fs-JOHN	140	260	POSS-3p:i	320	400	BROTHER	560	700	ARRIVE	820	1040
+non-dominant hand gloss
+topic	top1	180	620
+head pos: tilt fr/bk	start	40	180	back	200	240	end	260	440	start	500	600	front	620	980	end	1000	1160
+head pos: tilt side	start	480	520	slightly right	540	720	end	740	760
+head pos: jut	start	760	880	back	900	920	end	940	1160
+eye brows	start	40	160	raised	180	620	end	640	740
+eye aperture	start	260	340	wide	360	620	end	640	720	wide	860	980	end	1000	1060
+eye gaze	right	280	460
+POS	Proper Noun	140	260	Pronoun	320	400	Noun	560	700	Verb	820	1040
+English translation	John's brother arrives.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-545_46_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-545_46_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-545_46_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1360
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	fs-JOHN	180	300	POSS-3p:i	380	480	fs-LEG	560	680	HURT	820	1200
+non-dominant hand gloss
+topic	top1	160	680
+head pos: tilt fr/bk	start	0	220	back	240	260	end	280	640
+head pos: turn	start	720	800	right	820	1360
+head pos: jut	start	560	700	slightly back	720	1200	end	1220	1340
+eye brows	start	0	140	raised	160	660	end	680	760	start	780	820	lowered	840	1180	end	1200	1360
+eye aperture	start	260	380	wide	400	680	end	700	760	start	780	820	squint	840	1140	end	1160	1240	blink	1260	1360
+eye gaze	right	300	480
+cheeks	start	540	740	tensed	760	1160	end	1180	1280
+mouth	raised upper lip	820	1200
+POS	Proper Noun	180	300	Pronoun	380	480	Noun	560	680	Verb	820	1200
+English translation	John's leg hurts.
+Notes - number of character bytes:	95
+The mouth shape over HURT is more of a "ch" than a "rul".  Is there a better way to code it? JL
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-546_47_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-546_47_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-546_47_small_2.mov
+Video	
+Audio	
+Start frame:	300
+End frame:	1640
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	fs-JOHN	500	620	fs-LEG	720	920	HURT	1040	1440
+non-dominant hand gloss
+topic	top1	500	920
+head pos: tilt fr/bk	start	300	540	back	560	920	end	940	1020
+head pos: tilt side	start	760	880	slightly right	900	1000	end	1020	1120
+head pos: turn	start	1040	1220	slightly right	1240	1480	end	1500	1640
+head pos: jut	start	1040	1100	slightly back	1120	1380	end	1400	1520
+eye brows	start	300	460	raised	480	920	end	940	1000	start	1020	1060	lowered	1100	1360	end	1380	1480
+eye aperture	blink	300	400	start	740	820	wide	840	880	end	900	960	start	980	1040	squint	1060	1340	end	1360	1480
+mouth	raised upper lip	1120	1400
+cheeks	start	980	1080	tensed	1100	1360	end	1380	1460
+POS	Proper Noun	500	620	Noun	720	920	Verb	1040	1440
+English translation	John's leg hurts.  
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-547_181_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-547_181_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-547_181_small_2.mov
+Video	
+Audio	
+Start frame:	260
+End frame:	1860
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	011
+main gloss	fs-JOHN:i	400	720	POSS-3p:i	800	880	FRIEND:j	1000	1180	(1h)HAVE	1320	1380	CANDY	1500	1680
+non-dominant hand gloss
+body lean	start	820	1140	right	1160	1200	end	1220	1520
+head pos: tilt side	slightly left	1680	1860
+head mvmt: nod	start	860	920	single	940	1180	end	1200	1380
+head pos: turn	start	760	920	left	940	1220	end	1240	1340
+eye brows	start	700	880	raised	900	1140	end	1160	1260
+eye aperture	start	840	900	wide	1020	1240	end	1260	1320
+eye gaze	left	1020	1220
+POS	Proper Noun	400	720	Pronoun	800	880	Noun	1000	1180	Verb	1320	1380	Noun	1500	1680
+English translation	John's friend has candy.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-548_182_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-548_182_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-548_182_small_2.mov
+Video	
+Audio	
+Start frame:	200
+End frame:	1860
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	012
+main gloss	fs-JOHN:i	480	700	POSS-3p:i	880	920	FRIEND:j	1020	1200	HAVE	1340	1400	CANDY	1500	1700
+non-dominant hand gloss
+head pos: tilt fr/bk	start	720	760	back	780	960	end	980	1080
+head pos: tilt side	slightly right	200	660	right	700	1220	end	1240	1480
+body lean	start	780	1160	right	1180	1200	end	1220	1440
+head mvmt: nod	start	760	860	single	880	1180	end	1200	1340
+head pos: jut	start	960	1040	forward/right	1060	1200	end	1220	1360
+eye brows	start	600	900	raised	920	1180	end	1200	1260
+eye aperture	start	920	960	wide	1060	1200	blink	1240	1320
+eye gaze	left	940	1240
+POS	Proper Noun	480	700	Pronoun	880	920	Noun	1020	1200	Verb	1340	1400	Noun	1500	1700
+English translation	John's friend has candy.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-549_352_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-549_352_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-549_352_small_2.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1640
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	part:indef	240	340	SOMETHING/ONE	440	540	part:indef	660	740	WOMAN	860	980	ARRIVE	1080	1160	HERE	1320	1400
+non-dominant hand gloss	part:indef	240	340	|>		1060	ARRIVE	1080	1160
+head pos: jut	start	220	380	back	400	1360	end	1380	1540
+head pos: turn	slightly right	800	920	end	940	980
+head mvmt: shake	rapid	260	1400
+shoulders	start	140	320	up	340	1440	end	1460	1560
+eye brows	start	200	280	raised	300	1360	end	1380	1520
+eye gaze	right	800	960
+eye aperture	start	240	280	wide	300	1380	end	1400	1440	blink	1460	1520
+cheeks	start	320	380	tensed	400	420	end	440	480
+mouth	start	320	380	intense	400	420	end	440	480	lips spread:  crnrs down	520	700	lips pursed: mm	980	1080	lips spread:  crnrs down	1180	1400
+POS	Particle	240	340	Pronoun	440	540	Particle	660	740	Noun	860	980	Verb	1080	1160	Adverb	1320	1400
+English translation	I don't know.  Some woman arrived here.
+Notes - number of character bytes:	30
+How do we gloss a "shrug"?  JL
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-550_353_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-550_353_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-550_353_small_2.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	1480
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	part:indef	240	380	WOMAN	540	660	part:indef	780	920	ARRIVE	1040	1220	HERE	1320	1380
+non-dominant hand gloss	part:indef	240	380	|>		760	part:indef	780	920
+head pos: tilt fr/bk	start	680	780	slightly front	800	1160	end	1180	1360
+head pos: jut	start	240	400	back	420	1220	end	1240	1460
+head mvmt: shake	rapid	220	1140
+eye brows	start	180	300	raised	320	940	end	960	980	start	1000	1020	slightly lowered	1040	1140	end	1160	1220
+eye aperture	wide	140	980	end	1260	1320	blink	1340	1440
+eye gaze	right	600	820
+mouth	lips pursed: mm	200	260	lips spread:  crnrs down	560	940
+nose	tensed	180	980	wrinkle	1000	1100	tensed	1120	1260
+POS	Particle	240	380	Noun	540	660	Particle	780	920	Verb	1040	1220	Adverb	1320	1380
+English translation	Well, some woman arrived.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-552_355_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-552_355_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-552_355_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1020
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	009
+main gloss	WOMAN	380	500	ARRIVE	520	680	HERE	800	840
+non-dominant hand gloss
+head pos: jut	start	20	240	back	260	820	end	840	980
+head mvmt: shake	rapid	80	840
+shoulders	start	200	300	up	320	760	end	780	1020
+eye brows	start	20	120	slightly raised	140	240	slightly lowered	320	1020
+eye aperture	start	40	80	wide	100	800	end	820	860
+POS	Noun	380	500	Verb	520	680	Adverb	800	840
+English translation	Some woman arrived here.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-554_183_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-554_183_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-554_183_small_2.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	1840
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	011
+main gloss	IX-3p:i	420	460	CAR	560	660	BLUE	800	1060	fs-SUE	1140	1180	BUY	1360	1540
+non-dominant hand gloss
+topic	top1	300	1100
+head pos: tilt fr/bk	slightly back	100	780	end	800	1040
+head pos: tilt side	start	260	420	right	440	1040	end	1060	1220	start	1240	1460	slightly left	1480	1760	end	1780	1840
+eye brows	start	100	260	raised	300	1100	end	1120	1200	slightly lowered	1220	1840
+eye aperture	wide	320	1120
+eye gaze	right	200	660
+head mvmt: nod	slow	1360	1680
+POS	Determiner	420	460	Noun	560	660	Adjective	800	1060	Proper Noun	1140	1180	Verb	1360	1540
+English translation	Sue bought (is buying) that blue car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-555_184_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-555_184_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-555_184_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1400
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	009
+main gloss	IX-3p:i	300	380	CAR	460	540	BLUE	620	740	fs-SUE	860	1000	BUY:i	1080	1260
+non-dominant hand gloss
+topic	top1	240	740
+head pos: tilt side	start	180	340	right	360	780	end	800	900
+eye brows	start	20	200	raised	240	720	end	740	820
+eye gaze	right	240	740
+eye aperture	start	240	300	wide	320	740	blink	760	840	slightly lowered	860	1400
+POS	Determiner	300	380	Noun	460	540	Adjective	620	740	Proper Noun	860	1000	Verb	1080	1260
+English translation	Sue buought (is buying) that blue car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-556_357_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-556_357_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-556_357_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1140
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	SOMETHING/ONE	180	320	CAR	440	480	STOLE	740	840
+non-dominant hand gloss
+head pos: tilt side	start	600	680	slightly left	700	920	end	940	1080
+head pos: jut	start	0	100	back	120	500	end	520	580
+head mvmt: shake	rapid	100	480
+eye brows	start	0	100	raised	120	480	end	500	580	slightly lowered	600	1140
+eye aperture	start	20	60	end	260	300	start	320	400	wide	420	540	end	560	640
+mouth	raised upper lip	100	220	lips pursed: mm	560	720
+cheeks	start	40	120	tensed	140	460
+nose	tensed	20	80	wrinkle	100	240	tensed	260	500
+POS	Determiner	180	320	Noun	440	480	Verb	740	840
+English translation	Someone's car was stolen.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-557_170_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-557_170_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-557_170_small_2.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	1760
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	011
+main gloss	SOMETHING/ONE	360	520	POSS-3p:i	620	660	CAR	760	880	STOLE	1080	1320	|>		1540
+non-dominant hand gloss
+head pos: tilt fr/bk	start	560	620	slightly back	640	700	end	720	760
+head pos: tilt side	start	500	640	right	660	900	end	920	1160
+head pos: turn	start	480	620	slightly left	640	840	end	860	1020
+head mvmt: shake	rapid	120	520
+body lean	start	560	820	right	840	960	end	980	1180
+eye brows	start	100	180	slightly lowered	200	680	slightly raised	700	840	start	860	940	lowered	960	1760
+POS	Determiner	360	520	Pronoun	620	660	Noun	760	880	Verb	1080	1320
+eye aperture
+English translation	Someone's car was stolen.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-558_172_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-558_172_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-558_172_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1560
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	009
+main gloss	fs-JOHN	0	260	POSS-3p:i	340	400	OLD	520	580	HOUSE	680	780	SOLD	920	980	YESTERDAY	1120	1300
+non-dominant hand gloss
+head pos: tilt fr/bk	start	0	80	back	100	720	end	740	860
+head pos: tilt side	start	380	520	right	540	720	end	740	860
+head pos: turn	start	320	460	left	480	740	end	760	860
+eye brows	start	0	260	raised	280	760	end	780	840	slightly lowered	860	1540
+eye aperture	squint	0	60	end	80	180	start	260	400	wide	420	740	end	760	780	slightly lowered	800	1560
+POS	Proper Noun	0	260	Pronoun	340	400	Adjective	520	580	Noun	680	780	Verb	920	980	Adverb	1120	1300
+English translation	John's old house was sold yesterday.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-559_173_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-559_173_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-559_173_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1660
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	fs-SUE	280	480	BUY	680	840	IX-3p:i	940	1000	CAR	1120	1260	BLUE	1340	1400
+non-dominant hand gloss
+head pos: tilt fr/bk	start	0	240	back	260	440	end	460	580	start	760	940	slightly front	960	1020	end	1040	1120	slightly back	1200	1380	end	1400	1560
+head pos: tilt side	start	60	200	right	220	520	end	540	660	start	760	860	right	880	1040	end	1060	1200
+head pos: turn	start	760	860	slightly right	880	1040	end	1060	1100
+eye brows	slightly lowered	0	320	lowered	340	1660
+eye aperture	squint	0	880	end	1540	1600	blink	1620	1660
+eye gaze	right	820	1080
+POS	Proper Noun	280	480	Verb	680	840	Determiner	940	1000	Noun	1120	1260	Adjective	1340	1400
+English translation	Sue bought that blue car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-560_175_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-560_175_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-560_175_small_2.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	1240
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	fs-SUE	300	420	BUY	580	640	IX-3p:i	700	740	CAR	820	880	BLUE	960	1060
+non-dominant hand gloss
+head pos: tilt fr/bk	start	620	760	front	780	1000	end	1020	1140
+head pos: tilt side	start	80	240	slightly right	260	620	further right	640	980	end	1000	1200
+head pos: turn	start	620	680	slightly right	700	1040	end	1060	1100
+eye gaze	right	620	1060
+eye brows	slightly lowered	80	1240
+eye aperture	blink	1080	1120	slightly lowered	1140	1240
+POS	Proper Noun	300	420	Verb	580	640	Determiner	700	740	Noun	820	880	Adjective	960	1060
+English translation	Sueis buying that blue car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-561_174_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-561_174_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-561_174_small_2.mov
+Video	
+Audio	
+Start frame:	160
+End frame:	1560
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	008
+main gloss	fs-SUE	480	620	BUY	740	800	IX-3p:i	880	940	CAR	1060	1180	BLUE	1260	1320
+non-dominant hand gloss
+eye aperture	blink	200	240
+eye gaze	right	800	960
+head pos: tilt fr/bk	slightly back	560	760	start	780	900	front	920	960	end	980	1060
+head pos: tilt side	start	280	380	slightly right	400	780	start	800	860	further right	880	940	end	960	1140
+POS	Proper Noun	480	620	Verb	740	800	Determiner	880	940	Noun	1060	1180	Adjective	1260	1320
+English translation	Sue is buying that blue car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-562_176_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-562_176_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-562_176_small_2.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1180
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	008
+main gloss	fs-SUE	180	320	BUY	460	560	CAR	680	740	BLUE	800	880
+non-dominant hand gloss
+eye aperture	blink	940	980
+eye gaze	right	580	900
+head pos: tilt fr/bk	start	600	700	front	720	900	end	920	1140
+head pos: tilt side	start	560	620	right	640	860	end	880	980
+POS	Proper Noun	180	320	Verb	460	560	Noun	680	740	Adjective	800	880
+English translation	Sue is buying the blue car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-563_342_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-563_342_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-563_342_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	860
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	005
+main gloss	fs-JOHN	140	260	READ+	360	480	BOOK	620	680
+non-dominant hand gloss
+head pos: tilt fr/bk	start	180	380	front	400	640	end	660	840
+POS	Proper Noun	140	260	Verb	360	480	Noun	620	680
+English translation	John read a/the book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-564_345_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-564_345_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-564_345_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	900
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	005
+main gloss	fs-JOHN	180	320	READ	440	520	BOOK	660	760
+non-dominant hand gloss
+head pos: tilt fr/bk	start	260	320	front	340	780	end	800	900
+POS	Proper Noun	180	320	Verb	440	520	Noun	660	760
+English translation	John read a/the book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-566_177_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-566_177_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-566_177_small_2.mov
+Video	
+Audio	
+Start frame:	300
+End frame:	1900
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	012
+main gloss	ONE	500	580	STUDENT	700	800	|>		900	SOMETHING/ONE	1000	1200	BORROW	1400	1480	VIDEOTAPE	1540	1800	|>		1900
+non-dominant hand gloss	STUDENT	700	800
+eye brows	lowered	300	1900
+eye aperture	squint	780	1180	end	1200	1280
+eye gaze	right	1100	1220
+mouth	lips spread:  crnrs down	920	1380
+head pos: turn	start	340	560	slightly left	580	1900
+head pos: tilt side	start	1340	1480	slightly left	1500	1900
+head mvmt: shake	rapid	880	1380
+body lean	start	480	820	back	840	1420	end	1440	1880
+POS	Number	500	580	Noun	700	800	Pronoun	1000	1200	Verb	1400	1480	Noun	1540	1800
+English translation	A student, someone, borrowed a videotape.  
+Notes - number of character bytes:	158
+1) not totally comfortable w/ eng trans entered--could it be more like some student??
+2) how the above is answered would then affect the POS for SOMETHING/ONE
+
+
+Utterance ID:	41
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-568_48_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-568_48_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-568_48_small_2.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1880
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	014
+main gloss	fs-JOHN	160	240	POSS-3p:i	300	320	MOTHER	400	420	ARRIVE	520	720	WHO	900	1000	MOTHER	1080	1160	ARRIVE	1300	1520
+non-dominant hand gloss
+wh question	wh	840	1660
+head pos: tilt fr/bk	back	60	380	end	400	600	start	620	640	front	660	1460	end	1480	1820
+head pos: tilt side	start	780	1040	left	1060	1480	end	1500	1880
+head pos: turn	start	380	560	slightly left	580	760	start	780	1020	right	1040	1440	end	1460	1860
+body lean	start	660	1040	forward	1060	1500	end	1520	1860
+eye brows	start	80	220	raised	240	380	end	400	460	start	660	780	lowered	800	1680	end	1720	1860
+eye aperture	blink	60	80	start	240	300	end	640	720	start	740	780	squint	800	1420	blink	1440	1520	end	1560	1860
+eye gaze	start	800	960	right	980	1880
+nose	start	700	760	wrinkle	780	1560	end	1580	1880
+role shift	other person	800	1880
+POS	Proper Noun	160	240	Pronoun	300	320	Noun	400	420	Verb	520	720	Wh-word	900	1000	Noun	1080	1160	Verb	1300	1520
+English translation	John's mother arrived.  Whose mother arrived?
+Notes - number of character bytes:	37
+what should role shift be glossed as?
+
+
+Utterance ID:	42
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-662_40_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-662_40_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-662_40_small_2.mov
+Video	
+Audio	
+Start frame:	300
+End frame:	1620
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	POSS-3p:i	480	580	NEW	800	880	CAR	960	1040	BREAK-DOWN	1120	1320
+non-dominant hand gloss
+topic	top1	420	1040
+head pos: tilt fr/bk	start	300	500	slightly back	520	580	back	600	1040	end	1060	1240
+head pos: tilt side	start	1140	1240	slightly left	1260	1340	end	1360	1500
+head pos: turn	start	300	420	slightly right	440	560	end	580	720
+eye brows	start	300	400	raised	420	1040	end	1060	1120
+eye aperture	blink	520	580	start	620	680	wide	700	1040	end	1060	1100	blink	1480	1540
+eye gaze	right	300	500
+mouth	tongue out	1140	1320
+cheeks	puffed	1200	1280
+POS	Pronoun	480	580	Adjective	800	880	Noun	960	1040	Verb	1120	1320
+English translation	His/her new car broke down.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	43
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-396_53_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-396_53_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-396_53_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1540
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	140	200	BUY	400	460	WHAT	520	620	YESTERDAY	780	1000	BOOK+	1220	1460
+non-dominant hand gloss	WHAT	520	620	|>		1060
+rhetorical question	rhq	140	960
+head pos: tilt fr/bk	start	60	220	back	240	960	end	980	1180
+body lean	start	300	700	forward	720	1100	end	1120	1320
+head mvmt: shake	rapid	480	920
+head pos: turn	start	980	1100	slightly right	1120	1540
+head pos: tilt side	start	980	1100	left	1120	1140	end	1160	1260
+eye brows	start	20	240	raised	260	940	end	960	1060
+eye aperture	start	260	540	wide	560	940	end	960	1020
+POS	Proper Noun	140	200	Verb	400	460	Wh-word	520	620	Adverb	780	1000	Noun	1220	1460
+English translation	What did John buy yesterday?  Some books.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	44
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-569_200_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-569_200_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-569_200_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1580
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	fs-JOHN	560	740	SEE	820	920	WHO	980	1060	"WHAT"	1160	1400
+non-dominant hand gloss
+wh question	wh	420	1480
+head pos: tilt fr/bk	start	0	200	back	220	1380	end	1400	1580
+head pos: tilt side	start	460	620	right	640	1580
+head mvmt: shake	rapid	900	1380
+eye brows	slightly lowered	0	640	lowered	660	1580
+eye aperture	blink	40	120	lowered lid	140	780	start	800	860	squint	880	1520	blink	1540	1580
+POS	Proper Noun	560	740	Verb	820	920	Wh-word	980	1060	Particle	1160	1400
+English translation	Who did John see, who?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	45
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-571_85_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-571_85_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-571_85_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1380
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	IX-3p:i	120	200	fs-JOHN	280	340	SEE	480	520	WHO	600	720	IX-3p:i	780	800	WHO	920	960	|>		1220
+non-dominant hand gloss
+wh question	wh	240	1220
+body lean	start	500	760	forward	780	1340	end	1360	1380
+head pos: tilt side	start	320	360	slightly right	380	1220	end	1240	1380
+head pos: jut	start	620	900	forward	920	1200	end	1220	1380
+head mvmt: shake	rapid	360	1020
+eye brows	start	60	220	lowered	240	1220	end	1240	1380
+eye gaze	right	40	120
+eye aperture	start	80	160	squint	520	1200	end	1220	1360
+POS	Determiner	120	200	Proper Noun	280	340	Verb	480	520	Wh-word	600	720	Determiner	780	800	Wh-word	920	960
+English translation	Who did John see, him, who?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	46
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	Databases to be verified:All the compressed videos:master-compressed:ch7-572_202_small_0.mov
+Video	Databases to be verified:All the compressed videos:slave1-compressed:ch7-572_202_small_1.mov
+Video	Databases to be verified:All the compressed videos:slave2-compressed:ch7-572_202_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1620
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	012
+main gloss	"WHAT"	460	600	fs-MARY	720	880	REFUSE	960	1080	EAT	1200	1220	"WHAT"	1340	1520
+non-dominant hand gloss
+wh question	wh	340	580	wh	960	1520
+topic	top1	700	840
+head pos: tilt fr/bk	start	20	100	back	120	640	start	960	1040	back	1060	1500	end	1520	1620
+head pos: tilt side	start	660	760	right	780	860	end	880	960
+head mvmt: nod	start	640	820	single	840	860	end	880	960
+head mvmt: shake	start	960	1000	single	1020	1080	rapid	1100	1540
+eye brows	slightly lowered	0	400	lowered	420	580	start	600	680	raised	700	840	end	860	920	start	960	1040	lowered	1060	1620
+eye aperture	blink	120	180	start	400	480	squint	500	580	start	600	680	wide	700	840	blink	860	960	squint	980	1520	end	1540	1620
+POS	Wh-word	460	600	Proper Noun	720	880	Verb	960	1080	Verb	1200	1220	Wh-word	1340	1520
+English translation	What won't Mary eat?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	47
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-573_203_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-573_203_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-573_203_small_2.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	1580
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN:i	460	700	fs-MARY	880	1000	LOVE	1120	1160	IX-3p:i	1240	1280
+non-dominant hand gloss
+topic	top3	420	740
+head pos: tilt fr/bk	start	200	300	slightly back	320	440	end	460	520	start	540	600	front	640	760	end	780	900
+head pos: tilt side	slightly right	80	400	right	420	760	end	780	940	start	1000	1120	left	1140	1160	end	1180	1260
+head pos: turn	start	1000	1060	slightly right	1080	1160	end	1180	1200	start	1220	1340	slightly left	1360	1380	end	1400	1500
+head mvmt: nod	start	160	400	single	420	740	end	760	920
+body lean	start	120	220	back	240	540	end	560	880	start	1000	1040	back	1060	1340	end	1360	1580
+eye brows	start	80	300	raised	320	720	end	740	800	start	820	880	lowered	900	1380	end	1400	1580
+eye aperture	start	220	420	wide	440	720	end	740	760	blink	780	880	lowered lid	900	1000	closed	1020	1060	lowered lid	1080	1100
+POS	Proper Noun	460	700	Proper Noun	880	1000	Verb	1120	1160	Pronoun	1240	1280
+English translation	As for John, Mary loves him.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	48
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-574_185_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-574_185_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-574_185_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1860
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	012
+main gloss	fs-JOHN	560	920	IX-3p:i	1000	1060	LIKE	1180	1260	fs-MARY	1360	1580
+non-dominant hand gloss
+topic	top2	340	920
+head pos: tilt fr/bk	slightly back	0	320	back	340	620	end	640	740	start	780	840	slightly front	860	920	end	940	1000
+head pos: tilt side	start	300	460	right	480	920	end	940	1040	start	1060	1180	left	1200	1600	end	1640	1720
+head pos: turn	start	1040	1120	slightly right	1140	1620	end	1640	1760
+head mvmt: nod	single	600	900	end	920	1040
+eye brows	start	200	320	raised	340	860	end	880	940	start	980	1040	lowered	1060	1440	end	1460	1600
+eye aperture	start	240	500	wide	520	860	end	880	900	blink	920	1000	slightly lowered	1020	1580	end	1600	1860
+mouth	lips pursed: mm	980	1080
+POS	Proper Noun	560	920	Pronoun	1000	1060	Verb	1180	1260	Proper Noun	1360	1580
+English translation	As for John, he likes Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	49
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-575_204_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-575_204_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-575_204_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	2080
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	014
+main gloss	WHO	480	660	VEGETABLE	840	980	PREFER	1120	1180	POTATO	1300	1460	"WHAT"	1600	1620	|>		1860
+non-dominant hand gloss
+wh question	wh	420	660	wh	1060	1900
+topic	top2	760	980
+head pos: tilt fr/bk	start	20	280	back	300	760	end	780	980	start	1000	1240	back	1260	1920	end	1960	2000
+head pos: tilt side	slightly right	20	740	right	760	2080
+head pos: turn	start	640	740	slightly left	760	940	end	960	1100	start	1220	1360	slightly left	1380	2080
+head mvmt: nod	single	760	980
+head pos: jut	start	1520	1740	forward	1760	2020
+head mvmt: shake	rapid	1260	1560
+eye brows	lowered	20	580	start	600	700	raised	720	1000	end	1020	1060	start	1080	1160	lowered	1180	2080
+eye aperture	squint	40	580	start	600	860	wide	880	940	blink	960	1060	squint	1080	2080
+POS	Wh-word	480	660	Noun	840	980	Verb	1120	1180	Noun	1300	1460	Wh-word	1600	1620
+English translation	Who, as for vegetables, prefers potatoes?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	50
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-576_186_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-576_186_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-576_186_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1360
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	011
+main gloss	"WHAT"	380	500	fs-JOHN	580	700	LOVE	760	820	"WHAT"	980	1060	|>		1160
+non-dominant hand gloss	"WHAT"	380	500	|>		1160
+wh question	wh	320	1240
+head pos: tilt fr/bk	start	40	300	back	320	1180	end	1200	1360
+head pos: jut	start	860	1020	forward	1040	1360
+head mvmt: shake	rapid	200	1080
+body lean	start	40	200	back	220	1360
+eye brows	lowered	40	1240	end	1260	1360
+eye aperture	squint	40	1240	end	1260	1360
+POS	Wh-word	380	500	Proper Noun	580	700	Verb	760	820	Wh-word	980	1060
+English translation	What, what does John love?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	51
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-578_49_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-578_49_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-578_49_small_2.mov
+Video	
+Audio	
+Start frame:	120
+End frame:	1340
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	011
+main gloss	"WHAT"	260	300	fs-JOHN	400	500	LOVE	620	680	"WHAT"	820	840	|>		1060
+non-dominant hand gloss	"WHAT"	260	300	|>		440
+wh question	wh	260	1100
+head pos: tilt fr/bk	start	120	400	back	420	1100	end	1120	1340
+head pos: tilt side	start	480	580	slightly right	600	1140	end	1160	1320
+head pos: turn	start	460	560	left	580	1060	end	1080	1220
+head mvmt: shake	rapid	240	1060
+eye brows	start	120	220	lowered	240	1120	end	1140	1220
+eye aperture	start	120	220	squint	240	1120	end	1140	1240	blink	1280	1340
+POS	Wh-word	260	300	Proper Noun	400	500	Verb	620	680	Wh-word	820	840
+English translation	What, what does John love?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	52
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-579_50_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-579_50_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-579_50_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1080
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	011
+main gloss	"WHAT"	140	160	fs-JOHN	260	360	LOVE	480	500	"WHAT"	620	660	|>		800
+non-dominant hand gloss	"WHAT"	140	160	|>		180
+wh question	wh	120	880
+head pos: tilt fr/bk	start	0	280	back	300	880	end	900	1080
+head pos: turn	start	360	420	slightly left	440	600	end	620	840
+head mvmt: shake	slow	120	580	rapid	600	840
+shoulders	start	360	400	up	420	840	end	860	1000
+eye brows	start	0	140	lowered	160	860	end	880	1080
+eye aperture	start	0	120	squint	140	1040	blink	1060	1080
+POS	Wh-word	140	160	Proper Noun	260	360	Verb	480	500	Wh-word	620	660
+English translation	What, what does John love?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	53
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-580_51_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-580_51_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-580_51_small_2.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	1440
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	011
+main gloss	WHO	340	360	TELL	440	520	fs-BILL	620	760	fs-MARY	960	1140	|>		1260
+non-dominant hand gloss
+rhetorical question	rhq	340	760
+head pos: tilt fr/bk	slightly back	140	220	end	240	340	start	920	980	slightly front	1000	1300	end	1320	1440
+head mvmt: nod	single	840	1240	end	1260	1440
+body lean	start	320	600	right	620	1060	end	1080	1440
+eye brows	start	140	200	raised	220	780	end	800	880
+eye aperture	start	220	340	wide	360	720	blink	760	820	blink	1360	1420
+eye gaze	left	300	740
+POS	Wh-word	340	360	Verb	440	520	Proper Noun	620	760	Proper Noun	960	1140
+English translation	Who told Bill?  Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	54
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-581_189_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-581_189_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-581_189_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1380
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	fs-JOHN	120	220	BUY	340	420	"WHAT"	480	540	YESTERDAY	680	780	BOOK+	980	1240
+non-dominant hand gloss	"WHAT"	480	540	|>		840
+rhetorical question	rhq	120	840
+head pos: tilt fr/bk	start	0	140	back	160	780	end	820	1000	start	1020	1060	slightly front	1080	1380
+head pos: tilt side	slightly right	0	720	end	740	840	start	860	940	left	960	1220	end	1240	1380
+head mvmt: shake	start	20	140	slow	160	760
+eye brows	start	0	100	raised	120	780	end	800	880	start	900	960	lowered	980	1380
+eye aperture	start	40	160	wide	540	740	end	760	780	blink	820	900	lowered lid	920	1020	slightly lowered	1040	1380
+POS	Proper Noun	120	220	Verb	340	420	Wh-word	480	540	Adverb	680	780	Noun	980	1240
+English translation	What did John buy yesterday?  Books.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	55
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-583_57_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-583_57_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-583_57_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1640
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	011
+main gloss	fs-JOHN	140	180	BUY	260	340	YESTERDAY	460	580	"WHAT"	740	980	BOOK+	1120	1320
+non-dominant hand gloss
+rhetorical question	rhq	140	980
+head pos: tilt fr/bk	start	120	520	back	540	1000	end	1020	1180
+head pos: turn	start	620	840	right	860	1300	end	1320	1640
+head pos: jut	start	320	520	forward	540	980	end	1000	1140
+head mvmt: shake	slow	600	940
+eye brows	start	20	140	raised	160	960	end	980	1060
+eye aperture	blink	20	100	start	180	260	wide	280	920	end	940	1020	blink	1480	1540
+POS	Proper Noun	140	180	Verb	260	340	Adverb	460	580	Wh-word	740	980	Noun	1120	1320
+English translation	What did John buy yesterday?  Books.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	56
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-585_188_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-585_188_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-585_188_small_2.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1700
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	fs-JOHN	280	440	BUY	520	600	"WHAT"	660	760	YESTERDAY	900	1040	BOOK+	1260	1460
+non-dominant hand gloss
+rhetorical question	rhq	200	1060
+head pos: tilt fr/bk	start	100	220	back	240	1160	end	1180	1380
+head pos: tilt side	slightly right	60	1100	start	1120	1260	left	1300	1480	end	1500	1700
+head mvmt: shake	slow	200	1060
+eye brows	start	60	160	raised	180	1060	start	1080	1280	lowered	1300	1440	end	1460	1700
+eye aperture	start	120	200	wide	220	1060	blink	1100	1180	lowered lid	1200	1500	blink	1520	1580	lowered lid	1600	1700
+POS	Proper Noun	280	440	Verb	520	600	Wh-word	660	760	Adverb	900	1040	Noun	1260	1460
+English translation	What did John buy yesterday?  Books.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	57
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-586_52_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-586_52_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-586_52_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1540
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	80	180	BUY	320	500	"WHAT"	600	820	BOOK+	1000	1220
+non-dominant hand gloss
+rhetorical question	rhq	80	820
+head pos: tilt fr/bk	back	0	100	end	120	300	start	520	600	slightly back	620	960	end	980	1080
+head pos: tilt side	slightly right	240	600	end	620	840	start	940	1020	left	1040	1200	end	1220	1360
+head mvmt: nod	start	780	880	single	900	1240	end	1260	1380
+head mvmt: shake	slow	400	780
+eye brows	start	0	80	raised	100	720	end	740	820
+eye aperture	start	100	180	wide	200	680	end	700	780	slightly lowered	800	1280	blink	1300	1360	slightly lowered	1380	1540
+eye gaze	left	360	460
+POS	Proper Noun	80	180	Verb	320	500	Wh-word	600	820	Noun	1000	1220
+English translation	What did John buy?  Books.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	58
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-587_190_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-587_190_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-587_190_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1500
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	012
+main gloss	TELL	180	280	fs-BILL	340	440	YESTERDAY	580	660	WHO	740	900	fs-MARY	1020	1240
+non-dominant hand gloss
+rhetorical question	rhq	180	900
+head pos: tilt side	start	1060	1140	slightly right	1160	1280	end	1300	1420
+head mvmt: shake	slow	600	960
+head pos: turn	slightly right	720	900	end	920	1000
+head mvmt: nod	single	40	280
+head pos: jut	start	520	700	forward	720	940	end	960	1080
+eye brows	start	0	60	slightly lowered	80	580	start	600	680	raised	700	880	end	900	960	start	1000	1040	slightly lowered	1060	1500
+eye aperture	start	0	60	start	600	660	wide	680	920	blink	940	960	slightly lowered	980	1240	end	1260	1440
+POS	Verb	180	280	Proper Noun	340	440	Adverb	580	660	Wh-word	740	900	Proper Noun	1020	1240
+English translation	Who told Bill yesterday?  Mary (did).  
+Notes - number of character bytes:	0
+
+
+Utterance ID:	59
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-588_54_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-588_54_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-588_54_small_2.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1720
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	TELL	240	280	fs-BILL	360	440	YESTERDAY	600	740	WHO	880	1040	|>		1120	fs-MARY	1260	1480
+non-dominant hand gloss
+rhetorical question	rhq	220	1040
+head pos: tilt fr/bk	back	60	1180	end	1200	1340
+head pos: jut	start	460	900	forward	920	1120	end	1140	1280
+head mvmt: shake	rapid	880	1040
+head pos: turn	start	500	640	left	660	780	end	800	900
+body lean	start	160	340	back/right	360	1340	end	1360	1720
+eye brows	start	60	200	raised	220	1040	end	1060	1160
+eye aperture	start	380	540	wide	880	1020	end	1040	1100	blink	1580	1620
+eye gaze	right	400	660
+POS	Verb	240	280	Proper Noun	360	440	Adverb	600	740	Wh-word	880	1040	Proper Noun	1260	1480
+English translation	Who told Bill yesterday?  Mary (did).
+Notes - number of character bytes:	0
+
+
+Utterance ID:	60
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-597_193_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-597_193_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-597_193_small_2.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	1940
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	011
+main gloss	fs-JOHN	240	380	SEE	480	560	|>		680	THROW	760	940	APPLE	1040	1120	WHO	1180	1340	fs-MARY	1580	1720
+non-dominant hand gloss
+rhetorical question	rhq	240	1340
+head pos: tilt fr/bk	start	80	220	back	240	1340	end	1380	1540
+head pos: tilt side	start	120	440	right	460	940	further right	960	1380	end	1400	1500	start	1520	1580	slightly left	1600	1940
+head pos: jut	start	1200	1240	forward	1260	1380	end	1400	1460
+head mvmt: shake	slow	960	1380
+eye brows	start	80	180	raised	200	1380	end	1400	1520
+eye aperture	start	780	860	wide	880	1340	end	1360	1380	blink	1420	1500	slightly lowered	1520	1760	end	1780	1880
+POS	Proper Noun	240	380	Verb	480	560	Verb	760	940	Noun	1040	1120	Wh-word	1180	1340	Proper Noun	1580	1720
+English translation	Who did John see throw the apple?  Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	61
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-599_199_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-599_199_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-599_199_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1020
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	012
+main gloss	ARRIVE	220	380	WHO	580	640	|>		760
+non-dominant hand gloss
+wh question	wh	20	880
+head pos: tilt fr/bk	start	120	220	slightly back	240	380
+head pos: tilt side	slightly right	20	120	start	140	200	slightly left	220	1020
+head pos: jut	start	380	540	forward	560	900	end	920	1020
+head mvmt: shake	rapid	180	560
+body lean	start	380	540	forward	560	880	end	900	1000
+eye brows	lowered	20	60	further lowered	80	920	end	940	1020
+eye aperture	squint	120	880	end	900	900	blink	920	980
+POS	Verb	220	380	Wh-word	580	640
+English translation	Who arrived?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	62
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-608_198_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-608_198_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-608_198_small_2.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	1160
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	012
+main gloss	LOVE	320	360	fs-JOHN	460	580	WHO	680	880
+non-dominant hand gloss
+wh question	wh	680	920
+head pos: tilt fr/bk	start	140	240	slightly back	260	900	end	920	1080
+head pos: tilt side	start	140	260	right	280	600	slightly right	620	1080	end	1100	1160
+head pos: jut	start	660	740	forward	760	900	end	920	1040
+body lean	start	340	460	back	480	1000	end	1020	1160
+head mvmt: shake	rapid	680	900
+eye brows	start	140	200	slightly lowered	220	580	lowered	600	960	slightly lowered	980	1160
+eye aperture	start	140	200	squint	660	960	end	980	1080	blink	1100	1160
+POS	Verb	320	360	Proper Noun	460	580	Wh-word	680	880
+English translation	Who loves John?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	63
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-609_80_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-609_80_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-609_80_small_2.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	1240
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	LOVE	220	300	fs-JOHN	380	520	WHO	700	860	|>		920
+non-dominant hand gloss
+topic	top1	220	540
+wh question	wh	660	920
+head pos: tilt fr/bk	start	180	420	slightly front	440	640	front	660	940	end	960	1120
+head pos: tilt side	start	200	320	right	340	900	end	920	1140
+head pos: jut	start	520	740	forward	760	920	end	940	1120
+eye brows	start	100	240	raised	260	500	start	520	640	lowered	660	880	end	900	980
+eye aperture	start	160	240	wide	260	540	start	560	640	squint	660	880	end	900	980	blink	1140	1220
+eye gaze	right	320	480	right	1220	1240
+nose	start	520	580	wrinkle	600	900	end	920	960
+POS	Verb	220	300	Proper Noun	380	520	Wh-word	700	860
+English translation	Who loves John?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	64
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-610_84_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-610_84_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-610_84_small_2.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1300
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	160	220	SEE	360	400	WHO	480	680	"WHAT"	800	960	|>		1060
+non-dominant hand gloss
+wh question	wh	480	1160
+head pos: tilt fr/bk	start	60	160	back	180	1060	end	1080	1280
+head mvmt: shake	rapid	480	1000
+head pos: jut	start	300	500	forward	520	1080	end	1100	1260
+body lean	start	440	620	forward	640	1160	end	1180	1300
+eye brows	start	140	240	raised	260	380	start	400	520	lowered	540	1240	end	1260	1300
+eye gaze	right	220	340
+eye aperture	start	220	280	start	440	500	squint	520	1160	blink	1180	1280
+POS	Proper Noun	160	220	Verb	360	400	Wh-word	480	680	Particle	800	960
+English translation	Who did John see, who?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	65
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-611_86_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-611_86_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-611_86_small_2.mov
+Video	
+Audio	
+Start frame:	120
+End frame:	1320
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	010
+main gloss	WHO	320	340	fs-JOHN	400	500	LOVE	600	660	WHO	820	880	|>		1020
+non-dominant hand gloss
+wh question	wh	280	1040
+head mvmt: shake	rapid	200	920
+head pos: jut	start	140	320	forward	340	1000	end	1020	1220
+body lean	start	460	620	forward	640	1180	end	1200	1320
+eye brows	start	120	200	lowered	220	1320
+eye aperture	start	120	220	squint	240	1220	blink	1240	1320
+POS	Wh-word	320	340	Proper Noun	400	500	Verb	600	660	Wh-word	820	880
+English translation	Who, who does John love?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	66
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-612_87_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-612_87_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-612_87_small_2.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	1080
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	"WHAT"	180	200	fs-JOHN	320	380	LIKE	480	580	|>		880
+non-dominant hand gloss
+wh question	start	80	100	wh	120	880	end	900	1080
+head pos: tilt fr/bk	start	80	240	back	260	880	end	900	1080
+head pos: tilt side	start	80	220	slightly right	240	900	end	920	1080
+head pos: turn	start	80	160	slightly left	180	940	end	960	1060
+head pos: jut	start	280	460	forward	480	920	end	940	1060
+head mvmt: shake	rapid	220	700
+eye brows	start	80	160	lowered	180	900	end	920	1080
+eye aperture	start	80	180	squint	200	900	blink	920	1060
+POS	Wh-word	180	200	Proper Noun	320	380	Verb	480	580
+English translation	What is it that John likes?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	67
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-614_81_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-614_81_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-614_81_small_2.mov
+Video	
+Audio	
+Start frame:	260
+End frame:	1400
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	011
+main gloss	WHO	460	500	ARRIVE	580	740	|>		920
+non-dominant hand gloss
+wh question	wh	400	980
+head pos: tilt fr/bk	start	320	480	slightly front	500	880	end	900	1060
+body lean	start	680	820	forward	840	920	end	940	1060
+head pos: jut	start	560	660	forward	680	920	end	940	1180
+eye brows	start	260	380	lowered	400	1260	end	1280	1400
+eye aperture	start	320	420	squint	440	1060	blink	1080	1140	squint	1160	1180
+head mvmt: shake	rapid	480	1040
+POS	Wh-word	460	500	Verb	580	740
+English translation	Who arrived?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	68
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-615_82_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-615_82_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-615_82_small_2.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1000
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	ARRIVE	220	380	WHO	560	600	|>		800
+non-dominant hand gloss
+wh question	wh	380	800
+head pos: tilt fr/bk	start	200	420	slightly front	440	760	end	780	980
+head pos: tilt side	start	420	500	slightly right	520	720	end	740	860
+head pos: jut	start	440	560	forward	580	760	end	780	980
+eye brows	start	380	460	lowered	480	740	end	760	880
+eye aperture	start	200	240	start	380	500	squint	520	740	end	760	860	blink	940	1000
+eye gaze	right	120	200
+head mvmt: shake	rapid	480	580
+POS	Verb	220	380	Wh-word	560	600
+English translation	Who arrived?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	69
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-616_88_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-616_88_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-616_88_small_2.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	920
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	011
+main gloss	NAME	280	440	|>		600
+non-dominant hand gloss
+wh question	wh	180	560
+head mvmt: shake	start	100	320	rapid	340	600	end	620	860
+head pos: turn	start	200	300	slightly left	320	560	end	580	780
+head pos: jut	start	200	440	forward	460	600	end	620	760
+eye brows	start	100	180	lowered	200	560	end	580	660
+eye aperture	start	120	160	squint	180	600	end	620	660
+mouth	lips pursed: mm	140	600
+POS	Noun	280	440
+English translation	Name?
+Notes - number of character bytes:	0

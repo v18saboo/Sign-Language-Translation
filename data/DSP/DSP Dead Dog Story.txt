@@ -1,0 +1,1497 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	DSP Dead Dog Story	SignStream Databases v.2:DSP Dead Dog Story
+Number of utterances:	46
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	200
+End frame:	1180
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	010
+main gloss	"hey"	500	560	FUNNY	700	840	HAPPEN	1000	1100
+non-dominant hand gloss
+eye brows	start	260	260	slightly raised	280	300	start	320	420	slightly lowered	440	540	start	560	560	raised	580	600	end	620	660	start	1040	1120	further raised	1140	1180
+eye aperture	start	300	340	squint	360	380	blink	400	420	start	440	480	squint	500	520	start	540	560	lowered lid	580	660	start	1060	1080	blink	1100	1140	lowered lid	1160	1180
+head pos: tilt fr/bk	start	280	300	slightly back	320	380	end	400	480	start	580	760	slightly front	780	900	front	920	1060	start	1080	1180
+head pos: turn	start	300	440	right	460	1080	end	1100	1180
+nose	start	240	320	wrinkle	340	540	end	560	580
+cheeks	start	280	300	tensed	320	540	end	560	580
+POS	Adjective	700	840	Verb	1000	1100
+English translation	A funny thing happened.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	1180
+End frame:	4140
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	014
+main gloss	POSS-1p	1320	1340	FRIEND	1500	1600	DECIDE	1720	1840	a:SCL:I-L-Y"airplane flying":b	1940	2300	ns-NEW-YORK	2500	2620	(2h)STAY:b	2760	2860	ONE-WEEK	3140	3600	(2h)alt.VISIT++:b	3700	4080
+non-dominant hand gloss	SCL:S"airport base"	1940	2300
+eye brows	further raised	1180	1240	end	1260	1400	start	1520	1560	raised	1580	1600	end	1620	1700	start	1840	1840	slightly raised	1860	1880	end	1900	1940	start	2280	2280	slightly raised	2300	2360	end	2380	2400	start	4020	4080	raised	4100	4140
+eye aperture	lowered lid	1180	1520	start	1540	1540	blink	1560	1600	end	1620	1700	start	1840	1860	blink	1880	1900	lowered lid	1920	1960	start	1980	2000	blink	2020	2040	start	2060	2060	squint	2080	2260	start	2280	2280	blink	2300	2320	slightly squinted	2340	2580	start	2600	2600	further lowered	2620	2700	blink	2720	2760	further lowered	2780	4020	blink	4040	4060	end	4080	4120
+eye gaze	right	2060	2300	right	2660	2740	right	3700	3860	right	4140	4140
+head pos: tilt fr/bk	start	1180	1260	back	1280	1300	start	1320	1660	slightly front	1680	1840	end	1860	1860	start	2580	2680	slightly back	2700	3400	end	3580	3580	start	4020	4060	slightly front	4080	4120	start	4140	4140
+head pos: turn	end	1180	1240	start	1360	1540	left	1560	1820	start	1840	2120	further right 	2140	2240	end	2260	2500	start	2620	2660	right	2680	2720	end	2740	2880	start	3580	3780	further right 	3800	3840	end	3860	4000	start	4080	4140
+head pos:jut	start	3620	3720	forward	3740	3860	end	3880	3980
+head mvmt: nod	single	4000	4100
+nose	start	2380	2440	slightly tensed	2460	2580	start	2600	2640	tensed	2660	3960	end	3980	4080
+mouth	lips spread & crnrs down	1680	2300	raised upper lip	2640	3200	open	4140	4140
+shoulders	start	1880	2240	right	2260	4140
+POS	Possessive	1320	1340	Noun	1500	1600	Verb	1720	1840	Classifier	1940	2300	Proper Noun	2500	2620	Verb	2760	2860	Adverb	3140	3600	Verb	3700	4080
+English translation	My friend decided to fly to New York for a week's visit.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	4140
+End frame:	7000
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	016
+main gloss	FINISH	4360	4580	b:AIRPLANE	4740	4880	b:GO:c	4980	5200	AIRPORT	5340	5640	(2h)SUITCASE	5840	6080	TWO	6200	6240	ICL:S"hold suitcases"	6420	6580	ICL:S"set suitcase down"	6600	6940
+non-dominant hand gloss	G:"focus"	5340	5680	SUITCASE	5840	6080	|>		6280	ICL:S"set suitcase down"	6420	6580	|>		6940
+topic/focus	top2	5340	5640	focus/top1	5840	6080
+role shift	friend	6420	6940
+eye brows	raised	4140	4680	end	4700	4780	start	5180	5300	raised	5320	5580	slightly raised	5600	5780	raised	5800	6080	end	6100	6220	start	6340	6400	lowered	6420	6880	start	6900	7000
+eye aperture	start	4600	4600	blink	4620	4660	further lowered	4680	5020	end	5040	5140	start	5300	5320	wide	5340	5600	start	5620	5640	blink	5660	5680	end	5700	5720	start	6260	6280	further lowered	6300	6960	end	6980	6980
+eye gaze	right	4140	4580	down	6280	6960
+head pos: tilt fr/bk	start	4140	4280	slightly back	4300	4360	end	4380	4500	start	4600	4720	back	4740	4840	start	4860	5060	slightly front	5080	5340	start	5360	5480	front	5500	5660	end	5680	5720	start	6080	6160	slightly front	6180	6260	start	6280	6300	front	6320	6920	start	6940	7000
+head pos: turn	start	4140	4360	further right 	4380	4580	start	4600	4860	slightly left	4880	5640	end	5660	5740
+head pos: tilt side	start	5300	5340	slightly right	5360	5660	start	5680	5900	right	5920	6260	end	6280	6380	start	6940	7000
+head mvmt: nod	single	4360	4600	single	4900	5260	single	5400	5680
+mouth	open	4140	4320	lips spread & crnrs down	4780	5140	lips spread	6420	6900
+shoulders	right	4140	4920	end	4940	5200
+POS	Discourse Marker	4360	4580	Noun	4740	4880	Verb	4980	5200	Noun	5340	5640	Noun	5840	6080	Number	6200	6240	Classifier	6420	6580	Classifier	6600	6940
+Non-dominant POS	Noun	5840	6080	Classifier	6420	6580
+English translation	When the trip was over, she went to the airport with two suitcases. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	7000
+End frame:	11500
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	020
+main gloss	PLUS	7140	7340	DCL:"pet carrier"	7520	7740	DOOR	7920	8220	#DOG	8400	8520	THROW-IN	8600	8740	CLOSE-DOOR	8840	9020	ICL:S"place carrier"	9200	9520	GET-IN	9740	9900	AIRPLANE	10000	10080	b:SCL:I-L-Y"airplane flying":a	10360	10880	ARRIVE	11100	11420
+non-dominant hand gloss	DCL:"pet carrier"	7520	7740	|>		9060	LCL:B-L"platform"	10280	10860
+conditional/when	when	11100	11420
+role shift	friend	9200	9520
+eye brows	start	7000	7060	raised	7080	7320	end	7340	7440	start	8040	8080	slightly raised	8100	8240	raised	8260	8340	start	8360	8380	slightly raised	8400	8560	end	8580	8580	start	9020	9040	raised	9060	9100	start	9120	9120	slightly raised	9140	9200	end	9220	9240	start	9480	9500	raised	9520	9620	end	9640	9700	start	10080	10120	raised	10140	10220	start	10240	10400	slightly lowered	10420	10820	start	10840	10880	raised	10900	11080	end	11100	11200	start	11380	11400	raised	11420	11480	end	11500	11500
+eye aperture	start	7020	7020	wide	7040	7320	start	7340	7360	further lowered	7380	7460	end	7480	7520	start	9040	9040	further lowered	9060	9160	end	9180	9240	start	9460	9480	lowered lid	9500	9520	start	9540	9620	slightly lowered	9640	10060	further lowered	10080	10900	end	10920	10980	start	11380	11400	blink	11420	11420	end	11440	11480
+eye gaze	watch hands	7380	8160	watch hands	9060	9500	down	10120	10900
+head pos: tilt fr/bk	start	7000	7440	front	7460	8240	end	8260	8340	slightly back	8760	9000	start	9020	9200	further front	9220	9480	start	9500	9700	back	9720	10060	slightly back	10080	10900	back	10920	11080	start	11100	11400	front	11420	11480	end	11500	11500
+head pos: turn	start	7040	7080	slightly left	7100	7320	end	7340	7460	start	10120	10180	right	10200	10380	start	10400	10560	slightly left	10580	10880	start	10900	11140	right	11160	11500
+head pos: tilt side	start	7000	7060	right	7080	7320	end	7340	7440	start	11100	11200	slightly left	11220	11440	end	11460	11500
+head pos:jut	start	7720	7960	back	7980	8240	end	8260	8380
+head mvmt: nod	slight rapid head nod	8220	8280	single	11140	11420
+head mvmt: jut	start	7000	7060	forward	7080	7340	end	7360	7420
+nose	start	8220	8240	wrinkle	8260	8360	end	8380	8420	start	8600	8740	wrinkle	8760	9040	end	9060	9100
+mouth	lips spread & crnrs up	7520	8240	raised upper lip	8260	8340	lips pursed: mm	8780	9140	lips spread & crnrs down	9740	10020	open	10400	10920
+body lean	start	8000	8060	right	8080	8100	end	8120	8240	start	10200	10280	right	10300	10380	end	10400	10840
+body mvmt	down	11040	11460
+POS	Conjunction	7140	7340	Classifier	7520	7740	Noun	7920	8220	Noun	8400	8520	Verb	8600	8740	Verb	8840	9020	Classifier	9200	9520	Verb	9740	9900	Noun	10000	10080	Classifier	10360	10880	Verb	11100	11420
+Non-dominant POS	Classifier	7520	7740	Classifier	10280	10860
+English translation	 She also had a pet carrier for her dog.  So she flew from New York to here.  When she arrived...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	11500
+End frame:	14820
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	014
+main gloss	d:(1h)GO:e	11780	12040	(2h)SUITCASE	12200	12420	(2h)PCL:4"many suitcases on carousel"++	12600	13300	LCL:1"path of suitcases"	13460	13580	TWO	13800	13960	SUITCASE	14160	14200	(2h)ICL:"pick up and place suitcases"	14280	14780
+non-dominant hand gloss
+role shift	friend	13360	14820
+eye brows	end	11500	11620	start	12080	12180	lowered	12200	12420	end	12440	12480	start	13300	13440	raised	13460	13800	slightly raised	13820	14160	start	14180	14200	raised	14220	14280	end	14300	14340	raised	14740	14820
+eye aperture	start	11540	11540	lowered lid	11560	12040	start	12060	12080	squint	12100	12400	start	12420	12420	further lowered	12440	12600	lowered lid	12620	13000	end	13020	13080	start	13300	13300	further lowered	13320	13500	start	13520	13560	wide	13580	14140	start	14160	14180	further lowered	14200	14820
+eye gaze	down	11560	12020	down	12480	13000	down	13320	13580	down	14260	14820
+head pos: tilt fr/bk	end	11500	11540	start	11640	11840	further front	11860	11960	start	11980	12180	slightly back	12200	12420	start	12440	12540	further front	12560	13000	end	13020	13120	start	13340	13400	further front	13420	13540	end	13560	13680	start	14160	14260	front	14280	14820
+head pos: turn	right	11500	11580	start	11600	11820	slightly left	11840	11940	end	11960	12040	start	12560	12740	left	12760	12980	end	13000	13120	start	13360	13480	left	13500	13540	end	13560	13640	start	14440	14620	right	14640	14720	start	14740	14820
+head pos: tilt side	end	11500	11600	start	12120	12240	slightly right	12260	12420	end	12440	12520
+nose	start	12020	12140	wrinkle	12160	12420	end	12440	12560
+cheeks	puff right	12660	13140	puff right	13260	13300
+body lean	start	11560	11780	right	11800	11840	end	11860	12040
+POS	Verb	11780	12040	Noun	12200	12420	Classifier	12600	13300	Classifier	13460	13580	Number	13800	13960	Noun	14160	14200	Classifier	14280	14780
+English translation	...she went to the baggage carousel and picked up the two suitcases.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	14820
+End frame:	17760
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	013
+main gloss	LCL:1"path of suitcases"	14920	15460	(B-L)NOTHING	15640	15940	DCL:"pet carrier"	16100	16340	DOOR	16480	16640	#DOG	16680	16820	PUT	16860	17000	CLOSE-DOOR	17140	17300	(B-L)NOTHING	17440	17740
+non-dominant hand gloss	DCL:"pet carrier"	16100	16340	|>		17300
+role shift	friend	14820	15460	friend	17760	17760
+eye brows	raised	14820	14840	start	14860	15080	lowered	15100	17760
+eye aperture	further lowered	14820	14920	start	14940	15060	slightly squinted	15080	16020	start	16040	16040	slightly lowered	16060	16540	start	16560	16560	slightly squinted	16580	16640	start	16660	16680	squint	16700	17240	end	17260	17360
+eye gaze	down	14820	15400	watch hands	16060	16540	down	17680	17760
+head pos: tilt fr/bk	front	14820	15400	end	15420	15540	start	16060	16120	slightly front	16140	16560	start	16580	16740	slightly back	16760	17280	start	17300	17760
+head pos: turn	start	14820	14900	left	14920	14960	start	14980	15160	slightly right	15180	15400	end	15420	15540
+nose	start	16560	16660	slightly tensed	16680	17240	end	17260	17320
+mouth	blow	15640	15940	raised upper lip	16380	16620	raised upper lip	16940	17300	blow	17440	17700
+POS	Classifier	14920	15460	Quantifier	15640	15940	Classifier	16100	16340	Noun	16480	16640	Noun	16680	16820	Verb	16860	17000	Verb	17140	17300	Quantifier	17440	17740
+Non-dominant POS	Classifier	16100	16340
+English translation	But the pet carrier with the dog in it wasn't on the carousel.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	17760
+End frame:	19700
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	014
+main gloss	(2h)alt.SEARCH	18140	18420	"palms up"	18500	18660	|>		18800	SUMMON	19200	19380	HELP	19560	19620
+non-dominant hand gloss
+role shift	friend	17760	19640
+eye brows	lowered	17760	18660	start	18680	18720	raised	18740	18800	start	18820	18900	slightly lowered	18920	19020	start	19040	19060	raised	19080	19140	start	19160	19240	slightly lowered	19260	19640	start	19660	19700
+eye aperture	start	18680	18700	wide	18720	18800	end	18820	18860
+eye gaze	down	17760	18660	right	18900	19700
+head pos: tilt fr/bk	start	17760	17760	further front	17780	18660	start	18680	18880	slightly back	18900	19140	end	19160	19260	start	19660	19680	back	19700	19700
+head pos: turn	start	18840	18980	further right 	19000	19700
+head mvmt: shake	slow	17880	18600
+mouth	open	17780	18740	lips spread	18820	19000	lips spread	19160	19360
+shoulders	start	18960	19060	right	19080	19700
+POS	Verb	18140	18420	Verb	19200	19380	Noun	19560	19620
+Non-dominant POS
+English translation	She looked for it, and then called for help.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	19700
+End frame:	21700
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	014
+main gloss	IX-3p:f	19820	19880	DCL:G"bill of cap"	20180	20340	"wave"	20500	20820	DCL:G"bill of cap"	20980	21080	f:SCL:1"person approaching hurriedly":g	21280	21640
+non-dominant hand gloss	HELP	19700	19700	|>		19880
+role shift	friend	19700	19700	friend	20400	20820	skycap	20980	21520
+eye brows	start	19700	19720	raised	19740	19820	end	19840	19960	start	20400	20420	slightly raised	20440	20780	start	20800	20860	raised	20880	20940	end	20960	21060	start	21180	21220	lowered	21240	21640	start	21660	21700
+eye aperture	start	19860	19860	slightly lowered	19880	20080	end	20100	20100	start	20340	20400	further squinted	20420	20800	end	20820	20860	start	21080	21080	blink	21100	21140	start	21160	21220	squint	21240	21700
+eye gaze	right	19700	19720	right	20380	20800	left	20900	21080	right	21440	21700
+head pos: tilt fr/bk	back	19700	19760	end	19780	19860	start	20340	20460	back	20480	20820	end	20840	20920
+head pos: turn	further right 	19700	19720	end	19740	19880	start	20340	20420	further right 	20440	20800	start	20820	21020	further left	21040	21080	end	21100	21180	start	21340	21460	further right 	21480	21700
+head pos:jut	start	20920	21020	forward	21040	21100	start	21120	21220	back	21240	21580	end	21600	21680
+mouth	open	19780	19880	lips pursed: mm	20060	20200	intense	20400	20820	open & round	20880	20960	lips pursed: mm	21000	21060	open	21120	21140	lips spread	21220	21640	start	21680	21700
+shoulders	right	19700	19860	end	19880	20100	start	20280	20560	right	20580	20800	slightly right 	20820	21700
+POS	Pronoun	19820	19880	Classifier	20180	20340	Classifier	20980	21080	Classifier	21280	21640
+Non-dominant POS	Noun	19700	19700
+English translation	She spotted the skycap and waved to him for help so he came over.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	21700
+End frame:	24020
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	017
+main gloss	POSS-1p+	21980	22080	DCL:"pet carrier"	22300	22440	OPEN-DOOR	22520	22580	#DOG	22620	22780	PUT	22840	22960	CLOSE-DOOR	23060	23180	ICL:"pick up carrier"	23300	23380	|>		23420	GONE	23540	23680	"palms up"	23800	23940	|>		24000
+non-dominant hand gloss	DCL:"pet carrier"	22300	22440	|>		23200
+role shift	friend	21740	23940
+eye brows	start	21700	21740	raised	21760	23380	slightly raised	23400	23920	start	23940	23980	raised	24000	24020
+eye aperture	squint	21700	21920	start	21940	21940	blink	21960	21980	end	22000	22020	start	22080	22080	slightly lowered	22100	22420	start	22440	22440	lowered lid	22460	22580	squint	22600	23340	end	23360	23380	start	23960	23980	further lowered	24000	24020
+eye gaze	right	21700	22060	watch hands	22160	22580	right	22600	23960	down	23980	24020
+head pos: tilt fr/bk	slightly front	22140	22560
+head pos: tilt side	start	21840	22020	left	22040	22520	end	22540	22640
+head pos: turn	further right 	21700	22080	start	22100	22240	slightly right	22260	22520	start	22540	22640	further right 	22660	23940	end	23960	24020
+head mvmt: nod	slight rapid head nod	22660	23060
+head mvmt: shake	rapid	23560	23960
+nose	start	22800	22940	wrinkle	22960	23320	end	23340	23380
+mouth	start	21700	21720	open	21740	21900	end	21920	22000	start	22900	22960	raised upper lip	22980	23320	open & round	23340	23420	open	23700	24020
+shoulders	slightly right 	21700	21740	start	21760	21860	right	21880	21960	slightly right 	21980	22120	end	22140	22240	start	22640	22740	slightly right 	22760	23380	right	23400	24000	start	24020	24020
+POS	Possessive	21980	22080	Classifier	22300	22440	Verb	22520	22580	Noun	22620	22780	Verb	22840	22960	Verb	23060	23180	Classifier	23300	23380	Adjective	23540	23680
+Non-dominant POS	Classifier	22320	22440
+English translation	She said, "My pet carrier with my dog in it is missing!"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	24020
+End frame:	25680
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	016
+main gloss	MAN	24320	24500	(1h)CALM-DOWN	24560	24640	WORRY	24860	25280	CALM-DOWN	25400	25640
+non-dominant hand gloss	"palm up"	24020	24020	|>		24620
+negative	negation	24780	25300	end	25320	25540
+role shift	friend	24020	24040	skycap	24540	25680
+eye brows	raised	24020	24020	end	24040	24120	start	24720	24740	raised	24760	24820	end	24840	24960	start	25600	25680
+eye aperture	further lowered	24020	24080	lowered lid	24100	24600	start	24620	24640	blink	24660	24720	start	24740	24740	lowered lid	24760	24960	further lowered	24980	25640	blink	25660	25680
+eye gaze	down	24020	24320	down/left	24340	24680	down/left	25080	25640	down	25660	25680
+head pos: tilt fr/bk	start	24620	24680	back	24700	24840	end	24860	24940	start	25480	25520	slightly front	25540	25640	end	25660	25680
+head pos: turn	end	24020	24160	start	24260	24380	left	24400	24640	end	24660	24780	left	25280	25640	end	25660	25680
+head pos:jut	start	25480	25520	back	25540	25680
+head mvmt: shake	rapid	24780	25620
+mouth	open	24020	24340	open	24560	24640	open & corners down	24860	25020	lips spread & crnrs down	25040	25600	open & corners down	25660	25680
+shoulders	start	24020	24540	slightly left	24560	24640	end	24660	24780
+POS	Noun	24320	24500	Verb	24560	24640	Verb	24860	25280	Verb	25400	25640
+Non-dominant POS	Discourse Marker	24020	24040
+English translation	The skycap told her to calm down and not to worry.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	25680
+End frame:	27540
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	016
+main gloss	NEXT	25980	26180	|>		26240	AIRPLANE	26420	26540	IX-loc:h	26620	26700	h:SCL:I-L-Y"airplane lands":i	26900	27120	AFTERNOON	27280	27440
+non-dominant hand gloss	NEXT	25980	26180	|>		26720	LCL:B-L"platform"	26900	27120
+topic/focus	focus/top1	26420	26900
+role shift	skycap	25680	27540
+eye brows	start	25680	25700	raised	25720	25800	start	25820	25960	slightly raised	25980	26040	start	26060	26060	raised	26100	26140	slightly raised	26160	26220	start	26240	26280	raised	26300	26320	start	26360	26360	slightly raised	26380	26500	start	26520	26540	raised	26560	26620	start	26640	26640	slightly raised	26660	26700	start	26720	26720	raised	26760	26880	end	26900	26980	slightly lowered	27420	27540
+eye aperture	blink	25680	25700	further lowered	25720	25780	blink	25800	25840	further lowered	25860	25980	blink	26000	26040	start	26060	26080	lowered lid	26100	26180	start	26200	26220	further lowered	26240	27540
+eye gaze	down	25680	26060	right	26080	26200	down	26240	27040	watch hands	27060	27420	left	27540	27540
+head pos: tilt fr/bk	front	26980	27420
+head pos: turn	end	25680	25760	start	27420	27540
+head pos:jut	back	25680	25680	end	25700	25900
+nose	start	27380	27420	tensed	27440	27540
+mouth	open & corners down	25680	25720	open	26620	26900
+shoulders	start	25860	26040	right	26060	27380	end	27400	27540
+POS	Adjective	25980	26180	Noun	26420	26540	Determiner	26620	26700	Classifier	26900	27120	Adverb	27280	27440
+Non-dominant POS	Adjective	25980	26180	Classifier	26900	27120
+English translation	"The next flight from New York comes in this afternoon."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	27540
+End frame:	29720
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	019
+main gloss	HOME	28100	28360	g:SCL:I-L-Y"airplane lands":h	28600	28740	IX-1p	28820	28820	SEARCH	28900	29040	FIND	29160	29260	|>		29720
+non-dominant hand gloss	IX-2p:i	27580	27620	GO-ON	27740	27920	|>		28400	LCL:B-L"platform"	28600	28740	|>		28800	SEARCH	28900	29040	|>		29220	IX-1p	29380	29400	1p:TELEPHONE:i	29560	29680
+conditional/when	when	28600	29260
+role shift	skycap	27540	29720
+eye brows	slightly lowered	27540	28340	start	28360	28420	raised	28440	29360	start	29380	29420	slightly raised	29440	29620	start	29640	29660	raised	29680	29680
+eye aperture	further lowered	27540	28380	start	28400	28520	wide	28540	29380
+eye gaze	left	27540	28360	right	28420	28640	watch hands	28660	28720	down	28740	29240	left	29340	29720
+head pos: tilt fr/bk	start	28600	28820	front	28840	29240	slightly front	29260	29700
+head pos: turn	start	27540	27540	further left	27560	28340	start	28360	28520	right	28540	28680	end	28700	28860	start	29260	29420	further left	29440	29720
+head pos: tilt side	start	28420	28520	left	28540	28680	end	28700	28860
+head pos:jut	start	29620	29640	slightly back	29660	29680	end	29700	29720
+head mvmt: nod	rapid	27600	28360
+nose	tensed	27540	28360	end	28380	28420
+mouth	lips spread & crnrs down	28900	29020
+shoulders	end	27540	27620	right	28740	29280	left	29560	29720
+body lean	start	27640	27800	right	27820	28420	start	28440	28660	left	28680	29240	start	29260	29580	back/right	29600	29720
+POS	Noun	28100	28360	Classifier	28600	28740	Proper Noun	28820	28820	Verb	28900	29040	Verb	29160	29260
+Non-dominant POS	Pronoun	27580	27620	Verb	27740	27920	Classifier	28600	28740	Verb	28900	29040	Pronoun	29380	29400	Verb	29560	29680
+English translation	"You go on home.  When the flight arrives, I'll look for the carrier and then call you when I find it."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	29720
+End frame:	30620
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	016
+main gloss	FIND	29720	29720	|>		30220	"palms up"	30380	30460	|>		30520
+non-dominant hand gloss	i:COME:h	29800	29980	PICK-UP	30120	30220
+yes-no question	yes-no question	29740	30460
+role shift	skycap	29720	30460
+eye brows	raised	29720	30560	slightly raised	30580	30620
+eye aperture	start	29900	29920	blink	29940	29960	end	29980	30000	further lowered	30480	30560	end	30580	30620
+eye gaze	left	29720	30460	right	30620	30620
+head pos: tilt fr/bk	slightly front	29720	29880	slightly front	30020	30120	slightly front	30280	30380	start	30520	30620
+head pos: turn	further left	29720	30460	start	30480	30620
+head mvmt: nod	single	29880	30020	single	30380	30460
+mouth	open & corners down	29820	29940	lips spread & crnrs down	30340	30440	open	30520	30620
+shoulders	left	29720	29940	end	29960	30000	start	30280	30360	left	30380	30460	start	30480	30620
+body lean	back/right	29720	30460	end	30480	30620
+POS	Verb	29720	29740
+Non-dominant POS	Verb	29800	29980	Verb	30120	30220
+English translation	"You can come pick it up, ok?"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	30620
+End frame:	31600
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	014
+main gloss	WOMAN	30780	30880	!ALL-RIGHT!	30980	31100
+non-dominant hand gloss	(1h)LEAVE	31340	31540
+role shift	friend	30880	31100
+eye brows	slightly raised	30620	30840	end	30860	30880	start	30920	30980	slightly lowered	31000	31080	start	31100	31120	raised	31140	31180	end	31200	31300	start	31500	31540	raised	31560	31600
+eye aperture	start	31100	31100	further lowered	31120	31260	lowered lid	31280	31500	start	31520	31520	blink	31540	31540	end	31560	31600
+eye gaze	right	30620	31080	down	31260	31560
+head pos: tilt fr/bk	start	30620	30740	back	30760	30860	end	30880	30980	start	31140	31240	front	31260	31560	start	31580	31600
+head pos: turn	start	30620	30760	further right 	30780	31060	start	31080	31260	slightly left	31280	31520	end	31540	31600
+head pos:jut	start	31140	31240	slightly back	31260	31540	end	31560	31600
+mouth	open	30620	30880	lips spread & crnrs up	30920	31540
+shoulders	start	30620	30800	right	30820	31100	end	31120	31360
+POS	Noun	30780	30880	Adverb	30980	31100
+Non-dominant POS	Verb	31340	31540
+English translation	The woman replied, "All right," and left.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	31600
+End frame:	33780
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	016
+main gloss	CONTACT	31940	32020	AFTERNOON	32240	32420	|>		32460	AIRPLANE	32660	32740	g:SCL:I-L-Y"plane landing":h	33100	33620	|>		33700
+non-dominant hand gloss	AFTERNOON	32240	32420	|>		32740	LCL:B-L"platform"	33100	33620	|>		33700
+topic/focus	sentence-initial adverb	32400	32500
+eye brows	raised	31600	31660	start	31680	31920	lowered	31940	32300	start	32320	32380	raised	32400	32500	end	32520	32620	start	33600	33620	raised	33640	33780
+eye aperture	slightly lowered	31640	31920	start	31940	31940	squint	31960	32060	start	32080	32080	further lowered	32100	32340	start	32360	32380	wide	32400	32460	start	32480	32520	further squinted	32540	32720	start	32740	32780	further lowered	32800	33320	lowered lid	33340	33580	further lowered	33600	33620	end	33640	33660
+eye gaze	down	32120	32340	down	32840	33320	watch hands	33340	33620
+head pos: tilt fr/bk	start	31600	31720	slightly back	31740	32060	end	32080	32180	start	32400	32520	further back	32540	32640	start	32660	33100	further front	33120	33640	start	33660	33780
+head pos: tilt side	start	32740	32920	left	32940	33640	end	33660	33780
+head pos: turn	end	31600	31680	start	32700	32760	right	32780	32920	end	32940	33120
+head pos:jut	end	31600	31620	start	32460	32520	forward	32540	32640	end	32660	32720
+nose	start	32460	32520	wrinkle	32540	32620	end	32640	32760
+mouth	open & round	31700	31800	lips spread & crnrs down	31960	32340	open	32420	32460	raised upper lip	32540	32560	lips spread & crnrs down	32640	33600	open	33660	33680
+body lean	start	33640	33680	left	33700	33780
+POS	Verb	31940	32020	Adverb	32240	32420	Noun	32660	32740	Classifier	33100	33620
+Non-dominant POS	Adverb	32240	32420	Classifier	33100	33620
+English translation	That afternoon, the plane came in.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	33780
+End frame:	36960
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	014
+main gloss	SUITCASE+	33940	34160	(2h)PCL:4"many suitcases on carousel"++	34360	35060	LCL:1"path of carousel"++++++	35160	36920
+non-dominant hand gloss	G:"focus"	35360	36100	"hand on hip"	36480	36920
+topic/focus	focus/top1	33940	34160
+role shift	skycap	35160	36920
+eye brows	raised	33780	34300	end	34320	34480	start	35080	35180	raised	35200	35260	start	35280	35440	lowered	35460	36640	end	36660	36700
+eye aperture	start	34160	34200	lowered lid	34220	35040	blink	35060	35080	lowered lid	35100	35160	end	35180	35200	squint	35320	36620	start	36640	36640	blink	36660	36680	end	36700	36860
+eye gaze	down	34220	35140	watch hands	35160	36640
+head pos: tilt fr/bk	start	33780	33860	slightly back	33880	34160	start	34180	34280	further front	34300	36640	end	36660	36880
+head pos: tilt side	end	33780	33940
+head mvmt: shake	slow	35160	36640
+mouth	raised upper lip	33800	33840	puh	34360	34540	puh	34660	34820	puh	34920	35060	lips spread	35300	35880	open	36560	36960
+body lean	left	33780	33780	end	33800	33980
+POS	Noun	33940	34160	Classifier	34360	35060	Classifier	35160	36920
+English translation	The luggage from the afternoon flight showed up on the carousel, and the skycap went to check.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	36960
+End frame:	39360
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	014
+main gloss	DCL:"pet carrier" 	37200	37380	DOOR	37420	37900	#DOG	37980	38140	PUT	38160	38280	(2h)(B-L)NOTHING	38440	38720	|>		38820	"hands on face"	38960	39220
+non-dominant hand gloss	DCL:"pet carrier"	37200	37380	|>		38280
+topic/focus	focus/top1	37200	38280
+role shift	skycap	38920	39340
+eye brows	start	36980	37040	raised	37060	38300	end	38320	38420	start	39140	39160	slightly raised	39180	39320	end	39340	39340
+eye aperture	start	36980	36980	slightly squinted	37000	37240	start	37260	37280	further lowered	37300	37320	start	37340	37340	lowered lid	37360	37600	end	37620	37660	start	37900	37900	squint	37920	38240	start	38260	38260	blink	38280	38300	end	38320	38340	start	39140	39140	further lowered	39160	39180	end	39200	39240
+eye gaze	watch hands	37360	37600
+head pos: tilt side	start	37040	37180	right	37200	38280	end	38300	38400
+nose	start	37900	37940	tensed	37960	38200	end	38220	38340
+cheeks	start	37920	37960	tensed	37980	38260	end	38280	38340
+mouth	open	36960	36960	start	36980	37020	smile mouth open	37040	37900	blow	38420	38820	open & round	38920	39340
+POS	Classifier	37200	37380	Noun	37420	37900	Noun	37980	38140	Verb	38160	38280	Quantifier	38440	38720
+Non-dominant POS	Classifier	37200	37380
+English translation	But the pet carrier with the dog was not there! 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	39360
+End frame:	41500
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	015
+main gloss	DCL:G"bill of cap"	39460	39660	SUMMON	39980	40100	SUMMON	40140	40200	HELP+	40380	40480	SPREAD-OUT	40640	40820	(2h)alt.SEARCH+	40880	41040	(2h)alt.SEARCH++++	41140	41420
+non-dominant hand gloss	"hand on face"	39360	39360	|>		39600
+role shift	skycap	39360	39360	skycap	39860	40480
+eye brows	start	40400	40420	slightly lowered	40440	40720	start	40740	40780	raised	40800	40840	start	40860	40900	lowered	40920	40960	end	40980	41020	start	41060	41060	slightly lowered	41080	41500
+eye aperture	start	39620	39640	lowered lid	39660	39800	start	39820	39860	squint	39880	39960	slightly squinted	39980	40180	squint	40200	40240	end	40260	40280	start	40420	40420	slightly squinted	40440	40520	squint	40540	40740	end	40760	40760	start	40880	40880	squint	40900	41040	further squinted	41060	41500
+eye gaze	down	39640	39800	left	39920	40040	left	40240	40340	left	40520	40640	right	40700	40740	down	41060	41500
+head pos: tilt fr/bk	start	40800	40820	slightly front	40840	41060	front	41080	41500
+head pos: turn	start	39880	39960	left	39980	40060	end	40080	40100	start	40220	40280	left	40300	40380	end	40400	40420	start	40480	40580	left	40600	40640	start	40660	40700	slightly right	40720	40740	end	40760	40800	start	41060	41120	left	41140	41180	start	41200	41260	slightly right	41280	41320	start	41340	41500
+head pos:jut	start	40540	40620	slightly back	40640	41200	end	41220	41280
+head mvmt: shake	rapid	41040	41480
+nose	start	39840	39860	wrinkle	39880	40240	end	40260	40340	start	40440	40460	wrinkle	40480	40740	end	40760	40820	start	40900	40920	wrinkle	40940	40980	end	41000	41020	start	41060	41060	wrinkle	41080	41420	start	41440	41460	tensed	41480	41500
+cheeks	start	39840	39880	tensed	39900	40240	end	40260	40300	start	40420	40520	tensed	40540	41500
+mouth	open	39360	39820	intense	39900	40080	open & tense	40100	40120	intense	40140	40200	open & tense	40280	40460	intense	40540	40980	intense	41080	41440	open & tense	41460	41500
+POS	Classifier	39460	39660	Verb	39980	40100	Verb	40140	40200	Noun	40380	40480	Verb	40640	40820	Verb	40880	41040	Verb	41140	41420
+English translation	The skycap called for everyone to spread out and help search, and they did.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	41500
+End frame:	43280
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	014
+main gloss	(2h)alt.IX+++:k/l	41560	41820	(2h)alt.SEARCH+++:l/m	41860	42160	(2h)IX-3p:m	42240	42260	FIND	42540	42660	|>		43040
+non-dominant hand gloss
+eye brows	slightly lowered	41500	42100	end	42120	42140	start	42160	42180	raised	42200	42300	end	42320	42380	start	42520	42580	raised	42600	43280
+eye aperture	further squinted	41500	42100	blink	42120	42120	end	42140	42140	start	42500	42500	wide	42520	43020	start	43040	43060	blink	43080	43100	end	43120	43180
+eye gaze	down	41500	42160	into space	42180	42280	left	43140	43280
+head pos: tilt fr/bk	front	41500	42140	start	42160	42220	back	42240	42380	end	42400	42500
+head pos: turn	further left	41500	41540	end	41560	41720	start	41860	41900	right	41920	42240	end	42260	42380	start	43140	43260	further left	43280	43280
+head mvmt: shake	slight rapid head shake	41860	42160
+nose	tensed	41500	42120	end	42140	42180
+cheeks	tensed	41500	42160
+mouth	open & tense	41500	41800	intense	41840	42160	open	42180	42260	open	43120	43240
+body lean	start	41500	41540	forward	41560	42220	end	42240	42480
+POS	Pronoun	41560	41820	Verb	41860	42160	Pronoun	42240	42260	Verb	42540	42660
+English translation	They searched everywhere until finally it was found.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	43280
+End frame:	44220
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	013
+main gloss	(2h)PCL:5wg"people rushing left to right":m	43320	43700	ICL:S"pick up carrier from top"	43820	44220
+non-dominant hand gloss	ICL:B-L"pick up carrier from bottom"	43820	44220
+role shift	someone	43820	44220
+eye brows	raised	43280	44220
+eye aperture	start	43340	43340	squint	43360	43700	end	43720	43720	start	43960	43960	wide	43980	44220
+eye gaze	left	43280	43320	right	43360	43700	watch hands	43760	43960
+head pos: turn	further left	43280	43320	start	43340	43560	further right 	43580	43860	end	43880	44020
+mouth	intense	43320	43700	open	43800	44220
+shoulders	start	43280	43320	left	43340	43500	start	43520	43620	right	43640	43880	end	43900	44120
+body lean	start	43300	43420	left	43440	43540	end	43560	43680
+POS	Classifier	43320	43700	Classifier	43820	44220
+Non-dominant POS	Classifier	43820	44220
+English translation	Everyone ran to the carrier and someone picked it up.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	44220
+End frame:	46540
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	014
+main gloss	ICL:S"hold carrier from top"	44220	45040	#DOG	45260	45460	DIE	45600	45940	|>		46360
+non-dominant hand gloss	ICL:B-L"hold carrier from bottom"	44220	45040	|>		46540
+role shift	someone	44220	45040	skycap	45960	46540
+eye brows	raised	44220	44720	end	44740	44880	start	45940	45960	lowered	45980	46540
+eye aperture	wide	44220	44220	end	44240	44240	start	44720	44740	blink	44760	44820	end	44840	44880	start	45420	45420	blink	45440	45460	end	45480	45480	closed	45920	46540
+eye gaze	watch hands	44220	44720
+head pos: tilt fr/bk	start	45940	46100	back	46120	46540
+head pos: turn	start	44240	44580	further right 	44600	44740	end	44760	45040	start	45960	46400	further right 	46420	46540
+cheeks	puffed	44940	45160
+mouth	open	44220	44740	raised upper lip	44760	44880	lips spread	44940	45160
+shoulders	start	44280	44580	right	44600	46540
+POS	Classifier	44220	45040	Noun	45260	45460	Adjective	45600	45940
+Non-dominant POS	Classifier	44220	45040
+English translation	Unfortunately, the dog was dead.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	46500
+End frame:	48960
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	014
+main gloss	!#DO!	46940	47200	"pray"	47520	47840	THINK	48180	48300	IDEA	48500	48720	WHAT	48840	48900
+non-dominant hand gloss	ICL:B-L"hold carrier from bottom"	46500	46500	|>		47200
+rhetorical question	rhq	48780	48900
+role shift	skycap	46500	48960
+eye brows	lowered	46500	47820	start	48380	48440	raised	48460	48540	end	48560	48620	start	48680	48720	raised	48740	48840	slightly raised	48860	48960
+eye aperture	closed	46500	46760	start	46780	46820	further squinted	46840	47300	start	47320	47320	closed	47340	47820	lowered lid	48660	48840	blink	48860	48900	lowered lid	48920	48960
+head pos: tilt fr/bk	back	46500	46680	end	46700	46940	start	47380	47520	further front	47540	47840	end	47860	48160	start	48660	48760	slightly back	48780	48840	end	48860	48900
+head pos: turn	further right 	46500	46540	end	46560	46980
+head pos:jut	start	48060	48160	slightly back	48180	48660	end	48680	48780
+mouth	intense	47520	47840	lips spread & crnrs down	48140	48340	open	48500	48680	lips spread & crnrs down	48780	48900
+shoulders	right	46500	46520	end	46540	46960	start	47340	47400	forward right	47420	47680	end	47700	47820
+POS	Verb	46940	47200	Verb	48180	48300	Noun	48460	48680	Wh-word	48840	48900
+Non-dominant POS	Classifier	46500	46520
+English translation	At first he didn't know what to do, but then he had an idea.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	48960
+End frame:	52360
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	017
+main gloss	1p:CALL:n	49260	49400	fs-PET	49600	49880	STORE	50000	50280	|>		50420	EXPLAIN	50560	50820	(1h)WANT	50920	50980	#DOG	51080	51160	IDEA^SAME	51360	51520	IX-3p:o++	51580	51940	|>		52320
+non-dominant hand gloss	G:"focus"	49120	49800	EXPLAIN	50560	50820	|>		51980	"palm up"	52120	52320
+role shift	skycap	48960	51940
+eye brows	slightly raised	48960	48980	end	49000	49060	start	49340	49420	raised	49440	49560	end	49580	49640	start	49700	49720	slightly raised	49740	49820	end	49840	50080	start	50320	50400	lowered	50420	51220	start	51240	51280	raised	51300	51320	start	51340	51400	lowered	51420	51460	start	51480	51500	raised	51520	51580	end	51600	51620	start	51920	51960	raised	51980	52140	end	52160	52260	start	52320	52340	slightly raised	52360	52360
+eye aperture	lowered lid	48960	49520	further lowered	49540	49700	slightly lowered	49720	49820	end	49840	49860	start	50340	50380	squint	50400	51220	end	51240	51260	start	51320	51320	squint	51340	51460	start	51480	51480	slightly lowered	51500	51580	end	51600	51600	start	52080	52140	blink	52160	52300	start	52320	52320	lowered lid	52340	52360
+eye gaze	watch hands	49540	49720	right	50400	51260	down	51280	51580	right	51960	52120
+head pos: tilt fr/bk	start	51300	51340	slightly front	51360	51660	end	51680	52060	start	52240	52280	slightly front	52300	52360
+head pos: turn	start	51940	52100	right	52120	52220	slightly right	52240	52360
+head pos: tilt side	start	50440	50600	right	50620	51980	end	52000	52100
+head mvmt: nod	single	52120	52360
+nose	start	50340	50420	wrinkle	50440	51180	end	51200	51260	start	51380	51400	wrinkle	51420	51460	end	51480	51540
+cheeks	tensed right	49000	49480	tensed	50460	51460
+mouth	intense	50440	50820	open & corners down	52080	52200	lips spread & crnrs down	52260	52320
+shoulders	start	51380	51480	right	51500	52300	end	52320	52360
+POS	Verb	49260	49400	Noun	49600	49880	Noun	50000	50280	Verb	50560	50820	Verb	50920	50980	Noun	51080	51160	Adjective	51360	51500	Pronoun	51580	51940
+Non-dominant POS	Verb	50560	50820
+English translation	"I could call a pet store and explain that I want a dog just like this one."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	52360
+End frame:	54740
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	017
+main gloss	1p:CALL:n	52720	52840	EXPLAIN	53040	53320	(1h)HAVE	53500	53660	IX-3p:n	53820	53880	NONE	53980	54180
+non-dominant hand gloss	G:"focus"	52560	52840	EXPLAIN	53040	53320	|>		54740
+yes-no question	yes-no question	53120	53660
+role shift	skycap	52560	53660	skycap	54280	54740
+eye brows	slightly raised	52360	52380	end	52400	52400	start	52980	53120	raised	53140	53740	end	53760	53860
+eye aperture	lowered lid	52360	52440	end	52460	52460	start	52840	52840	squint	52860	52960	end	52980	53020	start	54240	54280	blink	54300	54340	blink	54520	54520	blink	54600	54620
+eye gaze	up/right	52480	53660	right	54140	54220	left	54680	54740
+head pos: tilt fr/bk	slightly front	52360	53620	end	53640	53800
+head pos: turn	slightly right	52360	52400	end	52420	52760	start	54620	54720	slightly left	54740	54740
+head pos:jut	start	52860	52960	forward	52980	53660	end	53680	53820
+head mvmt: nod	single	54400	54620
+mouth	lips pursed: oo	53820	54200
+shoulders	end	52360	52540
+body mvmt	down	52860	52980
+POS	Verb	52720	52840	Verb	53040	53320	Verb	53500	53660	Pronoun	53820	53880	Quantifier	53980	54180
+Non-dominant POS	Verb	53040	53320
+English translation	So, he called a pet store and explained the situation, but they had none.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	54740
+End frame:	56880
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	015
+main gloss	1p:CALL:p	54840	55000	NONE	55180	55400	|>		55580	1p:CALL:q	55860	56000	NONE:n	56080	56320	NONE:p	56520	56600	NONE:q	56740	56860
+non-dominant hand gloss	EXPLAIN	54740	54740	|>		56780
+role shift	skycap	54740	55000	skycap	55440	56800
+eye brows	start	54920	54980	raised	55000	55040	end	55060	55180	start	56000	56040	slightly lowered	56060	56860	lowered	56880	56880
+eye aperture	blink	55020	55060	blink	55460	55520	blink	55560	55680	squint	56860	56880
+eye gaze	left	54740	55000	left	55520	56340	right	56520	56600
+head pos: turn	slightly left	54740	55000	end	55020	55140	start	55720	56040	left	56060	56280	end	56300	56500
+head mvmt: shake	single	56720	56840
+nose	start	56820	56840	wrinkle	56860	56860
+cheeks	tensed left	55440	55540	puffed	56220	56260	puffed	56600	56660	puffed	56780	56820
+mouth	blow	55340	55360	blow	56220	56300	blow	56580	56660	blow	56740	56820
+shoulders	start	55840	55960	left	55980	56340	end	56360	56580
+POS	Verb	54840	55000	Quantifier	55180	55400	Verb	55860	56000	Quantifier	56200	56340	Quantifier	56520	56600	Quantifier	56740	56860
+Non-dominant POS	Verb	54740	54760
+English translation	He called store after store, but none had the right kind of dog.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	56880
+End frame:	58060
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	013
+main gloss	(1)FAR	57060	57440	ONE	57540	57580	(1)FAR	57660	57980
+non-dominant hand gloss	G:"focus"	57100	58060
+eye brows	lowered	56880	57420	end	57440	57480	start	57620	57660	lowered	57680	57880	slightly raised	57900	57980	slightly lowered	58000	58060
+eye aperture	squint	56880	57440	squint	57640	57880	blink	57900	57920	squint	57940	58060
+head pos: tilt fr/bk	slightly front	56980	57420	slightly front	57700	57940
+head pos: turn	start	56960	57120	slightly right	57140	57360	right	57380	57420	start	57440	57520	slightly left	57540	57620	end	57640	57700
+head pos: tilt side	start	56900	56960	slightly left	56980	57320	start	57340	57500	right	57520	57940	start	57960	58060
+head mvmt: nod	single	57500	57560
+nose	wrinkle	56880	57380	end	57400	57460	start	57640	57660	wrinkle	57680	57900	end	57920	57960	start	58000	58060
+mouth	tongue mvmt lateral	57000	57400	tongue mvmt lateral	57700	57900
+shoulders	start	57100	57360	left	57380	58060
+POS	Adjective	57060	57440	Number	57540	57580	Adjective	57660	57980
+English translation	There was one store left to call that was very far away.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	58060
+End frame:	59860
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	015
+main gloss	1p:!CALL!:r	58260	58660	IX-2p:r	58740	58800	(1h)HAVE	59020	59080	IX-2p:r	59200	59300	YES	59520	59720
+non-dominant hand gloss	G:"focus"	58060	59300
+yes-no question	yes-no question	58780	59080
+role shift	skycap	58260	59140	shop owner	59520	59720	skycap	59760	59860
+eye brows	lowered	58060	58680	start	58700	58800	slightly raised	58820	59100	start	59120	59240	raised	59260	59280	end	59300	59380	start	59700	59800	raised	59820	59860
+eye aperture	squint	58060	58720	squint	58820	59140	wide	59240	59580	wide	59800	59860
+head pos: tilt fr/bk	start	58160	58220	front	58240	58380	end	58400	58480	start	59680	59840	front	59860	59860
+head pos: turn	start	59660	59820	left	59840	59860
+head pos: tilt side	start	58060	58260	left	58280	58380	end	58400	58500	start	59660	59760	right	59780	59860
+head pos:jut	start	58140	58260	back	58280	58540	end	58560	58700
+nose	start	58060	58060	wrinkle	58080	58400	end	58420	58480
+shoulders	left	58060	58060	end	58080	58220	start	58420	58480	left	58500	58640	end	58660	58760	start	58960	58980	slightly left	59000	59260	end	59280	59460	start	59780	59860
+body lean	start	58180	58300	back/right	58320	58340	end	58360	58420
+POS	Verb	58260	58660	Pronoun	58740	58800	Verb	59020	59080	Pronoun	59200	59300	Adverb	59520	59720
+English translation	He called and asked if they had the right kind of dog, and the answer was yes!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	59860
+End frame:	62720
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	016
+main gloss	(1h)HAVE	59920	59980	EXACT	60160	60300	DCL:1"length of dog"	60420	60540	DCL:B-L"showing length of dog"	60700	60800	WHITE	61020	61060	(2h)alt.FUR	61260	61400	BLACK	61600	61640	DCL:G"stripes"	61720	62220	(1h)HAVE	62540	62580	|>		62680
+non-dominant hand gloss	DCL:1"length of dog"	60420	60540	DCL:B-L"showing length of dog	60700	60800	|>		61040	(2h)alt.FUR	61260	61400	|>		62580
+yes-no question	yes-no question	59920	62560	end	62580	62680
+role shift	skycap	59860	62720
+eye brows	raised	59860	62640	end	62660	62720
+eye aperture	wide	59860	59960	squint	60080	60280	blink	60500	60580	blink	61020	61180	blink	62180	62320
+eye gaze	watch hands	60340	60540
+head pos: tilt fr/bk	front	59860	60260	start	60280	60360	further front	60380	60520	start	60540	60660	slightly front	60680	62560	end	62580	62680
+head pos: turn	left	59860	60280	end	60300	60420	start	60560	60700	slightly left	60720	61360	start	61380	61460	slightly right	61480	62560	end	62580	62620
+head pos: tilt side	right	59860	62560	end	62580	62600
+nose	start	59980	60060	tensed	60080	60280	end	60300	60380
+mouth	raised upper lip	60080	60280	lips pursed: mm	60720	60820	lips pursed: oo-tight	61800	62260	open	62700	62720
+shoulders	start	59860	60080	right	60100	62620	start	62640	62720
+POS	Verb	59920	59980	Adjective	60160	60300	Noun	60420	60540	Classifier	60700	60800	Adjective	61020	61060	Noun	61260	61400	Adjective	61600	61640	Classifier	61720	62220	Verb	62540	62580
+Non-dominant POS	Classifier	60700	60800	Noun	61260	61400
+English translation	The sky cap said, "But is it the right size? And does it have white fur with black stripes?"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	62720
+End frame:	65340
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	016
+main gloss	(1h)HAVE	62920	62980	"clap-hands"	63160	63320	GET-IN	63480	63560	ICL:S"driving urgently"	63840	64660	ARRIVE	64940	65160
+non-dominant hand gloss	IX-3p:r	62740	62900	|>		62980
+conditional/when	when	64940	65160
+role shift	skycap	62720	63320
+eye brows	end	62720	62760	start	62980	63000	raised	63020	63080	end	63100	63140	start	63560	63560	slightly raised	63580	63640	start	63660	63820	lowered	63840	64640	start	64660	64700	raised	64720	64840	end	64860	64920	start	65120	65120	slightly raised	65140	65300
+eye aperture	lowered lid	63300	63620	squint	63680	64660	lowered lid	65120	65240
+eye gaze	watch hands	63380	63560	watch hands	65120	65300
+head pos: tilt fr/bk	start	63300	63420	front	63440	63560	end	63580	63620	start	64700	64720	slightly front	64740	65140	start	65160	65220	further front	65240	65300
+head pos: tilt side	start	63340	63400	slightly left	63420	63540	end	63560	63600
+cheeks	tensed	63720	63880	start	63900	63980	puffed	64000	64660
+mouth	open	63060	63620	intense	63700	63840	brr	63920	64040	blow	64060	64680
+shoulders	start	62720	62880	forward right	62900	63260	end	63280	63320	start	63360	63400	slightly right 	63420	63560	end	63580	63700	start	64720	64820	right	64840	64980	end	65000	65160
+body mvmt	down	63880	64040
+POS	Verb	62920	62980	Verb	63480	63560	Classifier	63840	64660	Verb	64940	65160
+Non-dominant POS	Pronoun	62740	62900
+English translation	He was told the dog matched! So, he got into his car right away and drove all the way to the store.  When he arrived...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	65300
+End frame:	69100
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	018
+main gloss	ENTER	65300	65460	LOOK-AT	65500	65940	PERFECT	66120	66340	FACE	66460	66700	(2h)SAME	66840	67000	(2h)alt.FUR+	67260	67500	BLACK	67640	67720	DCL:G"stripes"	67860	68140	MUZZLE	68440	68580	"clap-hands"	68860	69000
+non-dominant hand gloss	PERFECT	66120	66340	|>		66660	(2h)alt.FUR+	67260	67500
+role shift	skycap	68860	69100
+eye brows	slightly raised	65300	65360	start	65380	65440	raised	65460	65940	end	65960	66120	start	66340	66380	slightly lowered	66400	66920	start	66940	67060	slightly raised	67080	68180	start	68200	68260	lowered	68280	68580	start	68600	68640	slightly raised	68660	68720	end	68740	68800	start	68980	69040	raised	69060	69080	end	69100	69100
+eye aperture	closed	66040	66280	lowered lid	66300	67720	blink	67740	67880	lowered lid	67920	68140	closed	68160	68580	lowered lid	68600	68980
+eye gaze	watch hands	65300	65760	down	65780	66280	down	67040	67720	down	67920	68140	down	68600	68980	right	69040	69100
+head pos: tilt fr/bk	further front	65300	65480	start	65500	65560	slightly front	65580	66060	end	66080	66180	start	66320	66360	slightly back	66380	67020	end	67040	67120	slightly back	68500	68600
+head pos: turn	start	67040	67180	left	67200	67280	slightly left	67300	67480	end	67500	67640	start	69000	69020	right	69040	69100
+head pos: tilt side	start	67940	67980	right	68000	68020	start	68040	68100	left	68120	68180	end	68200	68260	start	68440	68440	right	68460	68480	end	68520	68540	start	68740	68840	slightly left	68860	69100
+head mvmt: side to side	rapid	67200	67480
+nose	start	68200	68260	wrinkle	68280	68580	end	68600	68700
+mouth	open	65500	66040	lips pursed: oo	67160	67500	lips pursed: oo	67960	68220	raised upper lip	68280	68600	open	68720	69100
+shoulders
+body lean	back	65300	65440	start	65460	65560	slightly back	65580	68960	end	68980	69060
+body mvmt	down	65320	65420
+POS	Verb	65300	65460	Verb	65500	65940	Adjective	66120	66340	Noun	66460	66700	Adjective	66840	67000	Noun	67260	67500	Adjective	67640	67720	Classifier	67860	68140	Noun	68440	68580
+Non-dominant POS	Adjective	66120	66340	Noun	67260	67500
+English translation	...he went into the store to look at the dog.  The dog they had was perfect -- he looked just like the dead dog.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	69100
+End frame:	70900
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	016
+main gloss	(1h)HOW^MANY	69220	69360	THREE-HUNDRED	69720	70120	DOLLAR+	70400	70740
+non-dominant hand gloss	DOLLAR+	70400	70740	|>		70900
+wh question	whq	69220	69360
+role shift	skycap	69100	69360	shop owner	69480	70640	skycap	70760	70900
+eye brows	end	69100	69180	start	69360	69460	raised	69480	70700	start	70720	70760	lowered	70780	70900
+eye aperture	blink	69380	69460	blink	70400	70460	closed	70760	70900
+eye gaze	right	69100	69360	right	70660	70740
+head pos: tilt fr/bk	start	69560	69620	slightly front	69640	70640	start	70660	70840	further back	70860	70900
+head pos: turn	slightly right	69100	69380	end	69400	69480	start	69580	69820	right	69840	70740	slightly right	70760	70900
+head pos: tilt side	slightly left	69100	69100	start	69120	69220	left	69240	69380	end	69400	69520
+nose	start	70660	70720	wrinkle	70740	70900
+mouth	open	69100	69180	lips spread & crnrs up	69560	70520	raised upper lip	70700	70900
+body lean	start	69160	69260	forward/right	69280	69600	end	69620	69780
+POS	Wh-word	69220	69360	Number	69720	70120	Noun	70400	70740
+Non-dominant POS	Noun	70400	70740
+English translation	The skycap asked, "How much does it cost?"  The shop owner replied, "$300."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	70900
+End frame:	73040
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	015
+main gloss	FINE+++++	71040	71680	ICL:"take money from pocket"	71740	71960	ICL:"peeling off bills"++++	72060	72760	|>		73000
+non-dominant hand gloss	DOLLAR+	70900	70900	|>		71800
+role shift	skycap	70900	73040
+eye brows	lowered	70900	71120	start	71160	71280	slightly raised	71340	72500	end	72520	72560	start	72660	72720	raised	72740	72800	start	72820	72880	slightly raised	72900	72920	start	72940	73000	raised	73020	73040
+eye aperture	closed	70900	71780	lowered lid	71800	72500	start	72640	72680	wide	72700	72720	end	72740	72800	blink	72820	72980	lowered lid	73000	73040
+eye gaze	watch hands	71900	72560	right	72660	72820	watch hands	73020	73040
+head pos: tilt fr/bk	further back	70900	70940	end	70960	71140	start	71780	71820	slightly front	71840	72580	end	72600	72740
+head pos: turn	slightly right	70900	70900	end	70920	70980
+head pos: tilt side	start	71780	71920	left	71940	72580	end	72600	72740
+head mvmt: nod	rapid	71100	71660	single	72760	73020
+nose	wrinkle	70900	71040	end	71060	71100
+mouth	raised upper lip	70900	71040	blow	71340	71600	lips pursed: oo	71900	72540	tongue on lwr lip	72580	73040
+body mvmt	down	71340	71600
+POS	Discourse Marker	71040	71680	Classifier	71740	71960	Classifier	72060	72760
+English translation	The sky cap reluctantly accepted the price and paid out the $300.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	73040
+End frame:	75080
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	014
+main gloss	(2h)ICL:"pick up dog"	73320	73620	(2h)ICL:"set dog down"	73660	73980	ICL:S"driving"	74140	74640	ARRIVE	74800	75000
+non-dominant hand gloss
+conditional/when	when	74760	75080
+role shift	skycap	73040	74640
+eye brows	raised	73040	73280	start	73300	73400	further raised	73420	73640	start	73660	73700	slightly raised	73720	74080	end	74100	74200	start	74620	74660	raised	74680	74780	end	74800	74840	start	75000	75060	raised	75080	75080
+eye aperture	lowered lid	73040	73360	wide	73440	73600	squint	74140	74580	blink	74600	74640	lowered lid	75040	75080
+eye gaze	watch hands	73040	73380	down/right	73680	73960	down	75020	75080
+head pos: tilt fr/bk	start	73060	73140	slightly front	73160	73400	end	73420	73480	start	73640	73780	further front	73800	73920	end	73940	74020	start	75040	75080
+head pos: turn	start	73660	73800	right	73820	73960	end	73980	74040	start	75020	75040	slightly right	75060	75080
+cheeks	tensed	74620	75080
+mouth	tongue on lwr lip	73040	73060	bite lower lip	73080	73680	lips spread & crnrs up	74360	74640
+body lean	start	73060	73320	forward	73340	73360	end	73380	73480	start	74660	74700	left	74720	74800	end	74820	74980
+POS	Classifier	73320	73620	Classifier	73660	73980	Classifier	74140	74640	Verb	74800	75000
+English translation	He picked up the dog, put him in the car and drove back to the airport.  When he got there...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	75080
+End frame:	77280
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	016
+main gloss	(2h)ICL:"pick up dog and set down"	75300	75580	IX-3p-honorific:o	75800	75980	DCL:"pet carrier"	76160	76400	OPEN-DOOR	76500	76700	(1h)DIE	76780	76960	#DOG	77120	77280
+non-dominant hand gloss	DCL:"pet carrier"	76160	76400	|>		77280
+role shift	skycap	75180	75580
+eye brows	raised	75080	75100	end	75120	75240	start	75300	75420	raised	75440	75500	start	75520	75600	slightly lowered	75620	77280
+eye aperture	lowered lid	75080	75080	lowered lid	75640	76140	squint	76160	76660
+eye gaze	down	75080	75760	watch hands	75780	76660
+head pos: tilt fr/bk	start	75080	75160	further front	75180	75560	end	75580	75800
+head pos: turn	slightly right	75080	75100	right	75120	75460	end	75480	75640
+head pos: tilt side	start	75680	75860	slightly left	75880	77280
+head pos:jut	start	75800	75880	slightly back	75900	77280
+nose	start	75620	75840	tensed	75860	77280
+cheeks	tensed	75080	75580	less tensed 	75760	77280
+mouth	lips spread & crnrs up	75380	75520	raised upper lip	75620	75820
+POS	Classifier	75300	75580	Pronoun	75800	75980	Classifier	76160	76400	Verb	76500	76700	Adjective	76780	76960	Noun	77120	77280
+Non-dominant POS	Classifier	76160	76400
+English translation	...he put the new dog down and opened the door of the dead dog's carrier.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	77280
+End frame:	79100
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	017
+main gloss	IX-3p:o	77320	77360	o:(1h)CARRY:s	77500	78160	DCL:G"collar"	78320	78620	ICL:"take off collar"	78780	79100
+non-dominant hand gloss	DCL:"pet carrier"	77280	77280	|>		78160
+role shift	skycap	77500	78160	skycap	78780	79100
+eye brows	slightly lowered	77280	78740	start	78760	78800	slightly raised	78820	79100
+eye aperture	squint	77340	78160	blink	78180	78200	squint	78220	78560	lowered lid	78580	79100
+eye gaze	watch hands	77340	78200	watch hands	78660	79100
+head pos: tilt fr/bk	start	77600	77840	slightly front	77860	78140	start	78160	78240	back	78260	78540	slightly back	78560	79080	start	79100	79100
+head pos: turn	start	77740	77960	further right 	77980	78200	start	78220	78240	right	78260	78580	start	78600	78660	further right 	78680	79060	end	79080	79100
+head pos: tilt side	slightly left	77280	78180	end	78200	78240	start	78680	78760	slightly left	78780	79100
+head pos:jut	slightly back	77280	78140	end	78160	78240
+nose	tensed	77280	79060	end	79080	79100
+cheeks	less tensed 	77280	77400	tensed	77420	78160	end	78180	78240
+mouth	intense	77400	78240	sh	78340	78600
+shoulders	start	77360	77460	raised	77480	77900	right/raised	77920	78120	start	78140	78260	right	78280	79060	end	79080	79100
+POS	Pronoun	77320	77360	Verb	77500	78160	Classifier	78320	78620	Classifier	78780	79100
+Non-dominant POS	Classifier	77280	77300
+English translation	He gingerly removed the dead dog from the carrier and took off its collar.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	79100
+End frame:	81060
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	015
+main gloss	IX-3p:t	79880	79920	BCL:"waiting"	80020	80100	ICL:"put on collar"	80220	80740	ICL:"fasten collar"	80760	80920
+non-dominant hand gloss	ICL:"shake collar"	79120	79740
+role shift	skycap	79100	79740	dog	80020	80100	skycap	80220	81060
+eye brows	slightly raised	79100	79680	start	79700	79760	raised	79780	80140	end	80160	80240	start	80700	80720	raised	80740	80780	end	80800	80860	start	80920	80960	raised	80980	81000	end	81020	81060
+eye aperture	lowered lid	79100	79700	blink	79720	79740	lowered lid	79760	79940	lowered lid	80120	81060
+eye gaze	watch hands	79100	79740	down	79760	79920	watch hands	80220	81060
+head pos: tilt fr/bk	start	79100	79160	slightly front	79180	79720	start	79740	79840	further front	79860	79920	start	79940	80060	slightly back	80080	80080	start	80100	80180	further front	80200	81060
+head pos: turn	end	79100	79340	start	79740	79840	further right 	79860	79960	end	79980	80080	start	80120	80240	further right 	80260	81060
+head pos: tilt side	slightly left	79100	79880	end	79900	80020
+nose	end	79100	79160
+mouth	lips pursed: oo	79160	79720	tongue out	80020	80080	lips spread & crnrs up	80180	80920	lips spread & crnrs up	81040	81060
+shoulders	end	79100	79320	start	79740	79940	right	79960	81060
+POS	Pronoun	79880	79920	Classifier	80020	80100	Classifier	80220	80740	Classifier	80760	80920
+Non-dominant POS	Classifier	79120	79740
+English translation	He shook out the collar and then fastened it around the patiently waiting dog's neck.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	81060
+End frame:	83680
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	014
+main gloss	ICL:"pick up dog and put in carrier"	81060	81560	CLOSE-DOOR	81720	81940	MUZZLE	82380	82460	DCL:"stripes"	82680	82940	BPCL:H"tongue wagging"	83060	83620
+non-dominant hand gloss
+role shift	skycap	81060	82180
+eye brows	end	81060	81180	start	81940	81980	raised	82000	82200	start	82220	82320	slightly lowered	82340	83460	start	83480	83620	raised	83640	83680
+eye aperture	lowered lid	81060	81180	lowered lid	82060	82280	squint	82320	83580	lowered lid	83600	83680
+eye gaze	watch hands	81060	81960	down	81980	82260	down	83600	83680
+head pos: tilt fr/bk	further front	81060	81900	front	81920	82180	end	82200	82320	start	83580	83680
+head pos: turn	further right 	81060	81100	end	81120	81300
+head pos:jut	start	81100	81180	back	81200	82180	end	82200	82300
+nose	start	82220	82400	wrinkle	82420	83580	end	83600	83660
+mouth	lips spread & crnrs up	81060	81940	raised upper lip	82240	83040	tongue out	83160	83600
+shoulders	right	81060	81180	end	81200	81400
+POS	Classifier	81060	81560	Verb	81640	81940	Noun	82380	82460	Classifier	82680	82940	Classifier	83060	83620
+English translation	He put the new dog in the carrier and shut the door.  There it sat with its tongue hanging out.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	83680
+End frame:	85240
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	013
+main gloss	ICL:"set carrier aside"	83780	84060	"clap-hands"	84160	84300	WOMAN	84900	85060	|>		85200
+non-dominant hand gloss	j:CALL:i	84560	84680	|>		85200
+role shift	skycap	83780	84320
+eye brows	raised	83680	83700	end	83720	83740	start	84040	84060	raised	84080	84160	end	84180	84200	start	84280	84320	slightly raised	84340	84420	end	84440	84460	start	85180	85240
+eye aperture	lowered lid	83680	83720	blink	84260	84440	blink	84960	85220
+eye gaze	down	83680	83760	watch hands	83780	84060	left	84120	84280
+head pos: tilt fr/bk	start	83680	83760	front	83780	84060	end	84080	84140	start	85180	85240
+head pos: turn	start	84040	84120	left	84140	84280	end	84300	84420
+head mvmt: nod	single	84980	85180
+shoulders	start	84480	84500	left	84520	85240
+POS	Classifier	83780	84060	Noun	84900	85060
+Non-dominant POS	Verb	84560	84680
+English translation	Setting the carrier aside, he phoned the woman.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	85240
+End frame:	86820
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	016
+main gloss	ICL:S"holding carrier from the top"	86160	86680
+non-dominant hand gloss	i:COME:h	85440	85760	|>		85960	ICL:B-L"holding carrier from the bottom"	86160	86680	|>		86820
+topic/focus	focus/top1	85280	85960
+role shift	skycap	86160	86680
+eye brows	start	85240	85240	further raised	85260	85320	raised	85340	85520	slightly raised	85540	86100	end	86120	86160	start	86620	86660	raised	86680	86820
+eye aperture	lowered lid	85340	86000	blink	86060	86160	blink	86680	86740
+eye gaze	down	85520	85980	left	86140	86660
+head pos: tilt fr/bk	start	85240	85320	further back	85340	85440
+head pos: turn	start	86040	86180	further left	86200	86680	end	86700	86820
+head mvmt: nod	single	85440	85960
+nose	start	85260	85280	tensed	85300	85600	end	85620	85740
+mouth	lips spread & crnrs down	85380	85900
+shoulders	left	85240	85660	end	85680	85780	start	86220	86500	left	86520	86680	end	86700	86820
+POS	Classifier	86160	86680
+Non-dominant POS	Verb	85440	85760	Classifier	86160	86680
+English translation	The woman came to the airport, and the skycap proudly showed her the carrier.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	86820
+End frame:	89500
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	017
+main gloss	ICL:S"holding carrier from the top"	86820	86840	WOMAN	87040	87240	LOOK-AT:t	87400	87660	|>		88420	NOT	88620	88660	POSS-1p	88760	88780	#DOG	88920	89100	IX-3p:t	89260	89380
+non-dominant hand gloss	ICL:B-L"holding carrier from the bottom"	86820	86840	|>		87600	fs-O(H)	87920	88400	|>		89500
+topic/focus	focus/top1	87040	87240
+negative	negation	88620	89360
+role shift	friend	87400	89420
+eye brows	raised	86820	87260	end	87280	87520	start	87880	87960	slightly raised	87980	88620	start	88640	88720	slightly lowered	88740	89380	end	89400	89500
+eye aperture	lowered lid	87240	87580	blink	87600	87640	lowered lid	87660	87720	blink	87740	87780	lowered lid	87800	88340	blink	88360	88660	squint	88680	89360	blink	89400	89460
+eye gaze	down/right	87240	88660	right	88740	89380	left	89460	89500
+head pos: tilt fr/bk	start	87620	87980	slightly back	88000	88360	start	88380	88600	slightly front	88620	88680
+head pos: turn	end	86820	86920	start	87160	87360	further right 	87380	89360	start	89380	89500
+head pos: tilt side	start	86840	86940	slightly left	86960	88440	start	88460	88620	left	88640	88660	end	88680	88780
+head mvmt: shake	start	88460	88600	rapid	88620	89360
+mouth	open	87380	87780	open & round	87800	88380	raised upper lip	88400	88480
+shoulders	end	86820	87000	start	87380	87560	slightly right 	87580	89500
+POS	Classifier	86820	86840	Noun	87040	87240	Verb	87400	87660	Negation	88620	88660	Possessive	88760	88780	Noun	88920	89100	Pronoun	89260	89380
+Non-dominant POS	Classifier	86820	86840	Discourse Marker	87920	88400
+English translation	The woman looked at the dog and said, "Oh! But that's not my dog!"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	41
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	89500
+End frame:	90340
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	013
+main gloss	MAN	89640	89800	ICL:S"holding carrier from the top"	89960	90320	|>		90340
+non-dominant hand gloss	fs-O(H)	89500	89500	|>		89720	ICL:B-L"holding carrier from the bottom"	89960	90320
+role shift	skycap	89960	90340
+eye brows	end	89500	89520	start	90160	90200	slightly lowered	90220	90340
+eye aperture	squint	90300	90340
+eye gaze	left	89500	90060	watch hands	90160	90340
+head pos: tilt fr/bk	slightly front	90220	90340
+head pos: turn	start	89500	89680	further left	89700	90060	start	90080	90200	right	90220	90340
+head pos: tilt side	start	90200	90260	left	90280	90340
+mouth	open	89500	89640	open	89820	90300	raised upper lip	90320	90340
+shoulders	slightly right 	89500	89620	end	89640	89800	start	89920	89940	slightly left	89960	90140	start	90160	90340
+POS	Noun	89640	89800	Classifier	89960	90320
+English translation	The skycap turned and looked at the dog in the carrier.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	42
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	90340
+End frame:	92180
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	017
+main gloss	ICL:S"holding carrier from the top"	90340	90340	|>		92180
+non-dominant hand gloss	(1h)HAVE	90460	90500	IX-3p:t	90560	90620	WHITE+	90760	90900	FUR	91000	91100	BLACK	91220	91260	DCL:G"stripes"	91400	91720	(1h)HAVE	91820	91900	IX-3p:t	92020	92040	(5)IX-loc"dog carrier"	92100	92180
+role shift	skycap	90340	92180
+eye brows	slightly lowered	90340	92180
+eye aperture	squint	90340	90340	squint	91760	91780
+eye gaze	watch hands	90340	90340	left	90460	90660	right	90720	90840	down	90860	91720	left	91780	92180
+head pos: tilt fr/bk	slightly front	90340	90340	start	90720	90840	front	90860	91720	end	91740	91860
+head pos: turn	right	90340	90340	start	90360	90540	left	90560	90620	start	90640	90840	slightly right	90860	91600	start	91620	91900	further left	91920	92180
+head pos: tilt side	left	90340	90340	end	90360	90440
+head pos:jut	start	90660	90820	slightly back	90840	92180
+head mvmt: side to side	rapid	91180	91720
+nose	tensed	90340	90640	end	90660	90720	start	90880	90900	tensed	90920	91240	end	91260	91280	start	91720	91720	tensed	91740	92180
+mouth	raised upper lip	90340	90480	lips pursed: oo	91400	91720	open	92040	92180
+shoulders	slightly right 	90340	91920	end	91940	92040
+POS	Classifier	90340	90340
+Non-dominant POS	Verb	90460	90500	Pronoun	90560	90620	Adjective	90760	90900	Noun	91000	91100	Adjective	91220	91260	Classifier	91400	91720	Verb	91820	91900	Pronoun	92020	92040	Adverb	92100	92180
+English translation	"But he has white fur with black stripes!".
+Notes - number of character bytes:	0
+
+
+Utterance ID:	43
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	92180
+End frame:	94320
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	020
+main gloss	ICL:S"holding carrier"	92180	92180	|>		92260	WOMAN	92460	92540	KNOW	92660	92780	!NOT!	93100	93180	POSS-1p	93280	93340	#DOG	93440	93540	IX-3p:t	93560	93600	!NOT!	93860	93960	IX-3p:t	94080	94120
+non-dominant hand gloss	IX-3p:t	92900	92960	|>		93360
+negative	negation	93100	94120
+role shift	skycap	92180	92200	friend	92660	94120
+eye brows	slightly lowered	92180	93160	start	93180	93300	raised	93320	94240	end	94260	94320
+eye aperture	start	92300	92500	squint	92520	93180	blink	93200	93260	lowered lid	93340	93420	blink	93560	93580	blink	93640	93720	blink	93880	93920	blink	93960	94020	blink	94140	94200
+eye gaze	left	92180	92220	right	92300	94120	left	94200	94320
+head pos: turn	further left	92180	92180	start	92200	92520	further right 	92540	92940	end	92960	93100	start	94120	94320
+head pos: tilt side	start	92560	92740	further left	92760	92800	start	92820	93180	further right	93200	93340	start	93360	93460	right	93480	93660	start	93700	93740	further right	93760	94120	start	94140	94220	slightly right	94240	94320
+head pos:jut	slightly back	92180	92200	end	92220	92460
+head mvmt: nod	single	92620	92860
+head mvmt: shake	slow	92980	94120
+nose	tensed	92180	92200	end	92220	92220
+mouth	open	92180	92820	lips pursed: mm	93160	93260	open	94040	94320
+shoulders	start	92320	92480	right	92500	94240
+body lean	start	92540	92680	left	92700	93340	end	93360	93480
+body mvmt	down	92680	92820	down	93240	93360	down	93880	94080
+POS	Classifier	92180	92200	Noun	92460	92540	Verb	92660	92780	Negation	93100	93180	Possessive	93280	93340	Noun	93440	93540	Pronoun	93560	93600	Negation	93860	93960	Pronoun	94080	94120
+Non-dominant POS	Pronoun	92900	92960
+English translation	The woman responded, "I know, but that is not my dog.  It's not!"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	44
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	94320
+End frame:	96900
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	016
+main gloss	ICL:S"holding carrier from top"	94400	94620	|>		94880	(2h)DCL:"collar" 	95100	95260	DCL:"tags swinging"	95440	96120	ICL:S"holding carrier from top"	96240	96320	(1h)HAVE	96520	96540	ICL:S"holding carrier from top"	96740	96900
+non-dominant hand gloss	ICL:B-L"holding carrier from bottom"	94400	94620	(1h)HAVE	94740	94760	IX-3p:t	94860	94880	ICL:B-L"holding carrier from bottom"	96240	96320	|>		96900
+role shift	skycap	94360	96900
+eye brows	end	94320	94360	start	94560	94580	raised	94600	94640	slightly raised	94660	95220	start	95240	95240	raised	95260	95360	end	95380	95740	start	96280	96300	slightly raised	96320	96400	end	96420	96460	start	96820	96900
+eye aperture	lowered lid	94520	94680	blink	94700	94760	blink	94820	94900	blink	95200	95400	blink	96100	96200	blink	96260	96320	lowered lid	96840	96900
+eye gaze	left	94320	94520	watch hands	94540	94800	left	94880	95200	up/right	95440	95880	watch hands	96200	96280	left	96340	96820	watch hands	96900	96900
+head pos: tilt fr/bk	start	94560	94580	front	94600	94700	end	94720	94800
+head pos: turn	start	94320	94320	further left	94340	94500	start	94520	94680	slightly right	94700	94800	end	94820	94880	start	96120	96220	right	96240	96280	end	96300	96420	start	96880	96900
+head pos: tilt side	slightly right	94320	94560	end	94580	94600	start	96140	96220	slightly left	96240	96860	end	96880	96900
+head pos:jut	start	94780	94860	slightly back	94880	96140	end	96160	96260	start	96300	96320	slightly back	96340	96900
+mouth	open	94320	94580	smile mouth open	94600	94760	lips pursed: oo-tight	95320	96120	smile mouth open	96240	96520	open	96900	96900
+shoulders	start	94340	94380	slightly left	94400	94600	start	94620	94660	slightly right 	94680	94880	end	94900	95040	start	95360	95780	slightly right 	95800	96220	start	96240	96280	right	96300	96380	end	96400	96480
+body lean	start	94380	94480	back	94500	94760	end	94780	95000	start	96740	96820	left	96840	96900
+POS	Classifier	94400	94620	Classifier	95100	95260	Classifier	95440	96120	Classifier	96240	96320	Verb	96520	96540	Classifier	96740	96900
+Non-dominant POS	Classifier	94400	94620	Verb	94740	94760	Pronoun	94860	94880	Classifier	96240	96320
+English translation	The skycap tried again, pointing to the dog and saying, "But he has on the right collar and tags!"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	45
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	96900
+End frame:	98680
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	021
+main gloss	ICL:S"holding carrier from top"	96900	96900	|>		96940	WOMAN	97120	97200	KNOW+	97340	97580	IX-3p:t	97680	97700	NOT	97800	97820	POSS-1p	97900	97960	#DOG	98180	98340	"palms up"	98400	98440	|>		98680
+non-dominant hand gloss	ICL:B-L"holding carrier from bottom"	96900	96900	|>		98340
+negative	negation	97800	98320
+role shift	skycap	96900	96920	friend	97340	98680
+eye brows	start	96900	96980	raised	97000	98680
+eye aperture	lowered lid	96900	96960	blink	97760	97880	blink	97900	97960	blink	98260	98360	blink	98620	98680
+eye gaze	watch hands	96900	96980	right	97000	98680
+head pos: tilt fr/bk	front	97900	98680
+head pos: turn	start	96900	96980	further right 	97000	97480	right	97500	98680
+head pos: tilt side	start	97260	97400	left	97420	97480	start	97500	97600	further right	97620	98680
+head pos:jut	slightly back	96900	96920	end	96940	97140	start	97800	97880	slightly back	97900	98680
+head mvmt: nod	single	97120	97500
+head mvmt: shake	rapid	97620	98320
+nose	start	97740	97780	tensed	97800	98680
+mouth	open	96900	97580
+shoulders	start	96940	97160	right	97180	97560	start	97580	97640	slightly right 	97660	98680
+body lean	left	96900	96940	end	96960	97020
+body mvmt	down	97400	97580
+POS	Classifier	96900	96940	Noun	97120	97200	Verb	97340	97580	Pronoun	97680	97700	Negation	97800	97820	Possessive	97900	97960	Noun	98180	98340
+Non-dominant POS	Classifier	96900	96940
+English translation	The woman responded by saying, "I know, but that is not my dog!"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	46
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP DeadDog.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	98680
+End frame:	100920
+Number of participant panes:	1
+Participant:	Freda Norman
+Number of fields:	017
+main gloss	POSS-1p+	98860	98940	#DOG	99100	99240	FINISH	99340	99460	DIE	99700	100080	|>		100920
+non-dominant hand gloss	"palm up"	98680	98680	|>		99180
+role shift	friend	98680	100920
+eye brows	raised	98680	100920
+eye aperture	blink	98680	98840	blink	98920	98980	blink	99220	99380	lowered lid	99460	99840	blink	100020	100080	blink	100220	100320	blink	100440	100560	blink	100600	100660	blink	100740	100840	blink	100860	100920
+eye gaze	right	98680	99440	watch hands	99460	99880	right	99900	100920
+head pos: tilt fr/bk	front	98680	98680	end	98700	98760
+head pos: tilt side	further right	98680	98680	start	98700	98880	left	98900	98960	start	98980	99160	right	99180	100920
+head pos: turn	right	98680	99440	end	99460	99620	start	99840	99940	right	99960	100920
+head pos:jut	slightly back	98680	98680	end	98700	98800
+head mvmt: nod	rapid	99880	100320
+head mvmt: jut	start	99360	99380	forward	99400	99420	end	99440	99520	start	100280	100380	forward	100400	100680	end	100700	100820
+nose	tensed	98680	99700	end	99720	99900
+shoulders	slightly right 	98680	100920
+POS	Possessive	98860	98940	Noun	99100	99240	Aspect	99340	99460	Adjective	99700	100080
+Non-dominant POS
+English translation	She added, "My dog is dead."
+Notes - number of character bytes:	0

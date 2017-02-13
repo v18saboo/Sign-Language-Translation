@@ -1,0 +1,1215 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	ncslgr10c-final	BACK TO THE FUTURE:Users:carolneidle:Desktop: Fran - Sarah 3-7:ncslgr10c-final
+Number of utterances:	40
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:765_574_master_small.mov
+Video	NCSLGR:video files:slave1:765_574_slave1_small.mov
+Video	NCSLGR:video files:slave2:765_574_slave2_small.mov
+Video	
+Audio	
+Start frame:	340
+End frame:	1240
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	017
+main gloss	MOTHER	440	500	LIKE	560	620	IX-3p:i	700	740	MOVIE	920	1040
+non-dominant hand gloss
+topic/focus	focus/top1	340	500
+eye brows	raised	340	460	start	480	620	further lowered	640	740	start	760	760	slightly lowered	780	1240
+eye aperture	start	340	380	wide	400	500	start	520	580	squint	600	720	end	740	760
+eye gaze	left	560	700
+body lean	start	400	500	back	520	620	start	640	700	back/right	720	960	end	980	1180
+cheeks	start	600	620	tensed	640	720	end	740	760
+nose	start	620	660	wrinkle	680	720	end	740	780
+mouth	start	640	680	cs	700	720	end	740	760
+neck	start	580	680	tensed/left	700	740	end	760	820
+head pos: tilt fr/bk	start	400	520	slightly front	540	680	end	700	800
+head pos: turn	start	360	500	right	520	1240
+head pos: jut	start	420	540	back	560	740	end	760	840
+head mvmt: nod	slow	380	1180
+POS	Noun	440	500	Verb	560	620	Determiner	700	740	Noun	920	1040
+English translation	Mother likes the movie.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:767_576_master_small.mov
+Video	NCSLGR:video files:slave1:767_576_slave1_small.mov
+Video	NCSLGR:video files:slave2:767_576_slave2_small.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	820
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	015
+main gloss	MOTHER	200	240	LIKE	300	340	IX-3p:i	400	440	BOOK	560	720
+non-dominant hand gloss
+eye brows	start	140	240	further lowered	260	480	start	500	540	slightly lowered	560	660	end	680	760
+eye aperture	start	140	220	squint	240	440	end	460	500	start	760	760	blink	780	800
+eye gaze	left	300	520
+nose	start	160	260	wrinkle	280	440	end	460	520
+cheeks	start	160	260	tensed	280	440	end	460	520
+mouth	cs	400	440
+neck	start	280	380	tensed/left	400	440	end	460	520
+head pos: tilt fr/bk	start	360	420	slightly front	440	480	end	500	620
+head pos: tilt side	start	300	360	slightly left	380	680	end	700	820
+head pos: jut	start	220	240	back	260	480	end	500	620
+POS	Noun	200	240	Verb	300	340	Determiner	400	440	Noun	560	720
+head mvmt: nod	slow	160	780
+English translation	Mother likes that book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:768_577_master_small.mov
+Video	NCSLGR:video files:slave1:768_577_slave1_small.mov
+Video	NCSLGR:video files:slave2:768_577_slave2_small.mov
+Video	
+Audio	
+Start frame:	320
+End frame:	1400
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	015
+main gloss	MOTHER	480	520	IX-3p:j	600	600	NOT	660	720	LIKE	780	820	IX-3p:i	840	880	MOVIE	1080	1100	IX-3p:j	1180	1180
+non-dominant hand gloss
+negative	neg	620	1400
+eye brows	lowered	320	600	start	620	720	further lowered	740	1400
+eye aperture	slightly lowered	320	480	start	500	560	closed	580	680	start	700	720	squint	740	880	start	900	1000	lowered lid	1020	1400
+eye gaze	left	740	900
+nose	slightly tensed	320	560	tensed	580	1400
+cheeks	start	560	660	tensed	680	1400
+mouth	lips spread & crnrs down	600	740	lips pursed: mm	1180	1220
+neck	start	660	820	tensed/left	840	940	slightly tensed/left	960	1260	tensed/left	1280	1400
+head pos: tilt fr/bk	start	1240	1340	slightly front	1360	1400
+head pos: jut	start	500	580	slightly back	600	760	back	780	1400
+head mvmt: shake	start	440	600	slow	620	1400
+POS	Noun	480	520	Pronoun	600	600	Negation	660	720	Verb	780	820	Determiner	840	880	Noun	1080	1100	Pronoun	1180	1180
+English translation	Mother does not like the movie.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:769_578_master_small.mov
+Video	NCSLGR:video files:slave1:769_578_slave1_small.mov
+Video	NCSLGR:video files:slave2:769_578_slave2_small.mov
+Video	
+Audio	
+Start frame:	160
+End frame:	1420
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	fs-JOHN	240	360	FUTURE^NOT	500	620	LIKE	680	720	IX-3p:i	800	840	MOVIE	980	1000	IX-3p:i	1040	1060
+non-dominant hand gloss
+negative	neg	500	1420
+eye brows	lowered	160	1420
+eye aperture	slightly lowered	160	320	start	340	380	squint	400	1140	start	1160	1200	closed	1220	1420
+eye gaze	left	620	800
+nose	start	320	420	tensed	440	1420
+mouth	lips spread & crnrs down	1060	1420
+head pos: tilt side	start	720	780	slightly left	800	840	end	860	1000
+head pos: jut	back	620	1100
+head mvmt: shake	start	280	480	slow	500	1420
+POS	Proper Noun	240	360	Tense + Negative	500	620	Verb	680	720	Determiner	800	840	Noun	980	1000	Pronoun	1040	1060
+English translation	John will not like the movie.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:770_579_master_small.mov
+Video	NCSLGR:video files:slave1:770_579_slave1_small.mov
+Video	NCSLGR:video files:slave2:770_579_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	1180
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	FATHER	280	380	FUTURE	400	560	LIKE	640	680	THAT:i	780	800	BOOK	860	900	IX-loc:i	960	1020
+non-dominant hand gloss
+topic/focus	focus/top1	280	380
+eye brows	start	180	260	raised	280	340	start	360	400	slightly lowered	420	1080	end	1100	1180
+eye aperture	start	180	220	wide	240	300	start	320	360	closed	380	560	end	580	640	start	1140	1160	lowered lid	1180	1180
+eye gaze	down	520	580	left	660	820	down	1160	1180
+head pos: tilt side	start	180	320	slightly right	340	440	end	460	520
+head pos: turn	start	360	460	slightly right	480	1180
+head mvmt: nod	slow	360	1180
+POS	Noun	280	380	Tense	400	560	Verb	640	680	Demonstrative	780	800	Noun	860	900	Adverb	960	1020
+English translation	Father will like that book there.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:771_580_master_small.mov
+Video	NCSLGR:video files:slave1:771_580_slave1_small.mov
+Video	NCSLGR:video files:slave2:771_580_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	1740
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	FATHER	600	620	FUTURE	700	740	LIKE	800	840	THAT:i	900	920	BOOK	1000	1020	IX-loc:i	1060	1080	QMwg	1180	1400
+non-dominant hand gloss
+yes-no question	yes-no question	480	1440
+eye brows	start	180	420	raised	440	1440	end	1460	1620
+eye aperture	start	200	240	wide	260	1400	start	1420	1440	blink	1460	1480	end	1500	1560
+nose	start	420	580	slightly tensed	600	1400
+head pos: tilt fr/bk	front	180	1740
+head pos: tilt side	start	420	500	slightly right	520	620	end	640	720
+head pos: turn	start	180	300	slightly left	320	1440	end	1460	1620
+head pos: jut	start	400	540	back	560	940	slightly back	960	1740
+head mvmt: nod	single	200	340	slight slow head nod	680	1080
+POS	Noun	600	620	Tense	700	740	Verb	800	840	Demonstrative	900	920	Noun	1000	1020	Adverb	1060	1080	Particle	1180	1400
+English translation	Will father like that book?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:773_583_master_small.mov
+Video	NCSLGR:video files:slave1:773_583_slave1_small.mov
+Video	NCSLGR:video files:slave2:773_583_slave2_small.mov
+Video	
+Audio	
+Start frame:	160
+End frame:	1200
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	FATHER	400	420	FUTURE	500	560	LIKE	640	680	THAT:i	780	820	BOOK	920	960	IX-loc:i	1060	1060
+non-dominant hand gloss
+eye brows	lowered	160	420	further lowered	440	760	lowered	780	1200
+eye aperture	squint	160	360	closed	380	660	start	680	700	squint	720	1040	start	1060	1060	blink	1080	1200
+eye gaze	right	680	860
+nose	start	520	580	slightly tensed	600	800	end	820	860
+mouth	lips spread & crnrs down	1080	1200
+body lean	start	740	780	slightly back	800	1080	end	1100	1180
+head pos: tilt fr/bk	start	380	520	slightly front	540	680	end	700	800
+head pos: tilt side	start	160	240	right	260	420	end	440	580	start	860	920	slightly left	940	1200
+head pos: turn	start	160	200	slightly right	220	520	start	540	760	slightly left	780	920	left	940	1200
+head mvmt: nod	slow	420	1120
+POS	Noun	400	420	Tense	500	560	Verb	640	680	Demonstrative	780	820	Noun	920	960	Adverb	1060	1060
+English translation	Father will like that book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:774_584_master_small.mov
+Video	NCSLGR:video files:slave1:774_584_slave1_small.mov
+Video	NCSLGR:video files:slave2:774_584_slave2_small.mov
+Video	
+Audio	
+Start frame:	260
+End frame:	1680
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	FATHER	720	740	LIKE	840	860	THAT	920	940	BOOK	1020	1060	FUTURE	1160	1180	QMwg	1320	1500
+non-dominant hand gloss
+yes-no question	yes-no question	1140	1500
+topic/focus	top2	680	1120
+eye brows	start	260	340	start	360	660	raised	680	1540	end	1560	1680
+eye aperture	start	260	340	wide	360	1500	start	1520	1540	blink	1560	1560	lowered lid	1580	1680
+eye gaze	right	440	580
+nose	start	320	480	tensed	500	1680
+head pos: tilt fr/bk	start	360	660	front	680	1000	start	1020	1120	further front	1140	1220	front	1240	1680
+head pos: tilt side	start	520	620	slightly right	640	740	end	760	860
+head pos: turn	slightly left	260	920	start	940	1020	left	1040	1540	end	1560	1680
+head pos: jut	start	420	600	slightly back	620	1020	back	1040	1240	slightly back	1260	1680
+POS	Noun	720	740	Verb	840	860	Demonstrative	920	940	Noun	1020	1060	Tense	1160	1180	Particle	1320	1500
+English translation	As for father liking that book, will he?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:775_585_master_small.mov
+Video	NCSLGR:video files:slave1:775_585_slave1_small.mov
+Video	NCSLGR:video files:slave2:775_585_slave2_small.mov
+Video	
+Audio	
+Start frame:	260
+End frame:	1480
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	FATHER	460	520	GIFT:j	620	720	fs-JOHN	780	900	HOW-MANY	1000	1120	BOOK	1180	1360
+non-dominant hand gloss
+wh question	whq	1000	1360
+eye brows	slightly lowered	260	880	start	900	980	lowered	1000	1480
+eye aperture	lowered lid	260	500	start	520	540	blink	560	580	lowered lid	600	880	closed	900	1080	start	1100	1120	further lowered	1140	1360	closed	1380	1480
+head pos: tilt fr/bk	start	260	560	slightly back	580	1320	end	1340	1480
+head pos: tilt side	start	260	480	right	500	1480
+head pos: turn	start	780	920	slightly left	940	1400	end	1420	1480
+head mvmt: shake	start	900	980	rapid	1000	1360
+POS	Noun	460	520	Verb	620	720	Proper Noun	780	900	Quantifier + Wh-word	1000	1120	Noun	1180	1360
+English translation	How many books did father give to John?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:776_586_master_small.mov
+Video	NCSLGR:video files:slave1:776_586_slave1_small.mov
+Video	NCSLGR:video files:slave2:776_586_slave2_small.mov
+Video	
+Audio	
+Start frame:	240
+End frame:	1600
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	fs-JOHN	400	580	GIFT:j	660	740	TEACHER	900	1020	HOW-MANY	1080	1220	CAR	1260	1540	|>		1600
+non-dominant hand gloss
+wh question	whq	1080	1520
+eye brows	slightly lowered	240	1040	start	1060	1060	lowered	1080	1520	end	1540	1600
+eye aperture	start	240	300	lowered lid	320	960	start	980	1020	closed	1040	1200	further lowered	1220	1540	blink	1560	1600
+nose	start	980	1060	tensed	1080	1220	end	1240	1320
+cheeks	puffed	680	720
+mouth	brr	660	740
+head pos: tilt fr/bk	start	240	480	back	500	1440	end	1460	1600
+head pos: tilt side	start	240	460	right	480	640	start	660	680	further right	700	780	right	800	1600
+head pos: turn	start	960	1040	slightly right	1060	1520	end	1540	1600
+head mvmt: shake	start	1020	1060	rapid	1080	1520
+POS	Proper Noun	400	580	Verb	660	740	Noun	900	1020	Quantifier + Wh-word	1080	1220	Noun	1260	1540
+English translation	How many cars did John give the teacher?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:777_587_master_small.mov
+Video	NCSLGR:video files:slave1:777_587_slave1_small.mov
+Video	NCSLGR:video files:slave2:777_587_slave2_small.mov
+Video	
+Audio	
+Start frame:	360
+End frame:	1580
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	TEACHER	500	640	GIFT:j	740	800	fs-JOHN	840	1000	HOW-MANY	1100	1180	BOOK	1240	1340	part:indef	1420	1500
+non-dominant hand gloss
+wh question	whq	1100	1500
+eye brows	slightly lowered	360	880	start	900	1020	lowered	1040	1500	end	1520	1580
+eye aperture	start	360	400	slightly lowered	420	840	start	860	960	squint	980	1500	blink	1520	1580
+cheeks	puffed	720	800
+mouth	brr	720	800
+head pos: tilt fr/bk	start	360	560	slightly back	580	640	back	660	1300	slightly back	1320	1440	end	1460	1580
+head pos: tilt side	slightly right	360	640	right	660	1580
+head pos: turn	start	980	1040	slightly left	1060	1420	end	1440	1580
+head mvmt: shake	rapid	1040	1500
+POS	Noun	500	640	Verb	740	800	Proper Noun	840	1000	Quantifier + Wh-word	1100	1180	Noun	1240	1340	Particle	1420	1500
+English translation	How many books did the teacher give John?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:778_588_master_small.mov
+Video	NCSLGR:video files:slave1:778_588_slave1_small.mov
+Video	NCSLGR:video files:slave2:778_588_slave2_small.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1040
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	018
+main gloss	TEACHER	260	320	NOW	400	460	IN	560	600	IX-3p:i	680	700	HOUSE	820	940	IX-loc:i	980	1020
+non-dominant hand gloss
+topic/focus	focus/top1	260	320
+eye brows	start	40	100	raised	120	220	start	240	400	further lowered	420	500	start	520	560	lowered	580	700	slightly lowered	720	1040
+eye aperture	blink	40	60	start	80	100	slightly lowered	120	300	start	320	360	squint	380	520	end	540	700
+eye gaze	right	460	720
+nose	start	180	300	tensed	320	340	wrinkle	360	500	tensed	520	540	end	560	600
+cheeks	start	40	160	less tensed	180	320	tensed	340	540	end	560	700
+mouth	slight cs expression	680	700
+neck	start	280	380	tensed	400	680	end	700	960
+body lean	left	560	820
+head pos: tilt fr/bk	start	340	420	slightly front	440	700	end	720	760
+head pos: tilt side	start	40	200	slightly right	220	440	end	460	520
+head pos: turn	start	760	820	slightly left	840	1040
+head pos: jut	start	280	380	back	400	720	end	740	820
+head mvmt: side to side	start	500	520
+POS	Noun	260	320	Tense + Aspect	400	460	Preposition	560	600	Determiner	680	700	Noun	820	940	Adverb	980	1020
+English translation	The teacher is in the house there right now.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:779_589_master_small.mov
+Video	NCSLGR:video files:slave1:779_589_slave1_small.mov
+Video	NCSLGR:video files:slave2:779_589_slave2_small.mov
+Video	
+Audio	
+Start frame:	320
+End frame:	1280
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	TEACHER	480	580	IN	660	700	HOUSE	780	840	IX-loc:i	880	920	QMwg	1080	1260
+non-dominant hand gloss
+yes-no question	yes-no question	460	1260
+eye brows	start	320	440	raised	460	1260	end	1280	1280
+eye aperture	start	320	340	wide	360	1260	end	1280	1280
+eye gaze	right	760	880
+head pos: tilt fr/bk	start	380	540	front	560	840	slightly front	860	1280
+head pos: turn	start	420	520	slightly left	540	760	end	780	820	start	880	900	slightly left	920	1280
+head pos: jut	start	840	920	back	940	1280
+POS	Noun	480	580	Preposition	660	700	Noun	780	840	Adverb	880	920	Particle	1080	1260
+English translation	Is the teacher in that house?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:780_590_master_small.mov
+Video	NCSLGR:video files:slave1:780_590_slave1_small.mov
+Video	NCSLGR:video files:slave2:780_590_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	1660
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	015
+main gloss	TEACHER	460	520	FINISH	540	620	PAST	680	780	IN	900	960	HOUSE	1040	1120	IX-loc:i	1200	1240	QMwg	1380	1540
+non-dominant hand gloss
+yes-no question	yes-no question	460	1540
+eye brows	start	180	340	raised	360	1480	end	1560	1660
+eye aperture	start	180	340	wide	360	1460	start	1480	1580	lowered lid	1600	1660
+eye gaze	right	500	620
+mouth	lips pursed: mm	560	820
+body lean	back/left	660	1100
+head pos: tilt fr/bk	start	820	960	slightly front	980	1440	start	1460	1580	front	1600	1660
+head pos: tilt side	start	180	280	slightly right	300	920	end	940	1100
+head pos: turn	start	600	760	slightly left	780	880	left	900	1580	end	1600	1660
+head pos: jut	start	520	840	back	860	1020	end	1040	1200
+head mvmt: nod	single	520	720
+POS	Noun	460	520	Aspect	540	620	Adverb	680	780	Preposition	900	960	Noun	1040	1120	Adverb	1200	1240	Particle	1380	1540
+English translation	Has the teacher been in the house before? 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:781_591_master_small.mov
+Video	NCSLGR:video files:slave1:781_591_slave1_small.mov
+Video	NCSLGR:video files:slave2:781_591_slave2_small.mov
+Video	
+Audio	
+Start frame:	200
+End frame:	1340
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	TEACHER	380	440	NOT	520	620	IN	680	720	HOUSE	800	900	IX-loc:i	1040	1060
+non-dominant hand gloss
+negative	neg	520	1060
+eye brows	lowered	200	280	start	300	400	further lowered	420	1340
+eye aperture	start	200	220	slightly lowered	240	420	start	440	480	further lowered	500	580	lowered lid	600	920	start	940	940	closed	960	1340
+head pos: tilt fr/bk	start	940	1040	slightly front	1060	1200	start	1220	1280	front	1300	1340
+head pos: tilt side	start	440	500	slightly left	520	980	start	1000	1060	left	1080	1340
+head pos: turn	start	400	480	left	500	540	slightly left	560	620	left	640	1340
+head mvmt: shake	start	400	500	rapid	520	1340
+POS	Noun	380	440	Negation	520	620	Preposition	680	720	Noun	800	900	Adverb	1040	1060
+English translation	The teacher is not in the house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:784_594_master_small.mov
+Video	NCSLGR:video files:slave1:784_594_slave1_small.mov
+Video	NCSLGR:video files:slave2:784_594_slave2_small.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	1120
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	009
+main gloss	STUDENT	280	420	BUY	500	560	CAR	620	780	YESTERDAY	920	1060	|>		1120
+non-dominant hand gloss
+eye brows	start	100	140	lowered	160	1120
+eye aperture	blink	100	120	start	140	160	squint	180	340	closed	360	440	start	460	500	squint	520	600	start	620	760	slightly lowered	780	860	end	880	1120
+head pos: tilt fr/bk	start	320	460	slightly back	480	760	end	780	900
+head pos: tilt side	slightly right	100	360	start	380	600	left	620	1060	end	1080	1120
+head pos: turn	start	420	580	left	600	1120
+POS	Noun	280	420	Verb	500	560	Noun	620	780	Adverb	920	1060
+English translation	The student bought a car yesterday.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:785_595_master_small.mov
+Video	NCSLGR:video files:slave1:785_595_slave1_small.mov
+Video	NCSLGR:video files:slave2:785_595_slave2_small.mov
+Video	
+Audio	
+Start frame:	160
+End frame:	1420
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	STUDENT	380	520	BUY	580	640	CAR	680	780	YESTERDAY	880	980	QMwg	1080	1240
+non-dominant hand gloss
+yes-no question	yes-no question	380	1240
+eye brows	start	160	280	raised	300	1240	end	1260	1380
+eye aperture	lowered lid	160	180	blink	200	220	start	240	320	wide	340	1220	end	1240	1360
+head pos: tilt fr/bk	slightly front	160	560	front	580	1420
+head pos: tilt side	start	220	380	slightly right	400	700	end	720	960
+head pos: turn	start	280	520	slightly left	540	860	left	880	1240	end	1260	1360
+head pos: jut	start	800	940	forward	960	1240	end	1260	1360
+POS	Noun	380	520	Verb	580	640	Noun	680	780	Adverb	880	980	Particle	1080	1240
+English translation	Did the student buy a car yesterday?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:786_596_master_small.mov
+Video	NCSLGR:video files:slave1:786_596_slave1_small.mov
+Video	NCSLGR:video files:slave2:786_596_slave2_small.mov
+Video	
+Audio	
+Start frame:	200
+End frame:	1460
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	TEACHER	360	440	BUY	520	580	HOUSE	640	780	YESTERDAY	920	1040	QMwg	1180	1360
+non-dominant hand gloss
+yes-no question	yes-no question	360	1360
+eye brows	start	200	280	raised	300	1300	end	1320	1460
+eye aperture	start	200	280	wide	300	1300	end	1320	1460
+shoulders	start	880	960	forward	980	1460
+head pos: tilt fr/bk	start	380	440	slightly front	460	1320	end	1340	1460
+head pos: tilt side	slightly right	200	260	start	280	400	right	420	1340	end	1360	1460
+head pos: turn	start	200	320	slightly left	340	900	start	920	1000	left	1020	1340	end	1360	1460
+head pos: jut	start	360	460	back	480	660	end	680	760	start	820	1020	forward	1040	1360	end	1380	1460
+POS	Noun	360	440	Verb	520	580	Noun	640	780	Adverb	920	1040	Particle	1180	1360
+English translation	Did the teacher buy a house yesterday?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:787_597_master_small.mov
+Video	NCSLGR:video files:slave1:787_597_slave1_small.mov
+Video	NCSLGR:video files:slave2:787_597_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	1260
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	010
+main gloss	MOTHER	420	480	BUY	540	640	BOOK	700	780	YESTERDAY	940	1080
+non-dominant hand gloss
+eye brows	slightly lowered	180	1260
+eye aperture	lowered lid	180	460	blink	480	500	start	520	600	lowered lid	620	1000	blink	1020	1080	lowered lid	1100	1260
+head pos: tilt fr/bk	start	180	340	slightly back	360	660	end	680	760	start	960	1100	front	1120	1260
+head pos: tilt side	start	180	360	right	380	1000	end	1020	1260
+head pos: turn	start	340	700	right	720	980	end	1000	1260
+head pos: jut	start	620	760	back	780	920	end	940	1260
+POS	Noun	420	480	Verb	540	640	Noun	700	780	Adverb	940	1080
+English translation	Mother bought a book yesterday.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:788_598_master_small.mov
+Video	NCSLGR:video files:slave1:788_598_slave1_small.mov
+Video	NCSLGR:video files:slave2:788_598_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	1160
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	MOTHER	300	360	BUY	440	500	ONE	560	620	BOOK	720	740	YESTERDAY	880	1020
+non-dominant hand gloss
+eye brows	lowered	180	1160
+eye aperture	start	180	200	lowered lid	220	460	further lowered	480	740	end	760	900	blink	980	1040	start	1060	1100	lowered lid	1120	1160
+mouth	lips spread & crnrs down	180	240
+head pos: tilt fr/bk	start	940	1060	front	1080	1160
+head pos: tilt side	start	180	260	right	280	920	slightly right	940	1160
+head pos: turn	start	180	220	slightly right	240	500	start	520	620	right	640	900	end	920	1160
+head pos: jut	start	580	660	back	680	860	end	880	940
+POS	Noun	300	360	Verb	440	500	Number	560	620	Noun	720	740	Adverb	880	1020
+English translation	Mother bought one book yesterday.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:789_599_master_small.mov
+Video	NCSLGR:video files:slave1:789_599_slave1_small.mov
+Video	NCSLGR:video files:slave2:789_599_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	1160
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	MOTHER	300	360	BUY	420	500	ONE	560	620	BOOK	720	740	YESTERDAY	880	1020
+non-dominant hand gloss
+eye brows	slightly lowered	180	1160
+eye aperture	lowered lid	180	460	blink	480	500	start	520	540	lowered lid	560	800	slightly lowered	820	960	blink	980	1020	lowered lid	1040	1160
+mouth	lips spread & crnrs down	180	240
+head pos: tilt fr/bk	start	440	500	slightly back	520	580	end	600	640	start	960	1020	slightly front	1040	1160
+head pos: tilt side	slightly right	180	220	start	240	420	right	440	880	end	900	1160
+head pos: turn	start	220	340	slightly right	360	520	start	540	600	right	620	900	end	920	1160
+head pos: jut	start	560	680	back	700	820	end	840	900
+POS	Noun	300	360	Verb	420	500	Number	560	620	Noun	720	740	Adverb	880	1020
+English translation	Mother bought one book yesterday.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:791_601_master_small.mov
+Video	NCSLGR:video files:slave1:791_601_slave1_small.mov
+Video	NCSLGR:video files:slave2:791_601_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1380
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	TEACHER	260	320	neu:GIVE:i	460	580	STUDENT	680	760	ONE	840	900	BOOK	1000	1080
+non-dominant hand gloss
+eye brows	lowered	0	1380
+eye aperture	lowered lid	0	60	blink	80	100	lowered lid	120	320	blink	340	360	lowered lid	380	540	blink	560	600	start	620	760	slightly lowered	780	1020	start	1040	1060	blink	1080	1140	lowered lid	1160	1380
+mouth	brr	480	560
+head pos: tilt fr/bk	start	340	420	back	440	880	end	900	1060	start	1100	1220	front	1240	1380
+head pos: tilt side	start	0	260	right	280	1140	end	1160	1380
+head pos: turn	start	340	500	right	520	1080	end	1100	1380
+head pos: jut	start	820	900	slightly back	920	1080	end	1100	1180
+head mvmt: nod	slight single head nod	500	620
+POS	Noun	260	320	Verb	460	580	Noun	680	760	Number	840	900	Noun	1000	1080
+English translation	The teacher gave the student one book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:792_602_master_small.mov
+Video	NCSLGR:video files:slave1:792_602_slave1_small.mov
+Video	NCSLGR:video files:slave2:792_602_slave2_small.mov
+Video	
+Audio	
+Start frame:	800
+End frame:	2640
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	TEACHER	940	1020	(2h)GIFT-3p-pl-arc	1300	1440	STUDENT	1580	1640	BOOK	1720	1740	ONE-distributive-3p-pl-arc	1880	2220
+non-dominant hand gloss
+eye brows	slightly lowered	800	2640
+eye aperture	start	800	800	blink	820	860	start	880	920	further lowered	940	980	start	1000	1000	blink	1020	1040	start	1060	1280	lowered lid	1300	1420	start	1440	1540	slightly lowered	1560	2160	start	2180	2180	blink	2200	2260	lowered lid	2280	2640
+eye gaze	watch hands	1740	1920
+mouth	raised upper lip	1140	1440
+head pos: tilt fr/bk	slightly back	800	1140	end	1160	1320	start	1400	1460	slightly back	1480	2140	start	2160	2500	front	2520	2640
+head pos: tilt side	slightly right	800	1440	start	1460	1800	right	1820	2280	end	2300	2520
+head pos: turn	slightly right	800	1600	start	1620	1860	right	1880	2240	end	2260	2460
+head mvmt: nod	single	1120	1420	slight rapid head nod	1820	2220
+POS	Noun	940	1020	Verb	1300	1440	Noun	1580	1640	Noun	1720	1740	Number	1880	2220
+English translation	The teacher gave each of the students one book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:793_603_master_small.mov
+Video	NCSLGR:video files:slave1:793_603_slave1_small.mov
+Video	NCSLGR:video files:slave2:793_603_slave2_small.mov
+Video	
+Audio	
+Start frame:	200
+End frame:	2660
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	STUDENT	740	780	IX-loc-arc	820	920	PCL:crvd-5"group-together"	1120	1220	PITCH-IN	1420	1520	GIFT:j	1700	1800	TEACHER	1960	2040	BOOK	2140	2260
+non-dominant hand gloss
+eye aperture	lowered lid	200	280	blink	300	380	lowered lid	400	840	blink	860	900	lowered lid	920	1040	blink	1060	1100	lowered lid	1120	1780	end	1800	2060	start	2260	2300	blink	2320	2340	lowered lid	2360	2660
+eye gaze	right	740	840	watch hands	1100	1500
+mouth	raised upper lip	1100	1800
+body lean	slightly back	1660	1820
+head pos: tilt fr/bk	start	200	540	slightly back	560	1100	end	1120	1180	start	1520	1700	back	1720	1900	end	1920	2260
+head pos: tilt side	slightly right	200	1540	start	1560	1720	right	1740	1860	slightly right	1880	2020	end	2040	2660
+head pos: turn	start	300	780	right	800	1880	end	1900	2120
+POS	Noun	740	780	Adverb	820	920	Classifier	1120	1220	Verb	1420	1520	Verb	1700	1800	Noun	1960	2040	Noun	2140	2260
+English translation	The students contributed money to buy the teacher a book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:794_604_master_small.mov
+Video	NCSLGR:video files:slave1:794_604_slave1_small.mov
+Video	NCSLGR:video files:slave2:794_604_slave2_small.mov
+Video	
+Audio	
+Start frame:	360
+End frame:	2140
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	STUDENT	500	520	EACH	640	720	IX-loc-arc	860	980	GIFT-distributive:i	1100	1460	TEACHER	1620	1740	BOOK	1820	1960
+non-dominant hand gloss
+eye brows	slightly lowered	360	520	start	540	620	lowered	640	780	start	800	940	slightly lowered	960	2140
+eye aperture	slightly lowered	360	500	start	520	580	squint	600	940	blink	960	1000	lowered lid	1020	1320	slightly lowered	1340	1960	blink	1980	2000	lowered lid	2020	2140
+eye gaze	right	640	800	watch hands	1040	1500
+mouth	raised upper lip	940	1420
+body lean	start	540	620	left	640	700	end	720	920
+head pos: tilt fr/bk	start	360	420	slightly back	440	600	end	620	680	start	960	1140	slightly back	1160	1560	end	1580	1860
+head pos: tilt side	slightly right	360	480	start	500	640	right	660	1100	start	1120	1160	further right	1180	1360	start	1380	1480	right	1500	1860	end	1880	2140
+head pos: turn	slightly right	360	580	start	600	660	right	680	1980	end	2000	2140
+head pos: jut	start	580	660	back	680	780	end	800	900
+head mvmt: nod	slight rapid head nod	1060	1560
+POS	Noun	500	520	Quantifier	640	720	Adverb	860	980	Verb	1100	1460	Noun	1620	1740	Noun	1820	1960
+English translation	Each of the students gave the teacher a book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:795_605_master_small.mov
+Video	NCSLGR:video files:slave1:795_605_slave1_small.mov
+Video	NCSLGR:video files:slave2:795_605_slave2_small.mov
+Video	
+Audio	
+Start frame:	200
+End frame:	1420
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	TEACHER	260	340	GIFT-distributive-3p-pl-arc	500	780	BOOK	860	960	STUDENT	1080	1260
+non-dominant hand gloss
+eye brows	slightly lowered	200	440	lowered	460	720	slightly lowered	740	1420
+eye aperture	start	200	220	lowered lid	240	380	blink	400	420	start	440	480	lowered lid	500	740	slightly lowered	760	1100	end	1120	1260	blink	1300	1340	further lowered	1360	1420
+eye gaze	left	320	380	down	440	700
+cheeks	puffed	460	760
+mouth	raised upper lip	460	720
+head pos: tilt fr/bk	slightly back	200	1260
+head pos: tilt side	slightly right	200	760	start	780	1080	slightly left	1100	1320	end	1340	1420
+head pos: turn	start	520	620	slightly right	640	720	end	740	780	start	940	1040	slightly left	1060	1300	end	1320	1400
+head mvmt: nod	slight rapid head nod	460	780
+POS	Noun	260	340	Verb	500	780	Noun	860	960	Noun	1080	1260
+English translation	The teacher gave each student a book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:796_606_master_small.mov
+Video	NCSLGR:video files:slave1:796_606_slave1_small.mov
+Video	NCSLGR:video files:slave2:796_606_slave2_small.mov
+Video	
+Audio	
+Start frame:	820
+End frame:	2520
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	STUDENT	1160	1380	BOOK	1580	1680	(2h)alt.GIVE-recip++	1760	2500
+non-dominant hand gloss
+topic/focus	focus/top1	1160	1380
+eye brows	slightly lowered	820	1060	start	1080	1180	raised	1200	1360	start	1380	1520	slightly lowered	1540	2520
+eye aperture	lowered lid	820	1120	start	1140	1220	wide	1240	1360	start	1380	1420	blink	1440	1440	start	1460	1500	slightly lowered	1520	2520
+mouth	raised upper lip	1740	2240
+head pos: tilt fr/bk	back	820	1160	end	1180	1300	start	1460	1760	back	1780	2140	end	2160	2520
+head pos: tilt side	slightly right	820	1100	start	1120	1220	right	1240	2280	end	2300	2520
+head pos: turn	start	1180	1220	slightly left	1240	1480	start	1500	1900	slightly right	1920	2100	start	2120	2220	right	2240	2260	end	2280	2520
+head mvmt: nod	single	1200	1460
+POS	Noun	1160	1380	Noun	1580	1680	Verb	1760	2500
+English translation	The students exchanged books.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:797_607_master_small.mov
+Video	NCSLGR:video files:slave1:797_607_slave1_small.mov
+Video	NCSLGR:video files:slave2:797_607_slave2_small.mov
+Video	
+Audio	
+Start frame:	160
+End frame:	1200
+Number of participant panes:	1
+Participant:	Norma Bowers-Tourangeau
+Number of fields:	013
+main gloss	fs-JOHN	220	320	BUY	420	500	BOOK	620	700	(1h)HOW-MANY	840	1020
+non-dominant hand gloss	BOOK	620	700	|>		840
+wh question	whq	700	1020
+eye brows	start	660	680	lowered	700	1020	end	1040	1140
+eye aperture	start	640	700	squint	720	1020	start	1040	1060	blink	1080	1100	end	1120	1200
+eye gaze	down	400	460
+head pos: tilt fr/bk	start	360	420	slightly front	440	980	end	1000	1120
+head pos: tilt side	start	260	360	slightly right	380	500	end	520	600	start	740	840	slightly right	860	1020	end	1040	1200
+head pos: turn	slightly left	160	160	end	180	260	start	360	420	slightly right	440	680	start	700	860	right	880	1020	slightly right	1040	1200
+head pos: jut	start	260	380	back	400	780	end	800	940
+head mvmt: shake	slight rapid head shake	780	1020
+POS	Proper Noun	220	320	Verb	420	500	Noun	620	700	Quantifier + Wh-word	840	1020
+English translation	How many books did John buy?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:801_611_master_small.mov
+Video	NCSLGR:video files:slave1:801_611_slave1_small.mov
+Video	NCSLGR:video files:slave2:801_611_slave2_small.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1380
+Number of participant panes:	1
+Participant:	Norma Bowers-Tourangeau
+Number of fields:	013
+main gloss	fs-JOHN	220	320	WANT	400	480	BUY	540	620	BOOK	720	820	HOW-MANY	940	1080
+non-dominant hand gloss
+wh question	whq	840	1080
+eye brows	start	760	820	lowered	840	1080	end	1100	1180
+eye aperture	start	40	60	blink	80	100	end	120	160	start	780	820	squint	840	1080	slightly lowered	1100	1200	blink	1220	1260	slightly lowered	1280	1380
+nose	start	780	840	tensed	860	1080	end	1100	1140
+head pos: tilt fr/bk	start	880	1000	slightly front	1020	1120	end	1140	1320
+head pos: tilt side	start	140	300	slightly right	320	1080	end	1100	1260
+head pos: turn	start	880	900	slightly left	920	1020	end	1040	1260
+head pos: jut	start	380	460	back	480	620	end	640	720
+head mvmt: shake	slight rapid head shake	940	1080
+POS	Proper Noun	220	320	Verb	400	480	Verb	540	620	Noun	720	820	Quantifier + Wh-word	940	1080
+English translation	How many books does John want to buy?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:805_618_master_small.mov
+Video	NCSLGR:video files:slave1:805_618_slave1_small.mov
+Video	NCSLGR:video files:slave2:805_618_slave2_small.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	820
+Number of participant panes:	1
+Participant:	Norma Bowers-Tourangeau
+Number of fields:	008
+main gloss	TEACHER	240	280	LIKE	420	480	MOVIE	560	700
+non-dominant hand gloss
+cheeks	start	100	140	tensed	160	280	end	300	320
+mouth	intense	160	280
+head pos: turn	start	180	280	slightly right	300	740	end	760	820
+head pos: jut	start	100	200	back	220	540	end	560	740
+POS	Noun	240	280	Verb	420	480	Noun	560	700
+English translation	The teacher likes movies.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:806_619_master_small.mov
+Video	NCSLGR:video files:slave1:806_619_slave1_small.mov
+Video	NCSLGR:video files:slave2:806_619_slave2_small.mov
+Video	
+Audio	
+Start frame:	120
+End frame:	1800
+Number of participant panes:	1
+Participant:	Norma Bowers-Tourangeau
+Number of fields:	018
+main gloss	TEACHER	260	300	LIKE	360	420	MOVIE	520	580	IX-3p:i	820	820	STUDENT	940	1020	NOT	1140	1160	LIKE	1240	1380
+non-dominant hand gloss	STUDENT	940	1020	|>		1240
+topic/focus	focus/top1	240	320	top2	620	1020
+negative	neg	1140	1520
+head pos: tilt fr/bk	start	700	840	slightly back	860	1020	end	1040	1100
+eye brows	start	120	220	slightly raised	240	320	start	340	360	slightly lowered	380	520	start	540	600	raised	620	1000	start	1020	1140	further lowered	1160	1520	end	1540	1620
+eye aperture	blink	600	640	start	660	840	wide	860	980	start	1000	1080	squint	1100	1520	start	1540	1560	closed	1580	1680	end	1700	1800
+eye gaze	left	360	440	right	680	820
+nose	start	180	280	tensed	300	320	end	340	420	start	960	1040	wrinkle	1060	1460	end	1480	1580
+cheeks	start	180	260	tensed	280	300	end	320	360
+mouth	intense	260	320	open & tense	1180	1540
+head pos: tilt side	start	640	820	right	840	1080	slightly right	1100	1380	end	1400	1660
+head pos: turn	start	540	720	slightly right	740	820	end	840	900	start	1020	1160	right	1180	1620	end	1640	1760
+head pos: jut	start	120	300	back	320	580	start	600	840	forward	860	1020	start	1040	1120	back	1140	1480	end	1500	1660
+head mvmt: shake	start	1020	1120	slow	1140	1520
+head mvmt: nod	slight rapid head nod	260	580
+POS	Noun	260	300	Verb	360	420	Noun	520	580	Determiner	820	820	Noun	940	1020	Negation	1140	1160	Verb	1240	1380
+English translation	The teacher liked the movie but the student didn't.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:807_621_master_small.mov
+Video	NCSLGR:video files:slave1:807_621_slave1_small.mov
+Video	NCSLGR:video files:slave2:807_621_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	900
+Number of participant panes:	1
+Participant:	Norma Bowers-Tourangeau
+Number of fields:	014
+main gloss	TEACHER	220	240	NOT	340	360	LIKE	440	500	MOVIE	580	640	IX-loc:i	720	740
+non-dominant hand gloss
+negative	neg	300	740
+eye brows	start	180	220	lowered	240	740	end	760	900
+eye aperture	start	180	240	squint	260	740	closed	760	900
+nose	start	180	240	wrinkle	260	740	end	760	820
+cheeks	start	180	240	tensed	260	720	end	740	800
+mouth	raised upper lip	640	740
+body lean	start	180	380	back	400	900
+head pos: tilt fr/bk	start	300	360	slightly back	380	900
+head pos: jut	start	260	340	back	360	760	end	780	900
+head mvmt: shake	start	240	280	slight rapid head shake	300	740
+POS	Noun	220	240	Negation	340	360	Verb	440	500	Noun	580	640	Adverb	720	740
+English translation	The teacher doesn't like the movie.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:808_622_master_small.mov
+Video	NCSLGR:video files:slave1:808_622_slave1_small.mov
+Video	NCSLGR:video files:slave2:808_622_slave2_small.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1500
+Number of participant panes:	1
+Participant:	Norma Bowers-Tourangeau
+Number of fields:	017
+main gloss	TEACHER	300	360	LIKE	540	580	BOOK	660	700	|>		800	MOVIE	1000	1040	|>		1100	NOT	1180	1300
+non-dominant hand gloss
+topic/focus	foc/prop-with-ref-to	180	800	focus/top1	820	1040
+negative	neg	1180	1400
+eye brows	start	40	160	raised	180	1040	start	1060	1140	lowered	1160	1400	end	1420	1500
+eye aperture	closed	40	80	start	100	220	wide	240	660	start	680	700	blink	720	740	start	760	800	wide	820	1000	start	1020	1020	blink	1040	1080	squint	1100	1380	start	1400	1400	blink	1420	1460	end	1480	1500
+eye gaze	right	200	300	left	820	880
+nose	start	340	400	tensed	420	700	end	720	780	start	1020	1080	wrinkle	1100	1380	end	1400	1440
+cheeks	start	340	400	tensed	420	700	end	720	760	start	1020	1080	tensed	1100	1380	end	1400	1440
+mouth	start	340	400	intense	420	580	raised upper lip	1100	1380
+head pos: tilt fr/bk	start	100	180	slightly back	200	400	start	420	460	back	480	520	start	540	560	slightly back	580	760	start	780	960	slightly front	980	1020	end	1040	1080
+head pos: tilt side	start	100	300	slightly right	320	800	start	820	880	slightly left	900	1020	end	1040	1080
+head pos: turn	start	520	640	right	660	1040	slightly right	1060	1500
+head pos: jut	start	180	400	back	420	760	end	780	840	start	920	1040	forward	1060	1100	end	1120	1180
+head mvmt: shake	start	1120	1160	rapid	1180	1400
+POS	Noun	300	360	Verb	540	580	Noun	660	700	Noun	1000	1040	Negation	1180	1300
+English translation	The teacher likes books, but doesn't like movies.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:809_623_master_small.mov
+Video	NCSLGR:video files:slave1:809_623_slave1_small.mov
+Video	NCSLGR:video files:slave2:809_623_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	1060
+Number of participant panes:	1
+Participant:	Norma Bowers-Tourangeau
+Number of fields:	011
+main gloss	TEACHER	220	280	IX-3p:i	360	360	LIKE	480	540	MOVIE	640	700	IX-3p:i	800	800
+non-dominant hand gloss
+yes-no question	yes-no question	260	860
+eye brows	start	180	240	raised	260	860	end	880	1020
+eye aperture	start	180	240	wide	260	560	start	580	580	blink	600	600	start	620	700	wide	720	860	start	880	920	closed	940	1000	end	1020	1060
+head pos: tilt fr/bk	start	220	380	front	400	920	end	940	1000
+head pos: tilt side	start	240	480	slightly right	500	900	end	920	1060
+head pos: turn	start	260	400	slightly left	420	900	end	920	1060
+head pos: jut	start	280	360	back	380	880	end	900	1000
+POS	Noun	220	280	Pronoun	360	360	Verb	480	540	Noun	640	700	Pronoun	800	800
+English translation	The teacher, does s/he like movies?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:810_624_master_small.mov
+Video	NCSLGR:video files:slave1:810_624_slave1_small.mov
+Video	NCSLGR:video files:slave2:810_624_slave2_small.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1280
+Number of participant panes:	1
+Participant:	Norma Bowers-Tourangeau
+Number of fields:	017
+main gloss	TEACHER	180	260	WATCH	340	360	MOVIE	460	520	LIKE	700	760	part:indef	800	960	|>		1060
+non-dominant hand gloss	WATCH	340	360
+topic/focus	foc/prop-with-ref-to	160	540
+yes-no question	yes-no question	700	960
+eye brows	start	60	140	raised	160	540	start	560	680	slightly raised	700	960	end	980	1160
+eye aperture	start	60	120	wide	140	940	start	960	980	blink	1000	1000	end	1020	1080
+eye gaze	right	160	260
+cheeks	start	480	520	tensed	540	940	end	960	1040
+nose	start	480	520	wrinkle	540	940	end	960	1040
+mouth	raised upper lip	800	960
+neck	start	500	680	tensed/right	700	940	end	960	1160
+head pos: tilt fr/bk	slightly back	60	180	end	200	320	start	580	640	slightly front	660	900	end	920	1060
+head pos: tilt side	start	60	200	slightly right	220	900	end	920	1200
+head pos: turn	start	280	380	slightly left	400	600	left	620	980	end	1000	1240
+head mvmt: shake	slight rapid head shake	780	960
+POS	Noun	180	260	Verb	340	360	Noun	460	520	Verb	700	760	Particle	800	960
+English translation	Did the teacher like the movie that s/he saw?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:811_625_master_small.mov
+Video	NCSLGR:video files:slave1:811_625_slave1_small.mov
+Video	NCSLGR:video files:slave2:811_625_slave2_small.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	1380
+Number of participant panes:	1
+Participant:	Norma Bowers-Tourangeau
+Number of fields:	016
+main gloss	MOTHER	260	280	BUY	380	460	CAR	500	660	GIFT:j	740	880	fs-JOHN	960	1140	|>		1260
+non-dominant hand gloss	CAR	500	660	|>		1260
+topic/focus	foc/prop-with-ref-to	140	660
+eye brows	raised	140	520	end	540	740
+eye aperture	start	140	160	wide	180	480	start	500	600	squint	620	660	start	680	740	wide	760	860	end	880	940	blink	1220	1260
+eye gaze	down/right	280	420	left	700	760
+nose	start	140	220	tensed	240	600	end	620	700
+cheeks	start	140	220	tensed	240	620	less tensed	640	880	end	900	940
+mouth	lips spread & crnrs down	140	240	lips spread & crnrs up	320	620
+head pos: tilt fr/bk	start	320	400	slightly front	420	460	end	480	680	start	760	900	slightly back	920	980	end	1000	1120
+head pos: tilt side	start	220	360	slightly right	380	440	end	460	580
+head pos: turn	start	180	300	slightly right	320	440	end	460	560
+head pos: jut	start	140	260	back	280	900	end	920	1020
+head mvmt: nod	slight rapid head nod	340	720
+POS	Noun	260	280	Verb	380	460	Noun	500	660	Verb	740	880	Proper Noun	960	1140
+English translation	Mother bought a car and gave it to John.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:812_626_master_small.mov
+Video	NCSLGR:video files:slave1:812_626_slave1_small.mov
+Video	NCSLGR:video files:slave2:812_626_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1600
+Number of participant panes:	1
+Participant:	Norma Bowers-Tourangeau
+Number of fields:	015
+main gloss	fs-JOHN	200	320	BUY	460	500	CAR	540	600	YESTERDAY	720	880	GIFT:j	940	1100	MOTHERwg	1220	1380
+non-dominant hand gloss	CAR	540	600	|>		1380
+topic/focus	foc/prop-with-ref-to	160	880
+eye brows	start	80	140	raised	160	880	end	900	960
+eye aperture	blink	40	80	start	100	200	wide	220	560	start	580	700	squint	720	820	blink	840	860
+eye gaze	down/right	300	440
+cheeks	start	320	420	tensed	440	820	end	840	900
+nose	start	320	380	tensed	400	820	end	840	920
+head pos: tilt fr/bk	start	920	1060	slightly back	1080	1200	end	1220	1360
+head pos: tilt side	start	100	320	slightly right	340	1180	end	1200	1480
+head pos: turn	start	880	1000	slightly right	1020	1360	end	1380	1580
+head pos: jut	start	280	500	back	520	1100	end	1120	1320
+head mvmt: nod	slight rapid head nod	340	920
+POS	Proper Noun	200	320	Verb	460	500	Noun	540	600	Adverb	720	880	Verb	940	1100	Noun	1220	1380
+English translation	John bought a car yesterday and gave it to mother.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:813_627_master_small.mov
+Video	NCSLGR:video files:slave1:813_627_slave1_small.mov
+Video	NCSLGR:video files:slave2:813_627_slave2_small.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1880
+Number of participant panes:	1
+Participant:	Norma Bowers-Tourangeau
+Number of fields:	013
+main gloss	fs-MARY	200	320	BUY	480	620	POSS:i	660	740	MOTHER	840	860	CAR	960	1180	GIFT:k	1240	1360	fs-JOHN	1440	1640
+non-dominant hand gloss	BUY	480	620	|>		860	CAR	960	1180	|>		1300
+topic/focus	focus/top1	200	320
+eye brows	start	20	180	raised	200	320	end	340	440	start	820	940	slightly lowered	960	1080	start	1100	1180	slightly raised	1200	1280	end	1300	1340
+eye aperture	blink	60	80	start	100	200	wide	220	320	end	340	420	start	940	980	slightly lowered	1000	1120	blink	1140	1140	end	1160	1200	blink	1680	1700
+eye gaze	right	340	420	left	1220	1300
+head pos: tilt fr/bk	start	20	120	back	140	320	end	340	400	start	860	1080	slightly front	1100	1140	end	1160	1260
+head pos: tilt side	start	100	260	slightly right	280	660	end	680	800	start	1180	1320	slightly left	1340	1360	end	1380	1460
+head pos: turn	start	600	680	right	700	1180	end	1200	1340
+head pos: jut	start	340	460	back	480	1280	end	1300	1440
+head mvmt: nod	single	880	1240
+POS	Proper Noun	200	320	Verb	480	620	Possessive	660	740	Noun	840	860	Noun	960	1180	Verb	1240	1360	Proper Noun	1440	1640
+English translation	Mary bought her mother's car and gave it to John.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:814_628_master_small.mov
+Video	NCSLGR:video files:slave1:814_628_slave1_small.mov
+Video	NCSLGR:video files:slave2:814_628_slave2_small.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	1260
+Number of participant panes:	1
+Participant:	Norma Bowers-Tourangeau
+Number of fields:	017
+main gloss	fs-JOHN	180	280	BUY	400	480	MOTHER	580	600	CAR	660	740	NOT	840	940
+non-dominant hand gloss	BUY	400	480	|>		560	CAR	660	740	|>		940
+rhetorical question	yes-no rhq	180	740
+negative	neg	820	1000
+eye brows	start	80	160	raised	180	660	end	680	740
+eye aperture	start	80	160	wide	180	600	start	620	660	blink	680	680	slightly lowered	700	960	end	980	1120
+eye gaze	right	260	340
+nose	start	160	280	tensed	300	640	start	740	840	tensed	860	980	end	1000	1120
+cheeks	start	220	300	tensed	320	600	end	620	680
+mouth	lips spread & crnrs down	260	620	lips spread & crnrs down	720	1080
+head pos: tilt fr/bk	start	80	160	slightly back	180	200	end	220	300	start	620	700	slightly back	720	1040	end	1060	1200
+head pos: tilt side	start	140	280	slightly right	300	640	end	660	720
+head pos: turn	start	340	500	slightly right	520	640	right	660	1020	end	1040	1160
+head pos: jut	forward	80	80	start	100	340	back	360	640	end	660	720
+head mvmt: shake	start	720	800	rapid	820	1000
+POS	Proper Noun	180	280	Verb	400	480	Noun	580	600	Noun	660	740	Negation	840	940
+English translation	Did John buy mother's car? No, he did not.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:815_629_master_small.mov
+Video	NCSLGR:video files:slave1:815_629_slave1_small.mov
+Video	NCSLGR:video files:slave2:815_629_slave2_small.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1300
+Number of participant panes:	1
+Participant:	Norma Bowers-Tourangeau
+Number of fields:	016
+main gloss	MOTHER	240	260	BUY	340	440	CAR	500	560	FOR	640	660	fs-JOHN	700	820	#NO	860	940	|>		1140
+non-dominant hand gloss	CAR	500	560	|>		1140
+rhetorical question	yes-no rhq	180	820
+negative	neg	860	1140
+eye brows	start	60	160	raised	180	820	end	840	980
+eye aperture	start	60	160	wide	180	800	start	820	840	blink	860	860	slightly lowered	880	980	end	1000	1100
+eye gaze	down/right	220	300
+nose	start	60	140	tensed	160	1040	end	1060	1160
+cheeks	start	60	140	tensed	160	1040	end	1060	1160
+mouth	lips spread & crnrs down	120	400	lips spread & crnrs down	880	1080
+head pos: tilt side	start	240	340	right	360	880	end	900	1140
+head pos: turn	start	180	240	slightly right	260	340	end	360	580	start	820	880	right	900	1200	end	1220	1300
+head pos: jut	start	200	260	back	280	840	end	860	940
+head mvmt: shake	rapid	840	1160
+POS	Noun	240	260	Verb	340	440	Noun	500	560	Preposition	640	660	Proper Noun	700	820	Negation	860	940
+English translation	Did mother buy a car for John? No, she did not.
+Notes - number of character bytes:	0

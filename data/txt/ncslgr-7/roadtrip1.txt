@@ -1,0 +1,1138 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	roadtrip1	Firewire 38200:NCSLGRv7:roadtrip1
+Number of utterances:	36
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	4200
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-1p	320	440	AFTER	560	920	IX-1p	1080	1160	FINISH	1240	1480	fs-CSUN	1600	2160	PAST	2360	3160	SEMESTER	3560	4120
+non-dominant hand gloss	1: "focus"	1640	2400
+head pos: tilt fr/bk	start	0	200	slightly front	240	2440	start	2480	3600	front	3640	4040	end	4080	4200
+head pos: tilt side	start	0	280	right	320	1600	start	1640	2320	left	2360	4040	end	4080	4200
+head pos: turn	start	0	280	right	320	1600	start	1640	2320	left	2360	4040	end	4080	4200
+head mvmt: nod	start	280	600	slow	640	1360	start	1400	2960	rapid	3000	4000	end	4040	4200
+head pos: jut	start	0	240	back/right	280	1480	start	1520	2480	back/left	2520	4000	start	4040	4080	forward/left	4120	4200
+body lean	start	0	320	back	360	1040	start	1080	1960	back	2000	3400	start	3440	3760	forward	3800	4200
+eye brows	start	0	120	lowered	160	4200
+eye aperture	start	0	160	squint	200	4200
+nose	start	0	240	wrinkle	280	4160	end	4200	4200
+POS	Determiner	320	440	Preposition	560	920	Pronoun	1080	1160	Aspect Marker	1240	1480	Proper Noun	1600	2160	Tense Marker	2360	3160	Noun	3560	4120
+eye gaze	addressee	0	4200
+English translation	I was completed last semester at CSUN. 
+Notes - number of character bytes:	3
+CBD
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	4200
+End frame:	9640
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-1p	4360	4520	TWO	4680	4760	FRIEND	4920	5160	|>		5760	IX-1p	6000	6120	DECIDE	6280	6440	DRIVE	6560	6960	TO	7080	7240	fs-BOSTON	7360	8800	ns-BOSTON	8880	9440	IX-1p	9600	9640
+non-dominant hand gloss	JOIN	5280	5720	|>		6160	UNKNOWN	7440	7880	|>		9640
+head pos: tilt fr/bk	start	4200	5280	front	5320	5960	start	6000	6360	slightly front	6400	7320	start	7360	7840	slightly back	7880	8600	start	8640	8840	front	8880	9400	start	9440	9560	back	9600	9640
+head pos: turn	start	4200	4480	right	4520	5600	start	5640	6120	left	6160	7120	start	7160	7560	right	7600	8640	start	8680	8960	left	9000	9360	end	9400	9640
+head pos: jut	start	4360	4680	back/right	4720	5760	start	5840	6280	back/left	6320	7040	start	7080	7680	back/right	7720	8760	start	8800	9080	back/left	9120	9320	end	9360	9640
+head mvmt: nod	start	8120	8880	slow	8920	9400	end	9440	9640
+body lean	start	4200	4560	back	4600	6560	start	6640	7160	forward	7200	7520	start	7560	8080	back	8120	8920	end	8960	9640
+eye brows	lowered	4200	9640
+eye aperture	start	4200	4520	squint	4560	9640
+nose	start	4200	4440	wrinkle	4480	9640
+POS	Determiner	4360	4520	Number	4680	4760	Noun	4920	5160	Pronoun	6000	6120	Verb	6280	6440	Verb	6560	6960	Preposition	7080	7240	Proper Noun	7360	8800	Proper Noun	8880	9440
+eye gaze	addressee	4200	9640
+Non-dominant POS	Verb	5280	5720
+English translation	My two friends joined and we decided to drive to Boston.
+Notes - number of character bytes:	62
+- UNKNOWN= he used handshape of "G", not sure what that means?
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	9640
+End frame:	16840
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-1p	9800	9880	DRIVE++	10000	10920	START	11040	11280	FROM	11400	11680	|>		13240	TO	13400	13520	fs-SF	13640	14320	|>		14840	VISIT	15000	15240	GOOD	15320	15480	FRIEND	15600	15920	fs-OF	16000	16080	POSS-1p	16200	16840
+non-dominant hand gloss	fs-LA+	11840	12240	IX-loc:i	12360	13240	TO	13400	13520	|>		13640	IX-loc:j	14680	14880	VISIT	15000	15240	|>		15360	IX-3p	15400	15480	FRIEND	15600	15920	|>		16840
+head pos: tilt fr/bk	start	9640	9880	back	9920	10640	start	10680	10920	front	10960	12440	start	12520	13200	back	13240	13280	start	13320	14280	front	14320	15240	start	15280	15920	front	15960	16600	end	16640	16840
+head pos: turn	start	9640	9800	right	9840	10520	start	10560	10960	left	11000	11600	start	11640	12120	right	12160	13320	start	13360	14640	left	14680	15200	start	15240	15520	right	15560	16840
+head pos: tilt side	start	9840	10040	right	10200	10480
+head pos: jut	start	9640	9840	forward/right	9880	10560	start	10600	11240	back/left	11280	11640	start	11680	12240	back/right	12280	13560	start	13600	14680	back/left	14720	15240	start	15280	15800	back/right	15840	16640	end	16680	16840
+body lean	start	9640	9840	back	9880	11120	start	11160	11480	back	11520	13560	start	15960	16560	forward	16600	16840
+eye brows	lowered	9640	14280	start	14320	15280	lowered	15320	16840
+eye aperture	squint	9640	9680	close	9720	10680	squint	10720	12360	close	12440	13440	squint	13480	14320	start	14400	15240	squint	15280	16200	end	16240	16840
+nose	wrinkle	9640	14360	start	14400	15400	wrinkle	15440	16600	end	16640	16840
+eye gaze	addressee	9640	16800	left	16840	16840
+POS	Determiner	9800	9880	Verb	10000	10880	Adverb	11040	11280	Preposition	11400	11680	Modal	13400	13520	Proper Noun	13640	14320	Verb	15000	15240	Adjective	15320	15480	Noun	15600	15920	Preposition	16000	16080	Pronoun	16200	16840
+Non-dominant POS	Proper Noun	11880	12240	Determiner	12360	13240	Modal	13400	13520	Determiner	14680	14880	Verb	15000	15240	Pronoun	15400	15480	noun	15600	15920
+English translation	I drove from LA up to SF to visit a good friend of mine.
+Notes - number of character bytes:	50
+- Did I do right with the i and j for both IX-loc?
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	16840
+End frame:	23520
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	ENJOY	16840	16920	|>		18040	GREAT	18200	18680	REALLY	18880	18960	ENJOY++	19080	20040	REALLY	20160	20280	GRAB	20360	20800	ns-SF	20920	21240	AREA	21400	21720	BEAUTIFUL	22200	22800	CITY	23000	23520
+non-dominant hand gloss	IX-3p	16840	17040	TRIP	17160	18000	GRAB	20360	20800	|>		22800
+head pos: tilt fr/bk	start	16840	17120	back	17160	17520	start	17560	18360	front	18400	19040	start	19080	19560	slightly back	19600	20000	start	20040	21120	front	21160	21840	start	21920	22000	back	22040	22240	start	22280	22880	front	22920	23000	end	23040	23520
+head pos: turn	start	16840	17480	right	17520	18160	start	18200	18680	left	18720	18960	start	19000	19440	right	19480	20160	start	20200	21200	right	21240	21960	end	22000	23520
+head pos: tilt side	start	18200	18520	left	18560	18920	start	18960	19560	right	19640	20160	start	20200	20600	left	20680	21040	start	21080	22200	left	22240	22880	end	22920	23520
+head pos: jut	start	16840	17160	forward/left	17200	17320	start	17360	18160	forward	18200	22040	start	22080	22720	forward	22760	23040	end	23080	23520
+body lean	start	16840	17160	back	17200	17720	start	17760	20640	forward	20680	21960	end	22000	23520
+eye brows	lowered	16840	23520
+eye aperture	start	16840	17120	squint	17160	17240	close	17280	20240	squint	20280	23520
+nose	start	16840	17160	wrinkle	17200	21160	end	21200	23520
+eye gaze	left	16840	17120	up	17160	17280	addressee	20560	23520
+POS	Determiner	16840	18040	Adjective	18200	18680	Adverb	18880	18960	Verb	19080	20040	Discourse Marker	20160	20280	Verb	20360	20800	Proper Noun	20920	21240	Noun	21400	21720	Adjective	22200	22800	Noun	23000	23520
+Non-dominant POS	Determiner	16840	17040	Verb	17160	18000	Verb	20360	20800
+English translation	We went trip to SF.  We enjoyed and SF is a beautiful city. 
+Notes - number of character bytes:	32
+- ENJOY OR MY (the first word)?
+
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	23520
+End frame:	28494
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	CITY	23520	23600	REALLY	23680	23800	IX-3p	23840	23920	ADMIT	24000	24360	IX-3p:j	24520	24720	COPY+	24840	25320	fs-BOSTON	25400	26640	A-LITTLE	26760	27040	BUT	27160	27400	UNKNOWN	27480	28120
+non-dominant hand gloss	5:"focus"	24320	24760	5:"focus"	25400	26640	1:"focus"	26840	27080
+head pos: tilt fr/bk	start	23520	26560	front	26600	27320	end	27360	28400
+head pos: tilt side	right	23520	23720	start	23760	23880	right	23920	26120	start	26160	26600	left	26640	27160	end	27200	28320
+head pos: jut	start	24240	25120	back/left	25200	26400	start	26440	26760	forward/left	26800	27320	end	27360	28494
+body lean	start	23520	24680	left	24720	25360	start	25400	26760	forward	26800	27320	end	27360	28120
+eye brows	lowered	23520	28160	end	28200	28494
+eye aperture	start	23520	23640	close	23680	24760	squint	24800	27040	close	27080	28320	squint	28360	28494
+nose	start	23520	23760	wrinkle	23800	25000	start	25040	26400	wrinkle	26440	28040	end	28080	28494
+eye gaze	addressee	23520	23760	addressee	24840	28494
+POS	Noun	23520	23600	Discourse Marker	23680	23800	Determiner	23840	23920	Verb	24000	24360	Determiner	24520	24720	Verb	24840	25320	Proper Noun	25400	26640	Adjective	26760	27040	Conjunction	27160	27400
+Non-dominant POS
+English translation	I admit that SF is copying Boston a little.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	28494
+End frame:	31480
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	UNKNOWN	28600	28720	IX-1p	28800	28880	DRIVE	28960	29600	FROM	29640	29880	|>		30200	TO	30360	30480	CL:B"across the land"	30720	31480
+non-dominant hand gloss	fs-SF	29960	30200
+head pos: tilt fr/bk	start	28494	28600	back	28640	29040	start	29080	29800	front	29840	31480
+head pos: turn	start	28494	29040	right	29080	29680	start	29720	30120	further right	30160	31080	start	31120	31320	left	31360	31480
+head pos: jut	start	28494	28760	forward/right	28800	29360	back/right	29400	29600	start	29640	30080	back/right	30120	31160	start	31200	31400	back/left	31440	31480
+body lean	start	28494	28680	back	28720	29600	end	29640	30480
+eye brows	start	29000	29880	lowered	29920	31480
+eye aperture	start	28494	28680	squint	28720	29400	start	29440	30720	squint	30760	31480
+nose	start	29040	30240	wrinkle	30320	31480
+eye gaze	addressee	28494	29080	addressee	29640	31480
+POS	Pronoun	28800	28880	Verb	28960	29600	Preposition	29640	29880	Preposition	30360	30480	Preposition	30800	31480
+Non-dominant POS	Proper Noun	29960	30200
+English translation	I drove from SF to across the country.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	31480
+End frame:	40760
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	ON	31960	32120	I-80	32280	33200	ALL-THE-WAY	33720	34200	CL:B"across the land"	34480	35040	FUTURE	35160	35320	CHANGE	35440	35480	I-90	35640	36120	LATER	36320	36480	IX-1p	36720	36840	EXPECT	36960	37320	THREE-DAY	37440	37920	FOUR-DAY	38080	38560	REALLY	38680	38880	IX-1p	39040	39080	WRONG	39240	39800	AWFUL	39960	40520
+non-dominant hand gloss	1:"focus"	32400	33400	|>		35040
+head pos: tilt fr/bk	front	31480	32120	start	32160	33800	slightly front	33840	34320	start	34360	34600	slightly back	34640	34880	start	34960	36320	front	36360	37440	start	37480	37760	back	37800	38080	start	38120	38640	front	38680	40040	end	40080	40760
+head pos: tilt side	start	31480	32280	slightly left	32320	33400	left	33480	34160	start	34200	35200	slightly left	35240	35920	left	35960	36720	start	36760	37360	slightly right	37400	38120	start	38160	38720	left	38760	39120	start	39160	39360	right	39400	39920	start	39960	40200	left	40320	40760
+head pos: jut	back	31480	33760	forward/left	33800	34080	start	34120	34440	forward/right	34480	35120	start	35160	35360	forward/left	35400	35840	start	35880	36280	back/left	36320	36920	start	36960	37440	back/right	37480	38200	start	38240	39360	forward/right	39400	40040	end	40080	40760
+body lean	start	31480	33800	slightly forward	33840	37480	start	37520	38600	forward	38640	39960	end	40000	40760
+eye brows	lowered	31480	38440	start	38520	38760	raised	38800	40760
+eye gaze	addressee	31480	40400	left	40440	40760
+eye aperture	squint	31480	38280	start	38320	38640	wide	38680	39680	close	39720	40360	end	40400	40760
+nose	wrinkle	34360	38320	start	38360	38560	tensed	38600	40360	end	40400	40760
+POS	Preposition	31960	32120	Pronoun	32280	33200	Preposition	33720	34200	Classifier	34480	35040	Tense Marker	35160	35320	Verb	35440	35480	Pronoun	35640	36120	Adverb	36320	36480	Pronoun	36720	36840	Verb	36960	37320	Noun	37440	37920	Noun	38080	38560	Adverb	38680	38880	Pronoun	39040	39080	Verb	39240	39800	Adjective	39960	40520
+English translation	On I-80 road all the way across the country and it will change to I-90 eventually. I expect it would takes maybe three or four days to cross the country.  But, I am wrong!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	40760
+End frame:	55635
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	AWFUL	40760	40840	REALLY	41040	41280	IX-1p	41320	41480	DRIVE	41640	41880	IX-1p	41960	42000	IN	42120	42400	fs-NEVADA	42520	43960	|>		44200	REALLY	44400	44440	|>		44880	FRIEND	45360	45920	TEMPT++	46000	46920	DECIDE	47080	47400	CL:3"car pulling over"	47560	48200	CASINO	48240	48760	fs-CASINO	48800	50240	ON	50680	50800	BEGIN	50880	51080	OF	51160	51200	ns-NEV	51240	52200	STATE	52360	52600	LINE	52720	53000	BETWEEN	53080	53360	ns-CALIFORNIA	53480	54120	AND	54280	54680	IX-3p	54720	54800	ns-NEV	54960	55520
+non-dominant hand gloss	DRIVE	41640	41880	|>		42000	IX-3p-arc	44680	45240	1: "focus"	51360	52200	IX-3p	53480	54080	|>		55360
+head pos: tilt fr/bk	start	40760	41200	back	41240	43360	start	43400	43640	front	43720	44200	start	44240	44680	back	44720	45360	start	45400	45760	front	45800	45960	start	46000	46240	back	46280	46760	start	46800	47200	front	47240	48760	start	48800	49960	front	50000	55400	end	55440	55635
+head pos: tilt side	start	40760	41200	right	41240	42000	start	42040	43760	left	43840	44160	start	44200	44480	right	44560	45360	start	45400	45920	left	45960	46760	start	46800	47080	right	47120	48040	start	48080	48400	left	48440	48800	start	48840	49720	right	49760	50680	start	50720	51240	left	51280	52240	start	52280	52640	right	52680	53280	start	53320	53680	left	53720	54120	start	54160	54560	right	54600	55280	end	55320	55635
+head pos: jut	start	40760	41240	forward/right	41280	41920	start	41960	42400	back/left	42440	44040	start	44080	44560	back/right	44640	45360	start	45400	46480	back/left	46600	46800	start	46880	47200	back/right	47240	48120	start	48160	48600	forward/left	48640	48840	start	49080	49760	back/right	49800	50800	back	50840	51240	back/left	51280	52160	start	52200	52520	back/right	52560	53400	start	53440	54800	back/right	54840	55440	end	55480	55635
+body lean	start	40760	41560	back/right	41600	41760	start	41800	43640	slightly forward	43680	44280	start	44320	44640	back/right	44680	45640	start	45680	45960	back/left	46000	46800	start	46840	47440	forward/right	47480	48200	forward	48240	50760	start	50800	51160	back/right	51200	52720	back	52760	55160	end	55200	55635
+eye brows	start	40760	41440	raised	41480	43840	start	43880	48360	lowered	48480	55280	end	55320	55635
+eye gaze	left	40760	40840	addressee	44200	55635
+eye aperture	start	40760	40760	blink	40800	41200	start	41240	41960	wide	42000	43920	start	43960	46800	close	46840	47360	start	47400	48400	squint	48440	55240	end	55280	55635
+nose	start	40760	41440	tensed	41480	41960	start	42000	48360	wrinkle	48400	55635
+negative	start	48200	48480	neg	51240	55635
+POS	Adjective	40760	40840	Discourse Marker	41040	41280	Pronoun	41320	41480	Verb	41640	41880	Pronoun	41960	42000	Verb	42120	42400	Proper Noun	42520	43960	Adverb	44320	44880	Noun	45360	45920	Verb	46000	46920	Verb	47080	47400	Classifier	47560	48200	Noun	48240	48760	Noun	48800	50240	Preposition	50680	50800	Adjective	50880	51080	Preposition	51160	51200	Noun	51240	52200	Noun	52360	52600	Adjective	52720	53000	Preposition	53080	53360	Proper Noun	53480	54120	Adverb	54280	54680	Pronoun	54720	54800	Proper Noun	54960	55520
+Non-dominant POS	Verb	41640	41880	Pronoun	44680	45240	Pronoun	53480	54080
+English translation	My frends and I drove through Nevada.  Three of us were tempting to play gambling so we decided to pull over by casino in border between Nevada and California.
+Notes - number of character bytes:	40
+-THREE OF US, or should I put IX-3p-arc?
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	55635
+End frame:	61920
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	IX-1p	55640	55760	CL:3"car pulling over"	55880	56280	GAMBLE++	56400	57280	IX-1p	57440	57480	HAVE	57520	57560	GOOD	57680	57720	TIME	57840	58360	FOR	58560	58880	MAYBE	59400	59480	FEW	59680	59760	HOUR	59960	60360	IX-1p	60440	60520	GET-IN	60560	60920	#CAR	61320	61840
+non-dominant hand gloss	UNKNOWN	55635	55640	|>		56280
+head pos: tilt fr/bk	start	55635	55720	slightly back	55760	56000	start	56040	56200	slightly front	56240	57200	start	57240	57480	slightly back	57520	57840	start	57880	58080	front	58160	58320	start	58360	58760	front	58800	60360	start	60400	60560	back	60600	61160	start	61200	61440	front	61480	61680	end	61720	61920
+head pos: tilt side	start	55635	55760	left	55800	56280	start	56320	56680	right	56760	57320	start	57360	57480	left	57520	58200	start	58240	58840	right	58880	59400	start	59440	59600	left	59640	59960	start	60000	60520	right	60560	60680	start	60720	61200	left	61240	61560	end	61600	61920
+head pos: jut	start	55635	56040	back/left	56080	56160	start	56200	56520	back/right	56600	57240	start	57280	57560	forward/left	57600	58320	start	58360	58880	back/right	58960	59240	start	59280	59640	forward	59680	59840	start	59880	60320	forward	60360	60880	start	60960	61480	back	61520	61560	end	61600	61920
+body lean	start	55635	55840	slightly back	55880	56040	start	56080	58000	slightly forward	58040	58440	start	58480	59360	forward	59400	60480	start	60520	61440	forward	61480	61920
+eye brows	start	55635	56440	lowered	56480	57360	start	57400	58360	slightly lowered	58400	60400	end	60440	61720
+eye aperture	start	55635	55960	squint	56000	56880	close	56960	57840	lowered lid	57880	60280	squint	60320	61760	close	61800	61920
+nose	start	55635	55840	tensed	55880	56280	wrinkle	56320	56840	start	56880	58520	wrinkle	58560	60440	end	60480	61840
+negative	start	56160	56400	neg	56440	56680	end	56720	57440
+eye gaze	addressee	55635	61920
+POS	Determiner	55640	55760	Classifier	55880	56280	Verb	56400	57280	Pronoun	57440	57480	Verb	57520	57560	Adjective	57680	57720	Noun	57840	58360	Preposition	58560	58880	Adverb	59400	59480	Quantifier	59680	59760	Noun	59960	60360	Pronoun	60440	60520	Verb	60560	60920	Noun	61320	61840
+English translation	I pulled the car over and gambling.  I had a good time for maybe few hours and then I got back into the car. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	62080
+End frame:	71600
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	part:indef	62080	62280	IX-1p	62320	62400	DRIVE++	62600	63880	HOPE	64120	64400	OUT	64480	65000	fs-NEVADA	65200	66240	fs-SO	66320	66560	NOT	66680	66800	FEEL	66840	67080	TEMPT++	67280	67680	AGAIN	67880	68160	TO	68400	68520	GAMBLE	68600	68960	WHY	69040	69120	IX-1p-pl-arc	69160	69440	LOSE	69600	69920	A-LITTLE	70120	70320	MONEY	70360	70640	BUT	70720	70920	UNKNOWN	71000	71480
+non-dominant hand gloss
+head pos: tilt fr/bk	start	62080	62320	back	62360	62760	start	62800	63560	front	63640	64000	start	64040	64480	front	64560	70920	start	70960	71120	front	71160	71400	end	71440	71600
+head pos: tilt side	start	62080	62280	right	62320	63160	start	63320	64040	left	64080	64240	start	64280	64400	right	64440	65280	start	65320	65920	left	65960	66320	start	66360	66640	right	66680	67240	start	67280	67800	left	67840	68760	start	68800	69080	right	69120	69560	start	69600	70000	left	70040	70640	start	70680	70880	right	70920	71320	end	71400	71600
+head pos: jut	start	62080	62360	back/right	62400	63200	start	63240	64080	back/right	64120	65080	start	65120	66000	back/left	66040	66400	start	66440	66640	back/right	66680	67200	start	67240	67560	back/left	67600	68880	start	68920	70240	back/left	70280	70680	start	70720	71120	back/right	71200	71360	end	71400	71600
+head mvmt: shake	start	67240	67840	rapid	67880	68400	end	68440	68920
+head mvmt: nod	start	70360	71040	slow	71080	71600
+body lean	start	62080	62760	slightly forward	62800	64240	start	64280	64880	forward	64920	65320	end	65440	67760
+eye brows	start	62080	66240	lowered	66280	67920	start	67960	68960	lowered	69000	69360	start	69400	70560	lowered	70600	71600
+eye aperture	close	62080	62560	start	62600	66280	squint	66320	68000	start	68040	68960	squint	69000	69400	start	69440	69480	wide	69520	70360	start	70440	70640	squint	70680	70840	close	70880	71600
+nose	start	62080	63880	tensed	63920	65120	start	65160	66360	wrinkle	66400	67960	start	68000	69040	wrinkle	69080	69440	start	69480	70600	wrinkle	70640	71600
+negative	start	66000	66360	neg	66400	68040	start	68080	69000	neg	69040	69320	start	69360	70520	neg	70560	71600
+eye gaze	left	62600	63360	up/left	63440	63680	addressee	63760	64960	left	65000	65200	addressee	65240	71600
+POS	Particle	62080	62280	Pronoun	62320	62400	Verb	62600	63880	Verb	64120	64400	Adverb	64480	65000	Proper Noun	65200	66240	Conjunction	66320	66560	Negation	66680	66800	Verb	66840	67080	Verb	67280	67680	Adverb	67880	68160	Preposition	68400	68520	Verb	68600	68960	Wh-word	69040	69120	Pronoun	69160	69440	Verb	69600	69920	Adjective	70120	70320	Noun	70360	70640	Conjunction	70720	70920
+English translation	I hope to get out of Nevada so that way I wont feel tempt to play gamble again.  Because, I lost a little money from gambling.  
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	71600
+End frame:	82040
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	READY	73120	73200	TO	73280	73360	OUT	73440	73960	fs-NEVADA	74440	75440	REALLY	76280	76440	part:indef	76520	77080	FEEL	77320	77400	SOMETHING	77480	78080	POSS-1p	79720	79880	#CAR	80040	80320
+non-dominant hand gloss	TRIP	72040	72920	BACK	78280	78680	CL:4"back in the car fell "	80920	82040
+head pos: tilt fr/bk	start	71600	71920	back	71960	74000	start	74040	75320	front	75360	76520	start	76600	78680	front	78880	80880	start	80920	81240	further front	81320	82040
+head pos: tilt side	start	71600	72080	left	72240	76080	start	76120	78600	right	78640	80320	start	80440	80920	left	80960	81200	end	81240	82040
+head pos: jut	start	71600	72160	forward/left	72200	73160	start	73200	73440	back/left	73520	76120	back	76200	78040	back/right	78080	80440	start	80520	80840	back/left	80880	81160	start	81200	81440	forward	81480	82040
+body lean	start	71600	72000	back	72040	81120	start	81160	81520	forward	81560	82040
+eye brows	start	71600	73000	raised	73040	75400	start	75440	78600	lowered	78640	80480	end	80520	81800
+eye aperture	close	71600	72440	start	72520	73240	wide	73280	75320	start	75360	78600	squint	78640	80480	start	80520	80600	blink	80680	80720	start	80800	80880	slightly lowered	80920	81480	end	81520	81880
+nose	start	71600	72040	tensed	72080	74360	start	74400	78640	wrinkle	78680	80480	end	80520	81880
+negative	start	78080	79080	neg	79280	80480	end	80520	81880
+eye gaze	addressee	71600	72200	up	72240	73160	addressee	73200	75440	up/left	75560	76840	addressee	80720	82040
+POS	Verb	73120	73200	Preposition	73280	73360	Verb	73440	73960	Proper Noun	74440	75440	Discourse Marker	76280	76440	Particle	76520	77080	Verb	77320	77400	Adverb	77480	78080	Pronoun	79720	79880	Noun	80040	80320
+Non-dominant POS	Verb	72040	72920	noun	78280	78680	Classifier	80920	82040
+English translation	When we ready to get out of Nevada, I felt something in back of my car like it fell down and hit the ground.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	82040
+End frame:	91400
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	CL:4"back in the car fell"	82040	82120	IX-1p	82240	82440	part:indef	82520	83800	POSS-1p	83840	84000	FRIEND	84080	84440	IX-3p	84480	84600	|>		85400	CL:3 "car following other car"	85440	86600	IX-1p	86760	87720	"wave"	87960	88960	|>		89760	CL:3"cars pulling over"	89840	90760
+non-dominant hand gloss	DRIVE	82360	82800	|>		83840	CL:3"car in front"	84520	85280	DRIVE	86840	86880	|>		88920	THUMB-IX-3p	89280	89840
+head pos: tilt fr/bk	front	82040	82240	start	82280	82680	front	82720	82920	start	82960	83120	back	83160	83680	start	83720	84280	front	84320	86720	start	86760	87560	back	87600	88160	start	88320	88920	slightly front	88960	90680	start	90720	90880	back	90920	91400
+head pos: tilt side	start	82040	83880	right	83920	84880	start	84920	85240	left	85280	88960	start	89000	89120	right	89200	89400	start	89480	89520	left	89600	89760	start	89840	90040	right	90080	90320	start	90480	90680	left	90720	91400
+head pos: jut	start	82040	82520	forward	82560	83240	start	83360	83880	back	83920	84920	start	85000	85400	back/left	85440	88960	start	89000	89160	back/right	89200	89440	start	89480	89560	back/left	89600	89760	start	89800	90040	back/right	90080	90480	start	90560	90720	forward/left	90760	91400
+body lean	start	82040	82760	forward	82800	83080	start	83120	84520	slightly back	84600	84920	start	84960	85800	forward	85840	87000	start	87040	87240	slightly back	87320	87920	start	87960	90520	slightly forward	90560	90920	end	90960	91400
+head mvmt: shake	start	86960	87960	rapid	88040	89800	end	89840	90720
+eye brows	start	82040	83920	lowered	83960	86680	start	86720	87000	raised	87040	89600	start	89640	89960	slightly lowered	90000	90480	end	90520	91080
+eye aperture	start	82040	82360	lowered lid	82400	82800	start	82840	83760	squint	83800	86560	start	86600	87240	wide	87280	87960	start	88000	88080	further lowered	88120	89880	end	89920	90760
+nose	start	82040	83960	wrinkle	84000	86720	start	86760	87080	tensed	87120	89880	end	89920	90760
+negative	start	83360	83840	neg	83880	86680	end	86720	87960
+eye gaze	addressee	82040	82120	up/left	82160	82360	addressee	82400	82640	left	82680	83400	addressee	83480	86840	up/left	86880	87600	addressee	87640	90640	left	90680	91000	addressee	91040	91400
+POS	Classifier	82040	82120	Pronoun	82240	82440	Particle	82520	83800	Pronoun	83840	84000	Noun	84080	84440	Pronoun	84480	84600	Classifier	85440	86600	Pronoun	86760	87720	Verb	87960	88960	Classifier	89840	90760
+Non-dominant POS	Verb	82360	82800	Classifier	84520	85280	Verb	86840	86880	Verb	89280	89840
+English translation	My friends were driving in front of me whom I was following.  I had to get their attention by waving to pull the car over.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	91400
+End frame:	101680
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-1p	92000	92200	CL:1"walking around"	92400	92960	OUT	93120	93360	POSS-1p	93520	93560	#CAR	93640	94000	CL:1"walking around"	94080	94600	LOOK	94760	95040	part:indef	95240	96080	POSS-1p	96120	96240	TIRE	96360	96960	FLAT	97040	98560	CL:5 "object split"	99000	99440	IN	99600	99640	TWO	99720	99880	PART	100080	100280	CL:5 "object split"	100520	100920	REALLY	100960	101120	GONE	101280	101680
+non-dominant hand gloss
+head pos: tilt fr/bk	back	91400	92200	start	92240	92880	front	92920	94680	start	94720	94960	back	95000	96280	start	96320	96800	front	96840	101680
+head pos: tilt side	start	91400	92160	right	92200	93080	start	93120	93760	left	93800	94240	start	94280	94560	right	94600	95280	start	95600	95960	left	96000	96360
+head pos: jut	start	91400	92320	back/right	92360	93080	start	93120	93840	back/left	93880	94120	start	94160	94440	back/right	94480	95360	start	95440	96120	back/left	96160	96880	start	96920	97560	back/right	97680	99400	start	99440	99920	forward/left	99960	100720	end	100760	101680
+head mvmt: shake	start	97080	98480	rapid	98560	99120	end	99200	99880
+body lean	start	91400	92640	forward/right	92680	93320	start	93360	94240	slightly forward	94280	94640	start	94680	95520	slightly back	95560	96120	start	96160	99760	slightly forward	99800	101680
+eye brows	start	91400	98400	lowered	98440	101680
+eye gaze	addressee	91400	93960	left	94000	94440	down	94480	95480	addressee	96160	101680
+eye aperture	start	91400	91880	close	91920	93040	start	93080	94160	blink	94200	94520	start	94560	95360	close	95400	95840	lowered lid	95880	96160	start	96200	98480	squint	98520	101560	close	101600	101680
+nose	start	97040	98440	wrinkle	98480	101680
+negative	start	97040	98480	neg	98520	101680
+POS	Determiner	92000	92200	Classifier	92400	92960	Adverb	93120	93360	Pronoun	93520	93560	Noun	93640	94000	Classifier	94080	94600	Verb	94760	95040	Particle	95240	96080	Pronoun	96120	96240	Noun	96360	96960	Adjective	97040	98560	Classifier	99000	99440	Adverb	99600	99640	Number	99720	99880	Noun	100080	100280	Classifier	100560	100920	Preposition	100960	101120	Adverb	101280	101680
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	101680
+End frame:	108840
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	IX-1p	101880	102440	"relief"	102520	102880	GOOD	102960	103080	THING	103200	103320	IX-1p	103440	103480	BRING	103640	104200	fs-SPARE	104400	105600	TIRE	105680	106320	IX-1p	106440	106520	BRING	106560	106720	IN	106760	106960	BACK	107000	107200	fs-TRUNK	107360	108160	TRUNK	108280	108800
+non-dominant hand gloss	1: "focus"	104400	105600
+head pos: tilt fr/bk	front	101680	102040	start	102080	102360	back	102400	102440	start	102480	102760	front	102800	104440	start	104480	105000	slightly back	105200	105400	start	105440	105600	front	105640	108600	start	108640	108720	back	108760	108840
+head pos: tilt side	start	101680	102280	slightly left	102320	102680	start	102720	102960	right	103000	103320	start	103360	103720	slightly left	103760	104040	start	104120	104480	slightly right	104600	105480	start	105520	105960	left	106000	106920	start	106960	108200	left	108240	108760	end	108800	108840
+head pos: turn	start	102400	102880	right	102920	103440	start	103480	103920	slightly left	103960	104000	start	104040	104600	right	104720	105440	start	105480	105960	left	106000	106960	start	107000	108200	left	108240	108760	end	108800	108840
+head mvmt: nod	start	107360	108040	rapid	108080	108640	end	108680	108760
+body lean	start	101680	102480	slightly back	102520	103000	start	103040	103920	forward	103960	104200	start	104240	104880	slightly back	104920	105600	end	105640	106720
+eye brows	start	101680	102320	slightly raised	102360	102960	start	103000	104040	lowered	105000	108840
+eye gaze	addressee	102760	103000	right	103040	103400	addressee	103440	108840
+eye aperture	start	101680	101960	blink	102040	102240	start	102280	104000	squint	104040	108840
+nose	start	101680	102360	tensed	102400	103000	start	103040	104000	wrinkle	104040	106320	start	106360	106840	wrinkle	106880	108840
+POS	Determiner	101880	102440	Verb	102520	102880	Adjective	102960	103080	Noun	103200	103320	Determiner	103440	103480	Verb	103640	104200	Noun	104400	105600	Noun	105680	106320	Determiner	106440	106520	Verb	106560	106720	Adverb	106760	106960	Noun	107000	107200	Noun	107360	108160	Noun	108280	108800
+English translation	Oh, good thing that I brought spare tire back in my trunk.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	108840
+End frame:	121520
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	016
+main gloss	IX-1p	108960	109040	CL:5 "moving objects"	109200	110000	CL:flat-o "moving objects"	110080	111120	REALLY	111320	111560	POSS-1p	111760	111920	FIRST	112000	112200	TIME	112280	112480	CHANGE	112560	112800	TIRE	112880	113320	ADMIT	113400	114000	|>		114920	KNOW	115320	115640	part:indef	115680	115960	#ALL	116040	116240	MAN	116520	116560	SHOULD	116640	116720	KNOW	116800	116920	HOW	117040	117200	TO	117280	117320	CHANGE	117640	117800	TIRE	117840	118120	BUT	118200	118520	part:indef	118640	119800	UNFORTUNATELY	119880	120480	NOT	120680	120800	FOR	120880	121040	IX-1p	121120	121360	part:indef	121400	121520
+non-dominant hand gloss	CL: flat-o "moving objects"	110080	111120	|>		111920	CHANGE	112560	112800	|>		113320	part:indef	115680	115960	|>		116720	CHANGE	117640	117680	|>		118120
+head pos: tilt fr/bk	back	108840	109040	start	109080	109640	front	109680	111640	start	111680	113720	front	113760	115640	start	115680	116280	slightly front	116320	116640	start	116680	118280	front	118320	121520
+head pos: turn	start	108840	109200	right	109240	110640	start	110720	110800	left	110880	111120	start	111160	111520	right	111560	112200	start	112240	113320	right	113360	114200	start	114400	115320	right	115360	115800	start	115880	116080	left	116120	116720	start	116760	117520	left	117560	118160	start	118200	120320	slightly right	120360	120720	end	120760	121520
+head pos: tilt side	start	108840	109120	right	109160	110640	start	110680	110840	left	110880	111120	start	111160	111560	right	111600	112240	start	112280	112640	slightly left	112680	112880	start	112920	113360	right	113400	114360	start	114400	115240	further right	115280	115640	start	115720	115960	left	116000	116760	start	116800	117200	slightly right	117240	117880	start	117920	118280	left	118360	118920	start	119160	120320	right	120360	120720	start	120760	121080	left	121120	121520
+head mvmt: nod	start	117800	118480	slow	118560	120000	end	120080	120680
+head mvmt: shake	start	108840	109640	slow	109680	111400	end	111440	112000
+head pos: jut	start	108840	109680	back/right	109720	110520	start	110560	111440	back	111480	115440	start	115560	119280	back	119560	121520
+body lean	start	108840	109720	forward	109760	111400	start	111440	113280	forward	113320	114400	start	114560	115640	slightly back	115680	116280	start	116360	117760	forward	117800	119160	end	119240	121520
+eye brows	start	108840	109000	lowered	109040	109120	end	113960	121520
+eye gaze	addressee	108840	115520	up/left	115560	115880	addressee	115920	117320	right	117400	117640	addressee	117760	121520
+eye aperture	start	108840	108960	close	109000	111160	squint	111240	111280	start	111320	118320	blink	118360	118480	start	118520	118680	blink	118720	119200	start	119240	120000	squint	120040	121320	close	121360	121520
+nose	start	108840	109000	wrinkle	109040	109720	tensed	109800	111360	end	111400	121520
+POS	Determiner	108960	109040	Classifier	109200	110000	Classifier	110080	111120	Discourse Marker	111320	111560	Pronoun	111760	111920	Number	112000	112200	Noun	112280	112480	Verb	112560	112800	Noun	112880	113320	Verb	113400	114000	Verb	115320	115640	Particle	115680	115960	Quantifier	116040	116240	Noun	116520	116560	Adverb	116640	116720	Verb	116800	116920	Wh-word	117040	117200	Preposition	117280	117320	Verb	117640	117800	Noun	117840	118120	Conjunction	118200	118520	Particle	118640	119800	Adverb	119880	120480	Negation	120680	120800	Preposition	120880	121040	Pronoun	121120	121360	Particle	121400	121520
+Non-dominant POS	Classifier	110080	111120	Verb	112560	112800	Particle	115680	115960	Verb	117640	117800
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	121520
+End frame:	132800
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	part:indef	121520	121640	IX-1p	121760	122000	CHANGE	122600	123120	TIRE	123320	123840	UNKNOWN	123880	124120	part:indef	124960	125560	REALLY	125640	125920	THAT	126040	126280	TIRE	126360	126920	DONUT	127200	127680	fs-DONUT	127880	128800	TIRE	128880	129520	REALLY	129760	129960	CONTINUE	130040	130360	FOR	130440	130680	ONLY	130840	130960	50	131160	131400	fs-MILES	131560	132720
+non-dominant hand gloss	CL:C "moving objects"	122120	122520	1: "focus"	128000	128880	CONTINUE	130040	130360	|>		132800
+head pos: tilt fr/bk	front	121520	121680	start	121720	121880	back	121920	122400	start	122440	122800	front	122840	123920	start	123960	124680	back	124720	125160	start	125200	125560	front	125600	126720	start	126760	127200	back	127240	127840	start	127880	130280	slightly front	130320	131000	start	131040	132200	front	132240	132800
+head pos: tilt side	start	121520	122000	right	122080	122760	start	122800	123400	left	123440	123760	start	123800	125120	left	125160	125720	start	125760	126400	slightly left	126480	127320	end	127360	130440
+head pos: jut	start	121520	122440	back/right	122480	122960	start	123000	123480	back/right	123560	123960	start	124000	125200	back/left	125240	125480	start	125520	125880	back	125920	126720	start	126760	130280	back/right	130320	130520	start	130560	130880	back	130920	132800
+head mvmt: shake	start	123880	125280	rapid	125320	125880	start	125920	128840	rapid	128880	129920	end	129960	130680
+body lean	start	121520	122120	back/right	122160	122760	start	122800	123120	forward	123160	123920	start	123960	124680	back/right	124720	125640	start	125680	126120	slightly back	126160	126800	end	126840	131000
+eye brows	start	121520	121880	raised	121920	122200	start	122280	122720	slightly lowered	122760	122960	start	123000	124200	slightly raised	124280	125720	start	125760	125920	raised	125960	126800	start	126840	131400	raised	131440	132800
+eye gaze	addressee	122360	125920	down/left	125960	126160	addressee	128840	132800
+eye aperture	close	121520	122280	start	122320	122520	squint	122560	123480	close	123520	124280	further lowered	124360	124920	close	124960	125760	start	125800	126160	squint	126200	132800
+nose	start	121520	121920	tensed	121960	122240	start	122280	122680	wrinkle	122720	123040	start	123080	125040	tensed	125080	126920	start	126960	132800
+POS	Pronoun	121760	122000	Verb	122600	123120	Noun	123320	123840	Particle	124960	125560	Discourse Marker	125640	125920	demonstrative	126040	126280	Noun	126360	126920	Noun	127200	127680	Noun	127880	128800	Noun	128880	129520	Discourse Marker	129760	129960	Verb	130040	130360	Preposition	130440	130680	Negation	130840	130960	Number	131160	131400	Noun	131560	132720
+Non-dominant POS	Particle	121520	121640	Classifier	122120	122520
+English translation	I changed the tire.  The tire is Donut tire that only last for 50 miles.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	132800
+End frame:	142320
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	AND	132880	133120	SAME	133320	133560	UNKNOWN	133640	133960	SAME	134000	134360	ELEVEN	134520	134840	NIGHT	134920	135760	EVERYTHING	136040	136400	CLOSE	136520	137240	IX-1p	137440	137720	part:indef	137920	138400	MUST	138600	138720	FIND	138800	139040	PLACE	139120	139560	STAY	139600	140000	AND	140080	140280	FIX	140400	141040	TOMORROW	141120	141320	MORNING	141400	142040	UNKNOWN	142240	142320
+non-dominant hand gloss	CLOSE	136520	137240	|>		137800	part:indef	137920	138360	|>		138920	STAY	139600	140000	|>		140200
+head pos: tilt fr/bk	front	132800	137200	start	137240	137720	back	137840	138080	start	138120	138320	front	138360	138440	start	138480	139280	front	139320	142320
+head pos: tilt side	start	132800	133360	slightly left	133400	133920	start	133960	134040	right	134080	135760	start	135800	136360	left	136400	137240	start	137280	137640	right	137680	138680	start	138720	138960	left	139000	140160	start	140200	140520	right	140560	141520	start	141560	142080	left	142120	142320
+head pos: jut	start	132800	133000	back	133040	134080	start	134120	134560	forward/right	134600	135600	start	135640	136520	forward	136720	137680	start	137720	139320	back/left	139360	140080	start	140120	141040	back/right	141080	141600	end	141640	142320
+head mvmt: nod	start	138800	139080	rapid	139120	139840	start	139880	141680	rapid	141920	142280	end	142320	142320
+body lean	start	132800	134520	forward	134560	136200	start	136240	137240	forward	137280	137600	start	137640	139840	forward	139880	140400	start	140440	141520	forward	141560	142080	end	142120	142320
+eye brows	start	132800	133960	slightly lowered	134000	137360	start	137400	138880	lowered	138920	142320
+eye gaze	addressee	132800	133000	left	133040	133880	addressee	133920	142320
+eye aperture	start	132800	133320	squint	133360	142200	close	142240	142320
+nose	start	132800	133400	wrinkle	133440	138080	start	138120	139000	wrinkle	139040	142320
+POS	Conjunction	132880	133120	Adjective	133320	133560	Adjective	134000	134360	Number	134520	134840	Noun	134920	135760	Determiner	136040	136400	Verb	136520	137240	Pronoun	137440	137720	Particle	137920	138400	Modal	138600	138720	Verb	138800	139040	Noun	139120	139560	Verb	139600	140000	Conjunction	140080	140280	Verb	140400	141000	Adverb	141120	141320	Noun	141400	142040
+Non-dominant POS	Verb	136520	137240	Particle	137920	138360	Verb	139600	140000
+English translation	And, its like 11 o'clock at night time, every place were closed.  I have to find place to stay over and have car fixed tomorrow morning. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	142280
+End frame:	151600
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	UNKNOWN	142280	142400	THAT	142480	142520	MORNING	142720	143120	UNKNOWN	143160	143360	DRIVE	144600	145400	FIND	145480	145880	ONE	145920	146080	HOTEL	146120	148000	#BUT	148120	148560	IX-3p	148640	148720	HAVE	148760	149080	fs-CASINO	149200	150640	SAME	150720	151480
+non-dominant hand gloss	UNKNOWN	142280	142400	|>		142520	IX-1p	144240	144480	DRIVE	144600	145400	|>		146000	HOTEL	146120	148000	|>		148640	5:"focus"	149360	150160
+head pos: tilt fr/bk	front	142280	143000	start	143040	143480	back	143520	144440	start	144480	145560	back	145600	145800	start	145840	146400	front	146440	147120	start	147200	149800	front	149840	151480	end	151520	151600
+head pos: tilt side	start	142280	144240	right	144280	145320	start	145360	145760	left	145800	147200	start	147360	148480	right	148520	148680	start	148720	149120	left	149160	149520	start	149600	150160	right	150240	151480	end	151520	151600
+head pos: jut	start	142280	142520	back	142560	142920	start	142960	143520	forward	143560	144080	start	144120	144480	back/right	144520	145280	start	145320	145480	forward/left	145560	145640	start	145680	145840	back/left	145880	147360	start	147480	148560	back/right	148600	148760	start	148800	149160	back/left	149200	149640	start	149720	150200	back/right	150240	151360	end	151400	151600
+head mvmt: nod	start	142280	142400	rapid	142440	142760	start	148760	149280	rapid	149360	150640	end	150680	151600
+body lean	start	142280	143560	slightly back	143600	144600	start	144640	145280	forward	145320	145760	start	145800	145960	slightly back	146000	146240	start	146280	146560	slightly forward	146600	151520	end	151560	151600
+eye brows	start	142280	142400	lowered	142440	143600	start	143640	144480	raised	144520	146480	start	146520	148240	slightly raised	148280	148840	end	148880	151520
+eye gaze	addressee	143520	143640	up/left	143680	144240	addressee	145280	151600
+eye aperture	close	142280	143640	start	143680	143760	squint	143840	144200	close	144240	145160	start	145200	146440	wide	146480	148120	squint	148160	148760	start	148800	151400	close	151440	151600
+nose	wrinkle	142280	143720	start	143760	144400	tensed	144440	146560	end	146600	151560
+POS	demonstrative	142480	142520	Noun	142720	143120	Verb	144600	145400	Verb	145480	145880	Number	145920	146080	Noun	146120	148000	Conjunction	148120	148560	Pronoun	148640	148720	Adverb	148760	149080	Noun	149200	150600	Adjective	150720	151480
+Non-dominant POS	Pronoun	144240	144480	Verb	144600	145400	noun	146120	148000
+English translation	In the morning, I drove and found one hotel but they have casino there too.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	151600
+End frame:	162480
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	016
+main gloss	SAME	151600	151680	IX-1p	151800	152920	UNKNOWN	153200	153280	part:indef	153320	153840	IX-3p-pl-arc	153960	154200	FRIEND	154280	154760	IX-1p	154840	155320	REALLY	155960	156160	POSS-1p	156240	156400	FRIEND	156480	156720	DRIVE	156880	157200	SAME	157320	157640	CL:3"car following other car"	157720	158520	IX-1p	158920	159160	part:indef	160040	160360	NEED	160480	160600	STAY	160800	161000	HOTEL	161120	161240	ONLY	161360	161440	CHOICE	161640	161760	IX-1p	161880	161920	HAVE	161960	162400
+non-dominant hand gloss	part:indef	153320	153840	|>		154200	IX-3p	154800	154840	|>		155400	CL:3"car in front"	155560	156040	|>		156400	CL:3 "car following other car" 	157720	158520	|>		158960	"wave"	159320	159600	|>		160000	part:indef	160040	160360	|>		160600	HOTEL	161120	161240	|>		161440	part:indef	161760	162480
+head pos: tilt fr/bk	start	151600	152200	back	152240	152800	start	152840	153320	slightly front	153360	155680	start	155720	156520	front	156560	158200	start	158240	158360	back	158400	159480	start	159520	160120	front	160200	161480	start	161520	162360	slightly front	162400	162480
+head pos: turn	start	151600	153040	left	153120	153320	start	153360	153680	slightly right	153720	154000	start	154040	154440	left	154480	155320	start	155360	155600	right	155640	157400	start	157440	158200	left	158240	158360	start	158400	159120	slightly right	159160	159520	start	159560	160720	left	160760	161000	start	161040	161200	slightly right	161240	161360	start	161400	161640	left	161680	161760	start	161800	162040	left	162080	162480
+head pos: tilt side	start	151600	153000	further left	153040	153320	start	153360	154440	left	154480	155520	start	155560	158840	right	158880	159600	start	159760	160200	further left	160240	161120	start	161160	161720	slightly left	161760	162480
+head pos: jut	start	151600	153280	back/left	153320	153640	back	153680	154560	start	154600	156360	back/right	156400	157240	start	157280	157520	back	157560	157960	start	158000	158400	forward/left	158440	158520	start	158600	159920	forward/left	159960	161280	start	161320	161840	back	161880	162480
+head mvmt: nod	start	159160	159600	rapid	159640	160400	end	160440	160840
+head mvmt: shake	start	160040	160440	single	160480	160760	start	160800	161400	rapid	161440	162120	end	162160	162480
+body lean	start	151600	152520	slightly back	152560	153240	start	153280	156400	slightly back	156440	156840	start	156880	157240	slightly forward	157280	158760	start	158800	159960	forward	160000	161640	end	161680	162480
+eye brows	start	151600	153040	raised	153080	155320	start	155360	155640	lowered	155720	162120	end	162160	162480
+eye gaze	addressee	153120	154360	left	154400	154640	addressee	154680	162400
+eye aperture	close	151600	153000	lowered lid	153040	153360	start	153400	153960	squint	154000	155360	lowered lid	155400	157120	squint	157160	158320	lowered lid	158360	162480
+nose	start	151600	152160	tensed	152240	152760	start	152800	155400	wrinkle	155440	162480
+POS	Adjective	151600	151680	Pronoun	151800	152920	Particle	153320	153840	Pronoun	153960	154200	Noun	154280	154760	Determiner	154840	155320	Discourse Marker	155960	156160	Determiner	156240	156400	Noun	156480	156720	Verb	156880	157200	Adjective	157320	157640	Classifier	157720	158520	Pronoun	158920	159160	Particle	160040	160360	Verb	160480	160600	Verb	160800	161000	Noun	161120	161240	Adverb	161360	161440	Noun	161640	161760	Determiner	161880	161920	Verb	161960	162400
+Non-dominant POS	Particle	153320	153840	Pronoun	154800	154840	Classifier	155560	156040	Classifier	157720	158520	Verb	159320	159600	Particle	160040	160360	noun	161120	161240	Particle	161800	162480
+English translation	Three friends were driving in front of me and I waved to get their attention.  I told them that we really need to stay over the hotel since its only our choice. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	162480
+End frame:	175240
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	part:indef	162480	162520	IX-3p:i	162560	162800	CONTINUE	162920	163120	FOR	163240	163360	50	163480	163560	fs-MILES	163600	164120	ALREADY	164240	164440	NEAR	164640	164800	SOON+	164920	165280	END	165360	165640	#SO	165920	166080	IX-1p	166160	166320	CL:3 "cars pulling over"	166600	167560	STAY	167760	168040	ON	168160	168280	HOTEL	168560	169000	GAMBLE++	169240	170640	ALL-NIGHT	171120	171480	WAKE-OVER	171560	173800	NOT^YET	173960	174080	SLEEP	174200	174600	NOTHING	174720	175240
+non-dominant hand gloss	part:indef	162480	162520	|>		162760	CONTINUE	162920	163120	|>		164040	NEAR	164640	164800	|>		165280	END	165360	165640	|>		166320	CL:3 "cars pulling over"	166600	167560
+head pos: tilt fr/bk	start	162480	162520	front	162560	165480	start	165520	166200	back	166240	166760	start	166800	167160	front	167200	167440	start	167480	167720	back	167760	167920	start	167960	168440	slightly front	168480	170560	start	170600	171080	slightly back	171120	171400	start	171440	171680	further front	171720	172240	start	172280	174480	front	174520	175240
+head pos: turn	start	162480	163320	slightly right	163360	163600	start	163640	164640	slightly left	164680	164760	start	164800	165040	right	165080	165920	start	165960	166280	right	166320	167280	start	167320	167480	left	167520	168120	start	168160	168560	right	168600	169520	start	169560	170080	left	170120	170520	start	170560	171200	right	171240	171720	start	171760	172360	slightly left	172400	173440	start	173520	173800	right	173840	174920	end	174960	175240
+head pos: tilt side	start	162480	162680	left	162720	162760	start	162800	162960	right	163000	163600	start	163640	165040	left	165080	165760	start	165800	166000	right	166040	167200	start	167240	167520	left	167560	168560	start	168600	169000	right	169040	169360	start	169600	170160	further left	170320	170520	start	170560	171080	right	171120	171840	start	171880	172440	further left	172800	173360	start	173400	174240	right	174320	174880	end	174920	175240
+head mvmt: nod	start	167720	168000	rapid	168040	168480	end	168520	168840
+head mvmt: shake	start	168640	169240	slow	169280	170640	end	170760	171480
+body lean	start	162480	162880	slightly back	162920	163240	start	163280	164840	forward	164880	165720	start	165760	166960	forward	167040	167560	start	167600	169600	forward	169640	171000	start	171040	171600	forward	171640	173560	start	173640	174480	forward	174520	175240
+eye brows	start	162480	162560	raised	162600	165720	start	165760	166000	lowered	166040	166280	start	166320	166760	raised	166800	167720	start	167760	168520	lowered	168560	168880	start	168920	171600	raised	171640	174280	end	174320	175240
+eye gaze	addressee	162480	175240
+eye aperture	start	162480	162560	squint	162600	166040	close	166080	167240	start	167280	168480	squint	168520	169360	start	169400	171280	close	171320	172880	lowered lid	173000	174400	blink	174440	174680	start	174720	175160	close	175200	175240
+nose	start	162480	162560	wrinkle	162600	166280	start	166320	168520	wrinkle	168560	169080	end	169120	175240
+POS	Particle	162480	162520	Pronoun	162560	162800	Adverb	162920	163120	Preposition	163240	163360	Number	163480	163560	Noun	163600	164120	Adverb	164240	164440	Adverb	164640	164800	Adverb	164920	165280	Noun	165360	165640	Adverb	165920	166080	Pronoun	166160	166320	Classifier	166600	167600	Verb	167760	168040	Preposition	168160	168280	Noun	168560	169000	Verb	169240	170640	Noun	171120	171480	Verb	171560	173800	Adverb	173960	174080	Verb	174200	174600	Negation	174720	175240
+Non-dominant POS	Particle	162480	162520	Adverb	162920	163120	Adverb	164640	164680	noun	165360	165640	Classifier	166600	167560
+English translation	Its only last for 50 miles and its already get there soon.  So we decided to pull over and stay at the hotel.  We were gambling and stay awake all night.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	175240
+End frame:	185120
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-1p	175440	175600	TOLERATE	175800	176440	ON	176520	176680	part:indef	176800	177000	SIX	177080	177440	SEVEN	177520	177720	MORNING	177800	178200	IX-1p	178280	178360	HOPE	178440	178960	IX-3p	179040	179160	fs-GAS	179200	179400	STATION	179560	179880	OPEN	180040	180240	#SO	180400	180560	fs-FIX	180680	180960	POSS-1p	181200	181280	|>		181960	BEFORE	182640	182760	IX-1p	182880	183040	TO	184040	184240	ns-BOSTON	184400	184800
+non-dominant hand gloss	UNKNOWN	175400	176440	part:indef	176800	177000	|>		177160	HOPE	178440	178960	|>		179360	TIRE	181320	182000	GO	183240	183600	|>		184800
+head pos: tilt fr/bk	front	175240	175560	start	175600	176400	back	176440	176960	start	177000	177760	front	177800	178360	start	178400	178640	slightly back	178680	179120	start	179160	179880	front	179920	182480	start	182520	183240	slightly back	183280	183640	start	183680	184080	front	184120	184840	end	184880	185120
+head pos: turn	start	175240	176840	right	176880	177720	start	177760	178360	left	178400	179360	start	179400	179960	right	180000	181200	start	181240	182640	left	182680	183680	end	183720	185120
+head pos: tilt side	start	175240	175560	left	175600	176520	start	176560	177000	right	177040	177720	start	177760	178240	left	178280	178840	start	178880	181440	slightly right	181520	181960	end	182000	184760
+head pos: jut	start	175240	176880	back/right	176920	177520	start	177560	178440	back/left	178520	179560	start	179600	182680	back/left	182720	183760	end	184040	185120
+body lean	start	175240	176480	slightly back	176520	176960	start	177000	177320	slightly forward	177360	178320	start	178360	178680	slightly back	178720	179120	start	179160	180120	slightly forward	180160	180720	start	180760	183280	back	183320	183760	end	184040	185120
+eye brows	start	175240	176680	lowered	176720	177960	start	178000	178280	further raised	178320	180080	raised	180120	184800	end	184920	185120
+eye gaze	addressee	175240	179400	right	179440	179720	addressee	179760	184480	left	184520	185120
+eye aperture	close	175240	177680	start	177720	177960	squint	178000	178040	start	178080	178240	wide	178280	180400	end	180440	184840
+nose	start	175240	175560	tensed	175600	176400	start	176440	176520	wrinkle	176560	178000	start	178040	178240	tensed	178280	180160	end	180200	184920
+POS	Determiner	175440	175600	Verb	175800	176440	Preposition	176520	176680	Particle	176800	177000	Number	177080	177440	Number	177520	177720	Noun	177800	178200	Determiner	178280	178360	Verb	178440	178960	Pronoun	179040	179160	Noun	179200	179400	Noun	179560	179880	Verb	180040	180240	demonstrative	180400	180560	Verb	180680	180960	Pronoun	181200	181280	Adverb	182640	182760	Pronoun	182880	183040	Preposition	184040	184240	Proper Noun	184400	184800
+Non-dominant POS	Particle	176800	177000	Verb	178440	178960	noun	181320	182000	Verb	183240	183600
+English translation	I had to put up and stay up til six or seven in the morning.  I was hoping that gas station would be open by then, so they can fix the tire before I go to Boston.
+Notes - number of character bytes:	86
+-AFTER "SO" there is something with NONDOMINANT that I am not sure what to put down...
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	185120
+End frame:	195520
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	NOT	186680	186760	OPEN	186840	187000	UNTIL	187080	187240	|>		187680	MORNING	187960	188440	IX-1p	188600	188720	#ALL	188800	189200	part:indef	189360	189720	FINE	190320	190560	WAIT+	190600	191400	FINALLY	191480	192000	OPEN	192320	193040	IX-1p	193400	193600	FIX	193800	194160	|>		194520	UNKNOWN	194640	195520
+non-dominant hand gloss	NINE	187320	187600	TEN	187680	187880	OPEN	192320	193040	|>		193480	TIRE	194240	194560
+head pos: tilt fr/bk	start	185440	185840	front	185920	188520	start	188560	189080	back	189120	189200	start	189320	190360	front	190400	191120	start	191160	191400	back	191440	191960	start	192000	192320	further front	192400	193200	start	193240	193480	slightly back	193520	193680	start	193720	193840	front	193880	194760	start	194920	195400	back	195440	195520
+head pos: turn	start	185120	186680	right	186720	188520	start	188560	190320	right	190360	191280	start	191320	191880	left	191920	192280	start	192320	193120	right	193160	194600	end	194640	195520
+head pos: tilt side	start	185120	185680	right	185720	188760	start	188800	189080	left	189120	189320	start	189600	190360	right	190400	191320	start	191360	191720	left	191760	192400	start	192480	192760	right	192840	194640	start	194680	195120	left	195240	195520
+head pos: jut	start	185120	187000	back/right	187040	188360	start	188400	190520	back/right	190560	190760	start	190840	191440	forward	191480	191680	start	191720	192160	back/left	192200	192360	start	192400	192480	back/right	192560	192760	start	192800	194240	back/right	194280	194640	end	194680	195520
+head mvmt: shake	start	185120	185800	rapid	185840	186960	end	187000	187280
+body lean	start	185120	187800	slightly forward	187840	188520	start	188560	190680	slightly forward	190720	191160	start	191240	192240	forward	192280	193320	start	193360	194280	slightly forward	194320	195040	end	195080	195520
+eye brows	start	185120	191320	raised	191360	192080	start	192120	193720	lowered	193760	195080	end	195120	195520
+eye gaze	left	185120	185800	addressee	185840	188400	left	188440	189480	right	189520	190320	addressee	190360	195520
+eye aperture	start	185120	186080	blink	186160	186760	start	186800	188000	blink	188120	188560	start	188600	193200	squint	193240	195320	end	195360	195520
+nose	start	185120	191440	tensed	191480	192120	start	192160	193840	wrinkle	193880	195440	end	195480	195520
+POS	Negation	186680	186760	Verb	186840	187000	Preposition	187080	187240	Noun	187960	188440	Determiner	188600	188720	Pronoun	188800	189200	Particle	189360	189720	Verb	190320	190560	Verb	190600	191400	Adverb	191480	192000	Verb	192320	193040	Pronoun	193400	193600	Verb	193800	194160
+Non-dominant POS	Number	187320	187600	Number	187680	187880	noun	194240	194560
+English translation	It won't open til 9 or 10 in the morning.  We re like ok fine, and waiting for a while.  Then finally, mechanic open and fix the tire.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	195480
+End frame:	208520
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	PLUS	195760	195920	#OIL	196040	196440	CHANGE	196560	196840	SAME	196960	197120	TIME	197240	197560	IX-1p	197680	197840	FINE	197960	198280	UNKNOWN	198440	198760	#OIL	199600	199640	CHANGE	199800	200200	PERFECT	200280	200760	IX-3p	200920	201080	SAY	201160	201320	INFORM	201600	201880	BAD	202040	202200	fs-NEWS	202520	202960	REALLY	203800	203960	ENGINE	204120	204480	IX-3p	204520	204600	fs-BELT	204880	205480	CRACK	205800	206280	HAVE	206560	206760	NEW	206960	207200	ONE	207320	207520	IX-1p	207720	208160
+non-dominant hand gloss	CHANGE	196560	196840	|>		197160	ENGINE	204120	204480	|>		205400	CRACK	205800	206280	|>		206680
+head pos: tilt fr/bk	start	195480	196480	front	196520	198240	start	198280	199120	back	199200	199560	start	199600	200080	front	200120	200600	start	200640	201280	back	201320	201800	start	201840	202200	front	202240	203400	start	203440	208040	back	208080	208520
+head pos: turn	start	195480	196040	right	196080	197480	start	197520	198280	left	198320	199200	start	199240	199680	right	199720	200720	start	200760	201440	left	201480	202040	start	202080	202480	right	202520	203600	start	203640	204400	right	204440	206200	start	206240	206560	slightly left	206600	207040	start	207080	207440	end	207480	208120
+head pos: tilt side	start	195480	196640	right	196680	197720	start	197760	198800	slightly left	198840	199240	start	199320	199640	slightly right	199680	200200	start	200240	201120	left	201160	202080	start	202120	202720	right	202760	203600	start	203640	206560	slightly left	206600	207000	start	207040	207560	right	207600	208520
+head pos: jut	start	195480	195920	back/right	195960	197640	start	197680	198560	back	198640	198680	start	198720	199240	forward	199280	199320	start	199360	199760	back/right	199800	200640	start	200680	201400	back/left	201440	201880	start	201920	202480	back/right	202520	203400	start	203440	204000	back	204040	206440	end	206480	208520
+head mvmt: nod	start	195480	197760	slow	197800	198800	end	198840	203720
+body lean	start	195480	197440	slightly forward	197480	197800	start	197840	200240	slightly forward	200320	200720	start	200760	201640	forward	201680	202840	start	202880	206640	slightly forward	206680	207600	end	207640	208520
+eye brows	start	195480	195760	lowered	195800	198640	start	198680	199360	lowered	199440	200720	start	200760	201000	slightly raised	201040	201880	start	201920	203960	lowered	204000	205560	end	205600	207640
+eye gaze	addressee	195480	198120	left	198160	198400	addressee	198440	198680	left	198720	198960	up	199000	199480	addressee	199520	199720	up/left	199760	200960	addressee	201000	206680	right	206720	207640	addressee	207680	208520
+eye aperture	start	195480	195800	squint	195840	198280	blink	198320	198600	start	198640	199600	squint	199640	200600	start	200640	203520	squint	203560	204520	end	204600	208120
+nose	start	195480	195760	tensed	195800	196080	wrinkle	196120	199080	start	199120	199520	wrinkle	199560	200760	end	200800	207000
+POS	Preposition	195760	195920	Pronoun	196040	196440	Verb	196560	196840	Pronoun	196960	197120	Noun	197240	197560	Determiner	197680	197840	Verb	197960	198280	Pronoun	199600	199640	Verb	199800	200200	Adjective	200280	200760	Pronoun	200920	201080	Verb	201160	201320	Verb	201600	201880	Adjective	202040	202200	Verb	202520	202960	Discourse Marker	203800	203960	Noun	204120	204480	Pronoun	204520	204600	Noun	204880	205480	Verb	205800	206280	Verb	206560	206760	Adjective	206960	207200	Number	207320	207520	Pronoun	207720	208160
+Non-dominant POS	noun	204120	204480
+English translation	Plus, oil changed at same time which is fine.  After oil changed, it seem perfect til he said there is a bad news, in engine, the belt has crack.  It need to be replace new one.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	208520
+End frame:	222480
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-1p	208520	208880	STAY	209080	209160	FOR	209320	209440	OTHER	209520	209880	THREE	210000	210120	HOUR	210240	211640	WHEN	211760	211920	fs-FIX	212040	212440	IX-3p	212560	212680	ENGINE	212880	213120	fs-BELT	213320	213800	CL:1"circle shape"	214080	214520	PLUS	214920	215040	|>		215600	PLUS	215760	215840	#OIL	216000	216240	CHANGE	216440	216760	IX-3p-arc	216960	217000	WAIT+	217360	218160	ALL-DAY	218400	219000	FINALLY	219160	219400	LEAVE	219640	220000	ns-NEV	220480	221080	ON	221160	221280
+non-dominant hand gloss	STAY	209080	209160	|>		209920	WHEN	211760	211920	|>		212640	ENGINE	212880	213120	|>		213800	CL:1"circle shape"	214080	214520	TIRE	215120	215600	CHANGE	216440	216760	|>		217240	FINALLY	219160	219400	|>		221000	TWELVE	221560	222160
+head pos: tilt fr/bk	start	208520	209320	front	209360	210960	start	211160	213880	front	213920	214480	start	214560	215280	front	215320	215680	start	215720	216680	front	216720	217080	start	217160	217560	back	217600	217920	start	217960	218680	front	218720	219000	start	219040	219280	back	219320	219840	start	219880	221840	front	221920	222480
+head pos: turn	start	208520	209360	slightly right	209400	209800	start	209840	210360	slightly left	210480	211120	start	211160	211920	right	211960	212760	start	212800	213920	left	213960	214560	start	214640	215320	right	215400	215640	start	215680	217840	slightly right	217880	218280	start	218320	219400	right	219440	220400	start	220440	221360	left	221440	222480
+head pos: tilt side	start	208520	209160	right	209200	209880	start	209920	211160	left	211200	211440	start	211520	214080	left	214200	214520	start	214560	215040	right	215080	215680	start	215720	216360	left	216400	216960	start	217000	217840	right	217880	218320	start	218360	218760	left	218800	219240	start	219280	219640	slightly right	219680	220400	start	220440	221080	left	221120	222480
+head pos: jut	start	208520	209200	back/right	209240	210080	start	210120	212240	back/right	212280	212920	start	212960	213960	back	214000	214320	start	214360	215360	forward/right	215400	215960	start	216000	216720	forward/left	216760	217160	start	217240	219680	back/right	219720	220080	start	220160	220840	back	220880	221120	start	221160	221520	back/left	221560	222120	end	222200	222480
+head mvmt: nod	start	210000	211120	rapid	211160	211640	end	211680	212200
+body lean	start	208520	208760	slightly back	208840	208960	start	209000	209480	forward	209520	211160	start	211200	214440	slightly forward	214480	214880	start	214920	215440	forward	215480	215760	start	215800	216640	forward	216680	217080	start	217120	218880	forward/left	218920	219320	start	219360	221320	back/right	221360	221480	start	221520	222040	forward/left	222080	222480
+eye brows	start	208520	212280	lowered	212320	214960	start	215000	215240	raised	215280	219840	end	219880	222480
+eye gaze	addressee	208520	210720	right	210800	211240	addressee	211280	222480
+eye aperture	start	208520	212080	squint	212120	215040	blink	215080	215360	start	215400	215520	close	215560	216600	further lowered	216640	216840	blink	216880	216960	further lowered	217000	217160	close	217200	217600	further lowered	217680	218040	start	218080	218720	squint	218760	220440	end	220480	222480
+POS	Pronoun	208520	208880	Verb	209080	209160	Preposition	209320	209440	Pronoun	209520	209880	Number	210000	210120	Noun	210240	211640	Wh-word	211760	211920	Verb	212040	212440	Pronoun	212560	212680	Noun	212880	213120	Noun	213320	213800	Classifier	214080	214520	Preposition	214920	215040	Preposition	215760	215840	Pronoun	216000	216240	Verb	216440	216760	Pronoun	216960	217000	Verb	217360	218160	Noun	218400	219000	Adverb	219160	219400	Verb	219640	220000	Proper Noun	220480	221080	Preposition	221160	221280
+Non-dominant POS	Verb	209080	209160	Wh-word	211760	211880	noun	212880	213120	Classifier	214080	214520	noun	215120	215600	Verb	216440	216760	Adverb	219160	219400	Number	221560	222160
+English translation	We stayed for another three hours while they were fixing belt in the engine, tire and plus oil changing.  I waited all day and finally left Nev. at 12.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	222480
+End frame:	232080
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	TWELVE	222480	222520	|>		222560	IN	222640	222840	fs-UTAH	222920	223640	IX-3p-arc	223880	224120	part:indef	224280	224760	ALREADY	224880	225040	EXHAUST	225120	225600	NOT^YET	225680	225800	SLEEP	225920	226400	part:indef	226600	226960	WAKE-ALL-NIGHT	227200	228120	GAMBLE++	228240	228880	AT	229040	229120	fs-CASINO	229760	230400	IN	230440	230600	ns-NEV	230760	231200	IX-1p	231480	231720	part:indef	231880	232080
+non-dominant hand gloss	THUMB-IX-3p	229400	229520	|>		230320
+head pos: tilt fr/bk	start	222480	222800	back	222840	223120	start	223160	223560	front	223600	224160	start	224280	224880	back	224920	225120	start	225160	225720	front	225760	228240	start	228280	230720	back	230760	230960	start	231000	231280	front	231320	231480	start	231520	231680	back	231720	232080
+head pos: turn	start	222480	222520	left	222560	222600	start	222640	223920	left	223960	224400	start	224440	224960	right	225000	225640	start	225680	228480	right	228520	228960	start	229000	229600	right	229640	230480	start	230520	230960	left	231000	232080
+head pos: tilt side	start	222480	223920	left	223960	224440	start	224480	224880	right	224920	225800	start	225840	226520	slightly left	226600	226920	start	226960	227680	left	227720	228040	start	228080	228400	right	228440	229000	start	229040	229120	slightly left	229160	229360	start	229400	229600	right	229640	230440	start	230480	231160	left	231200	232080
+head pos: jut	start	222480	223000	back	223040	223360	start	223400	224320	back/left	224360	224520	start	224600	224960	back/right	225000	225120	start	225160	227600	forward/left	227640	228160	start	228200	230840	back/left	230880	231000	start	231040	231440	forward/left	231480	231680	start	231720	231880	back/left	231920	232080
+head mvmt: nod	start	229480	229760	slightly rapid	229800	230480	end	230520	230840
+body lean	start	222480	223040	back	223080	223400	start	223440	224480	back	224520	224960	start	225000	225640	forward	225680	227120	start	227160	227800	forward	227840	228160	start	228200	231280	slightly forward	231320	231560	end	231600	232040
+eye brows	start	222480	222520	raised	222560	223040	start	223080	228920	lowered	228960	231400	end	231440	232080
+eye gaze	addressee	222480	231320	left	231360	232080
+eye aperture	start	222480	224040	blink	224080	224480	squint	224520	231120	blink	231160	231320	squint	231360	231800	end	231840	232080
+nose	start	222480	228960	wrinkle	229000	231520	end	231560	232080
+POS	Adverb	222640	222840	Proper Noun	222920	223640	Determiner	223880	224120	Particle	224280	224760	Adverb	224880	225040	Verb	225120	225600	Adverb	225680	225800	Verb	225920	226400	Particle	226600	226960	Verb	227200	228120	Verb	228240	228880	Preposition	229040	229120	Noun	229760	230400	Adverb	230440	230600	Proper Noun	230760	231200	Pronoun	231480	231720	Particle	231880	232080
+Non-dominant POS	Pronoun	229400	229520
+English translation	In Utah, I already get exhausted because I haven't sleep yet.  I was stay awake all night to play gamble at Casino in NEV.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	232080
+End frame:	244400
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	part:indef	232080	232160	IX-1p	232520	232760	DECIDE	232880	233520	GO-AHEAD	233640	234040	UNKNOWN	234160	234600	DRIVE	234760	235680	|>		235880	ARRIVE	236200	236440	ns-COLORADO	236600	237640	REALLY	237760	237920	STAY	238000	238160	SOON	238240	238480	fs-TO	238720	238880	OVER-NIGHT	239000	239840	WAKE-UP	240600	240920	fs-LATE	241040	241680	WHY	241800	242080	GRAB	242320	242520	MISS	242600	242960	SLEEP	243120	243320	BEFORE	243400	243760	NIGHT	243840	244240
+non-dominant hand gloss	1: "focus"	236840	237680	STAY	238000	238160	|>		238720
+head pos: tilt fr/bk	start	232080	233000	front	233040	233440	start	233480	234120	back	234160	234240	start	234360	235200	front	235240	235760	start	235840	236920	back	236960	237760	start	237800	239320	front	239360	239520	start	239560	241000	front	241040	242000	end	242040	244400
+head pos: turn	start	232080	232760	right	232800	233240	start	233280	233800	left	233840	233960	start	234000	234160	right	234200	234320	start	234360	234400	slightly left	234480	234520	start	234600	234760	right	234840	235400	start	235480	236160	slightly left	236200	236320	start	236360	237760	right	237800	238520	start	238560	239000	left	239040	239640	start	239680	240720	right	240760	240880	start	240920	241760	slightly left	241800	242000	start	242040	242480	right	242520	244200	end	244240	244400
+head pos: tilt side	start	232080	232760	right	232800	233280	start	233320	233520	left	233560	233960	start	234000	234120	right	234160	235720	start	235760	236200	slightly left	236240	236440	start	236480	237760	right	237800	238640	start	238680	239000	left	239040	239840	start	239920	240680	right	240720	240920	start	240960	241720	left	241760	242160	end	242200	244400
+head pos: jut	start	232080	233000	back/right	233040	233240	start	233280	233800	forward/left	233840	234160	start	234200	236960	back/right	237000	238320	start	238360	241440	slightly forward	241480	242200	start	242240	243200	back/right	243240	244240	end	244280	244400
+head mvmt: nod	start	236200	238080	rapid	238120	239040	end	239080	240600
+head mvmt: shake	start	232080	232880	rapid	232920	234520	end	234560	243160
+body lean	start	232080	235360	forward	235400	235800	start	235840	236840	slightly back	236880	237320	start	237400	239440	slightly forward	239480	239840	start	239880	241680	forward	241720	242040	start	242080	244080	slightly forward	244120	244400
+eye brows	start	232080	232560	lowered	232600	236320	start	236360	238320	lowered	238360	244400
+eye gaze	left	232080	232400	addressee	232440	244400
+eye aperture	start	232080	232480	further lowered	232520	236320	start	236360	238360	squint	238400	243760	end	243800	244400
+nose	start	232080	232560	wrinkle	232600	236200	start	236240	238560	wrinkle	238600	244400
+POS	Particle	232080	232160	Determiner	232520	232760	Verb	232880	233520	Adverb	233640	234040	Verb	234760	235680	Verb	236200	236440	Proper Noun	236600	237640	Discourse Marker	237760	237920	Verb	238000	238160	Adverb	238240	238480	Preposition	238720	238880	Noun	239000	239840	Verb	240600	240920	Adverb	241040	241680	Wh-word	241800	242080	Verb	242320	242520	Adverb	242600	242960	Verb	243120	243320	Adverb	243400	243760	Noun	243840	244240
+English translation	I decided to continue driving and arrived Colorado.  I really want to stay overnight soon, because I was awake late so why not grab some sleep that I missed the night before.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	244440
+End frame:	254034
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	016
+main gloss	IX-1p	244520	244600	WAKE-UP	244800	245120	part:indef	245400	245600	REALIZE	245640	246240	IX-1p	246400	246560	DRIVE	246640	247200	TO	247480	247640	ns-BOSTON	247720	247880	FROM	247960	248160	ns-LA	248200	248480	IN	248600	248680	FOUR-DAY	248720	249520	REALLY	250040	250200	IX-1p	250280	250360	"applause"	250480	251080	ANYONE	251360	251560	WHO	251680	251760	DRIVE	252000	252280	TO	252840	252960	ns-BOSTON	253080	253640
+non-dominant hand gloss	ns-LA	252560	252760
+head pos: tilt fr/bk	start	244440	246200	front	246240	250080	start	250120	250680	back	250720	251120	start	251160	251760	front	251800	254034
+head pos: turn	start	244440	246400	right	246440	246960	start	247000	247720	slightly left	247760	248240	start	248280	248760	slightly right	248800	250080	start	250120	250640	slightly left	250680	250960	start	251000	251400	right	251440	252040	start	252080	252640	slightly left	252680	252920	start	252960	253320	right	253360	254034
+head pos: tilt side	start	244440	244680	right	244720	245080	start	245120	247280	slightly left	247320	248160	start	248200	249400	right	249440	250160	start	250200	250680	slightly left	250720	251080	start	251120	251400	right	251440	252080	start	252120	252560	left	252600	252920	start	252960	253480	right	253520	254034
+head pos: jut	start	244440	246120	back/right	246160	246960	start	247000	247760	back/left	247800	248240	start	248280	248800	back/right	248840	249440	end	249480	253720
+head mvmt: nod	start	250000	251640	slightly rapid	251680	252040	end	252080	253360
+head mvmt: shake	start	247720	249200	rapid	249240	250120	end	250160	251080
+body lean	start	244440	246120	slightly back	246160	246960	start	247000	248000	back	248040	248680	start	248720	250000	forward	250040	250120	start	250160	251440	forward	251480	254034
+eye brows	start	244440	244560	lowered	244600	245920	start	245960	246320	raised	246360	248760	start	248800	249000	lowered	249040	254034
+eye gaze	addressee	244440	244880	left	244920	245960	addressee	246000	246240	right	246280	246800	addressee	246840	254034
+eye aperture	start	244440	244720	squint	244760	245080	blink	245160	245640	start	245680	245920	squint	245960	247320	start	247360	248760	squint	248800	250000	start	250040	250640	squint	250680	254034
+nose	start	244440	244800	wrinkle	244840	246240	start	246280	248760	wrinkle	248800	254034
+POS	Determiner	244520	244600	Verb	244800	245120	Particle	245400	245600	Verb	245640	246240	Pronoun	246400	246560	Verb	246640	247200	Preposition	247480	247640	Proper Noun	247720	247880	Preposition	247960	248160	Proper Noun	248200	248480	Adjective	248600	248680	Noun	248720	249520	Discourse Marker	250040	250200	Pronoun	250280	250360	Verb	250480	251080	Noun	251360	251560	Wh-word	251680	251760	Verb	252000	252280	Preposition	252840	252960	Proper Noun	253080	253640
+Non-dominant POS	Proper Noun	252560	252760
+English translation	I woke up and realized that I drive to Boston from LA in four days is impossible.  Really, I am proud of anyone who drove from LA to Boston.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	254034
+End frame:	263307
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IN	254120	254200	FOUR-DAY	254280	254960	REALLY	255000	255280	AWFUL	255640	255920	MUST	256000	256200	DRIVE	256280	256600	FIFTEEN	256720	256800	part:indef	256920	257240	FIFTEEN	257360	257600	fs-HOURS	257720	258200	fs-A	258320	258440	fs-DAY	258520	259040	ARRIVE	259560	260080	FOR	260160	260400	SURE	260480	260600	RIGHT	260800	261040	fs-PACE	261280	261680	PROCESS++	261840	262800	UNKNOWN	263000	263120
+non-dominant hand gloss	1:"focus"	257360	258080	ARRIVE	259560	260080	|>		260520
+head pos: tilt fr/bk	start	254034	255360	back	255400	255640	start	255720	256520	front	256560	256760	start	256880	258800	front	258840	260280	start	260320	262160	front	262200	262920	end	263000	263307
+head pos: turn	start	254034	254280	right	254320	254480	start	254520	255160	left	255200	255240	start	255280	257480	slightly right	257520	257960	start	258000	258520	left	258560	260600	start	260640	261480	right	261520	262440	start	262480	262840	slightly left	262880	263120	end	263160	263307
+head pos: tilt side	start	254034	254920	right	254960	255520	start	255560	256920	left	257000	257200	start	257240	258520	slightly left	258560	259880	start	259920	261640	slightly right	261680	262440	start	262480	262960	slightly left	263000	263200	end	263240	263307
+head pos: jut	start	254034	254440	back/right	254480	254600	start	254640	255240	forward/left	255280	255360	start	255400	256240	back/right	256280	256680	start	256720	257200	forward	257240	257280	start	257320	257880	back	257920	258240	start	258280	258440	back/left	258480	260360	start	260400	261480	back/right	261520	262160	end	262200	263307
+head mvmt: nod	start	258560	258880	slightly rapid	258920	260000	start	260040	261760	single	261800	262800	end	262840	263200
+body lean	start	254034	255680	slightly back	255720	256240	start	256280	258920	forward	258960	260480	start	260520	262600	forward	262680	263160	end	263200	263307
+eye brows	start	254034	254120	lowered	254160	260360	start	260400	262840	lowered	262880	263307
+eye gaze	addressee	254034	262680	left	262720	263200	addressee	263240	263307
+eye aperture	start	254034	254480	squint	254520	258760	start	258800	262640	blink	262680	262800	start	262840	263240	lowered lid	263280	263307
+nose	start	254034	254240	wrinkle	254280	259120	start	259160	260360	wrinkle	260400	262800	end	262840	263240
+POS	Adverb	254120	254200	Noun	254280	254960	Discourse Marker	255000	255280	Adverb	255640	255920	Adverb	256000	256200	Verb	256280	256600	Number	256720	256800	Particle	256920	257240	Number	257360	257600	Noun	257720	258200	Article	258320	258440	Noun	258520	259040	Verb	259560	260080	Preposition	260160	260400	Adverb	260480	260600	Adverb	260800	261040	Verb	261280	261680	Preposition	261840	262800
+English translation	In four days to drive would take fifteen hours a day in right pace to arrive on time.  
+Notes - number of character bytes:	67
+- the focus, I wasnt sure if I should keep it continue til "day"??
+
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	263307
+End frame:	274240
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	part:indef	264120	264520	IX-1p	264720	264960	DRIVE	265160	265200	THROUGH	265400	265800	fs-WYMOING	265960	266840	IX-1p	267120	267280	THROUGH	267400	267680	ns-NEB	267760	268520	CL:B"across the land"	268760	269840	part:indef	269960	270360	REALLY	270520	270800	BORE	271000	271280	STATE	271560	271960	CL:BENT B "land flat"	272240	272640	COW	273120	273800	UNKNOWN	274000	274160
+non-dominant hand gloss	CL:BENT B"land flat"	272240	272640
+head pos: tilt fr/bk	start	263307	263840	back	263880	264120	start	264160	264360	front	264400	268520	start	268560	269120	back	269160	270200	start	270240	270680	front	270720	273760	end	273800	274240
+head pos: turn	start	263307	263600	right	263640	264280	start	264320	264720	left	264760	264880	start	264920	265120	right	265160	266120	start	266160	268040	right	268080	268400	start	268440	269680	right	269720	270240	start	270280	270960	left	271000	271080	start	271120	271680	right	271720	272520	start	272560	273760	right	273800	274240
+head pos: tilt side	start	263307	263720	right	263760	264360	start	264400	264760	left	264800	264880	start	264920	265560	right	265600	265760	start	265800	266440	left	266480	266920	start	266960	267200	right	267240	267800	start	267840	268480	left	268520	269480	start	269560	270240	slightly right	270320	270400	start	270440	270680	left	270720	271280	start	271320	272120	right	272160	272600	start	272640	273560	left	273600	273720	start	273760	273920	slightly right	273960	274240
+body lean	start	263307	263840	back	263880	264200	start	264240	266280	forward	266320	266920	start	266960	268000	forward	268040	268560	start	268600	270760	slightly forward	270800	271880	start	271920	272400	forward	272440	272640	end	272720	274240
+eye brows	start	263307	264120	raised	264160	268960	start	269000	269720	lowered	269760	274240
+eye gaze	right	263307	263600	addressee	263640	264280	down/left	264320	264920	addressee	264960	266720	left	266760	267640	addressee	267680	268360	right	268400	268800	addressee	268840	274240
+eye aperture	start	263307	263760	squint	263800	268680	start	268720	269160	further lowered	269240	274240
+nose	start	263307	264440	wrinkle	264520	265800	start	265840	267280	wrinkle	267320	274240
+POS	Particle	264120	264520	Pronoun	264720	265000	Verb	265160	265200	Preposition	265400	265800	Proper Noun	265960	266840	Determiner	267120	267280	Preposition	267400	267680	Proper Noun	267760	268520	Classifier	268760	269840	Particle	269960	270360	Discourse Marker	270520	270800	Verb	271000	271280	Noun	271560	271960	Classifier	272240	272640	Noun	273120	273800
+Non-dominant POS	Classifier	268760	269840	Classifier	272240	272640
+English translation	I drove through Wymoing and I went across the boring state of Neb.  There was plain, full of cows and etc.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	274240
+End frame:	283880
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-1p	274280	274360	REALLY	274440	274560	IX-1p	274680	274840	IN	274920	275040	fs-WYOMING	275120	275920	IX-1p	276000	276160	THINK	276320	276560	POP-UP	276640	276880	IX-3p	277240	277360	REALLY	277440	277640	ONE	277720	278200	PLACE	278320	278680	IX-3p:j	278800	278960	TEN	279160	279400	THOUSAND	279520	279720	COW	279960	280280	IN	280640	280880	GATE	281200	281680	SMALL	281920	282160	CL:5 "round fence"	282320	283680
+non-dominant hand gloss	PLACE	278320	278680	|>		279200	CL:5 "round fence"	282320	283680	|>		283880
+head pos: tilt fr/bk	start	274240	274640	front	274680	275040	start	275080	277920	front	277960	278920	start	278960	279880	front	279920	283000	end	283040	283880
+head pos: turn	start	274240	274680	left	274720	274960	start	275000	276000	right	276040	276520	start	276560	277240	slightly left	277280	277360	start	277400	277600	right	277640	278360	start	278400	278760	slightly left	278800	279160	start	279200	279840	right	279880	282200	start	282240	282920	left	282960	283440	end	283480	283880
+head pos: tilt side	start	274240	274720	slightly left	274760	275000	start	275040	275680	slightly right	275720	275920	start	275960	276120	left	276160	276840	start	276880	277360	slightly right	277400	277680	end	277720	283880
+head pos: jut	start	274240	274480	back	274520	275760	start	275800	276400	back/right	276440	276560	start	276600	277680	back/right	277720	278320	start	278360	279560	back	279600	279960	start	280000	282320	back	282360	283520	end	283560	283880
+body lean	start	274240	274720	slightly back	274760	275520	start	275560	276480	back	276520	277200	start	277240	277920	back	278000	278600	start	278640	281200	forward	281240	281760	start	281800	282960	slightly back	283000	283560	end	283640	283880
+eye brows	start	274240	274400	lowered	274440	283880
+eye gaze	addressee	274240	279720	right	279760	280160	addressee	280200	283800
+eye aperture	start	274240	274320	lowered lid	274360	278320	start	278360	279360	squint	279400	283880
+nose	start	274240	274360	wrinkle	274400	278520	start	278560	279640	wrinkle	279680	283880
+POS	Pronoun	274280	274360	Discourse Marker	274440	274560	Pronoun	274680	274840	Adverb	274920	275040	Proper Noun	275120	275920	Determiner	276000	276160	Verb	276320	276560	Verb	276640	276880	Determiner	277240	277360	Discourse Marker	277440	277640	Number	277720	278200	Noun	278320	278680	Determiner	278800	278960	Number	279160	279400	Number	279520	279720	Noun	279960	280280	Adverb	280640	280880	Noun	281200	281680	Adjective	281920	282160	Classifier	282320	283680
+Non-dominant POS	noun	278320	278680	Classifier	282320	283680
+English translation	I tell you, when I was in Wymong, I just thought of something, theres a place with maybe up to ten thousands cows in the gate.  It is like small jail around by them.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	283880
+End frame:	301840
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	016
+main gloss	IX-1p	284040	284080	|>		285240	REALLY	285360	285480	SAD	285640	285680	COW	285840	286040	CAN^NOT	286080	286280	MOVE	286400	287080	REALLY	287520	287600	SEE	287760	287920	"wow"	287960	289080	AWFUL	289320	289720	CL:3"car moving"	290080	291040	REALLY	291120	291280	END	291600	292000	OF	292080	292280	THAT	292440	292640	GATE	292760	293080	AROUND	293120	293600	IX-3p	294000	294320	HAVE	294440	294600	fs-BUTCHER-SHOP	294800	296560	REALLY	297560	297680	CUT	297840	298360	SHOW	298720	299000	DEAD	299280	299400	COW	299640	299880	HANG	300080	300920
+non-dominant hand gloss	LOOK	284080	284120	|>		285480	MOVE	286400	287080	|>		289800	DRIVE	290080	290360	|>		291160	cl:5"head lying down"	297720	297800	|>		298560	IX-1p	301200	301240	SEE	301360	301840
+head pos: tilt fr/bk	start	283880	284720	back	284760	284880	start	284960	285720	front	285760	286040	start	286080	286920	front	286960	287440	start	287480	288600	back	288720	289080	start	289120	290360	back	290400	291160	start	291200	292040	front	292080	293520	start	293560	297920	front	297960	301360	end	301400	301480
+head pos: turn	start	283880	284160	right	284200	285040	start	285080	285720	left	285760	286240	start	286280	287600	right	287640	288000	start	288120	288920	left	288960	289440	start	289480	290080	right	290120	291040	start	291080	291720	left	291760	293360	start	293400	296520	slightly right	296560	297600	start	297640	298040	slightly left	298120	298520	start	298560	299000	right	299040	299960	start	300000	300480	slightly left	300520	300800	start	300840	301160	right	301200	301840
+head pos: tilt side	start	283880	284760	further left	284800	285080	start	285120	285800	right	285840	287200	start	287240	288120	left	288200	289080	start	289120	289680	right	289720	290600	start	290640	296520	slightly right	296560	297640	start	297680	297880	left	297920	298520	start	298560	299160	right	299200	299760	start	299800	300480	left	300520	300920	end	300960	301840
+head pos: jut	start	283880	284800	back/left	284840	285120	start	285160	285720	forward	285760	286240	start	286280	287240	forward	287320	287480	start	287520	288120	slightly back	288160	289080	start	289160	291600	back	291680	293600	start	293720	300920	forward	300960	301320	start	301360	301600	back	301640	301840
+head mvmt: nod	start	290880	291560	slightly rapid	291600	293280	end	293320	294200
+head mvmt: shake	start	285640	286160	slightly rapid headshake	286200	287440	end	287480	287600
+body lean	start	283880	284760	forward/left	284800	285200	start	285240	285800	forward	285840	286160	start	286200	286920	forward	286960	287200	start	287240	289240	slightly back	289280	289640	start	289680	291120	forward	291160	292080	start	292120	294160	forward	294200	301600	end	301640	301840
+eye brows	start	283880	284120	lowered	284160	290360	start	290400	291160	raised	291200	293600	start	293640	297960	lowered	298000	301840
+eye gaze	addressee	283880	283920	right	283960	285320	addressee	285360	287520	right	287560	288240	addressee	288360	289000	left	289040	289440	up/right	289480	291040	addressee	291080	301080	right	301120	301480
+eye aperture	start	283880	284000	squint	284040	288160	blink	288200	288360	start	288400	288960	blink	289000	289160	start	289200	289320	close	289360	289760	start	289840	291080	wide	291120	294560	start	294600	297680	squint	297720	300960	blink	301000	301240	squint	301280	301400	blink	301440	301600	squint	301640	301840
+nose	start	283880	283960	wrinkle	284000	291120	start	291160	292480	wrinkle	292520	293080	start	293120	297520	wrinkle	297560	301840
+POS	Determiner	284040	284080	Adverb	285360	285480	Verb	285640	285680	Noun	285840	286040	Negation	286080	286280	Verb	286400	287080	Preposition	287520	287600	Verb	287760	287920	Adjective	289320	289720	Classifier	290080	291040	Discourse Marker	291120	291280	Noun	291600	292000	Preposition	292080	292280	Pronoun	292440	292640	Noun	292760	293080	Adverb	293120	293600	Pronoun	294000	294320	Verb	294440	294600	Pronoun	294800	296560	Discourse Marker	297560	297680	Verb	297840	298360	Verb	298720	299000	Verb	299280	299400	Noun	299640	299880	Verb	300080	300920	Pronoun	301200	301240	Verb	301360	301840
+Non-dominant POS	Verb	284080	284120	Verb	286400	287080	Verb	290080	290360	Classifier	297720	297800	Pronoun	301200	301240	Verb	301360	301840
+English translation	I looked at cows while I was driving and I feel sad for them because they couldnt even move.  In end of the gate, I saw butcher shop where will cut cow off and dead cows hanging near by.
+Notes - number of character bytes:	25
+- gate around: is it CL??
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	301840
+End frame:	311160
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	THAT	302040	302280	fs-WYOMING	302360	303360	MAYBE	303440	303720	THAT	303800	303920	WHERE	304000	304240	IX-3p-arc	304320	304520	GET	304560	304720	IX-3p-arc	304800	305080	MEAT	305160	305480	FROM	305640	306080	IX-3p	306120	306480	part:indef	306520	307000	GOOD	307440	307640	MEAT	307720	307960	SAME	308040	308240	IX-1p	308400	308480	EAT	308560	308720	MEAT	308840	309040	IN	309240	309280	fs-WYOMING	309320	310160	#SO	310560	310680	part:indef	310800	311160
+non-dominant hand gloss	IX-3p:i	309320	309760	|>		310720
+head pos: tilt fr/bk	start	301840	302440	front	302480	303440	start	303480	304880	back	304920	305520	start	305560	306120	front	306160	306840	start	306880	307520	back	307560	307960	start	308000	308200	front	308240	308640	start	308680	309720	front	309760	310560	start	310600	310840	front	310880	311160
+head pos: turn	start	301840	302240	left	302280	303280	start	303320	303560	right	303600	304640	start	304680	305240	slightly left	305280	306120	start	306160	306400	right	306440	306880	start	306920	307560	left	307600	308480	start	308520	309240	right	309280	310320	start	310400	310800	left	310840	311160
+head pos: tilt side	start	301840	302160	slightly left	302200	302280	start	302320	303800	slightly right	303840	304640	start	304680	304920	slightly left	304960	306080	start	306120	306320	slightly right	306360	306840	start	306880	307480	left	307520	307680	start	307720	307960	right	308000	310160	start	310200	310640	left	310680	311040	end	311080	311160
+head pos: jut	start	301840	303280	forward/left	303320	303440	start	303480	304200	back/right	304240	304600	start	304640	304920	back/left	304960	306040	start	306080	307520	back/left	307560	307680	start	307720	308240	forward/left	308280	308560	start	308600	309320	back/right	309360	309760	end	309840	311160
+head mvmt: nod	start	304000	306280	rapid	306320	307440	end	307480	308520
+body lean	start	301840	302280	forward	302320	303320	start	303360	305080	back	305120	305560	start	305600	306440	forward	306480	306760	start	306800	309920	forward	309960	310440	start	310480	311080	slightly forward	311120	311160
+eye brows	start	301840	302160	lowered	302200	302400	start	302440	303360	raised	303400	306480	start	306520	307120	raised	307200	308920	end	308960	311160
+eye gaze	addressee	301840	311160
+eye aperture	start	301840	302880	squint	302960	304200	start	304240	307600	wide	307640	308520	start	308560	309280	squint	309320	310680	close	310720	311160
+nose	start	301840	302240	wrinkle	302280	303080	start	303160	310720	wrinkle	310760	311160
+POS	demonstrative	302040	302280	Proper Noun	302360	303360	Adverb	303440	303720	demonstrative	303800	303920	Wh-word	304000	304240	Pronoun	304320	304520	Verb	304560	304720	Pronoun	304800	305080	Noun	305160	305480	Preposition	305640	306080	Pronoun	306120	306480	Particle	306520	307000	Adjective	307440	307640	Noun	307720	307960	Adverb	308040	308240	Pronoun	308400	308480	Verb	308560	308720	Noun	308840	309040	Preposition	309240	309280	Proper Noun	309320	310160	Preposition	310560	310680	Particle	310800	311160
+Non-dominant POS
+English translation	Thats Wymoning.  Maybe that is where we got our meat from.  Its good meat by the way because I ate one there.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	311120
+End frame:	321560
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	IX-1p	311320	311440	DRIVE	311560	311760	REALLY	312760	312960	VERY	313040	313400	PLAIN	313480	314200	ALL-THE-WAY	314280	314720	THROUGH	314800	315160	fs-IOWA	315240	316000	fs-OHIO	316400	316960	fs-ILL	317280	318040	CL:B "across the land"	319120	319280	ns-NEW YORK	319320	320000	FINALLY	320160	320400	ARRIVE	320520	320760	ns-BOSTON	320920	321520
+non-dominant hand gloss	CL:B "across land"	311960	312680
+head pos: tilt fr/bk	start	311120	311560	back	311600	313480	start	313520	315040	front	315080	316040	start	316120	316720	front	316760	316920	start	316960	317520	front	317560	317880	start	317920	318240	back	318480	319160	start	319200	319440	front	319480	319720	start	319760	320160	back	320200	320640	start	320680	321040	front	321080	321560
+head pos: turn	start	311120	311520	right	311560	312520	start	312560	312880	left	312920	313120	start	313160	313440	right	313480	313800	start	313840	314280	left	314320	314560	start	314600	315320	right	315360	316000	start	316040	317440	right	317480	317840	start	317880	319440	right	319480	319800	start	319840	320440	left	320480	320960	start	321000	321440	slightly right	321480	321560
+head pos: tilt side	start	311120	311560	right	311600	312440	start	312480	312760	left	312800	313000	start	313040	313480	slightly right	313520	313800	start	313840	314240	left	314280	314600	start	314640	315080	right	315120	315960	start	316000	316360	left	316400	316920	start	316960	317400	right	317440	317880	start	317920	318400	left	318440	318800	start	318880	319520	right	319560	319800	start	319840	320200	left	320240	320760	start	320800	321440	slightly right	321480	321560
+head pos: jut	start	311120	311320	forward	311360	311600	start	311640	312800	forward/left	312840	313080	start	313120	314960	forward	315000	320280	start	320320	320520	back/left	320560	320840	start	320880	321440	back	321480	321560
+head mvmt: shake	start	311120	312600	slow	312640	315200	end	315240	316280
+body lean	start	311120	315120	slightly forward	315160	316000	start	316040	316800	slightly forward	316840	317040	start	317080	317600	slightly forward	317640	318000	start	318040	319520	slightly forward	319560	319840	start	319880	320920	slightly forward	320960	321480	end	321520	321560
+eye brows	start	311120	311600	raised	311640	312440	start	312480	312640	lowered	312680	315440	start	315560	316760	raised	316800	317840	start	317880	319200	raised	319240	319960	start	320000	321200	lowered	321280	321560
+eye gaze	addressee	315040	321560
+eye aperture	start	311120	311560	close	311600	315000	start	315040	315240	squint	315280	317400	close	317440	319080	squint	319120	321560
+nose	start	311120	311480	wrinkle	311520	315400	start	315440	318080	wrinkle	318120	319760	start	319800	321440	wrinkle	321480	321560
+POS	Determiner	311320	311440	Verb	311560	311760	Discourse Marker	312760	312960	Adverb	313040	313400	Adjective	313480	314200	Adverb	314280	314720	Preposition	314800	315160	Proper Noun	315240	316000	Proper Noun	316400	316960	Proper Noun	317280	318040	Classifier	319120	319280	Proper Noun	319320	320000	Adverb	320160	320400	Verb	320520	320760	Proper Noun	320920	321520
+Non-dominant POS
+English translation	I drove across the country.  There was plain all the way through Iowa, Ohio, Ill and across New York.  I finally arrived Boston.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	321560
+End frame:	329240
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	REALLY	322000	322120	AFTER	322200	322640	TOTAL	322720	323200	TRIP	323280	324080	YES	326200	326480	TRIP	326600	327320	SIX-DAY	327400	327960	|>		328520	TOTAL	328640	329200
+non-dominant hand gloss
+head pos: tilt fr/bk	start	321560	322680	front	322720	323360	start	323400	326720	back	326760	327160	start	327200	327520	front	327560	329240
+head pos: turn	start	321560	322880	slightly left	322920	323240	start	323280	324120	slightly left	324160	325520	start	325560	325920	slightly right	325960	327440	start	327480	327800	left	327880	329040	end	329080	329240
+head pos: tilt side	start	321560	322760	slightly left	322800	323280	start	323320	327760	slightly left	327800	328520	end	328560	329240
+head pos: jut	start	321560	322640	back	322680	323320	start	323360	327560	back	327600	328080	start	328120	328520	back/left	328560	328800	end	328840	329240
+head mvmt: nod	start	324840	325840	rapid	325880	326560	end	326600	327200
+body lean	start	321560	329240
+eye brows	start	321560	322040	lowered	322080	323840	start	323880	327320	lowered	327360	329240
+eye gaze	addressee	321560	322920	left	322960	325720	addressee	325760	329240
+eye aperture	start	321560	322000	squint	322040	323400	start	323480	327320	squint	327360	329240
+nose	start	321560	322000	wrinkle	322040	323760	start	323800	327360	wrinkle	327400	329240
+POS	Preposition	322000	322120	Adverb	322200	322640	Noun	322720	323200	Verb	323280	324080	Adverb	326200	326480	Verb	326600	327320	Noun	327400	327960	Noun	328640	329200
+English translation	After my trip, it was six days total.  
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	329240
+End frame:	337840
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	REALLY	329320	329560	ENJOY++	329640	330560	GOOD	330640	330880	TIME	330960	331400	fs-FUN	331480	332080	UNKNOWN	332240	333000	IX-1p	333240	333400	SUGGEST	333440	333800	ANYONE	333840	334160	WHO	334200	334360	WANT	334400	334720	DRIVE	334800	335040	OVER	335080	335320	COUNTRY	335360	336040	ASK	336360	336680	IX-1p	336800	336920	FOR	336960	337120	ADVICE+	337240	337840
+non-dominant hand gloss
+head pos: tilt fr/bk	start	329240	329760	back	329800	330880	start	330920	331680	front	331720	332000	start	332040	332240	back	332440	333080	start	333120	333720	front	333760	337840
+head pos: turn	start	329240	329480	right	329520	330000	start	330040	330560	left	330600	330760	start	330800	331440	right	331480	332080	start	332120	333320	right	333360	334200	start	334240	334720	left	334760	335280	start	335320	336080	right	336120	336680	start	336720	337000	left	337040	337840
+head pos: tilt side	start	329240	329680	left	329720	330720	start	330760	331280	right	331320	332080	start	332120	332640	left	332720	333120	start	333160	333440	right	333520	334040	start	334080	334400	left	334440	335080	start	335120	336080	right	336120	336760	start	336800	337120	left	337160	337840
+head pos: jut	start	329240	334320	forward	334360	334520	start	334560	334760	back/left	334800	335280	start	335320	336480	back	336520	337000	end	337040	337840
+body lean	start	329240	334120	slightly forward	334160	336480	start	336520	336720	slightly back	336760	337200	end	337240	337840
+eye brows	start	329240	329480	lowered	329520	332080	start	332120	333280	lowered	333320	334120	start	334160	335720	lowered	335760	336320	end	336360	337840
+eye gaze	addressee	329240	337840
+eye aperture	start	329240	329400	close	329440	331760	start	331800	332040	blink	332080	332160	start	332200	332680	squint	332760	334080	end	334120	337440
+nose	start	329240	329440	wrinkle	329480	332240	start	332320	333240	wrinkle	333280	333760	start	333800	335920	wrinkle	335960	336600	end	336640	337840
+POS	Preposition	329320	329560	Verb	329640	330560	Adjective	330640	330880	Noun	330960	331400	Adverb	331480	332080	Pronoun	333240	333400	Verb	333440	333800	Pronoun	333840	334160	Wh-word	334200	334360	Verb	334400	334720	Verb	334800	335040	Adverb	335080	335320	Noun	335360	336040	Verb	336360	336680	Pronoun	336800	336920	Preposition	336960	337120	Noun	337240	337840
+English translation	I really enjoy and had good time.  It was a lot of fun and I suggest anyone who want to drive across the country, ask me for advices.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_0.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_2.mov
+Video	NCSLGRv7:movies:roadtrip1:roadtrip1_1050_small_3.mov
+Video	
+Audio	
+Start frame:	337800
+End frame:	344662
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	AND	337920	338040	MAKE	338120	338200	SURE	338280	338480	IX-2p	338520	338560	HAVE	338640	338840	EVERYTHING	338960	339200	READY	339320	339880	MAKE	339960	340120	SURE	340200	340520	POSS-3p	340600	340760	#CAR	340800	341040	PERFECT	341160	341240	WORK-OUT	341280	341720	PAST	341800	341960	GO	342040	342400	SAME	342480	342600	IX-1p	342720	342880	NOT	342920	342960	DO	343040	343160	PAST	343320	343640
+non-dominant hand gloss	MAKE	338120	338200	|>		338600
+head pos: tilt fr/bk	start	337800	338280	back	338320	339120	start	339160	339880	front	339920	344662
+head pos: turn	start	337800	338520	slightly right	338560	339400	start	339440	340000	left	340040	340600	start	340640	341760	slightly right	341800	342880	end	342920	344662
+head pos: tilt side	start	337800	338520	slightly right	338560	339560	start	339600	340000	left	340040	341200	start	341240	342400	right	342440	342760	start	342800	343240	left	343280	343560	end	343600	344662
+head pos: jut	start	337800	338320	forward	338360	338480	start	338520	342240	back/right	342280	342800	start	342840	343240	back/left	343280	343600	end	343640	344662
+body lean	start	337800	340000	forward	340040	340520	start	340560	341160	forward	341200	341800	start	341840	343040	slightly back	343080	343640	end	343720	344662
+eye brows	start	337800	338000	raised	338040	339600	end	339640	342960
+eye gaze	addressee	337800	344662
+eye aperture	start	337800	338000	wide	338040	339160	start	339200	339680	wide	339760	340520	end	340560	343240
+nose	start	337800	338080	tensed	338120	339440	end	339480	342920
+POS	Conjunction	337920	338040	Verb	338120	338200	Adverb	338280	338480	Pronoun	338520	338560	Verb	338640	338840	Noun	338960	339200	Verb	339320	339880	Verb	339960	340120	Adverb	340200	340520	Pronoun	340600	340760	Noun	340800	341040	Adjective	341160	341240	Verb	341280	341720	Tense Marker	341800	341960	Verb	342040	342400	Adjective	342480	342600	Pronoun	342720	342880	Negation	342920	342960	Verb	343040	343160	Tense Marker	343320	343640
+English translation	And, make sure you have everything ready.  Also, make sure your car is ready before you leave for trip unlike me. 
+Notes - number of character bytes:	0

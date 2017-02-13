@@ -1,0 +1,192 @@
+(lp0
+S'COMMUNICATE'
+p1
+aS'OVER'
+p2
+aS'WAIVE'
+p3
+aS'DEAF'
+p4
+aS'STUCK'
+p5
+aS'part:indef'
+p6
+aS'BORE'
+p7
+aS'TRUE-BUSINESS'
+p8
+aS'GENERATION++'
+p9
+aS'EXPERT'
+p10
+aS'thinking'
+p11
+aS'BCL:Feyes moving'
+p12
+aS'ACTION'
+p13
+aS'ohhh'
+p14
+aS'NAH'
+p15
+aS'DRIVE+'
+p16
+aS'BCL:3person walking over'
+p17
+aS'CL:5person talking'
+p18
+aS'NERVOUS'
+p19
+aS'ANYWAY'
+p20
+aS'SIGN'
+p21
+aS'(2)CL:3two vehicles pulling over'
+p22
+aS'WHERE'
+p23
+aS'MOTHER-FATHER'
+p24
+aS'LOOK'
+p25
+aS'HEARING'
+p26
+aS'PERSON'
+p27
+aS'BCL:5tapping'
+p28
+aS'READY'
+p29
+aS'#OK'
+p30
+aS'MAN'
+p31
+aS'BCL:Sperson running'
+p32
+aS'COUNTRY'
+p33
+aS'CL:3person walking over'
+p34
+aS'NOT-CARE'
+p35
+aS'FINE'
+p36
+aS'GESTURE'
+p37
+aS'THUMB-IX-3p:i'
+p38
+aS'IX-loc:i'
+p39
+aS'SOMETHING'
+p40
+aS'POSS-1p'
+p41
+aS'WOW'
+p42
+aS'CL:1long distance'
+p43
+aS'(2h)CL:3two vehicle'
+p44
+aS'IX-3p:i'
+p45
+aS'shocking'
+p46
+aS'CL:1person walking over'
+p47
+aS'(2h)CL:3sitting switch'
+p48
+aS'DRIVE++'
+p49
+aS'GO-AHEAD'
+p50
+aS'TIME'
+p51
+aS'NOT'
+p52
+aS'(2h)CL:3sitting next to each other'
+p53
+aS'COP'
+p54
+aS'UNKNOWN'
+p55
+aS'EXCITE'
+p56
+aS'CL:Feyes moving'
+p57
+aS'CHAT'
+p58
+aS'TRUE-ENOUGH'
+p59
+aS'CL:2person sitting'
+p60
+aS'IX-1p'
+p61
+aS'OLD'
+p62
+aS'SEE'
+p63
+aS'(2h)CL:3seat switch'
+p64
+aS'WHY'
+p65
+aS'TALK'
+p66
+aS'HITCH-HIKE'
+p67
+aS'AGAIN'
+p68
+aS'SIREN'
+p69
+aS'(2h)CL:3two vehicles'
+p70
+aS'MIND'
+p71
+aS'TWO'
+p72
+aS'MISTAKE'
+p73
+aS'LUCKY'
+p74
+aS'(2h)CL:2person sitting next to each other'
+p75
+aS'(2h)CL:3two vehicles pulling over'
+p76
+aS'SPEED'
+p77
+aS'WAIVE+'
+p78
+aS'DRIVE'
+p79
+aS'NINETY'
+p80
+aS'CAN'
+p81
+aS'WONDER'
+p82
+aS'CL:1meter speeding up'
+p83
+aS'TIRED'
+p84
+aS'SPEED++'
+p85
+aS'ONE'
+p86
+aS'ANOTHER'
+p87
+aS'STORY'
+p88
+aS'sure'
+p89
+aS'HEAR'
+p90
+aS'COPY'
+p91
+aS'THINK'
+p92
+aS'CL:Ssigning'
+p93
+aS'ENOUGH'
+p94
+aS'SLEEP'
+p95
+a.

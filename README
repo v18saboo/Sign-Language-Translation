@@ -1,0 +1,7 @@
+This is a repository for Realtime Sign Language Translation of American Sign Language Videos using visual cues only.
+The project is done towards the completion of a BEng degree in Computer Science.
+
+Required :
+OpenCV 3.1.0
+Keras (most recent version)
+seq2seq (https://github.com/farizrahman4u/seq2seq)

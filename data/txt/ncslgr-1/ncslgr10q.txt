@@ -1,0 +1,1070 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	ncslgr10q 3-10-03	BACK TO THE FUTURE:Users:carolneidle:Desktop: Fran - Sarah 3-7:ncslgr10q 3-10-03
+Number of utterances:	36
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1000_small_0.mov
+Video	NCSLGR:video files:slave2:_1000_small_2.mov
+Video	NCSLGR:video files:slave3:_1000_small_3.mov
+Video	
+Audio	
+Start frame:	580
+End frame:	1920
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	REALLY	620	740	(1h)WOW/AWFUL	840	960	IX-3p:i	1080	1080	fs-JOHN	1140	1280	|>		1340	CAR	1400	1460	STEAL	1600	1740
+non-dominant hand gloss
+topic/focus	top2	1040	1460
+eye brows	raised	580	1920
+eye aperture	wide	580	1800	end	1820	1920
+eye gaze	left	580	640
+head pos: tilt fr/bk	start	740	760	slightly back	780	860	end	880	960	start	1040	1080	slightly front	1100	1180	start	1200	1300	front	1320	1700	end	1720	1920
+head pos: turn	start	780	1000	left	1020	1720	end	1740	1920
+head pos: tilt side	start	800	980	slightly left	1000	1060	end	1080	1160	start	1480	1540	slightly right	1560	1720	end	1740	1800
+head pos: jut	start	660	740	back	760	840	end	860	960
+body lean	start	600	700	slightly back	720	920	start	940	1000	left	1020	1400	end	1420	1520
+POS	Discourse Marker	620	740	Adjective	840	960	Pronoun	1080	1080	Proper Noun	1140	1280	Noun	1400	1460	Verb	1600	1740
+English translation	WOW.   As for John's car, it was stolen. 
+Notes - number of character bytes:	28
+Check POS for REALLY and WOW
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1001_small_0.mov
+Video	NCSLGR:video files:slave2:_1001_small_2.mov
+Video	NCSLGR:video files:slave3:_1001_small_3.mov
+Video	
+Audio	
+Start frame:	400
+End frame:	1700
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	IX-loc:i	540	660	THAT:i	760	780	CAR	840	900	IX-loc:i	960	1000	fs-JOHN	1080	1180	FATHERwg	1320	1420	IX-loc:i	1520	1540
+non-dominant hand gloss	IX-3p:i	720	740	CAR	840	900	|>		1560
+eye brows	start	520	580	lowered	600	1320	slightly lowered	1340	1600	end	1620	1700
+eye aperture	start	640	660	slightly squinted	680	1340	end	1360	1520
+eye gaze	left	400	700	right	1480	1700
+head pos: tilt fr/bk	start	500	620	slightly front	640	700	start	720	800	front	820	1440	end	1460	1700
+head pos: turn	start	620	820	right	840	1600	end	1620	1700
+head pos: jut	start	580	640	slightly back	660	980	end	1000	1080	end	1480	1700
+nose	start	860	940	tensed	960	1480	end	1500	1640
+mouth	start	900	920	raised upper lip	940	1340	end	1360	1560
+POS	Adverb	540	660	Demonstrative	760	780	Noun	840	900	Adverb	960	1000	Proper Noun	1080	1180	Noun	1320	1420	Adverb	1520	1540
+Non-dominant POS	Determiner	720	740
+English translation	It--that car there--is John's father's.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1002_small_0.mov
+Video	NCSLGR:video files:slave2:_1002_small_2.mov
+Video	NCSLGR:video files:slave3:_1002_small_3.mov
+Video	
+Audio	
+Start frame:	500
+End frame:	1580
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	IX-3p:i	680	680	CAR	760	820	IX-loc:i	940	940	|>		960	fs-JOHN	1080	1220	FATHER	1380	1420
+non-dominant hand gloss	CAR	760	820	|>		1240
+yes/no question	start	500	540	yes/no question	560	1580
+topic/focus	focus/top1	560	960
+eye brows	start	500	540	raised	560	1580
+eye aperture	start	500	660	wide	680	1580
+eye gaze	left	500	1340
+head pos: tilt fr/bk	start	540	660	slightly front	680	720	start	740	800	front	820	1040	start	1060	1140	slightly front	1160	1460	end	1480	1580
+head pos: turn	start	520	680	left	700	1520	end	1540	1580
+head mvmt: nod	single	760	1020	single	1300	1540
+POS	Determiner	680	680	Noun	760	820	Adverb	940	940	Proper Noun	1080	1220	Noun	1380	1420
+English translation	Is that car there John's father's?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1003_small_0.mov
+Video	NCSLGR:video files:slave2:_1003_small_2.mov
+Video	NCSLGR:video files:slave3:_1003_small_3.mov
+Video	
+Audio	
+Start frame:	340
+End frame:	1240
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	IX-3p:i	400	440	CAR	500	700	WHO	800	960
+non-dominant hand gloss	CAR	500	700	|>		1100
+wh question	start	340	380	whq	400	1040	end	1060	1240
+eye brows	start	340	440	lowered	460	1240
+eye aperture	start	400	440	squint	460	1040	slightly squinted	1060	1240
+eye gaze	left	340	680	right	1200	1240
+head pos: tilt fr/bk	start	380	400	slightly front	420	900	end	920	1160
+head pos: turn	start	340	460	left	480	700	end	720	960	start	1020	1060	slightly right	1080	1240
+head pos: jut	start	460	560	forward	580	960	end	980	1200
+nose	start	360	440	tensed	460	1240
+mouth	start	360	480	raised upper lip	500	1240
+POS	Determiner	400	440	Noun	500	700	Wh-word	800	960
+English translation	Whose car is that?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1004_small_0.mov
+Video	NCSLGR:video files:slave2:_1004_small_2.mov
+Video	NCSLGR:video files:slave3:_1004_small_3.mov
+Video	
+Audio	
+Start frame:	380
+End frame:	1500
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-3p:i	480	480	fs-JOHN	540	680	FORMERLY	780	900	CAR	980	1140	IX-loc:j	1300	1300	|>		1360
+non-dominant hand gloss	CAR	980	1140	|>		1340
+yes/no question	start	380	500	yes/no question	520	1500
+eye brows	start	380	500	lowered	520	1500
+eye aperture	start	480	500	squint	520	1500
+eye gaze	right	1380	1500
+head pos: tilt fr/bk	start	620	780	front	800	1260	end	1280	1500
+head pos: turn	slightly left	380	440	start	460	620	right	640	1500
+head pos: tilt side	start	500	620	left	640	1240	end	1260	1420
+head mvmt: nod	slight rapid head nod	620	1380
+nose	start	480	580	tensed	600	1500
+mouth	start	640	680	raised upper lip	700	1440	end	1460	1500
+POS	Pronoun	480	480	Proper Noun	540	680	Tense	780	900	Noun	980	1140	Adverb	1300	1300
+English translation	Is that John's former car?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1005_small_0.mov
+Video	NCSLGR:video files:slave2:_1005_small_2.mov
+Video	NCSLGR:video files:slave3:_1005_small_3.mov
+Video	
+Audio	
+Start frame:	200
+End frame:	2255
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	010
+main gloss	IX-3p:i	260	360	|>		620	FATHERwg	780	860	MUST	960	1040	BUY	1120	1280	CAR	1360	1500	fs-JOHN	1560	1740	IX-loc:i	1820	1900	5"attitude-marker"	2060	2140
+non-dominant hand gloss	CAR	1360	1500	|>		1980
+eye aperture	start	200	300	blink	320	320	start	340	380	blink	400	540	end	560	700	start	780	780	blink	800	960	end	980	1000	start	1480	1480	lowered lid	1500	1520	end	1540	1560	start	1720	1720	blink	1740	1760	end	1780	1780
+eye gaze	left	200	1500	right	1780	2255
+head pos: tilt fr/bk	start	340	380	slightly back	400	660	end	680	800
+head pos: turn	start	740	1040	left	1060	1460	start	1480	1740	right	1760	2020	end	2040	2255
+head pos: tilt side	start	220	300	slightly right	320	400	start	420	660	left	680	1380	start	1400	1680	right	1700	2000	end	2020	2255
+body lean	start	360	620	back	640	1120	start	1140	1180	left	1200	1780	end	1800	2180
+POS	Pronoun	260	360	Noun	780	860	Modal	960	1040	Verb	1120	1280	Noun	1360	1500	Proper Noun	1560	1740	Adverb	1820	1900	Discourse Marker	2060	2140
+English translation	He, father, must buy a car for John (I'm telling you).
+Notes - number of character bytes:	161
+It's unclear how best to translate the final gesture, which asserts a certain attitude on the part of the signer.
+
+Not sure if the last IX is a loc or a PN.- RGL
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1006_small_0.mov
+Video	NCSLGR:video files:slave2:_1006_small_2.mov
+Video	NCSLGR:video files:slave3:_1006_small_3.mov
+Video	
+Audio	
+Start frame:	340
+End frame:	2620
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	010
+main gloss	IX-3p:i	420	520	fs-JOHN	620	720	FATHER	860	900	IX-loc:i	1000	1140	MUST	1220	1280	BUY	1320	1600	|>		1700	IX-3p:j	1880	1880	fs-MARY	2080	2320	IX-loc:k	2440	2460
+non-dominant hand gloss	BUY	1320	1600	|>		2440
+eye aperture	closed	340	820	lowered lid	840	1000	closed	1020	1500	start	1520	1580	blink	1600	1620	end	1640	1840
+eye gaze	left	1640	1980
+head pos: tilt fr/bk	start	600	680	slightly front	700	2480	end	2500	2620
+head pos: turn	slightly left	340	400	start	420	680	slightly right	700	780	end	800	900	start	1040	1200	further right	1220	1680	start	1700	1860	left	1880	2140	start	2160	2460	right	2480	2560	end	2580	2620
+head pos: tilt side	slightly left	340	760	start	780	1060	right	1080	1620	start	1640	1940	slightly left	1960	2060	end	2080	2200	start	2380	2440	slightly right	2460	2540	end	2560	2620
+head pos: jut	start	940	980	back	1000	1680	end	1700	1840
+POS	Pronoun	420	520	Proper Noun	620	720	Noun	860	900	Adverb	1000	1140	Modal	1220	1280	Verb	1320	1600	Determiner	1880	1880	Proper Noun	2080	2320	Adverb	2440	2460
+English translation	He, John's father there, must buy this/that for Mary there. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1007_small_0.mov
+Video	NCSLGR:video files:slave2:_1007_small_2.mov
+Video	NCSLGR:video files:slave3:_1007_small_3.mov
+Video	
+Audio	
+Start frame:	520
+End frame:	2380
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	fs-JOHN	580	700	FATHERwg	860	920	IX-loc:i	1120	1140	|>		1300	neu:GIFT:j	1440	1520	CAR	1660	1960	fs-JOHN	2040	2200	|>		2360
+non-dominant hand gloss	CAR	1660	1960	|>		2300
+eye brows	start	680	820	lowered	840	2380
+eye aperture	start	580	600	squint	620	960	further squinted	980	2380
+eye gaze	left	620	1740
+head pos: tilt fr/bk	start	660	740	slightly front	760	2200	end	2220	2340
+head pos: turn	start	580	800	left	820	1720	start	1740	2160	slightly right	2180	2380
+head pos: tilt side	start	580	640	slightly right	660	920	end	940	1120
+head mvmt: nod	slight rapid head nod	1020	1440
+body lean	start	1100	1440	slightly forward	1460	2380
+nose	start	680	880	tensed	900	2380
+mouth	lips pursed: mm	980	1680
+POS	Proper Noun	580	700	Noun	860	920	Adverb	1120	1140	Verb	1440	1520	Noun	1660	1960	Proper Noun	2040	2200
+English translation	John's father there is giving a car to John.  
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1008_small_0.mov
+Video	NCSLGR:video files:slave2:_1008_small_2.mov
+Video	NCSLGR:video files:slave3:_1008_small_3.mov
+Video	
+Audio	
+Start frame:	560
+End frame:	1860
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	IX-3p:i	680	780	CAR	920	1020	fs-JOHN	1100	1200	(L)FUTURE	1260	1440	FATHERwg	1580	1720
+non-dominant hand gloss	CAR	920	1020	|>		1200	(2h)GIFT:j	1360	1460	|>		1820
+yes/no question	start	560	640	yes/no question	660	1860
+topic/focus	focus/top1	660	1020
+eye brows	start	560	640	raised	660	1860
+eye aperture	start	560	580	wide	600	1760	end	1780	1860
+eye gaze	left	560	1480
+head pos: tilt fr/bk	start	560	620	slightly back	640	760	start	780	960	front	980	1700	end	1720	1860
+head pos: turn	start	560	580	slightly left	600	840	start	860	1000	left	1020	1460	end	1480	1860
+head mvmt: nod	start	1040	1100	single	1120	1440	end	1460	1500
+body lean	start	620	760	slightly back	780	1240	end	1260	1360
+shoulders	start	800	940	slightly left	960	1080	start	1100	1140	slightly right	1160	1280
+POS	Determiner	680	780	Noun	920	1020	Proper Noun	1100	1200	Tense	1260	1440	Noun	1580	1720
+Non-dominant POS	Verb	1360	1460
+English translation	Will John give his father THAT CAR?
+Notes - number of character bytes:	175
+I am not sure if GIFT is really two handed. the DOM hand seems to be mirroring the handshape of the ND hand, but the ND (left) hand articulates the sign fully.
+
+-I agree (FMC)
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1009_small_0.mov
+Video	NCSLGR:video files:slave2:_1009_small_2.mov
+Video	NCSLGR:video files:slave3:_1009_small_3.mov
+Video	
+Audio	
+Start frame:	420
+End frame:	2380
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	IX-3p:i	580	580	|>		960	fs-JOHN	1020	1120	MOTHERwg	1260	1360	IX-loc:j	1460	1520	HOUSE	1640	1780	BUY	1840	2020	|>		2140	IX-3p:i	2200	2260
+non-dominant hand gloss	BUY	1840	2020	|>		2180
+yes/no question	start	420	480	yes/no question	500	2100	end	2120	2380
+topic/focus	focus/top1	1460	1820
+eye brows	start	420	500	raised	520	1380	start	1400	1440	raised	1460	2180	end	2200	2380
+eye aperture	wide	420	2180	end	2200	2380
+eye gaze	left	420	1180	left	1340	1900	right	2260	2380
+head pos: turn	start	420	680	left	700	1900	start	1920	2260	slightly right	2280	2380
+head pos: jut	start	640	740	forward	760	1200	end	1220	1260
+head mvmt: nod	slow	420	2360	end	2380	2380
+mouth	start	640	720	lips spread & crnrs down	740	1260
+POS	Pronoun	580	580	Proper Noun	1020	1120	Noun	1260	1360	Determiner	1460	1520	Noun	1640	1780	Verb	1840	2020	Determiner	2200	2260
+English translation	It's John's mother? she's buying A HOUSE?
+Notes - number of character bytes:	77
+Wonder if there is a small aprticulation of POSS-3p between JOHN and MOTHER?
+
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1010_small_0.mov
+Video	NCSLGR:video files:slave2:_1010_small_2.mov
+Video	NCSLGR:video files:slave3:_1010_small_3.mov
+Video	
+Audio	
+Start frame:	200
+End frame:	2020
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	017
+main gloss	IX-3p:i	340	500	HOUSE	620	720	BUY	800	940	NO	1020	1260	fs-JOHN	1320	1420	MOTHERwg	1500	1580	NOT-WANT	1700	1780	|>		1900
+non-dominant hand gloss	BUY	800	940	|>		1580
+rhetorical question	yes-no rhq	340	940
+topic/focus
+negative	start	760	960	negation	980	1880
+eye brows	start	640	700	slightly lowered	720	1400	start	1420	1480	lowered	1500	2020
+eye aperture	start	380	480	squint	500	780	closed	800	1360	squint	1380	2020
+eye gaze	left	260	860
+head pos: tilt fr/bk	start	580	620	slightly front	640	2020
+head pos: turn	start	220	300	slightly left	320	820	start	840	960	slightly right	980	1400	end	1420	1500
+head pos: tilt side	start	400	480	slightly left	500	1340	start	1360	1540	slightly right	1560	1900	end	1920	2020
+head mvmt: nod	slight single head nod	1880	2020
+head mvmt: shake	slow	200	320	start	340	940	slow	960	1860	end	1880	2020
+nose	start	1400	1540	tensed	1560	2020
+mouth	lips spread	500	540	lips spread	1020	1320	raised upper lip	1520	2020
+POS	Determiner	340	500	Noun	620	720	Verb	800	940	Negation	1020	1260	Proper Noun	1320	1420	Noun	1500	1580	Neg + Verb	1700	1780
+English translation	No, will she buy a house?  No,  John's mother doesn't want to buy a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1011_small_0.mov
+Video	NCSLGR:video files:slave2:_1011_small_2.mov
+Video	NCSLGR:video files:slave3:_1011_small_3.mov
+Video	
+Audio	
+Start frame:	460
+End frame:	1420
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	MOTHER	520	560	NOT-WANT	680	740	BUY	820	920	HOUSE	960	1180	IX-3p:i	1280	1320
+non-dominant hand gloss
+negative	start	480	660	negation	680	1420
+eye brows	lowered	460	1420
+eye aperture	squint	460	500	further squinted	520	1420
+eye gaze	left	460	740
+head pos: tilt fr/bk	start	680	700	slightly front	720	1080	end	1100	1300
+head pos: tilt side	start	1100	1120	slightly right	1140	1420
+head mvmt: shake	start	520	660	rapid	680	1420
+nose	start	640	700	tensed	720	1420
+mouth	start	640	720	raised upper lip	740	1420
+POS	Noun	520	560	Neg + Verb	680	740	Verb	820	920	Noun	960	1180	Pronoun	1280	1320
+English translation	Mother doesn't want to buy a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1012_small_0.mov
+Video	NCSLGR:video files:slave2:_1012_small_2.mov
+Video	NCSLGR:video files:slave3:_1012_small_3.mov
+Video	
+Audio	
+Start frame:	1040
+End frame:	2380
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	IX-3p:i	1120	1260	fs-JOHN	1360	1460	BUY	1520	1680	MANY	1740	1860	BOOK++	1980	2380
+non-dominant hand gloss
+eye brows	start	1040	1100	lowered	1120	2380
+eye aperture	squint	1040	2380
+eye gaze	left	1040	1360	left	1820	1880
+head pos: tilt fr/bk	start	1060	1120	slightly front	1140	1300	start	1320	1580	front	1600	1840	end	1860	2380
+head pos: turn	slightly left	1040	1140	start	1160	1440	slightly right	1460	2380
+head pos: tilt side	start	1280	1400	slightly right	1420	2380
+head pos: jut	start	1440	1500	slightly forward	1520	1620	start	1640	1760	forward	1780	1920	end	1940	2080
+nose	start	1080	1120	tensed	1140	2380
+POS	Determiner	1120	1260	Proper Noun	1360	1460	Verb	1520	1680	Quantifier	1740	1860	Noun	1980	2380
+English translation	John bought many books.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1013_small_0.mov
+Video	NCSLGR:video files:slave2:_1013_small_2.mov
+Video	NCSLGR:video files:slave3:_1013_small_3.mov
+Video	
+Audio	
+Start frame:	220
+End frame:	1980
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-3p:i	300	360	fs-JOHN	500	660	|>		740	MANY	900	1000	BOOK	1080	1200	BUY	1260	1400	HOW-MANY	1480	1620	|>		1700	part:indef	1720	1820
+non-dominant hand gloss
+wh question	start	220	280	whq	300	1820	end	1840	1980
+eye brows	start	220	320	lowered	340	1720	end	1740	1980
+eye aperture	lowered lid	220	340	start	360	420	squint	440	1340	further squinted	1360	1700	squint	1720	1980
+eye gaze	left	240	1620	right	1880	1980
+head pos: tilt fr/bk	start	440	680	front	700	1160	end	1180	1400
+head pos: turn	start	240	300	slightly left	320	520	start	540	640	left	660	1620	end	1640	1980
+head pos: jut	start	520	820	forward	840	1700	end	1720	1980
+body lean	start	1260	1440	slightly forward	1460	1760	end	1780	1980
+nose	start	440	580	tensed	600	1820	end	1840	1980
+mouth	start	540	580	raised upper lip	600	1740	end	1760	1980
+POS	Determiner	300	360	Proper Noun	500	660	Quantifier	900	1000	Noun	1080	1200	Verb	1260	1400	Quantifier + Wh-word	1480	1620	Particle	1720	1820
+English translation	Did John buy many books? How many did he buy?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1014_small_0.mov
+Video	NCSLGR:video files:slave2:_1014_small_2.mov
+Video	NCSLGR:video files:slave3:_1014_small_3.mov
+Video	
+Audio	
+Start frame:	220
+End frame:	1320
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	IX-3p:i	260	320	REALLY	400	460	TEACHER	520	660	MOVIE	800	880	REALLY	1000	1040	LIKE	1120	1280
+non-dominant hand gloss
+eye brows	start	220	240	slightly lowered	260	1320
+eye aperture	start	820	860	closed	880	1080	end	1100	1280
+eye gaze	left	220	380	left	660	1200
+head pos: tilt fr/bk	slightly front	220	280	end	300	380
+head pos: turn	slightly left	220	280	start	300	520	slightly right	540	1320
+head pos: jut	start	460	640	slightly back	660	780	start	800	860	back	880	1280
+head mvmt: nod	slow	220	720	start	880	1120	single	1140	1320
+body lean	start	540	640	slightly back	660	1040	end	1060	1320
+POS	Determiner	260	320	Discourse Marker	400	460	Noun	520	660	Noun	800	880	Adverb	1000	1040	Verb	1120	1280
+English translation	Teacher really liked the movie.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1015_small_0.mov
+Video	NCSLGR:video files:slave2:_1015_small_2.mov
+Video	NCSLGR:video files:slave3:_1015_small_3.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	2260
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	016
+main gloss	IX-3p:i	220	280	TEACHER	380	460	ENJOY	600	1000	BUT	1220	1260	IX-3p:j	1280	1300	KID	1420	1440	NOT	1500	1580	LIKE	1660	1700	MOVIE	1780	1980	part:indef	2060	2120
+non-dominant hand gloss	BUT	1220	1260	|>		1560
+negative	start	1120	1260	negation	1280	2260
+eye brows	start	500	540	slightly raised	560	820	end	840	960	start	1000	1140	lowered	1160	2260
+eye aperture	blink	340	360	start	440	480	closed	500	780	start	800	860	further squinted	880	2260
+eye gaze	left	180	280
+head pos: tilt fr/bk	start	480	640	slightly back	660	1000	end	1020	1080
+head pos: turn	start	800	1020	right	1040	1300	start	1320	1560	left	1580	2080	end	2100	2260
+head pos: tilt side	start	320	380	slightly right	400	680	start	720	820	right	840	1340	start	1360	1600	left	1620	1980	end	2000	2260
+head mvmt: nod	slight rapid head nod	180	540	slight rapid head nod	2080	2260
+head mvmt: shake	start	1120	1260	slow	1280	2260
+body lean	start	380	440	slightly back	460	660	start	680	740	back	760	840	end	860	1000	start	1200	1360	slightly forward	1380	2260
+nose	start	980	1100	tensed	1120	2260
+mouth	start	980	1080	raised upper lip	1100	2100	end	2120	2260
+POS	Determiner	220	280	Noun	380	460	Verb	600	1000	Conjunction	1220	1260	Determiner	1280	1300	Noun	1420	1440	Negation	1500	1580	Verb	1660	1700	Noun	1780	1980	Particle	2060	2120
+English translation	The teacher enjoyed (the movie) but the kids did not like the movie.
+Notes - number of character bytes:	59
+Interesting to see head shake simultaneously with head nod.
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1016_small_0.mov
+Video	NCSLGR:video files:slave2:_1016_small_2.mov
+Video	NCSLGR:video files:slave3:_1016_small_3.mov
+Video	
+Audio	
+Start frame:	440
+End frame:	1740
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	IX-3p:i	500	640	|>		780	TEACHER	900	1000	VOMIT	1080	1200	MOVIE	1340	1540
+non-dominant hand gloss
+negative	negation	1080	1740
+eye brows	start	440	460	lowered	480	1740
+eye aperture	start	440	500	further squinted	520	1740
+eye gaze	left	440	620	right	1700	1740
+head pos: turn	start	1000	1220	right	1240	1460	end	1480	1700
+head pos: jut	start	960	1060	back	1080	1200	end	1220	1340
+head mvmt: shake	start	440	520	slight rapid head shake	540	980	end	1000	1280
+head mvmt: nod	start	1200	1240	single	1260	1420	end	1440	1540
+body lean	start	660	780	back	800	1400	end	1420	1740
+nose	start	440	540	tensed	560	1740
+mouth	raised upper lip	440	1000	open & corners down	1100	1200
+POS	Determiner	500	640	Noun	900	1000	Verb	1100	1200	Noun	1340	1540
+English translation	The teacher doesn't like the movie.
+Notes - number of character bytes:	18
+check the negation
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1017_small_0.mov
+Video	NCSLGR:video files:slave2:_1017_small_2.mov
+Video	NCSLGR:video files:slave3:_1017_small_3.mov
+Video	
+Audio	
+Start frame:	640
+End frame:	1960
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	016
+main gloss	IX-3p:i	720	800	NOT-KNOW	960	1020	TEACHER	1100	1200	LIKE	1300	1360	MOVIE	1420	1480	NOT-KNOW	1640	1720	part:indef	1760	1900
+non-dominant hand gloss	TEACHER	1100	1200	|>		1300	MOVIE	1420	1480	|>		1680
+topic/focus
+eye brows	raised	640	1900	end	1920	1960
+eye aperture	wide	640	1960
+eye gaze	left	920	1020
+head pos: tilt fr/bk	start	640	700	slightly front	720	1720	end	1740	1960
+head pos: turn	start	680	960	right	980	1420	start	1440	1660	left	1680	1880	end	1900	1960
+head pos: tilt side	start	840	960	slightly left	980	1680	end	1700	1900
+head pos: jut	start	640	740	slightly back	760	1880	end	1900	1960
+head mvmt: shake	single	1420	1960
+body lean	start	920	1260	back	1280	1420	end	1440	1840
+neck	start	660	960	tensed/right	980	1460	start	1480	1680	tensed/left	1700	1820	end	1840	1960
+mouth	lips spread & crnrs down	760	1340	lips spread & crnrs down	1640	1840
+POS	Determiner	720	800	Verb	960	1020	Noun	1100	1200	Verb	1300	1360	Noun	1420	1480	Neg + Verb	1640	1720	Particle	1760	1900
+English translation	I don't know if the teacher likes the movie, I (just) don't know.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1019_small_0.mov
+Video	NCSLGR:video files:slave2:_1019_small_2.mov
+Video	NCSLGR:video files:slave3:_1019_small_3.mov
+Video	
+Audio	
+Start frame:	380
+End frame:	1980
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	IX-3p:i	400	460	MOTHERwg	580	660	IX-loc:i	720	820	BUY	920	1040	CAR	1100	1260	FOR	1380	1400	fs-JOHN	1440	1620	|>		1760
+non-dominant hand gloss	CAR	1100	1260	|>		1760
+negative	start	500	660	negation	680	1980
+eye brows	start	580	660	lowered	680	1980
+eye aperture	lowered lid	380	600	squint	620	740	start	760	760	blink	780	800	further squinted	820	1900	squint	1920	1980
+eye gaze	left	380	520
+head pos: tilt fr/bk	start	1220	1320	front	1340	1400	end	1420	1480
+head pos: tilt side	start	400	500	slightly right	520	1440	end	1460	1600
+head mvmt: shake	start	500	800	slow	820	1980
+mouth	start	600	620	raised upper lip	640	1980
+nose	start	600	680	tensed	700	1980
+POS	Determiner	400	460	Noun	580	660	Adverb	720	820	Verb	920	1040	Noun	1100	1260	Preposition	1380	1400	Proper Noun	1440	1620
+English translation	Mother isn't buying a car for John.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1020_small_0.mov
+Video	NCSLGR:video files:slave2:_1020_small_2.mov
+Video	NCSLGR:video files:slave3:_1020_small_3.mov
+Video	
+Audio	
+Start frame:	1060
+End frame:	2000
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	CHOCOLATE	1160	1320	REALLY	1380	1400	STUDENT	1480	1620	LIKE	1720	1840	|>		1940
+non-dominant hand gloss	STUDENT	1480	1620	|>		1820
+topic/focus	focus/top1	1060	1320
+eye brows	raised	1060	1220	end	1240	1380
+eye aperture	wide	1060	1300	start	1320	1340	closed	1360	1460	end	1480	1560
+eye gaze	left	1060	1320
+head pos: tilt fr/bk	start	1060	1120	slightly front	1140	2000
+head pos: tilt side	slightly left	1060	1680	end	1700	1860
+head pos: jut	slightly back	1060	2000
+head mvmt: nod	single	1660	2000
+POS	Noun	1160	1320	Discourse Marker	1380	1400	Noun	1480	1620	Verb	1720	1840
+English translation	The student likes CHOCOLATE.
+Notes - number of character bytes:	24
+check the POS for REALLY
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1021_small_0.mov
+Video	NCSLGR:video files:slave2:_1021_small_2.mov
+Video	NCSLGR:video files:slave3:_1021_small_3.mov
+Video	
+Audio	
+Start frame:	660
+End frame:	1660
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	CHOCOLATE	820	1040	TEACHER	1160	1220	IX-3p:i	1280	1320	LIKE	1440	1540	|>		1600
+non-dominant hand gloss	TEACHER	1160	1220	|>		1360
+topic/focus	focus/top1	820	1040
+eye brows	start	680	800	slightly raised	820	960	start	980	1120	lowered	1140	1660
+eye aperture	start	940	1000	squint	1020	1080	start	1100	1100	blink	1120	1140	start	1160	1180	blink	1200	1260	squint	1280	1660
+eye gaze
+head pos: tilt fr/bk	start	1040	1140	slightly front	1160	1660
+head pos: turn	start	900	1140	right	1160	1460	end	1480	1660
+head pos: tilt side	slightly left	680	1300	end	1320	1440
+head mvmt: nod	start	1240	1380	slight rapid head nod	1400	1660
+POS	Noun	820	1040	Noun	1160	1220	Pronoun	1280	1320	Verb	1440	1540
+English translation	The teacher likes CHOCOLATE.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1070_small_0.mov
+Video	NCSLGR:video files:slave2:_1070_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	220
+End frame:	1640
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	016
+main gloss	fs-JOHN	260	420	CHOCOLATE	580	700	NOT	840	860	LIKE	1000	1080	(25)WHY	1180	1340	part:indef	1380	1500
+non-dominant hand gloss	CHOCOLATE	580	700	|>		1180	part:indef	1340	1440
+wh question	whq	1180	1500	end	1520	1640
+topic/focus	top2	260	420	focus/top1	580	700
+negative	negation	840	1120
+eye brows	slightly raised	260	420	start	440	560	slightly lowered	580	700	start	720	780	lowered	800	1640
+eye aperture	start	460	500	squint	520	1640
+head pos: tilt fr/bk	start	420	560	front	580	1340	end	1360	1640
+head pos: turn	start	240	280	slightly right	300	440	start	460	540	right	560	1400	start	1420	1460	slightly right	1480	1640
+head pos: tilt side	start	520	600	left	620	1420	end	1440	1640
+head pos: jut	start	1140	1260	forward	1280	1340	end	1360	1600
+head mvmt: shake	start	660	720	rapid	740	1120	slight rapid head shake	1160	1340
+nose	start	460	540	tensed	560	1640
+POS	Proper Noun	260	420	Noun	580	700	Negation	840	860	Verb	1000	1080	Wh-word	1180	1340	Particle	1380	1500
+Non-dominant POS	Particle	1340	1440
+English translation	Why doesn't John like chocolate?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1071_small_0.mov
+Video	NCSLGR:video files:slave2:_1071_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	100
+End frame:	1380
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	009
+main gloss	fs-JOHN	160	280	READ+	340	560	HOW-MANY	620	700	BOOK+	780	1000	UP-TO-NOW	1120	1240	|>		1300
+non-dominant hand gloss
+wh question	start	160	600	whq	620	1380
+eye brows	start	200	560	lowered	580	1380
+eye aperture	start	480	540	squint	560	640	further squinted	660	1380
+head pos: turn	start	100	280	right	300	1240	end	1260	1380
+head pos: jut	start	640	880	forward	920	1160	end	1180	1380
+POS	Proper Noun	160	280	Verb	340	560	Wh-word	620	700	Noun	780	1000	Adverb	1120	1240
+English translation	How many books has John read so far?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1072_small_0.mov
+Video	NCSLGR:video files:slave2:_1072_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	100
+End frame:	1100
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	010
+main gloss	STUDENT	160	220	READ+	280	480	HOW-MANY	580	640	BOOK	740	820	|>		1000
+non-dominant hand gloss
+wh question	start	100	240	whq	260	1100
+eye brows	start	100	240	lowered	260	1100
+eye aperture	start	120	180	squint	200	1100
+head pos: tilt fr/bk	start	100	300	slightly front	320	860	end	880	1100
+head pos: turn	start	100	300	slightly right	320	960	end	980	1100
+head pos: jut	start	540	640	forward	660	820	end	840	1100
+POS	Noun	160	220	Verb	280	480	Quantifier + Wh-word	580	640	Noun	740	820
+English translation	How many books did the student read?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1074_small_0.mov
+Video	NCSLGR:video files:slave2:_1074_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	51
+End frame:	1500
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	011
+main gloss	IX-3p:i	140	160	STUDENT	260	420	IX-3p:i	500	580	READ+	640	780	BOOK	840	940	UP-TO-NOW	1080	1220	part:indef	1280	1360
+non-dominant hand gloss	STUDENT	260	420	|>		540
+wh question	start	180	400	whq	420	1500
+eye brows	start	180	400	lowered	420	1500
+eye aperture	start	180	400	further squinted	420	1500
+head pos: turn	start	160	500	right	520	1340	end	1360	1500
+head pos: jut	start	480	600	forward	620	1040	end	1060	1260
+head mvmt: shake	slight rapid head shake	880	1500
+nose	start	340	460	tensed	480	1500
+POS	Determiner	140	160	Noun	260	420	Pronoun	500	580	Verb	640	780	Noun	840	940	Adverb	1080	1220	Particle	1280	1360
+English translation	For how long has that student been reading the book?
+Notes - number of character bytes:	29
+check the wh question marking
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1075_small_0.mov
+Video	NCSLGR:video files:slave2:_1075_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	100
+End frame:	1580
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	008
+main gloss	IX-3p:i	140	180	MOTHERwg	260	480	neu:GIVE:j	600	700	fs-JOHN	800	900	CHOCOLATE	980	1020	YESTERDAY	1200	1360	|>		1560
+non-dominant hand gloss
+head pos: tilt fr/bk	start	140	340	slightly front	360	1320	end	1340	1580
+head pos: turn	start	100	260	slightly right	280	920	start	940	1180	left	1200	1380	end	1400	1580
+head pos: tilt side	start	940	1100	left	1120	1260	end	1280	1580
+head mvmt: nod	start	100	120	single	140	560
+POS	Determiner	140	180	Noun	260	480	Verb	600	700	Proper Noun	800	900	Noun	980	1020	Adverb	1200	1360
+English translation	Mother gave John chocolate yesterday.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1076_small_0.mov
+Video	NCSLGR:video files:slave2:_1076_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	380
+End frame:	1580
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	011
+main gloss	fs-JOHN	540	680	|>		760	CHOCOLATE	860	920	|>		1080	MOTHERwg	1260	1380
+non-dominant hand gloss	neu:GIVE:j	980	1140	|>		1340
+eye brows	start	820	900	lowered	920	1260	end	1280	1420
+head pos: tilt fr/bk	front	460	1240	end	1260	1580
+head pos: turn	slightly right	380	1180	end	1200	1580
+head pos: tilt side	slightly right	380	1240	end	1260	1580
+mouth	start	900	960	raised upper lip	980	1160	end	1180	1280
+nose	start	920	980	tensed	1000	1120	end	1140	1280
+POS	Proper Noun	540	680	Noun	860	920	Noun	1260	1380
+Non-dominant POS	Verb	980	1140
+English translation	He, John, gave his mother chocolate.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1077_small_0.mov
+Video	NCSLGR:video files:slave2:_1077_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	120
+End frame:	1980
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	011
+main gloss	fs-JOHN	180	340	|>		500	IX-3p:i	600	680	NOW	840	920	|>		1000	CHOCOLATE	1440	1560	MOTHERwg	1680	1780
+non-dominant hand gloss	neu:GIVE:j	1020	1180	|>		1260	IX-loc:j	1720	1760
+eye brows	start	780	840	raised	860	900	end	920	1040
+head pos: tilt fr/bk	start	720	820	front	840	1740	end	1760	1980
+head pos: turn	start	120	280	right	300	1220	end	1240	1740
+head pos: jut	start	740	840	back	860	1100	end	1120	1260
+head mvmt: nod	start	120	180	slight rapid head nod	200	1260
+neck	start	720	820	tensed/right	840	1140	end	1160	1480
+POS	Proper Noun	180	340	Pronoun	600	680	Tense	840	920	Noun	1440	1560	Noun	1680	1780
+Non-dominant POS	Verb	1020	1180	Adverb	1720	1760
+English translation	John, he is giving chocolate to his mother now.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1078_small_0.mov
+Video	NCSLGR:video files:slave2:_1078_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	140
+End frame:	1780
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	010
+main gloss	fs-JOHN	200	320	(2h)GIVE:j	400	480	MOTHER	640	660	CHOCOLATE	760	1060	(L)FUTURE	1260	1320	SOON	1400	1540
+non-dominant hand gloss	(2h)GIVE:j	400	480	|>		620	CHOCOLATE	760	1060	|>		1560
+yes/no question	start	140	300	yes/no question	320	1780
+topic/focus	top2	160	1140
+eye brows	start	160	340	raised	360	1780
+eye aperture	start	220	300	wide	320	1780
+head pos: tilt fr/bk	start	160	280	front	300	1300	end	1320	1780
+head pos: turn	slightly right	140	1500	end	1520	1780
+POS	Proper Noun	200	320	Verb	400	480	Noun	640	660	Noun	760	1060	Tense	1260	1320	Adverb	1400	1540
+English translation	About John giving mother chocolate, will he do it soon?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1079_small_0.mov
+Video	NCSLGR:video files:slave2:_1079_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	140
+End frame:	1800
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	011
+main gloss	MOTHER	200	240	(2h)GIVE:j	300	480	|>		720	CHOCOLATE	1120	1260	fs-JOHN	1340	1480	|>		1700
+non-dominant hand gloss	CHOCOLATE	1120	1260	|>		1620
+yes/no question	yes/no question	300	1800
+topic/focus	focus/top1	200	280
+eye brows	slightly raised	160	240	start	260	280	raised	300	1800
+eye aperture	start	220	220	wide	240	1800
+head pos: tilt fr/bk	start	140	240	slightly front	260	1580	end	1600	1800
+head pos: turn	slightly right	140	1800
+head pos: jut	start	140	220	slightly forward	240	1500	end	1520	1800
+POS	Noun	200	240	Verb	300	480	Noun	1120	1260	Proper Noun	1340	1480
+English translation	Did mother give chocolate to John?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1080_small_0.mov
+Video	NCSLGR:video files:slave2:_1080_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	1500
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	009
+main gloss	IX-3p:i	100	120	TEACHER	240	340	IX-loc:i	400	440	CAR	520	680	BUY+	760	1040	UP-TO-NOW	1180	1400
+non-dominant hand gloss
+eye brows	start	200	280	lowered	300	1500
+eye aperture	start	120	180	squint	200	680	further squinted	700	1500
+head pos: tilt fr/bk	start	180	260	front	280	480	end	500	1060
+head pos: turn	start	20	180	right	200	1320	end	1360	1500
+head pos: jut	start	620	700	forward	720	1160	end	1180	1500
+POS	Determiner	100	120	Noun	240	340	Adverb	400	440	Noun	520	680	Verb	760	1040	Adverb	1180	1400
+English translation	The teacher has been car shopping for a while now.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1081_small_0.mov
+Video	NCSLGR:video files:slave2:_1081_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	1720
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	011
+main gloss	IX-3p:i	40	60	TEACHER	160	260	CAR	440	720	BUY++	820	1300	UP-TO-NOW	1400	1580	|>		1660
+non-dominant hand gloss
+yes/no question	yes/no question	40	1720
+eye brows	start	20	120	raised	140	1720
+head pos: tilt fr/bk	start	40	200	slightly front	220	1640	end	1660	1720
+head pos: turn	start	0	160	slightly right	180	240	start	260	300	right	320	1320	end	1340	1720
+head mvmt: nod	start	0	40	rapid	60	1600	end	1620	1720
+mouth	lips spread & crnrs down	180	380	raised upper lip	760	1720
+nose	start	80	240	tensed	260	1720
+POS	Determiner	40	60	Noun	160	260	Noun	440	720	Verb	820	1300	Adverb	1400	1580
+English translation	Has the teacher been car shopping lately(all this time)?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1084_small_0.mov
+Video	NCSLGR:video files:slave2:_1084_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	100
+End frame:	1200
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	010
+main gloss	STUDENT	160	200	IX-loc:i	280	320	PAY	380	480	HOW-MANY	660	740	CAR	780	980	|>		1100
+non-dominant hand gloss	STUDENT	160	200	|>		480
+wh question	whq	580	1200
+eye brows	start	100	560	lowered	580	1200
+eye aperture	start	120	260	squint	280	1200
+eye gaze	left	120	260
+head pos: turn	start	300	360	slightly right	380	1200
+head pos: jut	start	360	440	slightly forward	460	560	start	580	640	forward	660	980	end	1000	1200
+POS	Noun	160	200	Adverb	280	320	Verb	380	480	Quantifier + Wh-word	660	740	Noun	780	980
+English translation	How many cars did the student buy (pay for)?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1085_small_0.mov
+Video	NCSLGR:video files:slave2:_1085_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	100
+End frame:	2360
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	010
+main gloss	IX-3p:i	180	260	STUDENT	360	500	IX-loc:i	540	560	KISS-FIST	700	840	CHOCOLATE	960	1280	VOMIT	1420	1680	|>		1840	READ+	1900	2220	|>		2280
+non-dominant hand gloss	STUDENT	360	500	|>		560
+eye brows	start	280	520	lowered	540	2360
+eye aperture	blink	180	200	start	220	220	squint	240	600	start	620	620	blink	640	660	further squinted	680	2360
+head pos: turn	start	140	280	slightly right	300	440	start	460	660	slightly left	680	860	start	880	960	left	1020	1680	start	1700	2000	slightly right	2020	2360
+head pos: tilt side	start	100	200	slightly left	220	400	start	420	580	slightly right	600	840	start	860	1440	slightly left	1460	1560	end	1580	1960
+nose	start	460	560	tensed	580	1160	start	1180	1320	tensed	1340	2360
+mouth	start	1200	1300	raised upper lip	1320	2360
+POS	Determiner	180	260	Noun	360	500	Adverb	540	560	Verb	700	840	Noun	960	1280	Verb	1420	1680	Verb	1900	2220
+English translation	The student there loves chocolate but doesn't like reading.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1086_small_0.mov
+Video	NCSLGR:video files:slave2:_1086_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	140
+End frame:	1960
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	STUDENT	200	300	READ+	360	540	VOMIT	660	840	|>		1020	KISS-FIST	1220	1320	CHOCOLATE	1420	1680	part:indef	1760	1860
+non-dominant hand gloss	READ+	360	540	|>		720
+topic/focus	focus	1100	1960
+negative	start	140	340	negation	360	1020
+eye brows	start	160	240	lowered	260	960	start	980	1100	raised	1120	1960
+eye aperture	start	180	300	squint	320	520	further squinted	540	960	start	980	1080	wide	1100	1960
+head pos: tilt fr/bk	start	140	220	slightly front	240	1140	start	1160	1260	slightly back	1280	1460	end	1480	1860
+head pos: turn	start	520	700	slightly left	740	920	end	940	1120	start	1280	1420	slightly left	1440	1960
+head pos: tilt side	start	580	620	left	640	840	start	860	1100	slightly right	1120	1320	end	1340	1380
+head mvmt: nod	start	1400	1460	rapid	1480	1960
+mouth	start	320	360	raised upper lip	380	1020	end	1040	1140
+POS	Noun	200	300	Verb	360	540	Verb	660	840	Verb	1220	1320	Noun	1420	1680	Particle	1760	1860
+English translation	The student doesn't like to read but loves chocolate.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:_1087_small_0.mov
+Video	NCSLGR:video files:slave2:_1087_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	180
+End frame:	2140
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	TEACHER	260	360	ENJOY	480	740	READ++	840	1260	BUT	1360	1400	MOVIE	1500	1580	NOT	1720	1820	|>		1920
+non-dominant hand gloss
+topic/focus	top2	180	360
+negative	negation	1420	2080	end	2100	2140
+eye brows	slightly raised	180	340	slightly lowered	460	1180	start	1200	1260	lowered	1280	2140
+eye aperture	wide	180	300	start	320	460	slightly squinted	480	1200	start	1220	1320	further squinted	1340	2140
+head pos: turn	start	180	340	left	360	1280	end	1300	1440
+head mvmt: shake	start	1300	1460	rapid	1480	2140
+head mvmt: nod	rapid	260	1260
+nose	start	1160	1260	tensed	1280	2140
+POS	Noun	260	360	Verb	480	740	Verb	840	1260	Conjunction	1360	1400	Noun	1500	1580	Negation	1720	1820
+English translation	The teacher enjoys reading but not movies.
+Notes - number of character bytes:	0

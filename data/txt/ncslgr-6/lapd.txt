@@ -1,0 +1,3642 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	lapd	Firewire 38200:NCSLGRv6:lapd
+Number of utterances:	116
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	2480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	ONE	280	760	#OF	880	960	POSS-1p	1040	1160	WORSE	1360	1680	EXPERIENCE	1840	2480
+non-dominant hand gloss
+head pos: tilt fr/bk	start	0	80	slightly back	120	440	start	480	640	front	680	2480
+head pos: turn	start	360	600	left	640	2480
+head pos: tilt side	start	360	640	left	680	2240	start	2280	2360	slightly left	2400	2480
+head pos: jut	start	280	520	back	560	760	end	800	1040	start	1720	1800	slightly back	1840	2240	end	2280	2480
+eye brows	start	120	280	lowered	320	2480
+eye aperture	start	280	440	squint	480	2480
+nose	start	480	760	wrinkle	800	2480
+POS	Number	280	760	Preposition	880	960	Possessive	1040	1160	Adjective	1360	1680	Noun	1840	2480
+English translation	One of my worst experience.
+Notes - number of character bytes:	6
+- CBD
+
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	2520
+End frame:	5480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	REALLY	2680	2840	PAST	3000	3120	FOUR	3240	3360	YEAR	3480	3600	PAST	3720	4000	IN	4080	4160	fs-CSUN	4280	5000	|>		5480
+non-dominant hand gloss	YEAR	3480	3600	|>		3840
+head pos: tilt fr/bk	slightly front	2520	3640	end	3680	3960	start	4800	5040	slightly front	5080	5240	end	5280	5480
+head pos: turn	left	2520	2680	start	2720	3200	right	3240	4760	start	4800	5320	slightly left	5360	5480
+head pos: tilt side	slightly left	2520	2520	start	2560	3000	slightly right	3040	4800	start	4840	5320	slightly left	5360	5480
+head mvmt: nod
+	start	2520	2560	slight rapid head nod	2600	3120	end	3160	3360	start	4840	5040	single	5080	5440	end	5480	5480
+eye brows	lowered	2520	5480
+eye aperture	squint	2520	2560	start	2600	2640	further squinted	2680	4000	start	4040	4160	squint	4200	5480
+nose	wrinkle	2520	5480
+POS	Discourse Marker	2680	2840	Tense Marker	3000	3120	Number	3240	3360	Noun	3480	3600	Tense Marker	3720	4000	Preposition	4080	4160	Proper Noun	4280	5000
+Non-dominant POS	Noun	3480	3600
+English translation	Four years ago at CSUN...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	5520
+End frame:	8800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	REALLY	5600	5800	|>		6040	LIVE	7440	7960	IX-1p	8040	8240
+non-dominant hand gloss	ONE	5920	5960	GIRL	6120	6640	RIGHT-THERE	6800	7240	LIVE	7440	7960	|>		8160	NEXT	8360	8800
+head pos: tilt fr/bk	start	6560	6720	front	6760	8800
+head pos: turn	slightly left	5520	5640	end	5680	5920	start	6720	7000	left	7040	8400	start	8440	8640	slightly right	8680	8800
+head pos: tilt side	slightly left	5520	5720	end	5760	6000	start	6440	6680	slightly right	6720	6760	end	6800	7080	start	7200	7280	left	7320	8280	start	8320	8480	slightly right	8520	8800
+head pos: jut	start	5880	6000	back	6040	8800
+body lean	start	7560	7800	back/right	7840	8800
+eye brows	lowered	5520	8800
+eye aperture	squint	5520	5680	start	5720	5960	further squinted	6000	7960	start	8000	8200	closed	8240	8400	start	8440	8480	further squinted	8520	8800
+nose	wrinkle	5520	8800
+POS	Discourse Marker	5600	5800	Verb	7440	7960	Pronoun	8040	8240
+Non-dominant POS	Number	5920	5960	Noun	6120	6640	Adjective	6800	7240	Verb	7440	7960	Adjective	8360	8800
+English translation	One girl lived right next to me.
+Notes - number of character bytes:	25
+-CLOSE-BY, correct gloss?
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	8840
+End frame:	11200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-3p:i	8880	9040	TAKE	9240	9480	TOGETHER	9680	10200	PARTY	10320	11160	|>		11200
+non-dominant hand gloss	NEXT	8840	8880	|>		9000
+head pos: tilt fr/bk	front	8840	9040	end	9080	9480	start	10000	10080	slightly back	10120	11200
+head pos: turn	right	8840	11000	start	11040	11160	slightly right	11200	11200
+head pos: tilt side	slightly right	8840	9840	start	9880	10040	right	10080	10880	start	10920	11120	slightly left	11160	11200
+head pos: jut	back	8840	10040	start	10080	10480	slightly back	10520	11200
+body lean	back/right	8840	8920	start	8960	9480	left	9520	10400	end	10440	10640
+eye brows	lowered	8840	9920	end	9960	10320
+eye aperture	squint	8840	9760	start	9800	10000	lowered lid	10040	11200
+nose	wrinkle	8840	9920	end	9960	10320
+POS	Pronoun	8880	9040	Verb	9240	9480	Adverb	9680	10200	Noun	10320	11160
+Non-dominant POS	Adjective	8840	8880
+English translation	She had a party.
+Notes - number of character bytes:	40
+-Is together correct gloss, or is it CL?
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	11240
+End frame:	14680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	FOR	11360	11480	IX-1p-arc	11600	11720	COLLEGE	11880	12560	STUDENT	12680	13040	PAST	13320	13720	IX-1p	13840	13880	TOGETHER	14000	14680
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	11240	11320	end	11360	11600	start	12280	12440	front	12480	14560	start	14600	14640	slightly back	14680	14680
+head pos: turn	slightly right	11240	11240	start	11280	11440	slightly left	11480	11600	start	11640	12360	right	12400	13560	start	13600	13880	left	13920	14560	start	14600	14640	slightly left	14680	14680
+head pos: tilt side	slightly left	11240	11600	end	11640	11840	start	13040	13200	right	13240	13520	start	13560	13880	slightly left	13920	14360	start	14400	14640	slightly right	14680	14680
+head pos: jut	slightly back	11240	11600	end	11640	11840	start	14080	14320	forward	14360	14520	end	14560	14680
+head mvmt: nod
+	start	11840	12360	slight rapid head nod	12400	13520	end	13560	13880
+body lean	start	13920	14200	slightly forward	14240	14640	end	14680	14680
+eye brows	start	12360	12600	slightly lowered	12640	12880	start	12920	13080	lowered	13120	14680
+eye aperture	lowered lid	11240	12200	start	12240	12400	closed	12440	14680
+nose	start	12360	12720	wrinkle	12760	14680
+POS	Preposition	11360	11480	Pronoun	11600	11720	Adjective	11880	12560	Noun	12680	13040	Tense Marker	13320	13720	Pronoun	13840	13880	Adverb	14000	14680
+English translation	It was for college students to get together.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	14720
+End frame:	18160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	REALLY	14840	14920	GOOD	15000	15200	TIME	15320	15760	OVER-NIGHT	15960	16720	IX-1p	16840	17080	ENJOY	17200	17680	"etc"	17800	18160
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	14720	15240	end	15280	15800	start	16520	16680	back	16720	17000	start	17040	17320	slightly back	17360	17440	end	17480	18160
+head pos: turn	slightly left	14720	14720	start	14760	15200	right	15240	15800	end	15840	16120	start	16640	16840	slightly right	16880	17160	start	17200	17680	slightly left	17720	18160
+head pos: tilt side	slightly right	14720	14720	start	14760	14800	right	14840	15840	start	15880	16120	left	16160	16720	start	16760	17680	slightly left	17720	18160
+head mvmt: nod
+	start	15960	17080	slight slow head nod	17120	18040	end	18080	18160
+body lean	start	15840	16200	left	16240	16760	end	16800	17640
+eye brows	slightly lowered	14720	18160
+eye gaze	left	17520	17760
+eye aperture	closed	14720	15320	start	15360	15800	squint	15840	16760	start	16800	17040	closed	17080	17480	start	17520	17720	squint	17760	18160
+nose	wrinkle	14720	18160
+POS	Discourse Marker	14840	14920	Adjective	15000	15200	Noun	15320	15760	Adverb	15960	16720	Pronoun	16840	17080	Verb	17200	17680
+English translation	I enjoyed.  It was good time all night.
+Notes - number of character bytes:	28
+- last CL, ETC, is it right?
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	18200
+End frame:	21240
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	18320	18520	DECIDE	18720	18760	fs-TO	19120	19360	GO	19680	20040	BUY	20240	20440	CIGARETTE	20640	21240
+non-dominant hand gloss	DECIDE	18720	18760	|>		19640
+head pos: tilt fr/bk	start	18200	18280	slightly back	18320	18480	end	18520	18720	start	18960	19320	front	19360	20640	end	20680	21080
+head pos: turn	slightly left	18200	18240	end	18280	18480	start	18520	18720	right	18760	18880	end	18920	19000	start	19320	19480	left	19520	21240
+head pos: tilt side	slightly left	18200	18240	end	18280	18480	start	18720	18880	right	18920	19040	start	19080	19360	left	19400	20440	end	20480	20920
+head pos: jut	start	18520	18680	back	18720	20440	end	20480	20880
+body lean	start	18520	18720	slightly back	18760	19440	start	19480	20080	slightly forward	20120	20440	end	20480	20880
+eye brows	lowered	18200	21240
+eye aperture	squint	18200	21240
+nose	wrinkle	18200	21240
+POS	Pronoun	18320	18520	Verb	18720	18760	Preposition	19120	19360	Verb	19680	20040	Verb	20240	20440	Noun	20640	21240
+Non-dominant POS	Verb	18720	18760
+English translation	I decided to go to buy cigarette.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	21280
+End frame:	24080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	AT	21320	21440	RIGHT-THERE	21640	21960	fs-MARKET	22120	23440	IX-loc:i	23640	24080
+non-dominant hand gloss
+head pos: tilt fr/bk	start	23440	23480	front	23520	23800	start	23840	23880	slightly front	23920	24080
+head pos: turn	left	21280	21440	start	21480	21720	slightly right	21760	23320	start	23360	23760	slightly left	23800	24080
+head pos: jut	start	23080	23480	slightly back	23520	23840	end	23880	24080
+head mvmt: nod
+	start	23080	23440	single	23480	23880	end	23920	24080
+body lean	start	23360	23720	right	23760	24080
+eye brows	lowered	21280	24080
+eye aperture	squint	21280	24080
+nose	wrinkle	21280	24080
+POS	Preposition	21320	21440	Adjective	21640	21960	Noun	22120	23440	Adverb	23640	24080
+English translation	Nearby Market
+Notes - number of character bytes:	39
+-final index, what is that, loc or det?
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	24120
+End frame:	26920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	SAY	24280	24360	ONLY	24440	24680	FIVE	24760	25000	FIVE-MINUTE	25080	25960	WALK	26120	26440	NOTHING	26560	26880
+non-dominant hand gloss	FIVE-MINUTE	25080	25960	|>		26280
+head pos: tilt fr/bk	slightly front	24120	24400	end	24440	24640	start	26360	26520	front	26560	26920
+head pos: turn	slightly left	24120	26440	start	26480	26600	left	26640	26920
+head pos: tilt side	start	24280	24480	left	24520	26040	end	26080	26440
+head pos: jut	start	26040	26320	back	26360	26720	end	26760	26920
+head mvmt: nod
+	start	26320	26520	single	26560	26880	end	26920	26920
+body lean	right	24120	24480	start	24520	24720	left	24760	26120	end	26160	26320
+eye brows	lowered	24120	26920
+eye gaze	left	26760	26920
+eye aperture	squint	24120	26600	start	26640	26680	blink	26720	26840	start	26880	26880	squint	26920	26920
+nose	wrinkle	24120	26920
+POS	Verb	24280	24360	Adjective	24440	24680	Number	24760	25000	Noun	25080	25960	Verb	26120	26440	Negation	26560	26880
+Non-dominant POS	Noun	25080	25960
+English translation	I can say its only five minutes walk which is nothing.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	26960
+End frame:	30800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	27040	27080	CL:1"person walking"	27360	28080	IX-1p	28280	28440	part:indef	28520	28640	WALK	28760	29560	IX-1p	29800	29960
+non-dominant hand gloss	CL:1"person walking"	29760	30800
+head pos: tilt fr/bk	front	26960	27040	start	27080	27240	front	27280	27920	start	27960	28240	slightly back	28280	30800
+head pos: turn	left	26960	27080	start	27120	27400	right	27440	27840	end	27880	28120	start	28360	28520	slightly left	28560	28640	start	28680	29000	right	29040	30440	end	30480	30800
+head pos: tilt side	start	27040	27080	right	27120	28120	start	28160	28520	left	28560	29160	start	29200	29640	right	29680	30440	start	30480	30680	left	30720	30800
+head pos: jut	start	27520	28040	forward	28080	28760	end	28800	29640
+head mvmt: nod
+	start	26960	28360	slight rapid head nod	28400	30120	end	30160	30440
+eye brows	lowered	26960	30800
+eye gaze	left	26960	27040	left	28120	28280	right	29640	30400
+eye aperture	squint	26960	28040	start	28080	28240	closed	28280	28760	start	28800	28920	squint	28960	30280	start	30320	30320	blink	30360	30440	start	30480	30480	squint	30520	30800
+nose	wrinkle	26960	30800
+POS	Pronoun	27040	27080	Classifier	27360	28080	Pronoun	28280	28440	Particle	28520	28640	Verb	28760	29560	Pronoun	29800	29960
+Non-dominant POS	Classifier	29760	30800
+English translation	I walked.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	30840
+End frame:	34160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	30960	31040	IX-1p	31120	31200	BUY	31320	31560	CIGARETTE	31720	32200	FINISH	32280	32440	CL:5"putting the object away"	32800	33280	CL:1"person walking across"	33680	34160
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	30840	30880	start	30920	31040	front	31080	33360	end	33400	33840
+head pos: turn	start	30840	31000	slightly left	31040	31160	start	31200	31400	left	31440	32440	start	32480	33000	slightly right	33040	33320	start	33360	33840	slightly left	33880	34160
+head pos: tilt side	left	30840	32400	start	32440	32800	right	32840	33280	start	33320	33560	left	33600	34160
+head pos: jut	start	31000	31120	back	31160	31800	start	31840	33680	slightly back	33720	34040
+head mvmt: nod
+	start	31160	31680	single	31720	32560	start	32600	32720	single	32760	33280	end	33320	34000
+body lean	start	31080	31360	left	31400	32440	start	32480	32800	right	32840	33280	start	33320	33680	left	33720	34160
+eye brows	slightly lowered	30840	34160
+eye gaze	left	33280	33840	up/left	33880	34160
+eye aperture	squint	30840	32080	start	32120	32440	lowered lid	32480	33600	start	33640	33840	slightly squinted	33880	34080	end	34120	34160
+nose	wrinkle	30840	33640	end	33680	34120
+POS	Discourse Marker	30960	31040	Pronoun	31120	31200	Verb	31320	31560	Noun	31720	32200	Classifier	32800	33280	Classifier	33680	34160
+English translation	I bought cigarette and walked back.
+Notes - number of character bytes:	23
+- whats pos for FINISH?
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	34200
+End frame:	38600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	34440	34520	part:indef	34640	34960	REALLY	35120	35240	ADMIT	35440	35720	IX-1p	35880	36560	REALLY	37080	37160	MUST	37280	37480	BATHROOM	37600	37840	REALLY	37920	38040	BAD	38200	38600
+non-dominant hand gloss	ADMIT	35440	35720	|>		36880
+head pos: tilt fr/bk	start	34920	35240	front	35280	36120	start	36160	36880	front	36920	38600
+head pos: turn	slightly left	34200	34880	end	34920	35040	start	35200	35720	right	35760	36640	start	36680	37000	left	37040	37360	start	37400	37840	slightly right	37880	38000	start	38040	38080	right	38120	38600
+head pos: tilt side	left	34200	34880	start	34920	35360	right	35400	36600	start	36640	37080	left	37120	37480	start	37520	37760	right	37800	38600
+head pos: jut	start	34600	34800	back	34840	36880	end	36920	37160
+head mvmt: shake	start	37080	37360	slow	37400	38400	end	38440	38600
+body lean	left	34200	34720	end	34760	35040
+eye brows	slightly lowered	34200	34440	end	34480	34720
+eye gaze	up/left	34200	34320
+eye aperture	start	34200	34320	closed	34360	34760	start	34800	34960	lowered lid	35000	35280	end	35320	35880
+POS	Pronoun	34440	34520	Particle	34640	34960	Discourse Marker	35120	35240	Verb	35440	35720	Pronoun	35880	36560	Discourse Marker	37080	37160	Modal	37280	37480	Noun	37600	37840	Adverb	37920	38040	Adjective	38200	38600
+Non-dominant POS	Verb	35440	35720
+English translation	I have to admit, I really need to go bathroom bad.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	38680
+End frame:	42400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	38680	38760	CAN^NOT	38920	39000	HOLD	39080	39360	POSS-1p	39520	39600	fs-BLADDER	39840	40920	#SO	41040	41120	IX-1p	41320	41600	part:indef	41840	42400
+non-dominant hand gloss	CAN^NOT	38920	39000	|>		39560
+head pos: tilt fr/bk	front	38680	41400	start	41440	41800	slightly front	41840	42400
+head pos: turn	right	38680	38760	start	38800	39000	left	39040	39240	end	39280	39520	start	39880	40080	left	40120	41320	start	41360	42120	slightly left	42160	42400
+head pos: tilt side	right	38680	38720	end	38760	39000	start	39840	40080	left	40120	41080	start	41120	41680	right	41720	42240	end	42280	42400
+head pos: jut	start	39000	39240	back	39280	42400
+head mvmt: shake	start	38680	38960	slow	39000	41040	end	41080	41600
+body lean	start	39000	39160	left	39200	41360	end	41400	41720
+eye brows	start	42120	42360	raised	42400	42400
+eye gaze	left	41560	42200
+eye aperture	start	41360	41680	blink	41720	42080	end	42120	42360
+negative	negation	39000	41040
+POS	Pronoun	38680	38760	Modal+Negation	38920	39000	Verb	39080	39360	Possessive	39520	39600	Noun	39840	40920	Discourse Marker	41040	41120	Pronoun	41320	41600	Particle	41840	42400
+Non-dominant POS	Modal+Negative	38920	39000
+English translation	I can't hold my bladder.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	42440
+End frame:	44680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	LOOK	42520	42840	SEE	43040	43120	#BUSH	43280	43800	CL:5"shape of the object"	44040	44680
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	42440	42640	end	42680	42880	start	43120	43240	front	43280	44680
+head pos: turn	slightly left	42440	42640	start	42680	42920	left	42960	43280	end	43320	43800	start	44040	44160	right	44200	44680
+head pos: tilt side	start	42760	42880	left	42920	43320	start	43360	43840	right	43880	44680
+head pos: jut	back	42440	43200	end	43240	43840
+head mvmt: nod
+	start	43840	43920	single	43960	44560	end	44600	44680
+body lean	start	43200	43320	left	43360	44680
+eye brows	raised	42440	42720	end	42760	42880
+POS	Verb	42520	42840	Verb	43040	43120	Noun	43280	43800	Classifier	44040	44680
+English translation	I saw the bush.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	44720
+End frame:	47680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	44880	45120	LOOK	45280	45920	"who cares"	46080	46640	CL:1"walking around to a place"	46720	47680
+non-dominant hand gloss	CL:5"pile mound"	46800	47680
+head pos: tilt fr/bk	front	44720	44920	end	44960	45120	start	46440	46640	front	46680	47520	end	47560	47680
+head pos: turn	slightly right	44720	44880	end	44920	45080	start	45840	46040	slightly right	46080	46680	start	46720	46920	right	46960	47400	start	47440	47600	slightly right	47640	47680
+head pos: tilt side	slightly right	44720	45080	start	45120	45240	left	45280	45480	start	45520	45920	right	45960	47560	end	47600	47680
+head pos: jut	start	45720	45960	slightly back	46000	47520	end	47560	47680
+body lean	left	44720	44920	end	44960	45080	start	46360	46520	slightly forward	46560	46840	start	46880	47320	slightly forward	47360	47680
+eye brows	start	47240	47480	raised	47520	47680
+eye gaze	down	44760	45040
+eye aperture	start	44720	45960	closed	46000	46400	start	46440	46560	lowered lid	46600	47320	start	47360	47520	wide	47560	47680
+nose	start	47440	47600	tensed	47640	47680
+POS	Pronoun	44880	45120	Verb	45280	45920	Classifier	46720	47680
+Non-dominant POS	Classifier	46800	47680
+English translation	I looked at it and thought so what!? I went around the bush.
+Notes - number of character bytes:	39
+- The gesture: "so what" is it correct?
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	47720
+End frame:	50800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	47840	48040	LOOK-arc	48160	48960	MAKE	49240	49320	SURE	49440	49560	NONE	49680	49800	ONE	49880	49960	SEE	50080	50520	IX-1p	50600	50800
+non-dominant hand gloss	CL:5"pile mound"	47720	47760	|>		49000	NONE	49680	49800	|>		50800
+head pos: tilt fr/bk	start	49240	49560	front	49600	50800
+head pos: turn	slightly right	47720	47720	start	47760	47880	slightly left	47920	48440	start	48480	48840	right	48880	49080	start	49120	49440	left	49480	50800
+head pos: tilt side	start	47760	47840	left	47880	48600	start	48640	48880	right	48920	49200	start	49240	49520	left	49560	50800
+head pos: jut	start	47760	47880	back	47920	49120	end	49160	49440
+head mvmt: side to side	start	47800	48040	slow	48080	49320	end	49360	49600
+body lean	slightly forward	47720	47760	start	47800	47960	left	48000	48480	start	48520	48840	right	48880	49240	start	49280	49480	slightly forward	49520	50800
+eye brows	raised	47720	50800
+eye gaze	up/right	47760	49080	right	50640	50800
+eye aperture	wide	47720	50800
+nose	tensed	47720	50800
+POS	Pronoun	47840	48040	Verb	48160	48960	Verb	49240	49320	Adjective	49440	49560	Negation	49680	49800	Number	49880	49960	Verb	50080	50520	Pronoun	50600	50800
+Non-dominant POS	Classifier	47720	47760	Negation	49680	49800
+English translation	I looked around to make sure nobody see me.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	50840
+End frame:	54600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	50840	50880	LOOK	51000	51160	part:indef	51280	51480	FINE	51600	51880	IX-1p	52040	52120	GO-AHEAD	52360	52680	BATHROOM	52920	53720	FINISH	53880	54600
+non-dominant hand gloss
+head pos: tilt fr/bk	front	50840	52280	start	52320	52440	further front	52480	53560	start	53600	54000	back	54040	54600
+head pos: turn	left	50840	50880	start	50920	51120	right	51160	51320	start	51360	51640	left	51680	52840	start	52880	53400	right	53440	54600
+head pos: tilt side	left	50840	50880	start	50920	51120	slightly right	51160	51360	start	51400	51600	left	51640	52960	end	53000	53400
+head pos: jut	start	52160	52560	back	52600	53560	start	53600	54000	forward	54040	54600
+head mvmt: nod
+	start	50840	50920	slight rapid head nod	50960	51800	start	51840	52360	slow	52400	54360	end	54400	54600
+body lean	start	51840	52480	slightly forward	52520	53800	end	53840	54360
+eye brows	raised	50840	51840	end	51880	52360
+eye gaze	right	50840	51400
+eye aperture	wide	50840	51880	start	51920	54280	lowered lid	54320	54600
+nose	tensed	50840	54600
+POS	Pronoun	50840	50880	Verb	51000	51160	Adjective	51600	51880	Pronoun	52040	52120	Verb	52360	52680	Noun	52920	53720	Adverb	53880	54600
+English translation	I looked around and said it should be fine and went ahead to bathroom, then I finished.
+Notes - number of character bytes:	40
+-whats pos for that kind of part:indef??
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	54640
+End frame:	58800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	#THEN	54720	55200	IX-1p	55360	55520	CL:1"walking around"	55640	56360	OUT	56520	56960	#BUSH	57040	57640	CL:5"shape of the object"	57880	58240	CL:1"person walking"	58360	58800
+non-dominant hand gloss	OUT	56520	56960	|>		57840	CL:5"shape of the object"	57880	58240	|>		58800
+head pos: tilt fr/bk	back	54640	54640	start	54680	55000	front	55040	58800
+head pos: turn	right	54640	54920	start	54960	55520	slightly right	55560	56000	start	56040	56440	right	56480	58400	end	58440	58800
+head pos: tilt side	start	54640	55000	left	55040	55280	start	55320	55600	right	55640	55840	start	55880	56280	left	56320	57880	start	57920	58200	slightly right	58240	58360	start	58400	58680	left	58720	58800
+head pos: jut	forward	54640	54720	start	54760	54920	back	54960	55280	end	55320	55840
+head mvmt: nod
+	start	54640	54720	rapid	54760	56320	end	56360	56960
+body lean	start	54640	54920	forward	54960	56320	start	56360	56680	back/left	56720	58200	start	58240	58720	slightly forward	58760	58800
+eye gaze	to addressee	54640	55000	left	55040	55360	to addressee	55400	58800
+eye aperture	lowered lid	54640	55000	start	55040	58760	lowered lid	58800	58800
+nose	start	57720	58200	tensed	58240	58800
+POS	Adverb	54720	55200	Pronoun	55360	55520	Classifier	55640	56360	Preposition	56520	56960	Noun	57040	57640	Classifier	57880	58240	Classifier	58360	58800
+Non-dominant POS	Preposition	56520	56960	Classifier	57880	58240
+English translation	Then I walked out of the bush.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	58840
+End frame:	61320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IX-1p	58920	59040	RELIEF	59160	59640	IMPORTANT	59840	60000	NONE	60080	60160	ONE	60240	60320	SEE	60400	60600	IX-1p	60720	61000	NAH	61120	61320
+non-dominant hand gloss	CL:5"shape of the object"	58840	58880	|>		59760	NONE	60080	60160	|>		60960
+head pos: tilt fr/bk	front	58840	58960	end	59000	59320	start	60400	60640	front	60680	61320
+head pos: turn	start	58840	58880	slightly left	58920	59320	start	59360	59880	right	59920	60360	start	60400	61120	slightly right	61160	61320
+head pos: tilt side	left	58840	60520	end	60560	60800	start	60880	61040	right	61080	61320
+head pos: jut	start	58880	59040	back	59080	61320
+body lean	slightly forward	58840	58880	end	58920	59080	start	61000	61240	right	61280	61320
+eye aperture	lowered lid	58840	61320
+nose	tensed	58840	59880	end	59920	60120	start	60680	61000	tensed	61040	61320
+POS	Pronoun	58920	59040	Verb	59160	59640	Adjective	59840	60000	Negation	60080	60160	Number	60240	60320	Verb	60400	60600	Pronoun	60720	61000
+Non-dominant POS	Classifier	58840	58880	Negation	60080	60160
+English translation	I was relief, its important that nobody see me.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	61360
+End frame:	65720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	61400	61640	CL:5"getting object"	61960	62000	CIGARETTE	62200	62480	CL:THUMB"using a lighter"	64440	65480
+non-dominant hand gloss	CL:2"getting object"	62760	63240	CL:2"holding the object"	63680	64120	|>		65720
+head pos: tilt fr/bk	front	61360	61520	start	61560	61960	back	62000	62080	start	62120	62240	slightly front	62280	62840	start	62880	63000	slightly back	63040	63240	start	63280	63960	front	64000	65720
+head pos: turn	slightly right	61360	61600	end	61640	61960	start	62000	62200	slightly left	62240	63160	start	63200	64440	slightly left	64480	65160	start	65200	65520	slightly right	65560	65720
+head pos: tilt side	right	61360	61840	end	61880	61960	start	62000	62160	left	62200	62840	start	62880	63200	right	63240	63920	start	63960	64160	left	64200	65160	start	65200	65440	right	65480	65720
+head pos: jut	back	61360	64160	end	64200	65440
+head mvmt: side to side	start	62000	62120	slow	62160	65480	end	65520	65720
+body lean	right	61360	62320	start	62360	63960	slightly forward	64000	65720
+eye brows	start	62000	62120	lowered	62160	62760	end	62800	63000	start	63280	64000	slightly lowered	64040	65720
+eye gaze	left	65520	65720
+eye aperture	lowered lid	61360	62040	start	62080	62160	squint	62200	62560	start	62600	63640	lowered lid	63680	64080	start	64120	64720	squint	64760	65720
+nose	tensed	61360	62000	start	62040	62160	wrinkle	62200	62600	end	62640	63240
+POS	Pronoun	61400	61640	Classifier	61960	62000	Noun	62200	62480	Classifier	64440	65480
+Non-dominant POS	Classifier	62760	63240	Classifier	63680	64120
+English translation	I got cigarette from my pocket and flash the lights.
+Notes - number of character bytes:	19
+- all CLs correct? 
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	65760
+End frame:	67080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	65880	66120	LOOK	66240	66520	BACK	66640	67040	|>		67080
+non-dominant hand gloss	CL:2"holding the object"	65760	65800	|>		67080
+head pos: tilt fr/bk	front	65760	65800	end	65840	65960
+head pos: turn	slightly right	65760	65800	start	65840	66120	right	66160	67080
+head pos: tilt side	right	65760	65800	end	65840	65960	start	66520	66600	slightly left	66640	67080
+head pos: jut	start	65880	66520	slightly back	66560	67080
+body lean	slightly forward	65760	65840	start	65880	66520	left	66560	67080
+eye brows	lowered	65760	67080
+eye gaze	left	65760	65840
+eye aperture	squint	65760	65840	start	65880	66000	further squinted	66040	66800	start	66840	67040	squint	67080	67080
+POS	Pronoun	65880	66120	Verb	66240	66520	Noun	66640	67040
+Non-dominant POS	Classifier	65760	65800
+English translation	I looked back.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	67120
+End frame:	71720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	017
+main gloss	IX-1p	67280	67400	LOOK	67600	68560	SEE	69360	69600	TWO	69680	69920	COP	70120	70680	BCL:S"running"	70920	71720
+non-dominant hand gloss	CL:2"holding the object"	67120	67160	|>		69760
+head pos: tilt fr/bk	start	67160	67440	front	67480	67760	start	67800	68040	back	68080	68600	start	68640	68640	front	68680	68720	start	68760	69360	front	69400	71720
+head pos: turn	right	67120	67440	start	67480	67760	further right	67800	69120	start	69160	70400	slightly left	70440	70760	start	70800	70960	slightly right	71000	71120	start	71160	71320	left	71360	71720
+head pos: tilt side	slightly left	67120	68640	start	68680	68840	left	68880	70000	start	70040	70680	right	70720	71040	start	71080	71280	left	71320	71640	start	71680	71680	slightly left	71720	71720
+head pos: jut	slightly back	67120	67280	start	67320	67680	forward	67720	68640	start	68680	68800	slightly back	68840	71720
+head mvmt: nod
+	start	67480	68280	single	68320	68840	end	68880	69400
+head mvmt: shake	start	70320	70800	slow	70840	71600	end	71640	71720
+body lean	left	67120	67720	start	67760	68320	back/left	68360	69640	start	69680	70400	right	70440	71000	end	71040	71280
+eye brows	lowered	67120	71720
+eye gaze	left	67480	69040
+eye aperture	squint	67120	67360	end	67400	67680	start	68360	68600	blink	68640	68760	start	68800	69560	slightly squinted	69600	71720
+nose	start	70800	71080	wrinkle	71120	71720
+role shift	Cop	70920	71720
+POS	Pronoun	67280	67400	Verb	67600	68560	Verb	69360	69600	Number	69680	69920	Noun	70120	70680	Classifier	70920	71720
+Non-dominant POS	Classifier	67120	67160
+English translation	I was looking back and saw two cops ran.
+Notes - number of character bytes:	34
+- the last cl, is it correct, BCL?
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	71760
+End frame:	75080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	FROM	71880	72000	fs:LAPD	72120	73240	|>		73320	TWO	73360	73720	BCL:S"person running"	73800	75080
+non-dominant hand gloss
+head pos: tilt fr/bk	front	71760	75080
+head pos: turn	slightly left	71760	71800	start	71840	72080	right	72120	72880	start	72920	73320	left	73360	73960	start	74000	74320	right	74360	74760	start	74800	75040	right	75080	75080
+head pos: tilt side	left	71760	73760	start	73800	74040	right	74080	74880	end	74920	75080
+head pos: jut	back	71760	73760	start	73800	73920	slightly back	73960	75080
+body lean	start	72080	72400	back/left	72440	73840	end	73880	74080
+eye brows	lowered	71760	75080
+eye aperture	slightly squinted	71760	74840	start	74880	74960	closed	75000	75080
+nose	wrinkle	71760	74960	end	75000	75080
+role shift	Cop	73800	75080
+POS	Preposition	71880	72000	Proper Noun	72120	73240	Number	73360	73720	Classifier	73800	75080
+English translation	They are from LAPD and both of them ran.
+Notes - number of character bytes:	52
+- Same as previous utterance, is it correct CL; BCL?
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	75120
+End frame:	77560
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	75240	75400	part:indef	75760	76560
+non-dominant hand gloss
+head pos: tilt fr/bk	front	75120	75480	start	75520	75720	back	75760	76000	start	76040	76400	front	76440	77560
+head pos: turn	right	75120	76480	end	76520	76760	start	76880	76960	slightly left	77000	77160	start	77200	77480	slightly left	77520	77560
+head pos: tilt side	start	75560	75720	left	75760	76440	end	76480	76760	start	77160	77320	slightly right	77360	77560
+head pos: jut	slightly back	75120	75360	start	75400	75600	back	75640	76560	end	76600	76760
+head mvmt: shake	start	75320	75440	slight rapid head shake	75480	75840	end	75880	76320
+body lean	start	75360	75560	back/left	75600	76480	end	76520	76760
+eye brows	slightly lowered	75120	75120	start	75160	75440	lowered	75480	77560
+eye gaze	left	75120	76120
+eye aperture	lowered lid	75120	75120	start	75160	75240	blink	75280	75400	start	75440	75640	slightly squinted	75680	75720	start	75760	75760	blink	75800	75880	start	75920	76000	closed	76040	76720	start	76760	76800	further squinted	76840	77560
+nose	start	76880	77080	wrinkle	77120	77560
+POS	Pronoun	75240	75400	Particle	75760	76560
+English translation
+Notes - number of character bytes:	103
+- What to do with the part that he was itching his nose? 
+- Not sure how to do the english translation?
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	77600
+End frame:	80400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	REALLY	77640	77880	IX-1p	78040	78320	part:indef	78440	79240	NOT	79320	79480	SURE	79600	80240	part:indef	80280	80400
+non-dominant hand gloss	part:indef	78400	79240	|>		80280
+head pos: tilt fr/bk	slightly front	77600	78400	start	78440	78560	back	78600	78960	end	79000	79080	start	79360	79600	front	79640	80400
+head pos: turn	slightly left	77600	78440	end	78480	78720	start	78960	79440	right	79480	80400
+head pos: tilt side	right	77600	78880	start	78920	80280	left	80320	80400
+head pos: jut	start	78360	78520	back	78560	79240	end	79280	79640
+body lean	start	78360	78560	slightly back	78600	79240	start	79280	80280	slightly forward	80320	80400
+eye brows	lowered	77600	80400
+eye aperture	further squinted	77600	80400
+nose	wrinkle	77600	80400
+POS	Discourse Marker	77640	77880	Pronoun	78040	78320	Particle	78440	79240	Negation	79320	79480	Adjective	79600	80240	Particle	80280	80400
+Non-dominant POS	Particle	78400	79240
+English translation	Really, I wasnt sure.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	80440
+End frame:	82000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	WHY	80560	80680	CHASE	80800	81360	IX-1p	81440	81760
+non-dominant hand gloss	part:indef	80440	80480	|>		80720	CHASE	80800	81360	|>		81640	part:indef	81840	82000
+head pos: tilt fr/bk	front	80440	82000
+head pos: turn	right	80440	82000
+head pos: tilt side	left	80440	82000
+head pos: jut	start	80440	80520	back	80560	80760	end	80800	81000
+body lean	slightly forward	80440	80440	start	80480	80720	slightly back	80760	81120	start	81160	81240	slightly forward	81280	81400	end	81440	81800
+eye brows	lowered	80440	82000
+eye aperture	squint	80440	82000
+nose	wrinkle	80440	82000
+wh question	wh	80440	82000
+POS	Wh-word	80560	80680	Verb	80800	81360	Pronoun	81440	81760
+Non-dominant POS	Particle	80440	80480	Verb	80800	81360	Particle	81840	82000
+English translation	Why did they chase after me?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	82040
+End frame:	85880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	THINK	82160	82280	IX-1p	82400	82480	part:indef	83000	83080	BECAUSE	83240	83360	SEE	83480	83640	IX-1p	83800	83960	BATHROOM	84160	84280	IN	84440	84520	PUBLIC	84720	85080	#OR	85200	85680	IX-3p:i	85840	85880
+non-dominant hand gloss	part:indef	82040	82160	part:indef	85800	85880
+head pos: tilt fr/bk	front	82040	84560	start	84600	85680	slightly back	85720	85880
+head pos: turn	right	82040	82200	start	82240	82880	left	82920	84760	start	84800	85560	slightly right	85600	85880
+head pos: tilt side	slightly left	82040	82080	end	82120	82240	start	85200	85720	left	85760	85880
+head pos: jut	start	82040	82160	back	82200	83440	start	83480	84200	forward	84240	84840	start	84880	85480	back	85520	85880
+body lean	start	82240	82480	slightly back	82520	83120	start	83160	84240	slightly forward	84280	85160	end	85200	85880
+eye brows	lowered	82040	82160	start	82200	82280	raised	82320	85560	end	85600	85840
+eye aperture	squint	82040	82120	start	82160	82240	wide	82320	85560	end	85600	85880
+nose	wrinkle	82040	82160	end	82200	82520
+POS	Verb	82160	82280	Pronoun	82400	82480	Particle	83000	83080	Conjunction	83240	83360	Verb	83480	83640	Pronoun	83800	83960	Noun	84160	84280	Preposition	84440	84520	Noun	84720	85080	Conjunction	85200	85680	Pronoun	85840	85880
+Non-dominant POS	Particle	82040	82160	Particle	85800	85880
+English translation	I think it was because I went bathroom in the public or something.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	85920
+End frame:	89760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	86000	86200	THINK	86360	86640	FINE	86720	87120	part:indef	87280	87720	THINK	87840	87960	POSITIVE	88040	88520	ABOUT	88600	88840	IX-3p:i	88960	89080	SITUATION	89200	89760
+non-dominant hand gloss	part:indef	85920	85960	|>		87280
+head pos: tilt fr/bk	back	85920	87600	start	87640	87880	front	87920	89760
+head pos: turn	slightly right	85920	85960	start	86000	86520	left	86560	87520	start	87560	88080	right	88120	89760
+head pos: tilt side	left	85920	86120	start	86160	86480	left	86520	87640	end	87680	88240
+head pos: jut	slightly back	85920	89760
+body lean	start	89040	89280	slightly forward	89320	89760
+shoulders	start	86640	86920	right/down	86960	87840	end	87880	88240
+eye brows	start	86880	87160	lowered	87200	89760
+eye aperture	start	85920	86000	closed	86040	86560	start	86600	86680	lowered lid	86720	87000	start	87040	87120	squint	87160	89760
+nose	start	86600	87120	wrinkle	87160	89760
+POS	Pronoun	86000	86200	Verb	86360	86640	Discourse Marker	86720	87120	Particle	87280	87720	Verb	87840	87960	Adjective	88040	88520	Preposition	88600	88840	Determiner	88960	89080	Noun	89200	89760
+Non-dominant POS	Particle	85920	85960
+English translation	I thought it should be fine, I have to think positive about this situation.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	89800
+End frame:	92240
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	#SO	89880	90240	IX-1p	90360	90720	part:indef	90920	91760	|>		92160
+non-dominant hand gloss	SITUATION	89800	89840	|>		90800	IX-1p	91840	92080	part:indef	92160	92240
+head pos: tilt fr/bk	front	89800	90280	start	90320	90840	front	90880	91080	start	91120	91760	back	91800	92240
+head pos: turn	right	89800	92240
+head pos: tilt side	start	91480	91760	left	91800	92240
+head pos: jut	start	91800	92040	slightly back	92080	92240
+head mvmt: nod
+	start	89800	90080	slight rapid head nod	90120	91440	end	91480	91800
+body lean	slightly forward	89800	91440	start	91480	91760	back/left	91800	92240
+eye brows	lowered	89800	92240
+eye aperture	squint	89800	91800	start	91840	92000	closed	92040	92160	squint	92200	92240
+nose	wrinkle	89800	92240
+POS	Discourse Marker	89880	90240	Pronoun	90360	90720	Particle	90920	91760
+Non-dominant POS	Noun	89800	89840	Pronoun	91840	92080	Particle	92160	92240
+English translation
+Notes - number of character bytes:	37
+- not sure about english translation?
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	92280
+End frame:	97800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	018
+main gloss	MAYBE	92440	92720	IX-1p	92840	92880	CAN	93040	93440	JUST	93760	93880	NAH	93960	94080	INFORM	94240	94440	SAY	94560	94640	SORRY	94720	95080	IX-1p	95160	95280	part:indef	95640	95720	BATHROOM	95840	95920	IN	96120	96160	PUBLIC	96320	96760	part:indef	97160	97600
+non-dominant hand gloss	part:indef	92280	92320	|>		92480	INFORM	94240	94440	|>		95560
+head pos: tilt fr/bk	back	92280	92320	end	92360	92520	start	93360	93800	front	93840	96240	end	96280	97800
+head pos: turn	right	92280	92520	start	92560	92880	left	92920	95120	start	95160	96080	slightly left	96120	96640	end	96680	97800
+head pos: tilt side	left	92280	92400	start	92440	93240	left	93280	94080	start	94120	94760	left	94800	95240	start	95280	95440	right	95480	95720	start	95760	95920	left	95960	96560	start	96600	96920	right	96960	97200	end	97240	97800
+head pos: jut	back	92280	94080	start	94120	94360	forward	94400	95960	end	96000	96760
+head mvmt: nod
+	start	94520	94800	slight rapid head nod	94840	95680	end	95720	95920
+head mvmt: shake	start	93040	93880	slight rapid head shake	93920	94120	end	94160	94440
+head mvmt: side to side	start	94400	94800	rapid	94840	97440	end	97480	97800
+body lean	back/left	92280	92280	start	92320	92760	right	92800	94760	start	94800	95120	left	95160	95280	end	95320	95720
+shoulders	start	93880	94360	raised	94400	97200	end	97240	97800
+eye brows	lowered	92280	95120	end	95160	95680
+eye gaze	to addressee	92280	97800
+eye aperture	squint	92280	93400	start	93440	93840	further squinted	93880	94600	start	94640	94800	slightly squinted	94840	95120	start	95160	96880	lowered lid	96920	97800
+nose	wrinkle	92280	95120	start	95160	96960	wrinkle	97000	97800
+POS	Adverb	92440	92720	Pronoun	92840	92880	Modal	93040	93440	Adjective	93760	93880	Verb	94240	94440	Verb	94560	94640	Adjective	94720	95080	Pronoun	95160	95280	Particle	95640	95720	Noun	95840	95920	Preposition	96120	96160	Noun	96320	96760	Particle	97160	97600
+Non-dominant POS	Particle	92280	92320	Verb	94240	94440
+English translation	Maybe I can just let them know that I am sorry for bathroom in the public.
+Notes - number of character bytes:	116
+- is INFORMATION correct gloss for this sign?  I believe he meant to say INFORM, but the sign itself is INFORMATION.
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	97840
+End frame:	100680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	NOTHING	97920	98440	part:indef	98560	99000	IMPORTANT	99040	99200	IX-1p	99280	99360	INFORM	99480	99720	IX-1p	99800	99840	DEAF	99920	100320	SAME	100400	100680
+non-dominant hand gloss	part:indef	97840	97880	INFORM	99480	99720	|>		100520
+head pos: tilt fr/bk	start	97840	97880	front	97920	100680
+head pos: turn	start	97920	98040	slightly left	98080	98880	start	98920	98960	left	99000	100680
+head pos: tilt side	start	97880	98120	left	98160	100560	start	100600	100640	slightly left	100680	100680
+head pos: jut	start	97880	98120	back	98160	99560	end	99600	99840
+body lean	start	99280	99640	slightly forward	99680	100680
+eye brows	start	97840	97920	slightly lowered	97960	98800	start	98840	99080	raised	99120	99680	end	99720	99840
+eye gaze
+eye aperture	lowered lid	97840	97880	start	97920	97920	closed	97960	98320	start	98360	98440	lowered lid	98480	98880	start	98920	99000	wide	99040	100680
+nose	wrinkle	97840	98880	start	98920	98960	tensed	99000	99480	end	99520	99720
+POS	Negation	97920	98440	Particle	98560	99000	Adjective	99040	99200	Pronoun	99280	99360	Verb	99480	99720	Pronoun	99800	99840	Adjective	99920	100320	Adjective	100400	100680
+Non-dominant POS	Particle	97840	97880	Verb	99480	99720
+English translation	It is nothing, and most importantly, I need to inform them that I am Deaf too.
+Notes - number of character bytes:	44
+- Look previous utterance about INFORMATION.
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	100720
+End frame:	102560
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IMPORTANT	100880	101200	THING	101280	101720	|>		101960	part:indef	102040	102320
+non-dominant hand gloss	SAME	100720	100760	|>		100840
+head pos: tilt fr/bk	front	100720	102200	end	102240	102400
+head pos: turn	slightly left	100720	100760	start	100800	100840	slightly right	100880	100880	start	100920	101000	slightly left	101040	101200	start	101240	101320	right	101360	102200	end	102240	102400
+head pos: tilt side	slightly left	100720	100760	start	100800	100960	right	101000	102160	end	102200	102360
+head pos: jut	start	101000	101240	back	101280	102240	end	102280	102440
+head mvmt: shake	start	100920	101000	rapid	101040	102080	end	102120	102280
+body lean	slightly forward	100720	102080	end	102120	102280
+eye aperture	wide	100720	101320	end	101360	101440
+POS	Adjective	100880	101200	Noun	101280	101720
+Non-dominant POS	Adjective	100720	100760
+English translation	It is very important thing.
+Notes - number of character bytes:	34
+- pos for that kind of part:indef?
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	102600
+End frame:	105960
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	CL:2"walking to person"	102840	103680	WHEN	103920	104200	REALLY	104480	104560	NEAR	104760	104920	#TO	105040	105200	IX-1p	105320	105960
+non-dominant hand gloss	CL:1"person"	102960	103760	WHEN	103920	104200	|>		104560
+head pos: tilt fr/bk	start	102720	102880	back	102920	104200	end	104240	104320	start	104520	104640	front	104680	105440	start	105480	105760	back	105800	105960
+head pos: turn	start	103160	103360	slightly left	103400	103880	end	103920	104120	start	104440	104560	left	104600	105520	end	105560	105760
+head pos: tilt side	start	102600	102720	left	102760	103880	end	103920	104040	start	105400	105520	slightly right	105560	105800	end	105840	105960
+head pos: jut	start	102720	102880	forward	102920	103840	start	103880	104080	back	104120	105960
+head mvmt: nod
+	start	103280	103480	rapid	103520	105280	end	105320	105560
+body lean	start	102800	103040	slightly back	103080	105960
+eye brows	start	102680	102880	raised	102920	105160	end	105200	105560
+eye gaze	right	103640	103800	up	105640	105920
+eye aperture	start	102720	102920	wide	102960	104200	end	104240	104560
+nose	start	104320	104480	wrinkle	104520	105360	end	105400	105480
+POS	Classifier	102840	103680	Wh-word	103920	104200	Adverb	104480	104560	Adjective	104760	104920	Preposition	105040	105200	Pronoun	105320	105960
+Non-dominant POS	Classifier	102960	103760	Wh-word	103920	104200
+English translation	Two cops walked toward to me.  When they came to really close to me...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	106000
+End frame:	107760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	PLAN	106120	106320	TELL	106400	106640	IX-1p	106720	106880	DEAF	107200	107760
+non-dominant hand gloss
+head pos: tilt fr/bk	back	106000	106080	start	106120	106200	back	106240	106360	start	106400	106480	front	106520	106640	start	106680	106920	back	106960	107760
+head pos: turn	start	106240	106360	slightly right	106400	107320	end	107360	107560
+head pos: tilt side	start	106240	106360	left	106400	107760
+head pos: jut	back	106000	106880	start	106920	107080	forward	107120	107560	start	107600	107680	back	107720	107760
+head mvmt: nod
+	start	106000	106080	slow	106120	106640	end	106680	106920
+body lean	slightly back	106000	106360	end	106400	106560	start	107080	107160	slightly back	107200	107760
+eye aperture	start	106000	106040	slightly squinted	106080	106680	end	106720	106880	start	107000	107080	slightly squinted	107120	107760
+POS	Noun	106120	106320	Verb	106400	106640	Pronoun	106720	106880	Adjective	107200	107760
+English translation	I plan to tell them that I am Deaf.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	107800
+End frame:	110760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	CL:5"grabbing the arm"	108120	109960	GRAB	110320	110760
+non-dominant hand gloss	DEAF	107800	107840	|>		109000
+head pos: tilt fr/bk	slightly back	107800	107800	start	107840	108000	front	108040	109360	end	109400	109560	start	110000	110160	slightly front	110200	110520	end	110560	110760
+head pos: turn	start	107840	108000	left	108040	109400	start	109440	109960	slightly left	110000	110160	start	110200	110320	left	110360	110480	start	110520	110600	slightly left	110640	110760
+head pos: tilt side	left	107800	108480	start	108520	109000	right	109040	110040	end	110080	110200	start	110480	110640	slightly right	110680	110760
+head pos: jut	back	107800	109120	start	109160	109320	forward	109360	109560	start	109600	109840	slightly back	109880	110560	start	110600	110720	back	110760	110760
+body lean	slightly back	107800	107840	start	107880	108320	slightly forward	108360	110760
+eye aperture	slightly squinted	107800	107840	end	107880	108280
+nose	start	108280	108400	tensed	108440	109680	end	109720	109880
+role shift	Cop	108120	110760
+POS	Classifier	108120	109960	Verb	110320	110760
+Non-dominant POS	Adjective	107800	107840
+English translation	They grabbed my arm.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	110800
+End frame:	115120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	HIT	111160	111640	IX-1p	111720	111760	TWICE	111880	112280	WITH	112400	112680	NIGHT	112840	113000	fs-STICK	113160	113800	CL:S"punching to person's face"+	113920	115120
+non-dominant hand gloss
+head pos: tilt fr/bk	start	112360	112600	slightly front	112640	114000	start	114040	114200	further front	114240	114760	end	114800	114960
+head pos: turn	slightly left	110800	110840	start	110880	111000	left	111040	111120	end	111160	111680	start	112560	112640	slightly right	112680	113720	start	113760	113880	right	113920	114960	start	115000	115080	slightly right	115120	115120
+head pos: tilt side	slightly right	110800	110880	start	110920	111080	slightly left	111120	111240	end	111280	111720	start	113800	114040	right	114080	114840	end	114880	115120
+head pos: jut	back	110800	113040	end	113080	113400	start	113920	114000	slightly back	114040	114920	end	114960	115120
+head mvmt: shake	start	113840	114040	slow	114080	114960	end	115000	115120
+body lean	slightly forward	110800	115120
+eye brows	start	113800	114000	slightly lowered	114040	115120
+eye aperture	start	113760	113960	squint	114000	115120
+nose	start	113800	114000	wrinkle	114040	115120
+POS	Verb	111160	111640	Pronoun	111720	111760	Number	111880	112280	Preposition	112400	112680	Adjective	112840	113000	Noun	113160	113800	Classifier	113920	115120
+English translation	They hitted me twice with the night stick.
+Notes - number of character bytes:	42
+- HIT (the first word) is it sign or CL???
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	115160
+End frame:	118600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	115280	115520	part:indef	115720	116720	|>		116840	UNKNOWN	116960	117160	IN	117280	117400	SHOCK	117480	118000	IX-1p	118080	118360	part:indef	118480	118600
+non-dominant hand gloss
+head pos: tilt fr/bk	start	115320	115520	front	115560	115880	end	115920	116200	start	116640	116760	back	116800	117040	start	117080	117440	front	117480	118600
+head pos: turn	slightly right	115160	115200	end	115240	115600	start	116920	117080	slightly left	117120	117760	end	117800	117960	start	118280	118480	slightly right	118520	118600
+head pos: tilt side	start	115440	115720	slightly right	115760	116840	start	116880	117120	left	117160	118040	end	118080	118320
+head pos: jut	start	115280	115520	forward	115560	115880	start	115920	116160	back	116200	117480	end	117520	117840
+head mvmt: nod
+	start	115240	115480	single	115520	115920	end	115960	116240
+head mvmt: shake	start	115920	116160	slight rapid head shake	116200	116960	start	117000	117320	slight rapid head shake	117360	118000	end	118040	118280
+body lean	slightly forward	115160	115960	start	116000	116360	back/right	116400	117240	start	117280	117800	slightly forward	117840	118120	start	118160	118360	forward	118400	118600
+eye brows	slightly lowered	115160	115240	end	115280	115440	start	118160	118400	lowered	118440	118600
+eye aperture	slightly squinted	115160	115200	start	115240	115480	blink	115520	116480	end	116520	116720	start	117280	117360	blink	117400	117640	end	117680	117840	start	118280	118400	closed	118440	118600
+nose	wrinkle	115160	115320	end	115360	115560	start	118400	118520	wrinkle	118560	118600
+POS	Pronoun	115280	115520	Particle	115720	116720	Preposition	117280	117400	Adjective	117480	118000	Pronoun	118080	118360	Particle	118480	118600
+English translation	I was in shock.
+Notes - number of character bytes:	133
+- the unknown part, He was going to say SHOCK, but the sign itself THINK so which shld I gloss? It was very brief then sign IN SHOCK.
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	118680
+End frame:	120720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	017
+main gloss	part:indef	118680	118840	WHY	118960	119080	HIT	119280	119560	IX-1p	119640	119720	NOT	119800	119840	FEEL	119920	120120	ANYTHING	120200	120720
+non-dominant hand gloss	part:indef	118680	118840	|>		119080	HIT	119280	119560	|>		120720
+head pos: tilt fr/bk	front	118680	119200	end	119240	119360	start	119640	119720	front	119760	120720
+head pos: turn	slightly right	118680	118880	start	118920	119000	right	119040	119680	start	119720	119920	left	119960	120360	end	120400	120480	start	120640	120680	slightly left	120720	120720
+head pos: tilt side	start	118800	118960	slightly right	119000	119680	start	119720	119960	left	120000	120720
+head pos: jut	start	119040	119160	back	119200	120720
+head mvmt: shake	start	120120	120160	slow	120200	120680	end	120720	120720
+body lean	forward	118680	118880	end	118920	119000	start	119240	119280	slightly back	119320	119880	end	119920	120120	start	120360	120440	slightly forward	120480	120720
+eye brows	lowered	118680	119600	start	119640	119880	slightly raised	119920	120720
+eye gaze	left	120720	120720
+eye aperture	closed	118680	119320	start	119360	119560	squint	119600	119960	start	120000	120160	slightly squinted	120200	120720
+nose	wrinkle	118680	120720
+negative	negation	120200	120680
+wh question	wh	118680	119600
+POS	Particle	118680	118840	Wh-word	118960	119080	Verb	119280	119560	Pronoun	119640	119720	Negation	119800	119840	Verb	119920	120120	Noun	120200	120720
+Non-dominant POS	Particle	118680	118840	Verb	119280	119560
+English translation	Why did they hit me? I didnt feel anything!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	120760
+End frame:	122200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	120880	121120	part:indef	121240	121320	FEEL	121400	121520	fs-NUMB	121640	122200
+non-dominant hand gloss	part:indef	121240	121320	|>		122200
+head pos: tilt fr/bk	front	120760	121240	end	121280	121320	start	121680	121720	slightly back	121760	122160	end	122200	122200
+head pos: turn	left	120760	121160	end	121200	121280	start	121440	121600	slightly right	121640	122200
+head pos: tilt side	left	120760	121120	end	121160	121240	start	122040	122080	slightly left	122120	122200
+head pos: jut	back	120760	122200
+body lean	slightly forward	120760	120920	start	120960	121480	slightly back	121520	122200
+eye brows	slightly raised	120760	122200
+eye gaze	left	120760	121160	left	122120	122200
+eye aperture	slightly squinted	120760	122200
+nose	wrinkle	120760	122200
+POS	Pronoun	120880	121120	Particle	121240	121320	Verb	121400	121520	Adjective	121640	122200
+Non-dominant POS	Particle	121240	121320
+English translation	I felt numb.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	122240
+End frame:	124960
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	BECAUSE	122400	122600	IX-1p	122680	122840	#SO	122960	123280	SHOCK	123560	124040	THAT	124120	124280	IX-1p	124360	124520	part:indef	124640	124960
+non-dominant hand gloss	part:indef	122240	122280	|>		123280
+head pos: tilt fr/bk	start	122240	122280	front	122320	122800	start	122840	123080	slightly back	123120	123320	start	123360	123520	front	123560	124720	end	124760	124960
+head pos: turn	slightly right	122240	123600	start	123640	124040	right	124080	124640	start	124680	124800	slightly right	124840	124960
+head pos: tilt side	slightly left	122240	122840	start	122880	123080	left	123120	124960
+head pos: jut	back	122240	124960
+body lean	slightly back	122240	123280	start	123320	123520	slightly forward	123560	124480	start	124520	124720	slightly back	124760	124960
+eye brows	raised	122240	124960
+eye gaze	left	122240	122360
+eye aperture	slightly squinted	122240	124080	start	124120	124320	blink	124360	124520	start	124560	124640	wide	124680	124960
+nose	wrinkle	122240	124520	end	124560	124760
+POS	Conjunction	122400	122600	Pronoun	122680	122840	Adverb	122960	123280	Adjective	123560	124040	Pronoun	124120	124280	Pronoun	124360	124520	Particle	124640	124960
+Non-dominant POS	Particle	122240	122280
+English translation	Because I was so shocked about that.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	41
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	125000
+End frame:	127840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	WHY	125080	125200	COP	125360	125520	HIT	125680	126040	IX-1p	126120	126240	FOR	126400	126920
+non-dominant hand gloss	part:indef	125000	125040	|>		125280	HIT	125680	126040	|>		126640	CL:S"punching person's head"	127160	127840
+head pos: tilt fr/bk	start	125000	125120	front	125160	127840
+head pos: turn	slightly right	125000	125640	start	125680	126040	right	126080	126320	start	126360	126600	slightly left	126640	126960	start	127000	127160	right	127200	127680	start	127720	127800	slightly right	127840	127840
+head pos: tilt side	slightly left	125000	125360	start	125400	125720	left	125760	126960	start	127000	127200	right	127240	127720	end	127760	127840
+head pos: jut	back	125000	126320	end	126360	126560
+head mvmt: nod
+	start	127200	127360	slight slow head nod	127400	127800	end	127840	127840
+body lean	slightly back	125000	125320	end	125360	125760	start	127120	127240	right	127280	127840
+eye brows	raised	125000	126440	end	126480	126720	start	127040	127160	slightly lowered	127200	127840
+eye gaze	down	127640	127840
+eye aperture	wide	125000	126560	start	126600	127080	slightly squinted	127120	127840
+nose	start	126880	127120	wrinkle	127160	127840
+wh question	wh	127200	127840
+POS	Wh-word	125080	125200	Proper Noun	125360	125520	Verb	125680	126040	Pronoun	126120	126240	Preposition	126400	126920
+Non-dominant POS	Particle	125000	125040	Verb	125680	126040	Classifier	127160	127840
+English translation	Why did cop have to hit me for?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	42
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	127880
+End frame:	132040
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	THEN	128000	128120	GRAB	128440	129080	ARREST	129840	130440	FINE	130960	131040	part:indef	131800	132040
+non-dominant hand gloss
+head pos: tilt fr/bk	front	127880	131120	end	131160	131600
+head pos: turn	slightly right	127880	127880	start	127920	128040	left	128080	128920	start	128960	129240	slightly right	129280	129640	start	129680	129960	left	130000	131120	end	131160	131600
+head pos: tilt side	start	127920	128080	left	128120	128760	start	128800	129240	right	129280	129680	start	129720	130040	left	130080	130920	end	130960	131160
+head pos: jut	start	129280	129680	back	129720	130440	end	130480	131160
+head mvmt: nod
+	start	129680	129880	rapid	129920	130480	end	130520	131000
+head mvmt: side to side	start	127920	128160	rapid	128200	130440	end	130480	130960
+body lean	right	127880	127920	start	127960	128200	left	128240	129040	start	129080	129280	right	129320	129720	end	129760	130440
+eye brows	slightly lowered	127880	128360	start	128400	128920	lowered	128960	130360	end	130400	130880
+eye gaze	down	127880	127920	up	130640	131080	up/left	131120	131440	up/right	131480	131880
+eye aperture	squint	127880	130280	end	130320	130720
+nose	wrinkle	127880	130480	end	130520	131000
+POS	Adverb	128000	128120	Verb	128440	129080	Verb	129840	130440	Adjective	130960	131040	Particle	131800	132040
+English translation	Then they grabbed me and got me arrested.  
+Notes - number of character bytes:	0
+
+
+Utterance ID:	43
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	132080
+End frame:	134840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	132120	132280	TRY	132320	132480	TELL	132560	132680	COP	132880	133000	IX-1p	133120	133280	DEAF	133480	133840	UNKNOWN	134080	134840
+non-dominant hand gloss
+head pos: tilt fr/bk	start	132080	132200	front	132240	133920	start	133960	134040	back	134080	134200	start	134240	134280	front	134320	134400	start	134440	134480	back	134520	134680	start	134720	134760	front	134800	134840
+head pos: turn	start	132320	132560	slightly left	132600	133040	start	133080	133200	left	133240	134840
+head pos: tilt side	start	133000	133160	left	133200	134840
+head pos: jut	start	132080	132240	forward	132280	134840
+head mvmt: nod
+	start	132080	132320	slight rapid head nod	132360	132840	end	132880	133080	start	133840	133880	slow	133920	134800	end	134840	134840
+body lean	start	132080	132280	forward	132320	134840
+eye brows	start	132920	133080	raised	133120	134840
+eye gaze	left	133400	133640	up/left	133680	133920	up/left	134280	134680
+eye aperture	start	132880	133040	wide	133080	134840
+POS	Pronoun	132120	132280	Verb	132320	132480	Verb	132560	132680	Proper Noun	132880	133000	Pronoun	133120	133280	Adjective	133480	133840
+English translation	I tried to tell cop that I am Deaf through my mouth, "Deaf, Deaf".
+Notes - number of character bytes:	117
+- how do you gloss if he do the lip movement as DEAF DEAF DEAF (in end of this utterance where I glossed as UNKNOWN).
+
+
+Utterance ID:	44
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	134880
+End frame:	137200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p:i	135000	135320	IGNORE	136000	136440	IX-1p	136560	136800	NAH	137080	137200
+non-dominant hand gloss
+head pos: tilt fr/bk	front	134880	135480	end	135520	135680
+head pos: turn	left	134880	135040	start	135080	135440	left	135480	135640	end	135680	135880	start	136040	136400	slightly right	136440	136880	start	136920	137000	right	137040	137200
+head pos: tilt side	left	134880	135080	start	135120	135200	slightly right	135240	135320	start	135360	135360	left	135400	135480	end	135520	135520	start	136280	136480	left	136520	136920	start	136960	137160	slightly right	137200	137200
+head pos: jut	forward	134880	135040	start	135080	135400	back	135440	137200
+head mvmt: shake	start	135200	135320	rapid	135360	136000	end	136040	136280
+body lean	slightly forward	134880	135560	end	135600	135840
+eye brows	raised	134880	135080	start	135120	135320	lowered	135360	137200
+eye aperture	wide	134880	135080	start	135120	135240	squint	135280	137200
+nose	start	135040	135200	wrinkle	135240	137200
+POS	Pronoun	135000	135320	Verb	136000	136440	Pronoun	136560	136800
+negative	negation	135360	136000
+English translation	They ignored me.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	45
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	137280
+End frame:	140600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	GRAB	137640	138040	PULL	138160	139080	REALLY	139280	139400	IX-1p	139520	139680	part:indef	139800	140600
+non-dominant hand gloss
+head pos: tilt fr/bk	start	138600	138840	slightly back	138880	139960	start	140000	140160	back	140200	140600
+head pos: turn	right	137280	137440	start	137480	137920	left	137960	138760	end	138800	139200	start	140160	140320	slightly right	140360	140600
+head pos: tilt side	slightly right	137280	137440	start	137480	137760	left	137800	138760	end	138800	139200
+head pos: jut	slightly back	137280	139360	start	139400	139720	back	139760	140600
+body lean	start	137280	137520	right	137560	137920	start	137960	138280	left	138320	138800	end	138840	139120
+eye brows	lowered	137280	139280	end	139320	139440
+eye gaze	up/right	139040	139400	up	139440	139440	up/left	139480	139680	up	139720	139920	up/right	139960	140600
+eye aperture	squint	137280	139040	end	139080	139360	start	139520	139560	blink	139600	139800	end	139840	140200
+nose	wrinkle	137280	139040	end	139080	139360
+role shift	Cop	137560	139080
+POS	Verb	137640	138040	Verb	138160	139080	Discourse Marker	139280	139400	Pronoun	139520	139680	Particle	139800	140600
+English translation	Grabbed and pulled me.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	46
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	140640
+End frame:	143600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	140720	140880	DO	141000	141280	IX-1p	141480	141560	REALLY	141680	141840	NONE	142000	142160	fs-CLUE	142200	142680	|>		142720	'WHAT'	142840	143120	part:indef	143200	143600
+non-dominant hand gloss	part:indef	140640	140680	|>		140840
+head pos: tilt fr/bk	slightly back	140640	140680	start	140720	141320	front	141360	141600	end	141640	141840	start	142240	142400	front	142440	143600
+head pos: turn	slightly right	140640	140640	start	140680	141280	left	141320	141680	start	141720	142000	slightly right	142040	142680	start	142720	142760	right	142800	143600
+head pos: tilt side	start	140640	140680	slightly left	140720	142720	start	142760	143000	left	143040	143600
+head pos: jut	back	140640	142160	end	142200	142400
+body lean	start	140680	140920	slightly forward	140960	141720	end	141760	142000	start	142200	142360	slightly forward	142400	143600
+eye brows	start	142680	142760	lowered	142800	143600
+eye aperture	start	142400	142680	squint	142720	143600
+nose	start	142520	142720	wrinkle	142760	143600
+wh question	wh	142800	143600
+POS	Pronoun	140720	140880	Verb	141000	141280	Pronoun	141480	141560	Discourse Marker	141680	141840	Negation	142000	142160	Noun	142200	142680	Wh-word	142840	143120	Particle	143200	143600
+Non-dominant POS	Particle	140640	140680
+English translation	I had no clue of what is going on.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	47
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	143640
+End frame:	145600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	143720	143880	COP	143960	144360	WHY	144480	144560	ARREST	144640	144920	IX-1p	145000	145280	part:indef	145400	145600
+non-dominant hand gloss	part:indef	143640	143680	|>		144480	ARREST	144640	144920	|>		145400
+head pos: tilt fr/bk	front	143640	145600
+head pos: turn	right	143640	145600
+head pos: tilt side	left	143640	145600
+head pos: jut	start	144360	144400	slightly back	144440	145600
+body lean	slightly forward	143640	143680	end	143720	144000
+eye brows	lowered	143640	145360	start	145400	145480	raised	145520	145600
+eye aperture	squint	143640	145360	start	145400	145520	wide	145560	145600
+nose	wrinkle	143640	145440	start	145480	145560	tensed	145600	145600
+wh question	wh	143640	145360
+POS	Discourse Marker	143720	143880	Proper Noun	143960	144360	Wh-word	144480	144560	Verb	144640	144920	Pronoun	145000	145280	Particle	145400	145600
+Non-dominant POS	Particle	143640	143680	Verb	144640	144920
+English translation	Why would cop arrest me?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	48
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	145640
+End frame:	148320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	145720	145760	THINK	145880	146000	MAYBE	146120	146240	TRUE-BUSINESS	146320	146920	BATHROOM	147080	147280	IN	147360	147800	PUBLIC	147880	148320
+non-dominant hand gloss	part:indef	145640	145680	|>		146000
+head pos: tilt fr/bk	front	145640	145680	start	145720	145800	slightly front	145840	146320	start	146360	146520	slightly back	146560	148320
+head pos: turn	slightly right	145640	145680	start	145720	145840	left	145880	147120	end	147160	147240	start	147400	147600	right	147640	148320
+head pos: tilt side	slightly left	145640	145720	start	145760	145920	right	145960	147040	end	147080	147200	start	147400	147560	left	147600	148320
+head pos: jut	slightly back	145640	145720	end	145760	146000
+head mvmt: nod
+	start	145680	145760	slight rapid head nod	145800	146360	end	146400	146720
+eye brows	raised	145640	148320
+eye aperture	wide	145640	148320
+nose	tensed	145640	147840	end	147880	148120
+POS	Pronoun	145720	145760	Verb	145880	146000	Adverb	146120	146240	Noun	147080	147280	Preposition	147360	147800	Adjective	147880	148320
+Non-dominant POS	Particle	145640	145680
+English translation	I thought it is maybe because of bathroom in the public.
+Notes - number of character bytes:	29
+- whats cl for true-business?
+
+
+Utterance ID:	49
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	148360
+End frame:	150880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	REALLY	148440	148840	END	149040	149200	#UP	149280	149440	ARREST	149680	149840	FOR	150000	150120	THAT	150240	150520	part:indef	150800	150880
+non-dominant hand gloss	ARREST	149680	149840	|>		150640
+head pos: tilt fr/bk	slightly back	148360	148400	start	148440	148520	front	148560	150880
+head pos: turn	right	148360	149800	start	149840	150160	slightly left	150200	150720	start	150760	150800	left	150840	150880
+head pos: tilt side	left	148360	150040	end	150080	150560
+head pos: jut	start	148600	148880	back	148920	150120	end	150160	150560
+body lean	start	148480	148680	slightly forward	148720	150880
+eye brows	raised	148360	150560	start	150600	150800	lowered	150840	150880
+eye aperture	wide	148360	150560	start	150600	150840	squint	150880	150880
+nose	start	150680	150840	wrinkle	150880	150880
+POS	Discourse Marker	148440	148840	Adjective	149040	149200	Preposition	149280	149440	Verb	149680	149840	Preposition	150000	150120	Pronoun	150240	150520	Particle	150800	150880
+Non-dominant POS	Verb	149680	149840
+English translation	Really, I ended up got arrest for that?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	50
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	150920
+End frame:	153120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	150960	151080	THINK	151160	151440	part:indef	151600	152520	#SO	152640	152800	part:indef	152840	153120
+non-dominant hand gloss	part:indef	150960	151120	|>		151560	part:indef	151600	152520	|>		152840
+head pos: tilt fr/bk	front	150920	151720	end	151760	151920	start	152200	152280	front	152320	153120
+head pos: turn	left	150920	153120
+head pos: tilt side	start	151160	151320	right	151360	151760	end	151800	151920	start	152320	152520	left	152560	153120
+head pos: jut	start	151080	151160	back	151200	153120
+body lean	forward	150920	151080	start	151120	151400	back/right	151440	152080	end	152120	152360
+shoulders	start	150920	151160	left/raised	151200	152520	end	152560	152800
+eye brows	lowered	150920	151600	start	151640	151800	slightly raised	151840	152120	end	152160	152320	start	152640	152760	raised	152800	153120
+eye aperture	squint	150920	151600	start	151640	151960	blink	152000	152520	start	152560	152720	wide	152760	153120
+nose	wrinkle	150920	151600	end	151640	151800	start	152400	152560	tensed	152600	153120
+POS	Pronoun	150960	151080	Verb	151160	151440	Particle	151600	152520	Discourse Marker	152640	152800	Particle	152840	153120
+Non-dominant POS	Particle	150960	151120	Particle	151600	152520
+English translation	I thought...
+Notes - number of character bytes:	42
+- not sure about english translation part?
+
+
+Utterance ID:	51
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	153200
+End frame:	155800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	153360	153560	PLAN	153840	154280	PUT	154440	154720	IN	154800	154920	POSS-1p	155000	155080	IN	155160	155240	#CAR	155320	155720
+non-dominant hand gloss	part:indef	153200	153240	|>		153280
+head pos: tilt fr/bk	front	153200	153200	start	153240	153480	front	153520	154320	start	154360	154560	slightly back	154600	155800
+head pos: turn	slightly left	153200	153200	start	153240	153360	right	153400	155800
+head pos: tilt side	left	153200	153240	start	153280	153480	slightly right	153520	153800	end	153840	154160	start	154840	155040	slightly left	155080	155800
+head pos: jut	back	153200	153320	start	153360	153480	forward	153520	154480	end	154520	154960
+head mvmt: nod
+	start	153240	153400	slight rapid head nod	153440	154280	end	154320	154720
+body lean	start	153280	153400	slightly forward	153440	154920	end	154960	155160
+eye brows	raised	153200	155800
+eye gaze	right	153200	153640
+eye aperture	wide	153200	155800
+nose	tensed	153200	153240	end	153280	153640
+POS	Pronoun	153360	153560	Noun	153840	154280	Verb	154440	154720	Preposition	154800	154920	Possessive	155000	155080	Preposition	155160	155240	Noun	155320	155720
+Non-dominant POS	Particle	153200	153240
+English translation	I plan to take myself in the car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	52
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	155840
+End frame:	160040
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	PULL	156040	156960	REALLY	157440	157560	ONE	157720	157800	GIRL	157920	158560	READY	158800	158880	GO	159000	159320	HOME	159560	160040
+non-dominant hand gloss	PULL	156040	156960	|>		158600	READY	158800	158880	|>		159000
+head pos: tilt fr/bk	slightly back	155840	157480	end	157520	157800	start	159480	159640	front	159680	160040
+head pos: turn	slightly right	155840	156120	end	156160	156760	start	157960	158280	slightly left	158320	158880	start	158920	159280	slightly right	159320	159440	start	159480	159760	slightly left	159800	160040
+head pos: tilt side	slightly left	155840	156480	end	156520	156960	start	157600	157800	slightly right	157840	158280	end	158320	158640	start	159280	159520	slightly left	159560	160040
+head pos: jut	start	156840	157200	slightly back	157240	159520	end	159560	160040
+body lean	start	156000	156240	forward	156280	156680	end	156720	157080	start	157560	157760	back/right	157800	158720	start	158760	159520	slightly forward	159560	159640	end	159680	160040
+eye brows	raised	155840	156720	start	156760	157440	lowered	157480	160040
+eye aperture	wide	155840	156680	end	156720	157000	start	157400	157560	slightly squinted	157600	160040
+nose	start	157440	157560	wrinkle	157600	160040
+POS	Verb	156040	156960	Discourse Marker	157440	157560	Number	157720	157800	Noun	157920	158560	Adjective	158800	158880	Verb	159000	159320	Noun	159560	160040
+Non-dominant POS	Verb	156040	156960	Adjective	158800	158880
+English translation	While they pulled me, one girl was ready to go home.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	53
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	160120
+End frame:	161840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	HOME	160120	160160	LOOK	160240	160520	SEE	160640	160800	WHOLE	160920	161120	THING	161240	161480	part:indef	161600	161840
+non-dominant hand gloss
+head pos: tilt fr/bk	front	160120	161560	start	161600	161720	back	161760	161840
+head pos: turn	left	160120	161560	start	161600	161680	slightly left	161720	161840
+head pos: tilt side	slightly left	160120	161240	start	161280	161680	right	161720	161840
+head pos: jut	start	161520	161720	slightly back	161760	161840
+body lean	start	160360	160520	slightly forward	160560	161840
+eye brows	start	160120	160280	raised	160320	161320	end	161360	161520
+eye gaze	left	160160	160480
+eye aperture	slightly squinted	160120	160120	start	160160	160400	wide	160440	161360	start	161400	161480	blink	161520	161680	end	161720	161840
+nose	wrinkle	160120	160120	end	160160	160240	start	160680	160800	tensed	160840	161440	end	161480	161640
+POS	Noun	160120	160160	Verb	160240	160520	Verb	160640	160800	Adjective	160920	161120	Noun	161240	161480
+English translation	Saw the whole thing.
+Notes - number of character bytes:	34
+- pos for that kind of part:indef?
+
+
+Utterance ID:	54
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	161880
+End frame:	165400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	CL:1"person walking up"	162040	162840	IN	163000	163120	PARTY	163320	163720	INFORM	163920	164240	SOME	164360	164640	POSS-1p	164720	164840	FRIEND	165000	165400
+non-dominant hand gloss	SOME	164360	164640	|>		164840
+head pos: tilt fr/bk	slightly back	161880	162240	end	162280	162480	start	162840	162920	slightly front	162960	165400
+head pos: turn	slightly left	161880	161920	end	161960	162120	start	162400	162520	slightly right	162560	162920	start	162960	163200	left	163240	165400
+head pos: tilt side	right	161880	162920	start	162960	163440	left	163480	165400
+head pos: jut	back	161880	163120	end	163160	163760
+body lean	slightly forward	161880	162000	start	162040	162280	right	162320	162960	end	163000	163160	start	164000	164080	slightly forward	164120	165400
+eye brows	start	162840	162960	lowered	163000	165400
+eye aperture	start	161880	161880	closed	161920	162240	end	162280	162440	start	162880	163040	squint	163080	165400
+nose	start	162560	162920	wrinkle	162960	165400
+POS	Classifier	162040	162840	Preposition	163000	163120	Noun	163320	163720	Noun	163920	164240	Adjective	164360	164640	Possessive	164720	164840	Noun	165000	165400
+Non-dominant POS	Adjective	164360	164640
+English translation	She went back up to the party and informed some of my friends.
+Notes - number of character bytes:	72
+- lNFORMATION, he signed: INFORM, but is it correct gloss, INFORMATION? 
+
+
+Utterance ID:	55
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	165440
+End frame:	167800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	THAT	165520	165720	IX-1p	165840	166040	ARREST	166440	166640	#BY	166760	166880	COP	167120	167680
+non-dominant hand gloss	FRIEND	165440	165480	|>		166040
+head pos: tilt fr/bk	front	165440	167800
+head pos: turn	left	165440	165760	start	165800	166080	right	166120	167800
+head pos: tilt side	slightly left	165440	167800
+head pos: jut	start	166760	166920	slightly back	166960	167800
+body lean	slightly forward	165440	166080	end	166120	166240
+eye brows	lowered	165440	167480	start	167520	167680	slightly raised	167720	167800
+eye aperture	squint	165440	167120	end	167160	167240
+nose	wrinkle	165440	166920	end	166960	167080
+POS	Pronoun	165520	165720	Pronoun	165840	166040	Verb	166440	166640	Preposition	166760	166880	Proper Noun	167120	167680
+Non-dominant POS	Noun	165440	165480
+English translation	That I got arrested by cop.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	56
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	167840
+End frame:	169600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	SOME	168120	168280	POSS-1p	168320	168400	FRIEND	168480	168640	IX-3p:i	168720	168840	TRUE-BUSINESS	168920	169520
+non-dominant hand gloss	FRIEND	168480	168640	|>		168840
+head pos: tilt fr/bk	front	167840	169360	end	169400	169560
+head pos: turn	right	167840	168760	end	168800	168920
+head pos: tilt side	left	167840	169320	start	169360	169560	slightly right	169600	169600
+head pos: jut	slightly back	167840	168720	end	168760	168880	start	169000	169040	forward	169080	169520	end	169560	169600
+body lean	start	168800	168880	forward	168920	169600
+eye brows	slightly raised	167840	167840	start	167880	168080	lowered	168120	168640	start	168680	168760	slightly raised	168800	169000	start	169040	169120	raised	169160	169520	end	169560	169600
+eye gaze	left	168720	169000
+eye aperture	start	167840	167960	squint	168000	169480	start	169520	169520	closed	169560	169600
+nose	start	167840	167880	wrinkle	167920	169600
+role shift	Friend	168840	169600
+POS	Adjective	168120	168280	Possessive	168320	168400	Noun	168480	168640	Pronoun	168720	168840
+Non-dominant POS	Noun	168480	168640
+English translation	Some of my friends were surprised.
+Notes - number of character bytes:	23
+- CL for true-business?
+
+
+Utterance ID:	57
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	169640
+End frame:	171600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	part:indef	169680	169920	CL:1"person walking down"	170080	171000	OUT	171160	171600
+non-dominant hand gloss
+head pos: tilt fr/bk	start	169680	169880	slightly back	169920	170120	start	170160	170240	front	170280	170680	start	170720	170840	back	170880	171000	start	171040	171280	front	171320	171600
+head pos: turn	start	169840	169960	slightly right	170000	170240	end	170280	170360	start	170560	170680	left	170720	171200	end	171240	171320
+head pos: tilt side	slightly right	169640	169640	start	169680	169920	right	169960	170440	end	170480	170600	start	170680	170800	left	170840	171280	end	171320	171400
+head pos: jut	start	169800	169920	slightly back	169960	170440	end	170480	170600	start	170840	170920	back	170960	171600
+body lean	forward	169640	169680	start	169720	169920	back/right	169960	170520	end	170560	170720	start	170880	171040	left	171080	171600
+eye brows	start	170560	170640	slightly lowered	170680	171040	start	171080	171200	lowered	171240	171520	end	171560	171600
+eye aperture	closed	169640	169840	start	169880	169920	blink	169960	170440	end	170480	170640	start	171040	171120	slightly squinted	171160	171480	end	171520	171600
+nose	wrinkle	169640	171480	end	171520	171600
+POS	Classifier	170080	171000	Preposition	171160	171600
+English translation	Walked down and got out.
+Notes - number of character bytes:	96
+- pos for part:indef?
+- not sure if the english part is correct, shld i add friend, he, or what?
+
+
+Utterance ID:	58
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	171640
+End frame:	173520
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	SEE	171720	172080	IX-1p	172160	172280	IN	172360	172480	COP	172600	172760	#CAR	172800	173520
+non-dominant hand gloss
+head pos: tilt fr/bk	front	171640	172440	end	172480	172600	start	173280	173360	front	173400	173520
+head pos: turn	start	171640	171760	left	171800	173520
+head pos: tilt side	start	171640	171800	left	171840	172360	start	172400	172600	slightly left	172640	173520
+head pos: jut	back	171640	171720	start	171760	171880	back	171920	173520
+head mvmt: nod
+	start	171640	171680	single	171720	171960	end	172000	172120
+body lean	left	171640	171760	end	171800	171960	start	172200	172240	back/right	172280	173520
+eye brows	start	171640	171680	raised	171720	173360	end	173400	173520
+eye gaze	left	173520	173520
+eye aperture	wide	171640	173400	end	173440	173520
+POS	Verb	171720	172080	Pronoun	172160	172280	Preposition	172360	172480	Proper Noun	172600	172760	Noun	172800	173520
+English translation	Saw me in cop's car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	59
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	173560
+End frame:	177200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	SAY	173680	173760	"wave"	173880	174680	IX-1p	174840	174920	KNOW	175040	175280	IX-3p:i	175360	175720	IX-1p	175800	175880	KNOW	176000	176160	ns-MIKE	176240	176680	IX-3p:i	176760	177200
+non-dominant hand gloss
+head pos: tilt fr/bk	front	173560	174160	end	174200	174520	start	174880	174960	front	175000	177080	end	177120	177200
+head pos: turn	left	173560	173960	end	174000	174240	start	174640	174720	slightly right	174760	177200
+head pos: tilt side	slightly left	173560	173720	start	173760	174000	right	174040	174200	start	174240	174680	left	174720	176880	end	176920	177200
+head pos: jut	back	173560	173720	start	173760	174040	forward	174080	174200	start	174240	174680	slightly back	174720	174880	start	174920	175200	forward	175240	175640	end	175680	175880
+head mvmt: nod
+	start	173560	173880	slow	173920	174720	start	174760	174920	slow	174960	175840	start	175880	176480	slow	176520	177160	end	177200	177200
+body lean	back/right	173560	173760	start	173800	173920	slightly forward	173960	174440	end	174480	174760	start	175040	175400	slightly forward	175440	175800	end	175840	175960	start	176440	176680	forward/right	176720	177200
+eye brows	start	173560	173640	lowered	173680	176920	start	176960	177040	slightly lowered	177080	177200
+eye gaze	left	173560	173960
+eye aperture	start	173560	173640	squint	173680	177040	start	177080	177080	slightly squinted	177120	177200
+nose	start	173560	173680	wrinkle	173720	177200
+role shift	Friend	173880	177200
+POS	Verb	173680	173760	Pronoun	174840	174920	Verb	175040	175280	Pronoun	175360	175720	Pronoun	175800	175880	Verb	176000	176160	Proper Noun	176240	176680	Determiner	176760	177200
+English translation	They waved and said "I know him, I know Mike!".
+Notes - number of character bytes:	0
+
+
+Utterance ID:	60
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	177240
+End frame:	181200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	COP	177480	177880	LOOK	178160	178680	|>		179240	GRAB	179360	179800	GET	179960	180080	IX-1p	180200	180280	OUT	180400	180640	#CAR	180760	181200
+non-dominant hand gloss
+head pos: tilt fr/bk	start	177240	177280	slightly back	177320	178000	end	178040	178560	start	179360	179560	front	179600	181200
+head pos: turn	slightly right	177240	177920	start	177960	178040	right	178080	179240	start	179280	179720	slightly right	179760	179880	start	179920	180160	slightly left	180200	180360	start	180400	180640	left	180680	181200
+head pos: tilt side	start	178480	178720	left	178760	179440	start	179480	179760	right	179800	179880	start	179920	180160	left	180200	181200
+head pos: jut	start	177240	177600	back	177640	178040	end	178080	178360	start	180000	180200	back	180240	181200
+body lean	forward/right	177240	177280	start	177320	177880	right	177920	178120	end	178160	178480	start	179520	179720	right	179760	181200
+eye brows	slightly lowered	177240	178120	end	178160	178480	start	179840	179960	lowered	180000	180920	start	180960	181160	raised	181200	181200
+eye gaze	right	178000	179280
+eye aperture	slightly squinted	177240	178960	end	179000	179280	start	179920	180040	squint	180080	180920	start	180960	181160	wide	181200	181200
+nose	wrinkle	177240	177560	end	177640	177960	start	179960	180280	wrinkle	180320	181080	end	181120	181200
+role shift	Cop	178160	179800
+POS	Proper Noun	177480	177880	Verb	178160	178680	Verb	179360	179800	Verb	179960	180080	Pronoun	180200	180280	Preposition	180400	180640	Noun	180760	181200
+English translation	The cop looked and grabbed me out of the car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	61
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	181240
+End frame:	182680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	REALLY	181280	181440	LUCKY	181520	181800	CL:1"person walking"	181840	182120	ON	182200	182320	TIME	182400	182680
+non-dominant hand gloss
+head pos: tilt fr/bk	front	181240	181520	end	181560	181840	start	182320	182400	slightly front	182440	182680
+head pos: turn	left	181240	182680
+head pos: tilt side	left	181240	182680
+head pos: jut	back	181240	182680
+body lean	right	181240	182040	end	182080	182120	start	182360	182400	forward/left	182440	182680
+eye brows	raised	181240	182680
+eye aperture	wide	181240	182680
+POS	Adverb	181280	181440	Adjective	181520	181800	Classifier	181840	182120	Preposition	182200	182320	Noun	182400	182680
+role shift
+English translation	I was really lucky to have someone walked in on time.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	62
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	182720
+End frame:	184680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	PULL	182960	184200	|>		184600
+non-dominant hand gloss
+head pos: tilt fr/bk	front	182720	182920	end	182960	183120	start	183360	183680	back	183720	184680
+head pos: turn	left	182720	183000	end	183040	183120	start	183480	183560	slightly right	183600	184440	start	184480	184600	right	184640	184680
+head pos: tilt side	left	182720	182880	start	182920	183080	right	183120	183400	end	183440	183560
+head pos: jut	back	182720	182760	end	182800	182960	start	183240	183320	forward	183360	183520	start	183560	184240	back	184280	184680
+body lean	forward/left	182720	182960	end	183000	183160	start	183560	183640	forward	183680	184360	end	184400	184680
+eye brows	raised	182720	184680
+eye aperture	wide	182720	183680	end	183720	183920
+role shift	Cop	182960	184600
+POS	Verb	182960	184200
+English translation	Pulling...
+Notes - number of character bytes:	215
+- there is only one word in this utterance, not sure why that happened (im the one who break down each utterance, I probably made a mistake, forgot to add another words or something??) Hope it didnt effect anything?
+
+
+Utterance ID:	63
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	184720
+End frame:	186360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	#THEN	184720	184920	FRIEND	185040	185240	TELL	185360	185560	part:indef	185640	185840	WHAT'S-UP	185960	186320
+non-dominant hand gloss
+head pos: tilt fr/bk	back	184720	184920	end	184960	185120	start	185320	185400	front	185440	186120	start	186160	186320	slightly front	186360	186360
+head pos: turn	slightly right	184720	186360
+head pos: tilt side	start	184880	184960	slightly left	185000	186360
+head pos: jut	back	184720	184840	end	184880	185000	start	185560	185600	forward	185640	186240	end	186280	186360
+head mvmt: shake	start	185640	185760	slight rapid head shake	185800	186120	end	186160	186240
+body lean	start	185360	185440	slightly forward	185480	186160	end	186200	186280
+eye brows	raised	184720	184920	start	184960	185240	lowered	185280	186360
+eye gaze	left	184880	185440	left	186240	186360
+eye aperture	start	184960	185240	squint	185280	186360
+nose	start	185240	185280	wrinkle	185320	186360
+wh question	wh	185280	186360
+role shift	Friend	185640	186320
+POS	Adverb	184720	184920	Noun	185040	185240	Verb	185360	185560	Particle	185640	185840	Wh-word	185960	186320
+English translation	Then a friend asked what's up.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	64
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	186400
+End frame:	192920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	017
+main gloss	COP	186520	187000	LOOK	187640	187760	part:indef	188000	188440	IX-3p:i	188600	188880	fs-DRUGS	189680	190520	DRUG	191320	191920	|>		192920
+non-dominant hand gloss	CL:5"eating"	189320	189720	|>		190000
+head pos: tilt fr/bk	slightly front	186400	186520	start	186560	186960	slightly back	187000	190920	end	190960	191280
+head pos: turn	slightly right	186400	187680	start	187720	188080	right	188120	188720	start	188760	189280	slightly right	189320	189840	start	189880	190600	right	190640	192920
+head pos: tilt side	left	186400	190560	start	190600	191240	left	191280	192920
+head pos: jut	start	186560	186880	slightly back	186920	187680	start	187720	188760	slightly forward	188800	189840	end	189880	190720
+head mvmt: nod
+	start	189680	189840	slight rapid head nod	189880	190720	start	190760	190920	rapid	190960	191960	end	192000	192920
+head mvmt: shake	start	186680	186960	slight rapid head shake	187000	188080	end	188120	188440
+body lean	start	186400	186920	left	186960	187280	end	187320	187920	start	188880	189160	slightly forward	189200	190680	start	190720	191280	forward	191320	192200	end	192240	192920
+eye brows	lowered	186400	186720	end	186760	187080	start	190760	191160	lowered	191200	191680	end	191720	192920
+eye gaze	left	186400	186480
+eye aperture	squint	186400	187760	start	187800	188040	blink	188080	188280	start	188320	188440	slightly squinted	188480	192920
+nose	wrinkle	186400	188360	start	188400	191200	wrinkle	191240	192240	end	192280	192920
+role shift	Cop	187520	192920
+POS	Proper Noun	186520	187000	Verb	187640	187760	Particle	188000	188440	Pronoun	188600	188880	Noun	189680	190520	Noun	191320	191920
+Non-dominant POS	Classifier	189320	189720
+English translation	The cop looked at him and said, "he took drugs."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	65
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	192960
+End frame:	195960
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	FRIEND	193120	193560	LOOK	193720	194240	|>		195960
+non-dominant hand gloss
+head pos: tilt fr/bk	start	192960	193080	front	193120	195960
+head pos: turn	right	192960	193000	end	193040	193320
+head pos: tilt side	left	192960	193560	end	193600	193800
+head pos: jut	start	193880	194080	back	194120	195960
+head mvmt: shake	start	194560	194800	slight rapid head shake	194840	195640	end	195680	195960
+body lean	start	193880	194280	slightly back	194320	194840	end	194880	195360
+eye brows	start	192960	193080	slightly lowered	193120	195960
+eye gaze	left	193160	194480
+eye aperture	squint	192960	192960	start	193000	193000	closed	193040	193120	start	193160	193480	squint	193520	194640	start	194680	194680	closed	194720	195480	start	195520	195520	further squinted	195560	195880	start	195920	195920	closed	195960	195960
+nose	start	195160	195280	wrinkle	195320	195960
+role shift	Friend	193720	195960
+POS	Noun	193120	193560	Verb	193720	194240
+English translation	My friend was looking.
+Notes - number of character bytes:	43
+-not sure how to put down the english part?
+
+
+Utterance ID:	66
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	196000
+End frame:	200480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	LOOK	196000	196040	KNOW	196240	196440	IX-1p	196640	197240	NEVER	197440	197600	TAKE	197800	198000	DRUG	198160	198640	IX-1p	198800	199160	#SO	199240	199560	part:indef	199800	200480
+non-dominant hand gloss
+head pos: tilt fr/bk	front	196000	200480
+head pos: turn	start	196280	196560	right	196600	197640	start	197680	198320	left	198360	199240	start	199280	200000	slightly right	200040	200480
+head pos: tilt side	start	196480	196760	right	196800	197640	start	197680	198280	left	198320	200480
+head pos: jut	back	196000	199920	end	199960	200360
+head mvmt: shake	start	197440	197680	slow	197720	200040	end	200080	200480
+body lean	start	196000	196400	slightly back	196440	198760	end	198800	199160
+eye brows	slightly lowered	196000	198640	start	198680	198760	lowered	198800	200480
+eye aperture	closed	196000	196200	start	196240	196440	further squinted	196480	200480
+nose	wrinkle	196000	196200	start	196240	196400	wrinkle	196440	200480
+negative	negation	197720	200040
+POS	Verb	196000	196040	Verb	196240	196440	Pronoun	196640	197240	Negation	197440	197600	Verb	197800	198000	Noun	198160	198640	Pronoun	198800	199160	Discourse Marker	199240	199560	Particle	199800	200480
+English translation	He know that I would never take drug.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	67
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	200520
+End frame:	202000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	COP	200680	201000	SAY	201120	201240	LOOK	201360	202000
+non-dominant hand gloss
+head pos: tilt fr/bk	front	200520	201000	end	201040	201160
+head pos: turn	slightly right	200520	201080	end	201120	201280	start	201520	201560	slightly right	201600	201720	start	201760	201880	slightly right	201920	201960	end	202000	202000
+head pos: tilt side	left	200520	201040	end	201080	201160
+head mvmt: shake	start	201000	201040	rapid	201080	201960	end	202000	202000
+eye brows	lowered	200520	200680	end	200720	200840
+eye gaze	right	200680	201000
+eye aperture	further squinted	200520	200680	start	200720	200720	blink	200760	200800	start	200840	200960	closed	201000	202000
+nose	wrinkle	200520	200720	end	200760	200840
+POS	Proper Noun	200680	201000	Verb	201120	201240	Verb	201360	202000
+role shift	Cop	201280	202000
+English translation
+Notes - number of character bytes:	37
+- not sure about English translation?
+
+
+Utterance ID:	68
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	202080
+End frame:	205440
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IX-1p	202160	202320	SEE	202480	202920	IX-3p:i	203080	203280	|>		203600
+non-dominant hand gloss	CL:5"eating"	203680	204040	SOMETHING	204200	205000
+head pos: tilt fr/bk	start	202080	202200	slightly back	202240	203000	end	203040	203200	start	204040	204160	front	204200	205440
+head pos: turn	start	203280	203520	slightly right	203560	205440
+head pos: tilt side	start	202080	202360	slightly left	202400	202840	end	202880	203000	start	203200	203280	slightly right	203320	205440
+head pos: jut	start	202080	202240	forward	202280	202720	end	202760	202960	start	203280	203480	back	203520	204960	start	205000	205280	slightly back	205320	205440
+body lean	start	202320	202600	slightly forward	202640	202960	end	203000	203160
+eye aperture	closed	202080	202160	start	202200	202200	blink	202240	202440	start	202480	202680	lowered lid	202720	202960	start	203000	203000	blink	203040	203200	end	203240	203440
+role shift	Cop	202080	205440
+POS	Pronoun	202160	202320	Verb	202480	202920	Pronoun	203080	203280
+Non-dominant POS	Classifier	203680	204040	Noun	204200	205000
+English translation	I saw him eat something.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	69
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	205520
+End frame:	209400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	205760	206040	REALLY	207160	207320	IX-1p	207400	207560	THINK	207800	208200	POSS-1p	208400	208600	ns-GOD	208880	209400
+non-dominant hand gloss	part:indef	207800	208040	|>		209400
+head pos: tilt fr/bk	front	205520	206120	start	206160	206480	back	206520	207080	end	207120	207320	start	207680	207840	front	207880	209400
+head pos: turn	slightly right	205520	206120	start	206160	206800	left	206840	207400	start	207440	208240	left	208280	208920	start	208960	209320	slightly right	209360	209400
+head pos: tilt side	slightly right	205520	205600	end	205640	205960	start	206360	206640	left	206680	207240	end	207280	207440	start	208040	208240	left	208280	209000	end	209040	209400
+head pos: jut	slightly back	205520	205600	start	205640	206160	back	206200	208680	start	208720	209080	slightly forward	209120	209400
+body lean	start	206480	206720	slightly back	206760	208840	start	208880	209280	slightly forward	209320	209400
+eye brows	start	205720	206040	slightly raised	206080	206160	end	206200	206520	start	206960	207080	lowered	207120	209400
+eye gaze	up/right	205560	205960	up/left	206080	206520	up	206560	207000	left	208040	208560
+eye aperture	start	205520	205920	blink	205960	206120	start	206160	206320	wide	206360	206880	start	206920	206920	blink	206960	207000	start	207040	207120	closed	207160	208000	start	208040	208240	squint	208280	208560	start	208600	208680	further squinted	208720	209400
+nose	start	206920	207080	wrinkle	207120	209400
+POS	Pronoun	205760	206040	Discourse Marker	207160	207320	Pronoun	207400	207560	Verb	207800	208200	Possessive	208400	208600	Proper Noun	208880	209400
+Non-dominant POS	Particle	207800	208040
+English translation	I thought, "Oh my god!"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	70
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	209440
+End frame:	211040
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	HOW	209600	209760	CAN	209840	210000	IX-3p:i	210080	210280	GUESS	210400	210680	THAT	210800	211040
+non-dominant hand gloss	CAN	209840	210000	|>		211040
+head pos: tilt fr/bk	front	209440	209800	end	209840	209960	start	210360	210400	front	210440	211000	end	211040	211040
+head pos: turn	slightly right	209440	209480	start	209520	209640	right	209680	211040
+head pos: tilt side	start	210320	210440	slightly left	210480	211040
+head pos: jut	slightly forward	209440	209520	end	209560	209680	start	209920	209960	back	210000	210360	end	210400	210520
+body lean	slightly forward	209440	209560	start	209600	209760	slightly back	209800	210320	end	210360	210480
+eye brows	lowered	209440	210720	start	210760	210960	raised	211000	211040
+eye aperture	further squinted	209440	210680	start	210720	210960	wide	211000	211040
+nose	wrinkle	209440	210680	end	210720	210760
+wh question	wh	209440	210720
+POS	Wh-word	209600	209760	Modal	209840	210000	Pronoun	210080	210280	Verb	210400	210680	Pronoun	210800	211040
+Non-dominant POS	Modal	209840	210000
+English translation	How can they guess that?
+Notes - number of character bytes:	31
+- Is that sign "CAN", on hold ?
+
+
+Utterance ID:	71
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	211080
+End frame:	214840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	211200	211240	APPEAR	211440	212360	IX-1p	212600	212760	CIGARETTE	212920	213160	TRUE-BUSINESS	213280	213560	part:indef	214760	214840
+non-dominant hand gloss	CL:5"pulling the object"	213720	214440	CL:2"holding the object"	214640	214840
+head pos: tilt fr/bk	start	211080	211200	back	211240	212360	start	212400	212920	front	212960	213880	start	213920	214120	back	214160	214840
+head pos: turn	right	211080	211080	start	211120	211680	left	211720	214400	start	214440	214640	slightly left	214680	214840
+head pos: tilt side	slightly left	211080	211240	start	211280	213400	slightly right	213440	214400	end	214440	214720
+head pos: jut	start	211720	212360	slightly back	212400	212640	start	212680	212920	forward	212960	214760	end	214800	214840
+body lean	start	211240	211680	slightly back	211720	212600	end	212640	213040	start	213520	213800	forward	213840	214440	end	214480	214800
+eye brows	raised	211080	212120	end	212160	212640
+eye aperture	wide	211080	212000	end	212040	212640
+nose	start	211120	211240	tensed	211280	212640	end	212680	213120
+POS	Pronoun	211200	211240	Pronoun	212600	212760	Noun	212920	213160	Particle	214760	214840
+Non-dominant POS	Classifier	213720	214440	Classifier	214640	214840
+English translation	I just thought of something, it might because of the cigarette that I took out and put in my mouth.
+Notes - number of character bytes:	41
+- pop up, correct word? whats POS for it?
+
+
+Utterance ID:	72
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	214880
+End frame:	217120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	IX-3p:i	214920	214960	THINK	215080	215200	IX-1p	215320	215520	|>		216320	IX-1p	216400	216520	NOT^KNOW	216840	217080
+non-dominant hand gloss	CL:2"holding the object"	214880	214920	|>		215240	CL:S"eating"	215920	216400	|>		216800
+head pos: tilt fr/bk	slightly back	214880	214960	end	215000	215200	start	215640	215760	slightly back	215800	216200	start	216240	216480	front	216520	217120
+head pos: turn	slightly left	214880	215000	start	215040	215200	left	215240	217120
+head pos: tilt side	slightly left	214880	214880	start	214920	215160	slightly right	215200	215600	start	215640	215880	left	215920	217120
+head pos: jut	start	215560	215720	back	215760	217120
+head mvmt: nod
+	start	216160	216320	slow	216360	217080	end	217120	217120
+body lean	start	215840	215960	slightly back	216000	216320	start	216360	216800	slightly forward	216840	217120
+POS	Pronoun	214920	214960	Verb	215080	215200	Pronoun	215320	215520	Pronoun	216400	216520	Negation+Verb	216840	217080
+Non-dominant POS	Classifier	214880	214920	Classifier	215920	216400
+English translation	They probably thought I was eating something, I dont know.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	73
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	217160
+End frame:	222680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	BUT	217280	217520	IX-1p	218240	218320	CONSIDER	218760	219080	IX-1p	219400	219480	TRY	219640	219760	TELL	219960	220120	POSS-1p	220200	220280	FRIEND	220400	220800	IX-1p	220960	221120	|>		221440	CIGARETTE	221760	222320
+non-dominant hand gloss	BUT	217280	217520	|>		218040	SMOKE	221200	221520
+head pos: tilt fr/bk	front	217160	217640	start	217680	218400	front	218440	222480	start	222520	222520	slightly back	222680	222680
+head pos: turn	left	217160	217520	start	217560	218320	slightly right	218360	218400	start	218440	218720	left	218760	220760	start	220800	222040	slightly right	222080	222680
+head pos: tilt side	left	217160	217440	end	217480	217680	start	219760	220000	slightly right	220040	220560	start	220600	221240	left	221280	222680
+head pos: jut	back	217160	218480	start	218520	219440	back	219480	220320	start	220360	221080	forward	221120	222320	end	222360	222680
+head mvmt: nod
+	start	220840	221120	slight rapid head nod	221160	222080	end	222120	222680
+body lean	slightly forward	217160	217560	end	217600	218280	start	218640	218920	slightly forward	218960	221160	start	221200	222120	forward/left	222160	222680
+eye brows	start	218320	218400	slightly raised	218440	219480	end	219520	219960
+nose	start	217160	218400	wrinkle	218440	219400	end	219440	220200
+POS	Conjunction	217280	217520	Pronoun	218240	218320	Verb	218760	219080	Pronoun	219400	219480	Verb	219640	219760	Verb	219960	220120	Possessive	220200	220280	Noun	220400	220800	Pronoun	220960	221120	Noun	221800	222320
+Non-dominant POS	Conjunction	217280	217520	Verb	221200	221520
+English translation	But I am thinking of how to tell my friend that I was just smoking the cigarette.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	74
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	222720
+End frame:	226680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	POSS-1p	222800	222880	FRIEND	223040	223360	SAY	223480	223680	FINE	223960	224280	INFORM	224440	224720	COP	224880	224960	SAY	225080	225200	KNOW	225280	225440	IX-3p	225480	225800	SMOKE	226040	226200	CIGARETTE	226360	226680
+non-dominant hand gloss	FRIEND	223040	223360	|>		224200	INFORM	224440	224720	|>		225480
+head pos: tilt fr/bk	slightly back	222720	223440	start	223480	223720	back	223760	224320	end	224360	224560	start	225000	225200	front	225240	226000	end	226040	226360
+head pos: turn	slightly right	222720	222800	start	222840	223480	slightly left	223520	224560	start	224600	225040	left	225080	226680
+head pos: tilt side	left	222720	222840	start	222880	223400	right	223440	223760	start	223800	224240	left	224280	225240	start	225280	225600	right	225640	226240	end	226280	226680
+head pos: jut	start	223600	223840	slightly back	223880	224280	end	224320	224560	start	225920	226080	back	226120	226680
+head mvmt: nod
+	start	223320	223560	slow	223600	224000	end	224040	224280
+body lean	forward/left	222720	222840	start	222880	223440	forward/right	223480	224040	start	224080	224600	forward/left	224640	225400	start	225440	225800	forward	225840	226080	end	226120	226480
+eye gaze	left	223240	223600	left	224840	225480
+eye aperture	start	223240	223440	blink	223480	223600	start	223640	223800	blink	223840	224080	start	224120	224240	slightly lowered	224280	224520	end	224560	224840
+nose	start	223280	223560	tensed	223600	224000	end	224040	224240	start	225840	226000	wrinkle	226040	226560	end	226600	226680
+role shift	Friend	223720	226680
+POS	Possessive	222800	222880	Noun	223040	223360	Verb	223480	223680	Adjective	223960	224280	Noun	224440	224720	Proper Noun	224880	224960	Verb	225080	225200	Verb	225280	225440	Pronoun	225480	225800	Verb	226040	226200	Noun	226360	226680
+Non-dominant POS	Noun	223040	223360	Noun	224440	224720
+English translation	My friend said fine and informed cop that I was smoking the cigarette.
+Notes - number of character bytes:	98
+- Again as earlier, about the INFORMATION, he signed INFORMATION but I believe that means INFORM. 
+
+
+Utterance ID:	75
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	226720
+End frame:	229040
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	MAYBE	226800	226880	IX-3p:i	226920	227080	MISUNDERSTAND	227200	227560	IX-3p:i	227640	227720	THINK	227800	228080	|>		228880
+non-dominant hand gloss	MISUNDERSTAND	227200	227560	|>		227840	CL:5"eating"	228280	228480	SOMETHING	228600	228920
+head pos: tilt fr/bk	start	226720	226920	front	226960	228160	end	228200	228360	start	228920	228960	slightly front	229000	229040
+head pos: turn	left	226720	227040	end	227080	227400	start	227760	228000	right	228040	228360	start	228400	228560	slightly right	228600	229040
+head pos: tilt side	start	226880	227040	slightly left	227080	228920	end	228960	229040
+head pos: jut	back	226720	226880	start	226920	227280	forward	227320	227760	start	227800	228280	slightly back	228320	229040
+body lean	start	227040	227280	forward/left	227320	227720	start	227760	228040	slightly forward	228080	228400	end	228440	228480
+nose	wrinkle	226720	226960	end	227000	227080
+role shift	Friend	226720	229040
+POS	Adverb	226800	226880	Pronoun	226920	227080	Verb	227200	227560	Pronoun	227640	227720	Verb	227800	228080
+Non-dominant POS	Verb	227200	227560	Classifier	228280	228480	Noun	228600	228920
+English translation	Maybe you misunderstood and thought he was eating something.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	76
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	229080
+End frame:	232480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	COP	229200	229360	SAY	229440	229600	part:indef	229800	229960	IX-1p	230120	230160	SEE	230280	230360	#IT	230440	230720	CLEAR	230880	231960	|>		232280	UNKNOWN	232320	232480
+non-dominant hand gloss	SOMETHING	229080	229120	|>		229520	CLEAR	230880	231960	|>		232480
+head pos: tilt fr/bk	slightly front	229080	229400	end	229440	229640	start	230840	231120	front	231160	232400	start	232440	232440	slightly front	232480	232480
+head pos: turn	slightly right	229080	229440	end	229480	229760	start	230320	230400	slightly left	230440	231840	start	231880	232160	slightly right	232200	232480
+head pos: tilt side	start	230600	230840	slightly left	230880	232480
+head pos: jut	slightly back	229080	229200	end	229240	229360	start	230480	230600	back	230640	231120	end	231160	231440
+head mvmt: nod
+	start	231960	232280	single	232320	232440	end	232480	232480
+head mvmt: shake	start	229240	229400	slight rapid head shake	229440	229960	end	230000	230200
+body lean	start	230600	230840	slightly forward	230880	232240	end	232280	232480
+eye brows	start	231960	232120	slightly lowered	232160	232480
+eye aperture	start	229120	229320	closed	229360	229840	end	229880	230160	start	232120	232280	slightly squinted	232320	232480
+nose	start	229120	229280	wrinkle	229320	229520	end	229560	229760	start	230120	230160	tensed	230200	230840	end	230880	231120	start	231760	231960	wrinkle	232000	232480
+role shift	Cop	229600	232480
+POS	Proper Noun	229200	229360	Verb	229440	229600	Pronoun	230120	230160	Verb	230280	230360	Pronoun	230440	230720	Adjective	230880	231960
+Non-dominant POS	Noun	229080	229120	Adjective	230880	231960
+English translation	CThe cop said, "I saw it very clear."
+Notes - number of character bytes:	33
+-pos for that kind of part:indef?
+
+
+Utterance ID:	77
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	232520
+End frame:	234200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	232600	232640	TAKE	232720	232800	IX-3p:i	232880	233000	HOSPITAL	233120	233640	NOW	233720	234160
+non-dominant hand gloss	NOW	233720	234160	|>		234200
+head pos: tilt fr/bk	slightly front	232520	232720	start	232760	233000	back	233040	233400	end	233440	233560
+head pos: turn	slightly right	232520	234200
+head pos: tilt side	slightly left	232520	233800	end	233840	233960
+head pos: jut	start	233240	233320	back	233360	234200
+head mvmt: nod
+	start	233680	233760	rapid	233800	234160	end	234200	234200
+body lean	start	232960	233040	slightly forward	233080	233440	end	233480	233600	start	233960	234160	left	234200	234200
+eye brows	slightly lowered	232520	233640	start	233680	233800	lowered	233840	234200
+eye aperture	slightly squinted	232520	234200
+nose	start	232960	233040	tensed	233080	233440	start	233480	233680	wrinkle	233720	234200
+role shift	Cop	232520	234200
+POS	Pronoun	232600	232640	Verb	232720	232800	Pronoun	232880	233000	Noun	233120	233640	Adverb	233720	234160
+Non-dominant POS	Adverb	233720	234160
+English translation	I will take him to the hospital now.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	78
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	234240
+End frame:	236600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	SAY	234320	234400	PUMP	234560	234960	fs-OUT	235080	235400	POSS-3p:i	235480	235560	STOMACH	235760	236240	part:indef	236400	236480
+non-dominant hand gloss	NOW	234240	234280	|>		234360	PUMP	234560	234960	|>		236160
+head pos: tilt fr/bk	start	235400	235480	front	235520	236280	end	236320	236440
+head pos: turn	slightly right	234240	234360	start	234400	234520	right	234560	236320	start	236360	236440	slightly right	236480	236600
+head pos: tilt side	start	235520	235560	slightly right	235600	236600
+head pos: jut	start	235040	235400	back	235440	236280	start	236320	236440	slightly back	236480	236600
+body lean	left	234240	235480	end	235520	235560	start	235840	235880	back/left	235920	236240	end	236280	236440
+eye brows	lowered	234240	236200	start	236240	236360	slightly lowered	236400	236520	end	236560	236600
+eye aperture	slightly squinted	234240	236320	end	236360	236480
+nose	wrinkle	234240	236080	end	236120	236280
+role shift	Cop	234240	236600
+POS	Verb	234320	234400	Verb	234560	234960	Preposition	235080	235400	Possessive	235480	235560	Noun	235760	236240
+Non-dominant POS	Adverb	234240	234280	Verb	234560	234960
+English translation	Will pump out of his stomach.
+Notes - number of character bytes:	91
+- The first word: "SAY, or is it "REALLY"
+- STOMACH, not sure if its CL as LCL:"stomach" ??
+
+
+Utterance ID:	79
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	236640
+End frame:	238880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	POSS-1p	236720	236760	FRIEND	236920	237320	LOOK	237480	237600	SAY	237680	237760	part:indef	237840	238040	NO+	238080	238600	part:indef	238680	238880
+non-dominant hand gloss	FRIEND	236920	237320	|>		237800
+head pos: tilt fr/bk	start	237320	237400	front	237440	237880	start	237920	238080	back	238120	238880
+head pos: turn	slightly right	236640	236640	end	236680	236760	start	236840	236960	slightly left	237000	237360	start	237400	237520	left	237560	238120	start	238160	238600	slightly left	238640	238880
+head pos: tilt side	slightly right	236640	237160	end	237200	237400	start	237760	237840	left	237880	238800	end	238840	238880
+head pos: jut	slightly back	236640	236760	end	236800	237200	start	238000	238120	slightly back	238160	238880
+head mvmt: side to side	start	237960	238080	slow	238120	238840	end	238880	238880
+body lean	start	237320	237400	slightly forward	237440	237920	start	237960	238600	left	238640	238880
+eye brows	start	238600	238640	slightly lowered	238680	238880
+eye gaze	left	237320	237960
+eye aperture	start	237760	237960	closed	238000	238880
+nose	start	237720	237920	wrinkle	237960	238880
+role shift	Friend	237480	238880
+POS	Possessive	236720	236760	Noun	236920	237320	Verb	237480	237600	Verb	237680	237760	Discourse Marker	238080	238600
+Non-dominant POS	Noun	236920	237320
+English translation	My friend looked at him and said "no!"
+Notes - number of character bytes:	62
+- whats the pos for NO?
+-pos for that kind of part:indef (two)
+
+
+Utterance ID:	80
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	238920
+End frame:	241240
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p:i	239000	239120	FUTURE	239240	239440	WASTE	239640	239960	IX-3p:i	240000	240040	TIME	240160	240400	CL:5"two people talking"	240600	241240
+non-dominant hand gloss
+head pos: tilt fr/bk	back	238920	239480	end	239520	239760
+head pos: turn	slightly left	238920	239000	end	239040	239120	start	239520	239600	slightly right	239640	240160	start	240200	240640	slightly left	240680	241240
+head pos: tilt side	start	238920	239080	right	239120	240240	start	240280	240640	left	240680	241240
+head pos: jut	slightly back	238920	239320	end	239360	239640
+head mvmt: side to side	start	238960	239120	slow	239160	241120	end	241160	241240
+body lean	left	238920	238920	start	238960	239240	right	239280	240040	start	240080	240720	forward/left	240760	241240
+eye brows	slightly lowered	238920	241240
+eye aperture	closed	238920	240000	start	240040	240040	further squinted	240080	241240
+nose	wrinkle	238920	241240
+role shift	Friend	238920	240400
+POS	Pronoun	239000	239120	Tense Marker	239240	239440	Verb	239640	239960	Pronoun	240000	240040	Noun	240160	240400	Classifier	240600	241240
+English translation	"You will waste your time!" They were talking back and forth.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	81
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	241280
+End frame:	243800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	018
+main gloss	IX-3p:i	241320	241400	SAY	241440	241480	NO	241600	242120	part:indef	242200	242280	COP	242480	242720	LOOK	242960	243800
+non-dominant hand gloss	part:indef	242120	242200	|>		242360
+head pos: tilt fr/bk	start	241480	241680	front	241720	242000	end	242040	242200	start	242880	243000	back	243040	243800
+head pos: turn	slightly left	241280	241720	end	241760	242160	start	242760	242880	left	242920	242960	start	243000	243320	left	243360	243560	start	243600	243600	slightly left	243640	243800
+head pos: tilt side	left	241280	241360	start	241400	241640	right	241680	242240	start	242280	242480	left	242520	242760	start	242800	242880	right	242920	243000	start	243040	243760	slightly left	243800	243800
+head pos: jut	start	242520	242720	back	242760	242800	start	242840	242960	forward	243000	243800
+head mvmt: shake	start	242720	242920	rapid	242960	243760	end	243800	243800
+body lean	forward/left	241280	241600	start	241640	241880	forward	241920	242400	end	242440	242640
+eye brows	slightly lowered	241280	242280	start	242320	242520	raised	242560	243600	end	243640	243800
+eye gaze	up/left	243360	243480
+eye aperture	further squinted	241280	241320	start	241360	241360	closed	241400	242000	start	242040	242120	further squinted	242160	242280	start	242320	242680	closed	242720	243240	start	243280	243280	blink	243320	243680	start	243720	243720	closed	243760	243800
+nose	wrinkle	241280	242240	start	242280	242880	tensed	242920	243520	end	243560	243720
+negative	negation	242960	243800
+yes/no question	y/n	241280	242280
+role shift	Friend	241280	242280	Cop	242880	243800
+POS	Pronoun	241320	241400	Verb	241440	241480	Particle	242200	242280	Proper Noun	242480	242720	Verb	242960	243800
+Non-dominant POS	Particle	242120	242200
+English translation	He said no.  The cop was looking at him and shaking his head.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	82
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	243840
+End frame:	246800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	LOOK	243840	243880	|>		244280	FINALLY	244560	245240	ADMIT	245640	246800
+non-dominant hand gloss	FINALLY	244560	245240	|>		245560
+head pos: tilt fr/bk	back	243840	245800	start	245840	246160	front	246200	246800
+head pos: turn	left	243840	244840	start	244880	245560	slightly left	245600	245800	start	245840	246240	slightly right	246280	246800
+head pos: tilt side	left	243840	244840	end	244880	245160	start	245320	245600	right	245640	246800
+head pos: jut	forward	243840	243880	end	243920	244120	start	244640	244800	back	244840	246280	start	246320	246680	slightly back	246720	246800
+body lean	start	244400	244600	left	244640	246000	start	246040	246200	forward/right	246240	246800
+eye aperture	closed	243840	243880	start	243920	244280	further lowered	244320	244600	start	244640	244720	closed	244760	245640	start	245680	245800	lowered lid	245840	246800
+POS	Verb	243840	243880	Adverb	244560	245240	Verb	245640	246800
+Non-dominant POS	Adverb	244560	245240
+English translation	He was looking and then finally, he was willing...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	83
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	246840
+End frame:	248360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	part:indef	246920	247000	DISCONNECT	247240	247600	|>		247680	CL:5"disconnecting the object"	248000	248360
+non-dominant hand gloss
+head pos: tilt fr/bk	front	246840	246960	start	247000	247120	front	247160	248360
+head pos: turn	slightly right	246840	246920	end	246960	247000	start	247200	247280	left	247320	248360
+head pos: tilt side	right	246840	247000	start	247040	247200	left	247240	248200	start	248240	248320	slightly left	248360	248360
+head pos: jut	slightly back	246840	246960	start	247000	247200	back	247240	248360
+head mvmt: shake	start	246840	246960	slow	247000	248000	end	248040	248120
+body lean	forward/right	246840	246920	end	246960	247040
+eye brows	start	247720	247760	lowered	247800	248200	end	248240	248320
+eye aperture	slightly lowered	246840	247640	start	247680	247880	squint	247920	248200	end	248240	248320
+nose	start	247760	247840	wrinkle	247880	248240	end	248280	248360
+POS	Verb	247240	247600	Classifier	248000	248360
+English translation	Got it off.
+Notes - number of character bytes:	104
+- pos for that kind of part:indef
+- not sure how to do the english part?
+- is "DISCONNECT" correct word?
+
+
+Utterance ID:	84
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	248400
+End frame:	251720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	PUSH	248760	249320	IX-1p	249520	249640	#TO	249760	249960	GROUND	250080	250440	PUSH	250640	250760	CL:3"person falling"	250920	251720
+non-dominant hand gloss
+head pos: tilt fr/bk	front	248400	251720
+head pos: turn	slightly left	248400	248440	start	248480	248760	right	248800	249320	start	249360	249920	left	249960	250720	start	250760	250920	right	250960	251320	start	251360	251600	slightly left	251640	251720
+head pos: tilt side	slightly left	248400	248400	start	248440	248600	right	248640	249360	start	249400	249760	left	249800	250680	start	250720	250960	right	251000	251240	end	251280	251600
+head pos: jut	back	248400	249160	end	249200	249520	start	251000	251080	forward	251120	251720
+head mvmt: shake	start	248680	248960	slow	249000	251400	end	251440	251720
+body lean	start	248720	249000	forward	249040	249880	end	249920	250240	start	250920	251120	forward	251160	251720
+eye brows	start	249560	249680	lowered	249720	251720
+eye gaze	left	251680	251720
+eye aperture	start	249600	249800	squint	249840	251520	start	251560	251640	lowered lid	251680	251720
+nose	start	248480	248680	tensed	248720	249200	start	249240	249720	wrinkle	249760	251720
+POS	Verb	248760	249320	Pronoun	249520	249640	Preposition	249760	249960	Noun	250080	250440	Verb	250640	250760	Classifier	250920	251720
+English translation	Pushed me and I fell to the ground.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	85
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	251760
+End frame:	254240
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	251840	252040	FALL	252200	252680	part:indef	252800	253200	IX-1p	253320	253400	STAND-UP	253560	254240
+non-dominant hand gloss	part:indef	252360	252600	|>		253400
+head pos: tilt fr/bk	front	251760	253800	end	253840	254000
+head pos: turn	left	251760	253160	start	253200	253640	slightly left	253680	253720	end	253760	253880
+head pos: tilt side	start	252120	252280	slightly right	252320	252720	end	252760	253000	start	253560	253640	left	253680	254240
+head pos: jut	forward	251760	251880	start	251920	252080	back	252120	254240
+body lean	forward	251760	252080	start	252120	252400	right	252440	253560	start	253600	253960	back/left	254000	254240
+shoulders	start	251880	252080	raised	252120	252240	start	252280	252560	right/down	252600	253560	start	253600	253840	raised	253880	254240
+eye brows	slightly lowered	251760	251800	start	251840	251880	slightly raised	251920	252320	start	252360	252720	lowered	252760	254240
+eye gaze	left	251760	251840	left	252600	253000
+eye aperture	lowered lid	251760	252040	end	252080	252280	start	252720	252760	blink	252800	253200	start	253240	253320	squint	253360	253480	start	253520	253560	blink	253600	253720	start	253760	253880	squint	253920	254240
+POS	Pronoun	251840	252040	Verb	252200	252680	Particle	252800	253200	Pronoun	253320	253400	Verb	253560	254240
+Non-dominant POS	Particle	252360	252600
+English translation	I fell! Then I got up.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	86
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	254280
+End frame:	256080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	OF-COURSE	254600	254960	fs-VERY	255000	255280	UPSET	255400	256080
+non-dominant hand gloss	STAND-UP	254280	254320	|>		254440	part:indef	255720	255920	|>		256080
+head pos: tilt fr/bk	start	254480	254600	front	254640	254720	end	254760	255000	start	255320	255400	slightly back	255440	255800	start	255840	256040	slightly front	256080	256080
+head pos: turn	start	254440	254560	right	254600	256080
+head pos: tilt side	left	254280	256080
+head pos: jut	back	254280	256080
+body lean	back/left	254280	256080
+shoulders	raised	254280	254640	end	254680	254960	start	255280	255320	left /down	255360	256080
+eye brows	lowered	254280	256080
+eye aperture	squint	254280	254280	start	254320	254520	further squinted	254560	256080
+nose	start	254320	254440	wrinkle	254480	256080
+POS	Discourse Marker	254600	254960	Adjective	255000	255280	Verb	255400	256080
+Non-dominant POS	Verb	254280	254320	Particle	255720	255920
+English translation	Of course, I was very upset.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	87
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	256160
+End frame:	262480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	017
+main gloss	FOR	256360	256440	CONFUSE	256640	257520	REALLY	257920	258080	IX-1p	258240	258320	FEEL	258440	258760	MANY	259000	259120	DIFFERENT	259320	259680	THING	259840	260000	AT	260160	260320	ONCE	260560	260960	IX-1p	261200	261320	part:indef	261520	262000
+non-dominant hand gloss	CONFUSE	256640	257520	|>		258360
+head pos: tilt fr/bk	front	256160	256920	start	256960	257560	back	257600	258760	start	258800	259360	front	259400	262040	end	262080	262480
+head pos: turn	right	256160	261200	start	261240	261840	slightly left	261880	261920	start	261960	262080	left	262120	262480
+head pos: tilt side	left	256160	261240	end	261280	261560
+head pos: jut	back	256160	256240	start	256280	256680	forward	256720	257520	start	257560	258240	back	258280	259200	start	259240	260000	forward	260040	260360	end	260400	261240
+head mvmt: nod
+	start	256160	256360	slow	256400	257800	end	257840	258240	start	261400	261600	slow	261640	262320	end	262360	262480
+head mvmt: shake	start	257480	257920	slight rapid head shake	257960	258720	start	258760	259360	slight rapid head shake	259400	260000	end	260040	260400
+body lean	back/left	256160	256400	start	256440	256720	forward/left	256760	257480	start	257520	257960	left	258000	259080	start	259120	259680	forward/left	259720	260560	end	260600	261280	start	261600	261640	slightly forward	261680	261960	end	262000	262480
+shoulders	left /down	256160	258200	end	258240	258600
+eye brows	lowered	256160	262480
+eye gaze	left	262200	262480
+eye aperture	further squinted	256160	262480
+nose	wrinkle	256160	262480
+POS	Preposition	256360	256440	Verb	256640	257520	Adverb	257920	258080	Pronoun	258240	258320	Verb	258440	258760	Adjective	259000	259120	Adjective	259320	259680	Noun	259840	260000	Preposition	260160	260320	Adverb	260560	260960	Pronoun	261200	261320	Particle	261520	262000
+Non-dominant POS	Verb	256640	257520
+English translation	For confusion, really I felt many different things at once.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	88
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	262520
+End frame:	264000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	REALLY	262640	262880	part:indef	263040	263200	IX-1p	263280	263400	FEEL	263480	263680	part:indef	263760	264000
+non-dominant hand gloss
+head pos: tilt fr/bk	start	263280	263320	front	263360	264000
+head pos: turn	left	262520	262680	end	262720	262880	start	263000	263080	slightly right	263120	263360	start	263400	263440	right	263480	264000
+head pos: tilt side	start	263320	263400	left	263440	264000
+head pos: jut	start	262760	262880	back	262920	264000
+head mvmt: shake	start	263040	263120	slight rapid head shake	263160	263400	end	263440	263560
+eye brows	lowered	262520	263440	start	263480	263680	raised	263720	264000
+eye gaze	left	262520	262680
+eye aperture	squint	262520	262640	start	262680	262680	further squinted	262720	263120	start	263160	263200	blink	263240	263320	start	263360	263360	squint	263400	263480	start	263520	263560	blink	263600	263720	start	263760	263760	wide	263800	264000
+nose	wrinkle	262520	263480	start	263520	263680	tensed	263720	264000
+POS	Discourse Marker	262640	262880	Particle	263040	263200	Pronoun	263280	263400	Verb	263480	263680	Particle	263760	264000
+English translation	Really, I felt...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	89
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	264040
+End frame:	266920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IN	264160	264280	ONE	264360	264600	SIDE	264720	264840	OF	264920	264960	IX-1p	265080	265160	FEEL	265280	265400	SAME	265480	265520	CL:1"walking to person"	265600	265880	HIT	266000	266520	COP	266720	266920
+non-dominant hand gloss	HIT	266000	266520	|>		266920
+head pos: tilt fr/bk	front	264040	264240	end	264280	264600	start	265200	265320	front	265360	266920
+head pos: turn	right	264040	264120	start	264160	264600	left	264640	266920
+head pos: tilt side	left	264040	264160	start	264200	264600	right	264640	266560	start	266600	266880	slightly left	266920	266920
+head pos: jut	back	264040	266320	end	266360	266600
+head mvmt: side to side	start	264040	264200	single	264240	264760	end	264800	265040	start	266080	266240	single	266280	266920
+body lean	start	264040	264280	slightly back	264320	265080	end	265120	265240	start	265560	265600	slightly forward	265640	266920
+eye brows	raised	264040	265080	start	265120	265280	lowered	265320	266360	end	266400	266920
+eye aperture	wide	264040	265040	start	265080	265320	squint	265360	266520	end	266560	266920
+nose	tensed	264040	265000	start	265040	265320	wrinkle	265360	266320	start	266360	266880	tensed	266920	266920
+POS	Preposition	264160	264280	Number	264360	264600	Noun	264720	264840	Preposition	264920	264960	Pronoun	265080	265160	Verb	265280	265400	Adverb	265480	265520	Classifier	265600	265880	Verb	266000	266520	Proper Noun	266720	266920
+Non-dominant POS	Verb	266000	266520
+English translation	In one side of me, I want to hit the cop.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	90
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	266960
+End frame:	269760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	010
+main gloss	#BUT	267040	267440	OF-COURSE	267560	267840	IX-1p	267920	268000	CAN^NOT	268120	268200	DO	268280	268480	THAT	268640	268840	part:indef	268960	269680	|>		269760
+non-dominant hand gloss
+head pos: tilt fr/bk	front	266960	269360	end	269400	269720
+head pos: turn	left	266960	268040	end	268080	268200	start	269120	269160	slightly right	269200	269760
+head pos: tilt side	left	266960	268160	end	268200	268480
+head pos: jut	start	267960	268080	slightly forward	268120	269360	end	269400	269720
+body lean	slightly forward	266960	267040	start	267080	267280	forward/left	267320	268000	slightly forward	268040	269240	end	269280	269680
+nose	tensed	266960	267160	end	267200	267480
+POS	Conjunction	267040	267440	Pronoun	267920	268000	Modal+Negation	268120	268200	Verb	268280	268480	Pronoun	268640	268840	Particle	268960	269680
+English translation	But, of course I can't do that.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	91
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	269840
+End frame:	271960
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	#SO	269920	270000	part:indef	270080	270640	FINE	270960	271200	IX-3p:i	271320	271560	SAY	271640	271960
+non-dominant hand gloss	part:indef	270080	270640	|>		271960
+head pos: tilt fr/bk	start	270000	270120	front	270160	270760	start	270800	271120	slightly front	271160	271480	end	271520	271680
+head pos: turn	right	269840	270680	start	270720	271080	left	271120	271400	start	271440	271840	right	271880	271960
+head pos: tilt side	start	270120	270280	right	270320	270640	start	270680	270960	left	271000	271480	start	271520	271840	slightly right	271880	271960
+head pos: jut	start	271240	271360	slightly back	271400	271960
+body lean	start	270120	270280	right	270320	270680	end	270720	270920	start	271760	271800	slightly back	271840	271960
+eye brows	start	270000	270200	lowered	270240	271960
+eye gaze	left	270720	271280
+eye aperture	start	269840	270000	closed	270040	270480	start	270520	270680	further squinted	270720	271960
+nose	start	270120	270240	wrinkle	270280	271960
+POS	Discourse Marker	269920	270000	Particle	270080	270640	Discourse Marker	270960	271200	Pronoun	271320	271560	Verb	271640	271960
+Non-dominant POS	Particle	270080	270640
+English translation	So, that is fine and he said...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	92
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	272000
+End frame:	277520
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-3p:i	272120	272400	COP	272640	272720	TELL	272880	273040	FRIEND	273200	273560	SAY	273760	273920	MAKE	274200	274480	SURE	274600	275640	IX-2p	275760	275840	LOOK	275960	276240	IX-3p:i	276360	276440	OVER-NIGHT	276640	277520
+non-dominant hand gloss	FRIEND	273200	273560	|>		273920	MAKE	274200	274480	|>		276280
+head pos: tilt fr/bk	start	272000	272320	front	272360	277520
+head pos: turn	right	272000	273040	start	273080	273760	left	273800	273880	start	273920	274560	right	274600	276520	start	276560	276960	left	277000	277520
+head pos: tilt side	right	272000	272920	start	272960	273640	left	273680	274120	start	274160	274800	slightly right	274840	276400	start	276440	276800	left	276840	277520
+head pos: jut	slightly back	272000	272360	start	272400	272680	back	272720	273560	end	273600	274120
+head mvmt: nod
+	start	274440	274720	slight rapid head nod	274760	276400	end	276440	277440
+body lean	slightly back	272000	272680	end	272720	273360	start	275920	276120	slightly forward	276160	277520
+eye brows	lowered	272000	277520
+eye aperture	further squinted	272000	275760	start	275800	275920	squint	275960	277520
+nose	wrinkle	272000	277520
+role shift	Cop	274160	277520
+POS	Pronoun	272120	272400	Proper Noun	272640	272720	Verb	272880	273040	Noun	273200	273560	Verb	273760	273920	Verb	274200	274480	Adjective	274600	275640	Pronoun	275760	275840	Verb	275960	276240	Pronoun	276360	276440	Noun	276640	277520
+Non-dominant POS	Noun	273200	273560	Verb	274200	274480
+English translation	The cop told my friend, "make sure you will watch him overnight."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	93
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	277560
+End frame:	280160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	NEVER	277760	277840	THINK	277960	278120	MUST	278200	278320	GO	278440	278520	HOSPITAL	278640	279080	THAT	279160	279240	NIGHT	279400	280000	|>		280160
+non-dominant hand gloss
+head pos: tilt fr/bk	front	277560	279840	end	279880	280080
+head pos: turn	left	277560	279760	start	279800	280080	slightly left	280120	280160
+head pos: tilt side	left	277560	279760	end	279800	280000
+head pos: jut	start	277600	277800	slightly back	277840	279600	end	279640	279880
+body lean	slightly forward	277560	277680	start	277720	277880	right	277920	278600	end	278640	279080
+eye brows	lowered	277560	277560	start	277600	277760	raised	277800	279840	start	279880	279960	slightly lowered	280000	280160
+eye aperture	squint	277560	279720	start	279760	280120	squint	280160	280160
+nose	wrinkle	277560	280160
+role shift	Cop	277560	280160
+POS	Negation	277760	277840	Verb	277960	278120	Adverb	278200	278320	Verb	278440	278520	Noun	278640	279080	Pronoun	279160	279240	Noun	279400	280000
+English translation	Never know if he need go to the hospital during night time.
+Notes - number of character bytes:	39
+- NIGHT (the last word), is it on HOLD?
+
+
+Utterance ID:	94
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	280200
+End frame:	282880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	280400	280600	LOOK	280760	281280	part:indef	281440	281960	NAH	282080	282200	IX-1p	282360	282440	IGNORE	282600	282880
+non-dominant hand gloss
+head pos: tilt fr/bk	start	281640	281800	slightly back	281840	282040	start	282080	282520	front	282560	282880
+head pos: turn	slightly left	280200	280760	end	280800	281440	start	281600	282040	right	282080	282880
+head pos: tilt side	start	281640	281760	right	281800	282880
+head pos: jut	start	280480	280680	back	280720	282400	end	282440	282640
+head mvmt: shake	start	280520	280720	slight rapid head shake	280760	281840	end	281880	282000
+body lean	start	280520	280720	slightly back	280760	282560	end	282600	282880
+eye brows	slightly lowered	280200	281760	start	281800	282040	raised	282080	282160	end	282200	282320	start	282680	282760	lowered	282800	282880
+eye gaze	left	280200	280600	up	280640	281320
+eye aperture	squint	280200	280400	start	280440	280520	blink	280560	280640	start	280680	281120	squint	281160	281640	start	281680	281680	blink	281720	282080	start	282120	282120	blink	282160	282280	end	282320	282440	start	282720	282800	slightly squinted	282840	282880
+nose	wrinkle	280200	281840	end	281880	282120	start	282760	282840	wrinkle	282880	282880
+POS	Pronoun	280400	280600	Verb	280760	281280	Particle	281440	281960	Pronoun	282360	282440	Verb	282600	282880
+English translation	I looked.  Then I decided to ignore about it.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	95
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	282920
+End frame:	287880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-3p:i	282920	283000	SAY	283080	283160	MAKE	283360	283520	SURE	283680	283760	NOT	283920	284000	fs-PEE	284160	284320	IN	284400	284600	PUBLIC	284800	285200	AGAIN	285480	285680	SAME	285840	286120	|>		286920
+non-dominant hand gloss	GO	286600	287880
+head pos: tilt fr/bk	front	282920	283080	start	283120	283360	slightly back	283400	286840	start	286880	287280	front	287320	287880
+head pos: turn	right	282920	283120	start	283160	283240	slightly right	283280	286480	start	286520	286760	right	286800	287880
+head pos: tilt side	right	282920	283080	end	283120	283480	start	286040	286400	slightly right	286440	287880
+head pos: jut	start	283400	283680	slightly forward	283720	287160	end	287200	287400
+head mvmt: nod
+	start	283000	283160	slight rapid head nod	283200	283680	end	283720	283920
+body lean	start	283200	283480	slightly forward	283520	286560	start	286600	286760	right	286800	287200	start	287240	287320	slightly forward	287360	287880
+eye brows	lowered	282920	287880
+eye aperture	squint	282920	287880
+nose	wrinkle	282920	287880
+role shift	Cop	283280	286080
+POS	Pronoun	282920	283000	Verb	283080	283160	Verb	283360	283520	Adjective	283680	283760	Negation	283920	284000	Verb	284160	284320	Preposition	284400	284600	Noun	284800	285200	Adverb	285480	285680	Adjective	285840	286120
+Non-dominant POS	Verb	286600	287880
+English translation	He said, "make sure not to pee in the public again!" Then he left.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	96
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	287920
+End frame:	290320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	288080	288320	part:indef	288480	289280	REALLY	289400	289640	UPSET	289760	290320
+non-dominant hand gloss	GO	287920	287960	|>		288400	part:indef	288480	289280	|>		290320
+head pos: tilt fr/bk	front	287920	288680	end	288720	289280	start	289680	289720	slightly front	289760	290320
+head pos: turn	slightly right	287920	289480	start	289520	289760	right	289800	290320
+head pos: tilt side	slightly right	287920	289320	end	289360	289520	start	289920	289960	slightly left	290000	290320
+head pos: jut	start	288480	288640	back	288680	290320
+body lean	slightly forward	287920	288600	start	288640	289280	slightly back	289320	290320
+eye brows	slightly lowered	287920	290160	start	290200	290280	lowered	290320	290320
+eye gaze	left	287960	288240
+eye aperture	squint	287920	287920	start	287960	287960	blink	288000	288040	start	288080	288400	blink	288440	288640	end	288680	288840	start	290040	290160	slightly squinted	290200	290320
+nose	wrinkle	287920	287960	end	288000	288280	start	290160	290240	wrinkle	290280	290320
+POS	Pronoun	288080	288320	Particle	288480	289280	Adjective	289400	289640	Verb	289760	290320
+Non-dominant POS	Verb	287920	287960	Particle	288480	289280
+English translation	I was really upset.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	97
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	290360
+End frame:	293240
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	BLACK	290600	290880	BLUE	290960	291240	REALLY	292240	292600	part:indef	292800	293240
+non-dominant hand gloss	CL:5"location"	291480	292040	|>		292720
+head pos: tilt fr/bk	front	290360	292160	end	292200	292360
+head pos: turn	right	290360	292760	start	292800	293120	slightly right	293160	293240
+head pos: tilt side	left	290360	292040	start	292080	292600	right	292640	293000	end	293040	293240
+head pos: jut	back	290360	290920	end	290960	291120
+body lean	slightly back	290360	290680	start	290720	291240	forward	291280	291880	end	291920	292120	start	292600	292720	right	292760	293240
+eye brows	lowered	290360	290400	start	290440	290560	raised	290600	293240
+eye gaze
+eye aperture	squint	290360	290480	start	290520	290600	lowered lid	290640	293240
+nose	wrinkle	290360	290520	end	290560	290680
+POS	Adjective	290600	290880	Adjective	290960	291240	Adverb	292240	292600	Particle	292800	293240
+Non-dominant POS	Classifier	291480	292040
+English translation	There was black and blue bruise on my head.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	98
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	293280
+End frame:	295440
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	HIT	293520	293680	HEADACHE	293920	294120	IX-1p	294200	294280	HAVE	294320	294360	BAD	294440	294640	HEADACHE	294760	294920	NEXT	295080	295120	MORNING	295240	295440
+non-dominant hand gloss
+head pos: tilt fr/bk	start	293600	293720	slightly front	293760	293920	start	293960	294120	front	294160	294360	end	294400	294560	start	295000	295040	slightly front	295080	295440
+head pos: turn	slightly right	293280	293720	start	293760	293960	right	294000	295440
+head pos: tilt side	start	293680	293880	left	293920	295440
+head pos: jut	start	293560	293680	back	293720	294920	start	294960	295160	slightly back	295200	295440
+body lean	start	293880	294000	back/left	294040	295440
+eye brows	slightly raised	293280	293680	end	293720	293880	start	294120	294200	raised	294240	295440
+eye aperture	squint	293280	293320	start	293360	293400	blink	293440	293520	start	293560	293560	squint	293600	293960	start	294000	294200	wide	294240	295360	end	295400	295440
+nose	start	293480	293600	wrinkle	293640	293920	end	293960	294120	start	294320	294360	tensed	294400	294640	end	294680	294800
+POS	Verb	293520	293680	Noun	293920	294120	Pronoun	294200	294280	Verb	294320	294360	Adjective	294440	294640	Noun	294760	294920	Adjective	295080	295120	Noun	295240	295440
+English translation	I had a bad headache next morning!
+Notes - number of character bytes:	37
+-what kind of CL for first word: HIT?
+
+
+Utterance ID:	99
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	295480
+End frame:	298800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	BUT	295600	295720	ANYWAY	295800	296160	THAT	296440	296520	part:indef	296680	297200	FRIEND	297360	297760	SAY	297880	297960	part:indef	298080	298320	ALRIGHT	298440	298800
+non-dominant hand gloss
+head pos: tilt fr/bk	front	295480	296640	end	296680	296920	start	297600	297680	front	297720	298800
+head pos: turn	right	295480	296960	start	297000	297720	left	297760	298520	start	298560	298760	slightly left	298800	298800
+head pos: tilt side	left	295480	296760	end	296800	296920	start	297800	298000	right	298040	298720	end	298760	298800
+head pos: jut	slightly back	295480	296520	start	296560	296800	back	296840	297360	start	297400	297880	forward	297920	298800
+body lean	back/left	295480	296240	start	296280	296880	slightly back	296920	297720	start	297760	298120	forward	298160	298800
+eye brows	slightly raised	295480	295480	start	295520	295600	lowered	295640	298600	end	298640	298800
+eye gaze	left	297680	297960	right	298720	298800
+eye aperture	start	295480	295560	closed	295600	296000	start	296040	296200	further squinted	296240	296280	start	296320	296400	blink	296440	297240	start	297280	297280	further squinted	297320	298640	start	298680	298760	squint	298800	298800
+nose	start	295480	295520	wrinkle	295560	297640	start	297680	297920	tensed	297960	298640	end	298680	298800
+POS	Conjunction	295600	295720	Discourse Marker	295800	296160	Pronoun	296440	296520	Particle	296680	297200	Noun	297360	297760	Verb	297880	297960	Adjective	298440	298800
+English translation	But anyway, my friend told me its allright.
+Notes - number of character bytes:	34
+- pos for that kind of part:indef?
+
+
+Utterance ID:	100
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	298840
+End frame:	300920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	298920	299120	FEEL	299160	299200	FINE	299280	299520	FORGET	299720	299880	ABOUT	300000	300160	#IT	300200	300520	NAH	300600	300880
+non-dominant hand gloss	ABOUT	300000	300160	|>		300560
+head pos: tilt fr/bk	front	298840	298960	start	299000	299200	back	299240	299680	end	299720	299840
+head pos: turn	slightly left	298840	299000	start	299040	299400	slightly right	299440	300680	start	300720	300880	right	300920	300920
+head pos: tilt side	start	298960	299080	left	299120	300920
+head pos: jut	slightly forward	298840	299240	start	299280	299560	slightly back	299600	299760	start	299800	299800	back	299840	300360	end	300400	300560
+head mvmt: nod
+	start	300360	300560	slight rapid head nod	300600	300880	end	300920	300920
+body lean	forward	298840	299320	end	299360	299480	start	299880	299920	slightly back	299960	300640	end	300680	300840
+eye gaze	right	298840	299200	down	299240	299480
+eye aperture	lowered lid	298840	300720	start	300760	300880	squint	300920	300920
+POS	Pronoun	298920	299120	Verb	299160	299200	Adjective	299280	299520	Verb	299720	299880	Adverb	300000	300160	Pronoun	300200	300520
+Non-dominant POS	Adverb	300000	300160
+English translation	I feel fine and just forget about it.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	101
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	300960
+End frame:	305840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	#BUT	301000	301240	NOW	301320	301480	FROM-NOW-ON	301840	302360	REALLY	302520	302920	fs-LAPD	303120	304080	IX-3p:i	304160	304200	MUST	304320	304400	TEACH	304600	304640	POSS-3p:i	304800	305120	COP	305280	305840
+non-dominant hand gloss	FROM-NOW-ON	301840	302360	|>		303040	G:"focus"	303320	304200
+head pos: tilt fr/bk	start	301080	301400	front	301440	305840
+head pos: turn	right	300960	301480	start	301520	301960	left	302000	304560	start	304600	305120	right	305160	305840
+head pos: tilt side	left	300960	301520	start	301560	302480	right	302520	303360	end	303400	304080	start	304240	304360	right	304400	305520	end	305560	305840
+head pos: jut	start	301320	301560	slightly back	301600	302480	start	302520	303000	slightly forward	303040	303080	end	303120	303520
+head mvmt: nod
+	start	303080	303760	slight rapid head nod	303800	304160	end	304200	304400
+head mvmt: shake	start	301320	301560	single	301600	302640	start	302680	302680	slight rapid head shake	302720	303080	end	303120	303800
+body lean	start	301120	301480	slightly back	301520	302200	start	302240	302960	slightly forward	303000	303280	start	303320	303760	forward/left	303800	304400	start	304440	304440	slightly forward	304480	305840
+eye brows	start	301040	301360	raised	301400	302040	start	302080	302440	lowered	302480	303080	start	303120	303680	slightly raised	303720	305840
+eye aperture	squint	300960	301000	start	301040	301040	closed	301080	302920	start	302960	303080	squint	303120	305840
+nose	start	301920	302240	wrinkle	302280	304360	end	304400	304600
+POS	Conjunction	301000	301240	Tense Marker	301320	301480	Discourse Marker	302520	302920	Proper Noun	303120	304080	Determiner	304160	304200	Modal	304320	304400	Verb	304600	304640	Possessive	304800	305120	Proper Noun	305280	305840
+Non-dominant POS
+English translation	But, from now on, LAPD should teach their cops..
+Notes - number of character bytes:	22
+- pos for from now on?
+
+
+Utterance ID:	102
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	305880
+End frame:	310880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	fs-OFFICERS	306040	306880	TO	307000	307120	MAKE	307240	307320	SURE	307480	307760	APPROACH	308560	308920	RIGHT	309120	309320	WAY	309480	309720	WITH	309840	309920	DEAF	310080	310520	PEOPLE	310640	310880
+non-dominant hand gloss
+head pos: tilt fr/bk	front	305880	307280	end	307320	307640	start	308880	309080	front	309120	310880
+head pos: turn	right	305880	307880	start	307920	308640	left	308680	310880
+head pos: tilt side	slightly left	305880	305960	end	306000	306160	start	306840	306920	left	306960	308240	end	308280	308880	start	310320	310600	left	310640	310880
+head pos: jut	start	305880	306000	slightly back	306040	306880	start	306920	307160	slightly forward	307200	310520	start	310560	310800	slightly back	310840	310880
+head mvmt: nod
+	start	305920	306040	slight rapid head nod	306080	306920	end	306960	307200
+body lean	slightly forward	305880	306000	start	306040	306680	left	306720	307480	end	307520	307880
+eye brows	slightly raised	305880	305880	start	305920	306000	lowered	306040	310560	start	310600	310840	raised	310880	310880
+eye gaze
+eye aperture	squint	305880	306400	start	306440	306840	further squinted	306880	309800	start	309840	310240	squint	310280	310640	start	310680	310840	wide	310880	310880
+nose	start	306880	307200	wrinkle	307240	310520	end	310560	310720
+POS	Proper Noun	306040	306880	Preposition	307000	307120	Verb	307240	307320	Adjective	307480	307760	Verb	308560	308920	Adjective	309120	309320	Noun	309480	309720	Preposition	309840	309920	Adjective	310080	310520	Proper Noun	310640	310880
+English translation	The officers need to make sure they will approach Deaf people in right way.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	103
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	310920
+End frame:	315400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IF	311160	311360	SOMETHING	311480	311720	HAPPEN	311840	311960	APPEAR	312080	312480	MAKE	312680	312760	SURE	312880	313160	HAVE	313360	313480	PAPER	313680	313840	#PEN	313920	314240	READY	314360	315320	|>		315400
+non-dominant hand gloss	PEOPLE	310920	310960	|>		311600
+head pos: tilt fr/bk	front	310920	312520	end	312560	312880	start	313520	313760	front	313800	314720	start	314760	315320	slightly back	315360	315400
+head pos: turn	left	310920	310960	start	311000	311360	right	311400	313400	start	313440	313520	slightly right	313560	315400
+head pos: tilt side	left	310920	312880	start	312920	313720	left	313760	314760	start	314800	315280	slightly left	315320	315400
+head pos: jut	slightly back	310920	312040	start	312080	312520	slightly forward	312560	315040	end	315080	315400
+body lean	start	311000	311440	slightly back	311480	311920	start	311960	312160	slightly forward	312200	312880	start	312920	313800	left	313840	314440	end	314480	314880
+eye brows	raised	310920	312200	end	312240	312680
+eye aperture	wide	310920	312280	end	312320	312760
+POS	Conjunction	311160	311360	Noun	311480	311720	Verb	311840	311960	Verb	312080	312480	Verb	312680	312760	Adjective	312880	313160	Adverb	313360	313480	Noun	313680	313840	Noun	313920	314240	Adjective	314360	315320
+Non-dominant POS	Proper Noun	310920	310960
+English translation	If something happen, they should make sure they will have the paper and pen ready.
+Notes - number of character bytes:	17
+- pos for pop-up?
+
+
+Utterance ID:	104
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	315440
+End frame:	318800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	#OR	315560	315920	REALLY	316080	316200	NEED	316480	316720	ARREST	316920	317320	CL:S"unknown"	317760	318000	FRONT	318200	318400	CL:S"unknown"	318560	318800
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	315440	316160	start	316200	316360	front	316400	318800
+head pos: turn	slightly right	315440	315560	start	315600	315840	right	315880	316680	end	316720	316880	start	317040	317280	right	317320	318800
+head pos: tilt side	slightly left	315440	315680	start	315720	315840	left	315880	318800
+head pos: jut	start	316200	316360	back	316400	317240	start	317280	317760	forward	317800	318800
+head mvmt: nod
+	start	315480	315760	slight rapid head nod	315800	316280	end	316320	316720
+body lean	start	315560	315800	left	315840	316200	start	316240	316400	back	316440	317320	start	317360	317800	forward	317840	318800
+eye brows	start	315840	316120	raised	316160	317120	start	317160	317520	lowered	317560	318800
+eye aperture	start	315800	316080	wide	316120	317280	start	317320	317680	squint	317720	318800
+nose	start	317400	317640	tensed	317680	318280	end	318320	318560
+POS	Conjunction	315560	315920	Discourse Marker	316080	316200	Verb	316480	316720	Verb	316920	317320	Classifier	317760	318000	Adjective	318200	318400	Classifier	318560	318800
+English translation	Or, if really need to arrest, then they should put the hands in front to arrest.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	105
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	318840
+End frame:	322000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	#SO	318840	318960	COMMUNICATE	319160	319560	CL:1"writing"	319760	320160	#OR	320400	320560	SIGN	320640	321160	MAYBE	321320	321960
+non-dominant hand gloss
+head pos: tilt fr/bk	front	318840	320600	start	320640	320760	slightly back	320800	321200	start	321240	321440	front	321480	322000
+head pos: turn	right	318840	318840	start	318880	319320	slightly left	319360	320240	start	320280	320360	left	320400	322000
+head pos: tilt side	left	318840	319000	start	319040	319280	right	319320	320920	end	320960	321240	start	321800	321960	slightly left	322000	322000
+head pos: jut	forward	318840	320320	end	320360	320600	start	320760	320880	back	320920	322000
+body lean	forward	318840	320600	start	320640	321200	forward	321240	322000
+eye brows	lowered	318840	321480	start	321520	321960	slightly raised	322000	322000
+eye aperture	squint	318840	321680	start	321720	321960	wide	322000	322000
+POS	Discourse Marker	318840	318960	Verb	319160	319560	Classifier	319760	320160	Conjunction	320400	320560	Verb	320640	321160	Adverb	321320	321960
+English translation	So maybe they can communicate, writing or even sign.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	106
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	322040
+End frame:	324440
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	BUT	322080	322200	UNKNOWN	322600	322960	NEVER	323280	323480	AGAIN	323680	324160	|>		324440
+non-dominant hand gloss
+head pos: tilt fr/bk	front	322040	323640	end	323680	323840
+head pos: turn	left	322040	322280	end	322320	322560	start	322920	323040	right	323080	323640	end	323680	323840	start	324080	324160	slightly left	324200	324440
+head pos: tilt side	slightly left	322040	322080	start	322120	322280	slightly left	322320	322640	start	322680	322960	right	323000	323800	start	323840	324160	left	324200	324440
+head pos: jut	slightly back	322040	322120	start	322160	322280	back	322320	323280	end	323320	323520
+head mvmt: shake	start	322800	322960	rapid	323000	323680	end	323720	323840
+body lean	start	322560	322760	forward	322800	324440
+eye brows	raised	322040	322520	start	322560	322760	lowered	322800	324440
+eye aperture	wide	322040	322560	start	322600	322880	further squinted	322920	324440
+nose	start	322560	322760	wrinkle	322800	324440
+POS	Conjunction	322080	322200	Negation	323280	323480	Adverb	323680	324160
+negative	negation	323000	323680
+English translation	But the hands in back, never again!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	107
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	324480
+End frame:	328200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	THAT	324600	324720	SOMETHING	324840	325080	IX-1p	325160	325320	HOPE	325520	325640	ns-LAPD	325760	326480	FUTURE	326520	326640	REALLY	326760	326960	LEARN	327080	327960
+non-dominant hand gloss	HOPE	325520	325640	|>		326680	LEARN	327080	327960	|>		328200
+head pos: tilt fr/bk	start	324600	324800	back	324840	325360	start	325400	325840	front	325880	326480	end	326520	326600	start	327000	327120	front	327160	328040	end	328080	328200
+head pos: turn	slightly left	324480	325080	start	325120	325560	right	325600	326480	end	326520	326840	start	327000	327040	left	327080	328000	end	328040	328200
+head pos: tilt side	left	324480	324920	start	324960	325360	right	325400	326480	start	326520	327000	left	327040	328000	end	328040	328200
+head pos: jut	start	327040	327200	slightly back	327240	328200
+body lean	slightly forward	324480	328000	end	328040	328200
+eye brows	lowered	324480	328000	start	328040	328080	raised	328120	328200
+eye aperture	further squinted	324480	327200	start	327240	328120	wide	328160	328200
+POS	Pronoun	324600	324720	Noun	324840	325080	Pronoun	325160	325320	Verb	325520	325640	Proper Noun	325760	326480	Tense Marker	326520	326640	Adjective	326760	326960	Verb	327080	327960
+Non-dominant POS	Verb	325520	325640	Verb	327080	327960
+English translation	That its something I hope LAPD will learn.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	108
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	328240
+End frame:	332720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	part:indef	328360	328560	IX-2p	328720	328760	MAYBE	328920	329080	WONDER	329320	329600	WHY	329760	329960	IX-1p	330080	330240	NOT	330400	331120	REPORT	331320	332320	part:indef	332440	332720
+non-dominant hand gloss	MAYBE	328920	329080	|>		331120
+head pos: tilt fr/bk	start	328240	328400	back	328440	329760	end	329800	330160	start	331120	331160	front	331200	332720
+head pos: turn	start	328240	328480	right	328520	332720
+head pos: tilt side	start	328240	328440	right	328480	328880	end	328920	329200	start	330080	330240	left	330280	332360	end	332400	332720
+head pos: jut	slightly back	328240	328400	start	328440	328720	forward	328760	329160	start	329200	329760	back	329800	330200	end	330240	330760
+head mvmt: nod
+	start	331160	331400	slight rapid head nod	331440	332360	end	332400	332600
+body lean	start	329160	329560	slightly back	329600	330800	start	330840	331360	forward/left	331400	332320	start	332360	332440	slightly forward	332480	332720
+eye brows	raised	328240	332480	start	332520	332680	slightly raised	332720	332720
+eye aperture	wide	328240	331320	end	331360	331560	start	332360	332440	slightly squinted	332480	332720
+nose	start	332360	332520	wrinkle	332560	332720
+POS	Particle	328360	328560	Pronoun	328720	328760	Adverb	328920	329080	Verb	329320	329600	Wh-word	329760	329960	Pronoun	330080	330240	Negation	330400	331120	Verb	331320	332320	Particle	332440	332720
+Non-dominant POS	Adverb	328920	329080
+English translation	You probably wondering why I didn't report.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	109
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	332760
+End frame:	336080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	BECAUSE	332920	333200	IX-1p	333320	333520	FEEL	333640	333960	POSS-3p:i	334160	334280	WORD	334600	334680	AGAINST	335240	335480	POSS-1p	335600	336080
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	332760	333560	end	333600	333960	start	335160	335280	front	335320	336080
+head pos: turn	right	332760	336080
+head pos: tilt side	start	332920	333200	slightly left	333240	334000	start	334040	334560	left	334600	334960	start	335000	336040	slightly right	336080	336080
+head pos: jut	start	333240	333520	back	333560	336080
+body lean	slightly forward	332760	332960	start	333000	333440	back/left	333480	335760	end	335800	336080
+eye brows	slightly raised	332760	332840	end	332880	333120	start	335200	335280	slightly lowered	335320	335400	start	335440	335960	raised	336000	336080
+eye aperture	slightly squinted	332760	332840	start	332880	333000	closed	333040	333800	end	333840	334040	start	335760	335920	wide	335960	336080
+nose	wrinkle	332760	334000	end	334040	334240
+POS	Conjunction	332920	333200	Pronoun	333320	333520	Verb	333640	333960	Possessive	334160	334280	Noun	334600	334680	Verb	335240	335480	Possessive	335600	336080
+English translation	Because, I feel their words will be against mine.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	110
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	336120
+End frame:	339640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	FOR	336240	336360	EXAMPLE	336520	336720	fs-RODNEY	336880	337840	fs-KING	337960	338640	FOR	338760	338920	EXAMPLE	339040	339360	part:indef	339480	339640
+non-dominant hand gloss
+head pos: tilt fr/bk	front	336120	336600	end	336640	336880	start	338520	338640	front	338680	339640
+head pos: turn	right	336120	336240	end	336280	336440	start	336960	337840	right	337880	339640
+head pos: tilt side	right	336120	336440	end	336480	336680	start	338120	338480	right	338520	339640
+head pos: jut	slightly back	336120	339640
+body lean	start	336680	336920	left	336960	338920	start	338960	339440	slightly forward	339480	339640
+eye brows	raised	336120	339640
+eye aperture	wide	336120	339640
+POS	Preposition	336240	336360	Noun	336520	336720	Proper Noun	336880	337840	Proper Noun	337960	338640	Preposition	338760	338920	Noun	339040	339360	Particle	339480	339640
+English translation	As for an example, Rodney King.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	111
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	339680
+End frame:	341560
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IX-1p	339760	339840	ON	339960	340080	VIDEOTAPE	340200	340520	MOTORCYCLE	340640	340920	BEAT-UP	341080	341560
+non-dominant hand gloss
+head pos: tilt fr/bk	front	339680	339880	end	339920	340120	start	340920	340960	front	341000	341560
+head pos: turn	right	339680	339840	end	339880	340080	start	341280	341480	right	341520	341560
+head pos: tilt side	right	339680	339880	end	339920	340080	start	340960	341000	right	341040	341560
+head pos: jut	slightly back	339680	341560
+body lean	slightly forward	339680	339880	start	339920	340200	left	340240	341080	start	341120	341200	slightly forward	341240	341560
+eye brows	raised	339680	341560
+eye gaze	right	341440	341560
+eye aperture	wide	339680	340960	end	341000	341120
+POS	Pronoun	339760	339840	Preposition	339960	340080	Noun	340200	340520	Noun	340640	340920	Verb	341080	341560
+English translation
+Notes - number of character bytes:	39
+- not sure how to put the english part?
+
+
+Utterance ID:	112
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	341600
+End frame:	347160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	BUT	341760	341840	STILL	342000	342440	IX-3p:i	342520	342600	TAKE	342680	342800	ns-LAPD	342920	343760	WORD	343920	344040	AGAINST	344240	344320	POSS-3p:i	344480	344520	ns-RODNEY	344640	345600	ns-KING	345760	346160	BUT	346480	346640	part:indef	346800	346840
+non-dominant hand gloss
+head pos: tilt fr/bk	front	341600	341800	end	341840	342320	start	344000	344240	front	344280	346840	end	346880	347160
+head pos: turn	right	341600	342880	start	342920	344000	left	344040	346480	start	346520	346960	slightly right	347000	347160
+head pos: tilt side	right	341600	341880	start	341920	342520	right	342560	343120	start	343160	344360	left	344400	346520	start	346560	346840	slightly right	346880	347160
+head pos: jut	start	341760	342200	slightly back	342280	346840	end	346880	347160
+body lean	slightly forward	341600	341920	start	341960	342400	left	342440	346760	end	346800	347160
+eye brows	slightly raised	341600	346120	start	346160	346480	lowered	346520	347160
+eye gaze	right	341600	341680
+eye aperture	start	346120	346320	closed	346360	347160
+nose	start	346120	346320	wrinkle	346360	347160
+POS	Conjunction	341760	341840	Adjective	342000	342440	Pronoun	342520	342600	Verb	342680	342800	Proper Noun	342920	343760	Noun	343920	344040	Verb	344240	344320	Possessive	344480	344520	Proper Noun	344640	345600	Proper Noun	345760	346160	Conjunction	346480	346640	Particle	346800	346840
+English translation	But, they still took LAPD's word against Rodney King's.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	113
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	347200
+End frame:	351360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	347240	347520	IX-1p	347680	347840	ADMIT	348000	348400	IX-1p	348480	348720	part:indef	348920	349400	NOT^WANT	349520	349800	BRING	349920	350080	#UP	350160	350440	part:indef	351040	351320
+non-dominant hand gloss	BRING	349920	350080	|>		350720
+head pos: tilt fr/bk	slightly back	347200	347360	end	347400	347600	start	348960	349120	back	349160	350440	end	350480	350720
+head pos: turn	slightly right	347200	349200	start	349240	350040	slightly left	350080	350200	start	350240	350480	left	350520	351360
+head pos: tilt side	start	347200	347600	right	347640	348320	start	348360	348840	left	348880	351360
+head pos: jut	start	347320	347680	back	347720	348280	end	348320	348480	start	349040	349240	back	349280	350560	end	350600	350920
+body lean	start	347200	347480	slightly back	347520	349200	end	349240	349480
+shoulders	start	349000	349200	raised	349240	350200	end	350240	350520
+eye brows	lowered	347200	347520	end	347560	347760
+eye aperture	closed	347200	347520	end	347560	347760	start	350120	350440	slightly squinted	350480	351360
+nose	wrinkle	347200	347480	end	347520	347720
+POS	Discourse Marker	347240	347520	Pronoun	347680	347840	Verb	348000	348400	Pronoun	348480	348680	Particle	348920	349400	Negation+Verb	349520	349800	Verb	349920	350080	Preposition	350160	350440	Particle	351040	351320
+Non-dominant POS	Verb	349920	350080
+English translation	Really, I admit, I dont want to bring it up.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	114
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	351400
+End frame:	355800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	PUBLIC	351480	351760	THAT	351880	352040	IX-1p	352120	352200	TRUE-BUSINESS	352280	352800	BATHROOM	353000	353200	IN	353320	353480	PUBLIC	353640	354160	IX-1p	354240	354400	part:indef	354560	354680	NOT^WANT	354800	354880	ON	354960	355040	RECORD	355360	355800
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	351400	351800	end	351840	351960	start	352360	352520	front	352560	355800
+head pos: turn	slightly left	351400	351560	start	351600	352160	right	352200	355800
+head pos: tilt side	slightly left	351400	351520	end	351560	351840	start	353560	353960	slightly right	354000	354880	start	354920	355640	slightly left	355680	355800
+head pos: jut	start	354200	354400	back	354480	355800
+body lean	forward	351400	351600	end	351640	351920	start	352480	352640	left	352680	353680	start	353720	354160	slightly forward	354200	354520	start	354560	355680	left	355720	355800
+eye brows	start	351400	351600	raised	351640	352440	end	352480	352680	start	354360	354560	slightly lowered	354600	355800
+eye aperture	slightly squinted	351400	351560	end	351600	351840	start	354000	354320	blink	354360	354600	start	354640	354680	squint	354720	355800
+nose	start	354080	354320	wrinkle	354400	355800
+POS	Adjective	351480	351760	Pronoun	351880	352040	Pronoun	352120	352200	Noun	353000	353200	Preposition	353320	353480	Adjective	353640	354160	Pronoun	354240	354400	Particle	354560	354680	Negation+Verb	354800	354880	Preposition	354960	355040	Noun	355360	355800
+English translation	That I dont want to be on the record for bathroom in the public.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	115
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	355840
+End frame:	358720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	356000	356080	LOOK	356160	356480	BAD	356560	357040	AND	357280	357440	PLUS	357520	358040	IX-1p	358160	358400	part:indef	358520	358640
+non-dominant hand gloss	PLUS	357520	358040	|>		358360
+head pos: tilt fr/bk	front	355840	357520	end	357560	357720	start	358160	358360	slightly back	358400	358520	end	358560	358720
+head pos: turn	right	355840	356560	start	356600	356880	slightly right	356920	357440	end	357480	357680	start	358040	358080	left	358120	358720
+head pos: tilt side	left	355840	357280	end	357320	357520	start	357880	358040	slightly right	358080	358120	start	358160	358400	left	358440	358720
+head pos: jut	back	355840	356560	end	356600	356800	start	357400	357520	back	357560	358160	end	358200	358720
+head mvmt: nod
+	start	357880	358040	slight rapid head nod	358080	358520	end	358560	358720
+body lean	slightly back	355840	356840	end	356880	357040
+eye brows	slightly lowered	355840	356920	start	356960	357200	raised	357240	358040	end	358080	358400
+eye aperture	squint	355840	357000	start	357040	357200	wide	357240	358120	end	358160	358480
+nose	wrinkle	355840	356960	end	357000	357240
+POS	Pronoun	356000	356080	Verb	356160	356480	Adjective	356560	357040	Conjunction	357280	357440	Adjective	357520	358040	Pronoun	358160	358400	Particle	358520	358640
+Non-dominant POS	Adjective	357520	358040
+English translation	I will look bad and plus I...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	116
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_0.mov
+Video	NCSLGRv6:movies:lapd story:lapd_story_1083_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	358760
+End frame:	362320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	010
+main gloss	UNDER	358840	359240	#AGE	359360	359800	DRINK	359840	360400	SAME	360560	361080	part:indef	361240	361360
+non-dominant hand gloss	G:"focus"	359480	359880
+head pos: tilt fr/bk	start	358920	359120	slightly back	359160	359680	end	359720	359920	start	360400	360480	front	360520	360920	start	360960	361200	slightly back	361240	361280	start	361320	361440	front	361480	361560	end	361600	361800
+head pos: turn	left	358760	358960	end	359000	359320	start	360000	360360	slightly right	360400	360720	start	360760	361240	slightly left	361280	362320
+head pos: tilt side	left	358760	358960	end	359000	359320	start	359680	360000	right	360040	360840	start	360880	361240	left	361280	362320
+head pos: jut	back	358760	359560	start	359600	359840	slightly back	359880	360920	start	360960	361320	slightly back	361360	361520	end	361560	362320
+head mvmt: nod
+	start	359840	360120	slight rapid head nod	360160	360440	end	360480	360800	start	361240	361320	slow	361360	362320
+body lean	slightly forward	358760	361280	end	361320	361520
+POS	Preposition	358840	359240	Noun	359360	359800	Verb	359840	360400	Adjective	360560	361080	Particle	361240	361360
+English translation	Under age drink too.
+Notes - number of character bytes:	0

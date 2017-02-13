@@ -1,0 +1,219 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	ncslgr10g	Firewire 38200:NCSLGRv2:ncslgr10g
+Number of utterances:	7
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:548_master_small.mov
+Video	NCSLGRv2:video files:slave1:548_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:548_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	2760
+Number of participant panes:	1
+Participant:	Ben Bahan
+Number of fields:	014
+main gloss	fs:JOHN	340	560	IN	740	800	IX-3p:i	900	920	HOUSE	1020	1100	IX-loc:i	1160	1300	NOW	1440	1480	IX-3p:i	1580	1800	READ+	1900	2120	BOOK	2160	2260	IX-3p:i	2360	2540
+non-dominant hand gloss
+head pos: tilt fr/bk	start	1040	1260	front	1280	1800	end	1840	1960	start	2280	2440	slightly front	2460	2760
+head pos: tilt side	start	0	820	slighty right	840	1780	right	1800	2580	slighty right	2600	2760
+head pos: turn	start	360	820	right	840	2760
+head mvmt: nod	rapid	340	780	single	2300	2700
+head pos: jut	start	540	1020	back	1040	2760
+eye brows	start	0	520	lowered	540	2760
+eye aperture	lowered lid	0	340	blink	360	400	start	420	480	squint	500	1580	blink	1600	1680	start	1700	1760	squint	1780	2120	blink	2180	2180	start	2200	2260	squint	2280	2360	lowered lid	2380	2760
+nose	start	560	840	wrinkle	860	1560
+cheeks	start	1120	1320	tensed	1340	1620	tensed	1940	2100
+mouth
+POS	Proper Noun	340	560	Preposition	740	800	Determiner	900	920	Noun	1020	1100	Adverb	1160	1300	Adverb	1440	1480	Pronoun	1580	1800	Verb	1900	2120	Noun	2160	2260	Pronoun	2360	2540
+English translation	John is in the house right now reading a book.
+Notes - number of character bytes:	15
+rt-dislocation?
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:548_master_small.mov
+Video	NCSLGRv2:video files:slave1:548_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:548_slave2_small.mov
+Video	
+Audio	
+Start frame:	2760
+End frame:	5160
+Number of participant panes:	1
+Participant:	Ben Bahan
+Number of fields:	014
+main gloss	IX-3p:i	3200	3240	LIKE	3400	3480	CRAZY	3700	3760	READ	3860	3880	ABOUT	3960	4080	CAR	4280	4920
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	2760	2820	start	2840	3220	back	3240	4260	start	4280	5060	front	5080	5160
+head pos: tilt side	slighty right	2760	4140	right	4160	5160
+head pos: turn	right	2760	2760	start	2780	3520	slightly left	3540	3720	start	3740	3820	slightly right	3840	3980	end	4000	4120	start	4780	4940	slightly right	4960	5160
+head pos: jut	back	2760	3040	end	3060	3180
+head mvmt: jut	forward	4880	5160
+head mvmt: shake	start	3440	3520	rapid	3540	4120	single	4840	5160
+head mvmt: nod	slow	4380	5060
+eye brows	lowered	2760	2760	start	2780	3080	raised	3100	4080	start	4100	4220	slightly lowered	4240	5160
+eye aperture	lowered lid	2760	3000	blink	3020	3080	start	3100	3240	wide	3260	4040	start	4060	4260	lowered lid	4280	4760	blink	4780	4820	lowered lid	4860	5080	blink	5100	5160
+mouth
+POS	Pronoun	3200	3240	Verb	3400	3480	Adjective	3700	3760	Verb	3860	3880	Preposition	3960	4080	Noun	4280	4920
+English translation	He is crazy about reading about cars.
+Notes - number of character bytes:	38
+Is there a headnod?  I don't see it...
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:548_master_small.mov
+Video	NCSLGRv2:video files:slave1:548_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:548_slave2_small.mov
+Video	
+Audio	
+Start frame:	5160
+End frame:	7520
+Number of participant panes:	1
+Participant:	Ben Bahan
+Number of fields:	013
+main gloss	FINISH	5580	5740	BOOK	5960	6140	READ+	6300	6460	FINISH	6540	6580	FUTURE	6700	6720	TEACHER:k	7140	7440
+non-dominant hand gloss	READ+	6300	6460	|>		6700	j:GIVE:k	6800	7040
+head pos: tilt fr/bk	front	5160	5160	end	5180	5540	start	5900	6360	front	6380	6580	end	6600	6820	start	7360	7480	slightly front	7500	7520
+head pos: tilt side	right	5160	6560	end	6580	6680	start	6800	6900	slightly left	6920	7520
+head pos: turn	right	5160	6580	slightly right	6600	6820	right	6840	7520
+head pos: jut	start	6700	6960	back	6980	7520
+body lean	start	6720	7380	left	7400	7520
+conditional/when
+eye brows	slightly lowered	5160	5160	start	5180	5320	raised	5340	6560	end	6580	6640	lowered	6660	7520
+eye gaze	down/right	5180	6580
+eye aperture	lowered lid	5160	5560	start	5580	5640	wide	5660	6500	start	6520	6580	blink	6600	6620	start	6640	6720	slightly lowered	6740	7520
+POS	Verb	5580	5740	Noun	5960	6140	Verb	6300	6460	Discourse Marker	6540	6580	Tense Marker	6700	6720	Verb	6800	7040	Noun	7140	7440
+English translation	After he finishes reading the book, he will give it to the teacher.
+Notes - number of character bytes:	40
+not sure abt c's glosses for both FINISH
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:548_master_small.mov
+Video	NCSLGRv2:video files:slave1:548_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:548_slave2_small.mov
+Video	
+Audio	
+Start frame:	7520
+End frame:	8680
+Number of participant panes:	1
+Participant:	Ben Bahan
+Number of fields:	013
+main gloss	GO	7700	7800	BUY	7860	8020	OTHER	8160	8260	BOOK	8320	8580
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	7520	7600	start	7620	7840	slightly back	7860	8160	end	8180	8260	start	8640	8660	slightly back	8680	8680
+head pos: tilt side	slightly left	7520	7580	start	7600	7680	right	7700	8680
+head pos: turn	right	7520	8160	slightly right	8180	8680
+head pos: jut	back	7520	7520	end	7540	7680
+head mvmt: side to side	single	7520	7800
+body lean	left	7520	7600	end	7620	7800
+eye brows	slightly lowered	7520	8680
+eye aperture	slightly lowered	7520	7560	start	7580	7600	blink	7620	7660	end	7680	7760	blink	8440	8460	blink	8620	8640	blink	8660	8680
+eye gaze	right	7660	7800
+POS	Verb	7700	7800	Verb	7860	8020	Adjective	8160	8260	Noun	8320	8580
+English translation	Then he will go and buy another book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:548_master_small.mov
+Video	NCSLGRv2:video files:slave1:548_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:548_slave2_small.mov
+Video	
+Audio	
+Start frame:	8680
+End frame:	11360
+Number of participant panes:	1
+Participant:	Ben Bahan
+Number of fields:	012
+main gloss	MOTHER-FATHER	8980	9300	(2h)alt.GIVE+++:i	9600	10120	BUY++	10160	10340	BOOK	10360	10420	(2h)alt.GIVE+:i	10480	10660	UP-TO-NOW	10780	11240
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	8680	11180	end	11220	11360
+head pos: tilt side	right	8680	11360
+head pos: turn	slightly right	8680	8920	end	8940	9360	start	9640	10000	left	10020	11240	slightly left	11260	11360
+head mvmt: nod	rapid	9380	11040
+body lean	start	8700	8980	back	9000	11180	end	11200	11360
+eye brows	slightly lowered	8680	11160	end	11180	11360
+eye aperture	blink	8680	8680	lowered lid	8700	9020	slightly lowered	9040	9340	blink	9360	9420	lowered lid	9440	9520	blink	9540	9620	lowered lid	9640	9720	blink	9740	9780	end	9820	10000	start	10360	10400	blink	10420	10480	further lowered	10500	10680	lowered lid	10700	11080	blink	11100	11120	lowered lid	11140	11200	blink	11220	11340	lowered lid	11360	11360
+mouth	start	9540	9560	lips pursed: mm	9580	10120	start	10480	10520	lips pursed: mm	10540	11180
+POS	Noun	8980	9300	Verb	9600	10120	Verb	10160	10340	Noun	10360	10420	Verb	10480	10660	Adverb	10780	11240
+English translation	His parents have been giving and buying him books for a while now.
+Notes - number of character bytes:	20
+check 2halt notation
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:548_master_small.mov
+Video	NCSLGRv2:video files:slave1:548_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:548_slave2_small.mov
+Video	
+Audio	
+Start frame:	11360
+End frame:	13160
+Number of participant panes:	1
+Participant:	Ben Bahan
+Number of fields:	012
+main gloss	TEACHER	11820	11940	EXPECT	12100	12340	fs-JOHN	12420	12500	READ++	12540	12700	A-LOT	12760	13160
+non-dominant hand gloss
+head pos: tilt fr/bk	start	11420	11580	back	11600	11800	start	11820	11980	slightly back	12000	13120	end	13140	13160
+head pos: tilt side	right	11360	13160
+head pos: turn	slightly left	11360	11360	end	11380	11480	start	11820	11980	slightly left	12000	12160	left	12180	13160
+head mvmt: nod	rapid	12020	12400	rapid	12880	13160
+eye brows	slightly lowered	11360	11760	lowered	11780	13160
+eye gaze	right	11640	11780	right	12120	12260	up/left	12340	12440
+eye aperture	lowered lid	11360	11380	blink	11400	11440	start	11460	11520	lowered lid	11540	11800	start	11820	11860	squint	11880	12040	blink	12060	12080	squint	12100	12420	end	12440	12560
+mouth
+POS	Noun	11820	11940	Verb	12100	12340	Proper Noun	12420	12500	Verb	12540	12700	Adverb	12760	13160
+English translation	The teacher expects John to read a lot.
+Notes - number of character bytes:	6
+mouth
+
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:548_master_small.mov
+Video	NCSLGRv2:video files:slave1:548_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:548_slave2_small.mov
+Video	
+Audio	
+Start frame:	13160
+End frame:	14680
+Number of participant panes:	1
+Participant:	Ben Bahan
+Number of fields:	011
+main gloss	WATCH+	13360	13560	COME-ON+	13600	13880	READ+	13920	14120	part:indef	14280	14320
+non-dominant hand gloss
+head pos: tilt fr/bk	start	14120	14200	front	14220	14400	end	14420	14680
+head pos: tilt side	right	13160	14100	start	14120	14180	slighty right	14200	14680
+head pos: turn	left	13160	14140	slightly left	14160	14320	end	14340	14520
+eye brows	lowered	13160	14680
+eye gaze	right	13200	13720	down	14220	14680
+eye aperture	blink	14100	14140	start	14160	14180	lowered lid	14200	14680
+cheeks	start	13320	13360	tensed	13380	13860
+POS	Verb	13360	13560	Verb	13600	13880	Verb	13920	14120	Particle	14280	14320
+English translation	(The teacher) is continuously watching and encouraging him to read.
+Notes - number of character bytes:	17
+Role shift here ?

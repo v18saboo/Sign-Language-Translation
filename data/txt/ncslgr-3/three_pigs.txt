@@ -1,0 +1,1541 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	three pigs	Firewire 38200:NCSLGRv3:three pigs
+Number of utterances:	50
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	0
+End frame:	2415
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	STORY	540	860	ABOUT	960	1060	THREE	1120	1280	PIG	1400	2000	|>		2140
+non-dominant hand gloss	A story about three pigs.		
+head pos: tilt fr/bk	back	0	1280	end	1300	1500	start	1920	2100	front	2120	2415
+head pos: turn	start	460	580	left	600	2200	start	2220	2280	slightly left	2300	2415
+head pos: tilt side	slightly right	0	2140	end	2160	2300
+head pos: jut	slightly forward	0	1360	end	1380	2000
+head mvmt: nod	start	1280	1340	slow	1360	2360	end	2380	2415
+body lean	start	2000	2020	slightly forward	2040	2415
+eye brows	slightly lowered	0	2415
+eye gaze	down	2240	2415
+eye aperture	lowered lid	0	140	start	160	220	blink	240	320	start	340	400	lowered lid	420	960	end	980	1080	start	2020	2060	closed	2080	2300	start	2320	2380	lowered lid	2400	2415
+POS	Noun	540	860	Preposition	960	1060	Number	1120	1280	Noun	1400	2000
+Notes - number of character bytes:	49
+- CBD
+_ is there actually a nod? (maybe slow one)
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	2420
+End frame:	3660
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	THREE	2800	3000	MOTHER	3100	3280	CARE	3480	3660
+non-dominant hand gloss	IX-loc:i	3280	3320
+head pos: tilt fr/bk	front	2420	2420	start	2440	2660	slightly back	2680	3660
+head pos: turn	slightly left	2420	2780	end	2800	2840	start	3080	3100	left	3120	3340	start	3360	3400	slightly left	3420	3660
+head pos: tilt side	start	2680	2720	right	2740	3660
+head mvmt: nod	start	2740	2780	single	2800	3020	end	3040	3100
+body lean	slightly forward	2420	2460	end	2480	2660	start	3400	3440	left	3460	3660
+eye brows	slightly lowered	2420	2440	start	2460	2520	lowered	2540	3660
+eye gaze	down	2420	2520	down/right	2680	2880
+eye aperture	lowered lid	2420	2500	start	2520	2680	squint	2700	3660
+nose	start	2680	2740	wrinkle	2760	3660
+POS	Number	2800	3000	Noun	3100	3280	Verb	3480	3660
+Non-dominant POS	Adverb	3280	3320
+English translation	A mother take care of three pigs.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	3680
+End frame:	4940
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	015
+main gloss	THREE	3720	3760	PIG	3860	3880	GROW-UP	4020	4460	FINISH	4600	4760
+non-dominant hand gloss	CARE	3680	3700	|>		3860
+head pos: tilt fr/bk	slightly back	3680	3820	start	3840	3940	front	3960	4200	start	4220	4500	back	4520	4940
+head pos: turn	slightly left	3680	3880	end	3900	3980	start	4740	4780	slightly right	4800	4940
+head pos: tilt side	right	3680	4060	end	4080	4200	start	4720	4780	left	4800	4940
+head pos: jut	start	3860	3880	back	3900	4160	end	4180	4460	start	4680	4720	forward	4740	4940
+head mvmt: nod	start	4600	4640	rapid	4660	4840	end	4860	4940
+body lean	left	3680	4940
+eye brows	lowered	3680	4940
+eye gaze	down	3840	4360
+eye aperture	squint	3680	3760	start	3780	3820	lowered lid	3840	3980	start	4000	4040	squint	4060	4600	start	4620	4680	blink	4700	4760	start	4780	4800	lowered lid	4820	4940
+nose	wrinkle	3680	4940
+POS	Number	3720	3760	Noun	3860	3880	Verb	4020	4460	Adverb	4600	4760
+Non-dominant POS	Verb	3680	3700
+English translation	When three pigs grew up...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	4960
+End frame:	6560
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	015
+main gloss	INFORMATION	5080	5180	IX-3p:i	5240	5300	TIME	5440	5580	THREE	5660	5800	GO-AWAY	5920	6060	fs-OWN	6140	6560
+non-dominant hand gloss
+head pos: tilt fr/bk	back	4960	5020	end	5040	5100	start	5180	5220	back	5240	6560
+head pos: turn	right	4960	6020	start	6040	6320	slightly left	6340	6560
+head pos: tilt side	left	4960	6100	start	6120	6300	slightly right	6320	6560
+head pos: jut	slightly forward	4960	4980	end	5000	5080	start	5280	5300	slightly back	5320	6040	end	6060	6160
+head mvmt: nod	start	5000	5080	slight rapid headnod	5100	6040	end	6060	6120
+body lean	left	4960	6340	end	6360	6480
+eye brows	lowered	4960	6560
+eye gaze	down	4960	5140	down/right	6400	6560
+eye aperture	lowered lid	4960	4980	start	5000	5080	squint	5100	6560
+nose	wrinkle	4960	5940	end	5960	6060
+role shift	Pig's mother	5080	6560
+POS	Noun	5080	5180	Pronoun	5240	5300	Noun	5440	5580	Number	5660	5800	Verb	5920	6060	Adjective	6140	6560
+English translation	She informed three pigs that its time for them to go away to be on their own.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	6580
+End frame:	7840
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	GO-AWAY	6640	6880	BUILD	6940	7060	IX-2p-arc	7120	7300	HOUSE	7360	7720	part:indef	7760	7840
+non-dominant hand gloss
+head pos: tilt fr/bk	back	6580	6580	start	6600	6700	front	6720	6820	start	6840	6900	back	6920	7840
+head pos: turn	slightly left	6580	7180	start	7200	7320	left	7340	7840
+head pos: tilt side	right	6580	7840
+head pos: jut	start	6580	6620	back	6640	6780	end	6800	6880	start	7580	7640	forward	7660	7720	end	7740	7780
+head mvmt: nod	start	6580	6640	slow	6660	7540	end	7560	7640
+body lean	start	6680	6800	forward	6820	6940	end	6960	7060	start	7300	7320	forward	7340	7620	end	7640	7720
+eye brows	lowered	6580	7840
+eye gaze	down/right	6580	6820
+eye aperture	squint	6580	7800	start	7820	7820	closed	7840	7840
+role shift	Pig's mother	6580	7840
+POS	Verb	6640	6880	Verb	6940	7060	Pronoun	7120	7300	Noun	7360	7720	Particle	7760	7840
+English translation	Go ahead, go and build your house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	7880
+End frame:	8700
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	IX-1p	7920	7960	FUTURE	8020	8080	VISIT+	8140	8700
+non-dominant hand gloss	part:indef	7880	7900	|>		8080
+head pos: tilt fr/bk	back	7880	8700
+head pos: turn	left	7880	8700
+head pos: tilt side	right	7880	8700
+head pos: jut	start	8200	8220	forward	8240	8700
+head mvmt: nod	start	7880	7900	slight rapid headnod	7920	8660	end	8680	8700
+body lean	start	8180	8200	slightly forward	8220	8360	end	8380	8420
+eye brows	lowered	7880	8700
+eye aperture	closed	7880	8060	start	8080	8160	squint	8180	8700
+role shift	Pig's mother	7880	8700
+POS	Pronoun	7920	7960	Tense Marker	8020	8080	Verb	8140	8700
+Non-dominant POS	Particle	7880	7900
+English translation	I will visit often.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	8720
+End frame:	10060
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	THREE	8740	8800	PIG	8880	8940	CL:5"the height of person"	8980	9160	(2h)#OK	9340	9600	LEAVE	9820	10020
+non-dominant hand gloss
+head pos: tilt fr/bk	back	8720	10060
+head pos: turn	slightly left	8720	8780	start	8800	8880	left	8900	9160	end	9180	9460
+head pos: tilt side	right	8720	9420	end	9440	9600	start	9720	9740	slightly right	9760	10020	end	10040	10060
+head pos: jut	slightly forward	8720	8740	end	8760	8800	start	9500	9580	slightly back	9600	10060
+head mvmt: nod	start	9340	9420	rapid	9440	10020	end	10040	10060
+eye brows	lowered	8720	8720	start	8740	8800	raised	8820	9100	end	9120	9160	start	9340	9420	lowered	9440	10060
+eye gaze	left	8840	9140
+eye aperture	slightly squinted	8720	8760	start	8780	8840	blink	8860	8960	start	8980	9120	squint	9140	9280	start	9300	9320	slightly squinted	9340	9520	start	9540	9580	blink	9600	9780	start	9800	9840	squint	9860	10060
+POS	Number	8740	8800	Noun	8880	8940	Classifier	8980	9160	Discourse Marker	9340	9600	Verb	9820	10020
+English translation	Three pigs said ok and then left.
+Notes - number of character bytes:	37
+- the cl, is it correct way to gloss?
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	10080
+End frame:	11940
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	016
+main gloss	THREE	10160	10220	CL:3"people walking"	10260	10940	LOOK	11060	11380	ONE	11440	11620	CL:5"location"	11740	11940
+non-dominant hand gloss	LOOK	11060	11380	|>		11940
+head pos: tilt fr/bk	back	10080	11940
+head pos: turn	start	10080	10180	left	10200	10260	start	10280	10440	right	10460	10500	start	10520	10700	left	10720	10880	end	10900	10940	start	11240	11380	left	11400	11940
+head pos: tilt side	start	11400	11440	left	11460	11940
+head pos: jut	slightly back	10080	10100	start	10120	10180	forward	10200	11940
+head mvmt: shake	start	10080	10180	rapid	10200	11380	end	11400	11540
+body lean	start	11560	11600	forward/left	11620	11940
+eye brows	lowered	10080	11940
+eye gaze	up/right	10180	10720	left	11380	11560	left	11680	11820
+eye aperture	squint	10080	10840	start	10860	10880	blink	10900	11060	start	11080	11120	squint	11140	11680	end	11700	11820
+wh question	wh	10080	11940
+role shift	Pig	10260	10940
+POS	Number	10160	10220	Classifier	10260	10940	Verb	11060	11380	Number	11440	11620	Classifier	11740	11940
+Non-dominant POS	Verb	11060	11380
+English translation	Three pigs were walking and looking for a location.
+Notes - number of character bytes:	30
+- last cl, is it cl or "AREA"?
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	11980
+End frame:	14160
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	FIND	12060	12200	CL:5"location"	12260	12700	LAND	12800	12860	(2H)CL:5"location"	12920	13160	SEEM	13260	13420	AGREE	13620	14020	IX-1p	14080	14100	part:indef	14140	14160
+non-dominant hand gloss	CL:5"location"	11980	12000	|>		12260	AGREE	13620	14020	|>		14160
+head pos: tilt fr/bk	back	11980	12060	end	12080	12200	start	12900	13100	slightly back	13120	13580	end	13600	13700
+head pos: turn	slightly left	11980	12020	start	12040	12200	right	12220	12620	start	12640	12940	left	12960	13280	start	13300	13600	right	13620	14160
+head pos: tilt side	slightly left	11980	12260	end	12280	12480	start	12700	12840	slightly right	12860	13300	start	13320	14040	left	14060	14160
+head pos: jut	slightly forward	11980	12000	start	12020	12100	back	12120	12980	end	13000	13100	start	13660	13780	slightly back	13800	14160
+head mvmt: nod	start	13140	13220	rapid	13240	14100	end	14120	14140
+body lean	forward/left	11980	12000	end	12020	12100	start	13780	14080	left	14100	14160
+eye brows	slightly lowered	11980	12000	start	12020	12020	raised	12040	12120	end	12140	12240	start	12980	13020	lowered	13040	14160
+eye gaze	right	12060	12560	left	12900	13080	right	13540	14160
+eye aperture	start	13300	13520	slightly squinted	13540	14160
+POS	Verb	12060	12200	Classifier	12260	12700	Noun	12800	12860	Classifier	12920	13160	Verb	13260	13420	Verb	13620	14020	Pronoun	14080	14100	Particle	14140	14160
+Non-dominant POS	Classifier	11980	12000	Verb	13620	14020
+English translation	We finally found a land that we all agreed to have that location.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	14180
+End frame:	15900
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	015
+main gloss	IX-2p:i	14240	14380	IX-1p	14540	14680	|>		14860	HOUSE	14960	15080	SET-UP-arc	15280	15680	GO-AHEAD	15800	15900
+non-dominant hand gloss	IX-2p:j	14760	14860
+head pos: tilt fr/bk	start	14180	14280	back	14300	14520	end	14540	14680	start	15680	15700	back	15720	15900
+head pos: turn	right	14180	14520	start	14540	14700	left	14720	14900	end	14920	15000	start	15260	15320	left	15340	15900
+head pos: tilt side	left	14180	14560	start	14580	14860	slightly right	14880	15660	end	15680	15800
+head pos: jut	slightly back	14180	14480	start	14500	14800	forward	14820	14880	end	14900	14960	start	15340	15360	forward	15380	15800	start	15820	15880	slightly back	15900	15900
+head mvmt: nod	start	14460	14520	slight rapid headnod	14540	15800	end	15820	15880
+body lean	left	14180	14660	end	14680	14740
+eye brows	lowered	14180	15900
+eye gaze	right	14180	14400	left	14640	14880	left	15680	15820
+eye aperture	slightly squinted	14180	15700	start	15720	15800	blink	15820	15880	end	15900	15900
+role shift	Pig	14180	15900
+POS	Pronoun	14240	14380	Pronoun	14540	14680	Noun	14960	15080	Verb	15280	15680	Verb	15800	15900
+Non-dominant POS	Pronoun	14760	14860
+English translation	Lets go set up our houses.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	15920
+End frame:	17760
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	ONE	15980	16100	PIG	16180	16200	CL:1"person walking"	16340	16700	|>		17760
+non-dominant hand gloss	GO-AHEAD	15920	15940	|>		16060	ANOTHER	16800	16820	CL:1"person walking"	16900	17200	ANOTHER	17280	17340	CL:1"person walking"	17420	17760
+head pos: tilt fr/bk	back	15920	17500	end	17520	17580
+head pos: turn	slightly left	15920	15940	end	15960	16080	start	17100	17160	left	17180	17660	end	17680	17760
+head pos: tilt side	start	15920	15980	right	16000	16800	end	16820	16980	start	17200	17260	left	17280	17760
+head pos: jut	slightly back	15920	16660	end	16680	16760
+head mvmt: nod	start	16340	16480	slow	16500	17700	end	17720	17740
+body lean	start	17400	17560	left	17580	17760
+eye brows	lowered	15920	16120	start	16140	16200	raised	16220	16600	end	16620	16700
+eye gaze	down/right	16160	16440	left	17160	17300	down/right	17740	17760
+eye aperture	squint	15920	16200	start	16220	16660	lowered lid	16680	17520	start	17540	17600	blink	17620	17720	end	17740	17760
+POS	Number	15980	16100	Noun	16180	16200	Classifier	16340	16700
+Non-dominant POS	Verb	15920	15940	Adjective	16800	16820	Classifier	16900	17200	Adjective	17280	17340	Classifier	17420	17760
+English translation
+Notes - number of character bytes:	23
+- english translation??
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	17780
+End frame:	21520
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	CL:1"person walking"	17920	18220	IX-3p:i	18360	18620	|>		18800	TEND	18880	19040	IX-2p:i	19160	19320	CHARACTER	19480	19820	LAZY	20040	20300	|>		20760	GOOD-ENOUGH++	20920	21520
+non-dominant hand gloss	part:indef	19980	20140	|>		20580
+head pos: tilt fr/bk	start	17780	17960	back	17980	20040	start	20060	20800	back	20820	20940	start	20960	21220	front	21240	21520
+head pos: turn	start	17780	17940	right	17960	18200	start	18220	18860	left	18880	20780	end	20800	20820	start	21040	21220	slightly right	21240	21520
+head pos: tilt side	left	17780	17800	start	17820	17980	right	18000	18220	start	18240	18840	right	18860	19800	start	19820	20040	left	20060	20780	start	20800	20980	right	21000	21520
+head pos: jut	start	18220	18540	slightly forward	18560	20760	end	20780	20920
+head mvmt: side to side	start	19880	20120	slow	20160	21500	end	21520	21520
+body lean	left	17780	17940	end	17960	18080	start	20060	20140	left	20160	20620	start	20640	21000	right	21020	21520
+eye brows	start	17780	17860	raised	17880	18140	start	18160	18220	lowered	18240	21520
+eye gaze	right	17780	18160
+eye aperture	start	17860	17980	wide	18000	18120	start	18140	18160	closed	18180	18240	start	18260	18360	lowered lid	18380	19580	start	19600	19640	blink	19660	19800	start	19820	19860	further lowered	19900	20840	start	20860	20920	squint	20940	21440	start	21460	21500	closed	21520	21520
+POS	Classifier	17920	18220	Pronoun	18360	18620	Verb	18880	19040	Pronoun	19160	19320	Noun	19480	19820	Adjective	20040	20300	Adjective	20920	21520
+Non-dominant POS	Particle	19980	20140
+English translation	That pig's character tend to be lazy.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	21540
+End frame:	23060
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	IX-3p:i	21600	21740	NAH	21920	22100	HOUSE	22200	22300	(2h)FANCY++	22480	22700	NAH	22920	23060
+non-dominant hand gloss
+head pos: tilt fr/bk	front	21540	21560	start	21580	21760	back	21780	21920	end	21940	22100	start	22500	22580	front	22600	22740	start	22760	22800	back	22820	22940	end	22960	23060
+head pos: turn	slightly right	21540	21640	start	21660	21840	left	21860	21980	start	22000	22100	right	22120	22580	start	22600	22720	left	22740	23000	end	23020	23060
+head pos: tilt side	right	21540	21680	start	21700	21800	left	21820	22000	end	22020	22100	start	22400	22480	left	22500	22960	end	22980	23060
+head pos: jut	start	22060	22100	back	22120	22320	start	22340	22400	slightly back	22420	23060
+head mvmt: shake	start	21620	21680	slow	21700	22920	end	22940	23060
+body lean	right	21540	21660	end	21680	21780	start	21860	21960	left	21980	22140	end	22160	22300	start	22520	22580	back left	22600	23060
+eye brows	lowered	21540	22020	start	22040	22120	raised	22140	22540	start	22560	22680	lowered	22700	23060
+eye gaze	right	22020	22120	up/right	22140	22480
+eye aperture	closed	21540	21720	start	21740	21760	further squinted	21780	22000	start	22020	22140	wide	22160	22580	start	22600	22620	closed	22640	23000	start	23020	23040	lowered lid	23060	23060
+POS	Pronoun	21600	21740	Noun	22200	22300	Adjective	22480	22700
+English translation	His house is not fancy.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	23080
+End frame:	24360
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	CL:5"cutting the objects"	23160	23500	GRASS	23620	23800	CL:5"cutting the objects"	23960	24360
+non-dominant hand gloss	CL:5"cutting the objects"	23160	23500	|>		24360
+head pos: tilt fr/bk	start	23440	23480	back	23500	23720	end	23740	23820	start	24260	24300	slightly front	24320	24360
+head pos: turn	start	23080	23160	right	23180	23400	start	23420	23520	slightly left	23540	23740	start	23760	23880	right	23900	24260	end	24280	24360
+head pos: tilt side	start	23080	23140	right	23160	24360
+head pos: jut	slightly back	23080	23360	start	23380	23500	forward	23520	23660	start	23680	23860	back	23880	24360
+body lean	back left	23080	23100	start	23120	23220	right	23240	23500	end	23520	23600	start	23900	23980	right	24000	24360
+eye brows	lowered	23080	24360
+eye gaze	left	23660	23760
+eye aperture	lowered lid	23080	23400	end	23420	23500	start	23760	23780	lowered lid	23800	24360
+POS	Classifier	23160	23500	Noun	23620	23800	Classifier	23960	24360
+Non-dominant POS	Classifier	23160	23500
+English translation
+Notes - number of character bytes:	55
+- english translation?
+- role shift in this utterance??
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	24400
+End frame:	25780
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	ICL:1"wrapping the object"	24440	24820	BUILD	25000	25320	HOUSE	25340	25420	BUILD	25480	25660	HOUSE	25700	25780
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	24400	24760	start	24780	24900	back	24920	25780
+head pos: turn	slightly left	24400	24720	start	24740	24840	right	24860	25340	start	25360	25500	left	25520	25780
+head pos: tilt side	right	24400	24800	end	24820	24900	start	24980	25060	left	25080	25780
+head pos: jut	back	24400	24800	end	24820	24920	start	25420	25500	back	25520	25700	end	25720	25780
+body lean	right	24400	24460	start	24480	24640	forward	24660	24840	start	24860	25000	back left	25020	25780
+eye brows	slightly lowered	24400	25680	start	25700	25740	slightly raised	25760	25780
+eye gaze	right	24860	25340
+eye aperture	lowered lid	24400	24840	end	24860	24920
+POS	Classifier	24440	24820	Verb	25000	25320	Noun	25340	25420	Verb	25480	25660	Noun	25700	25780
+English translation	Building a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	25800
+End frame:	26520
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	GRASS	25820	26120	HOUSE	26180	26300	|>		26520
+non-dominant hand gloss	IX-loc:i	26340	26500
+head pos: tilt fr/bk	back	25800	26120	end	26140	26200
+head pos: turn	left	25800	26520
+head pos: tilt side	left	25800	26520
+head pos: jut	start	26000	26040	back	26060	26520
+body lean	back left	25800	26520
+eye brows	slightly raised	25800	25820	end	25840	25880	start	26080	26120	slightly lowered	26140	26380	end	26400	26480
+eye aperture	start	26460	26480	closed	26500	26520
+POS	Noun	25820	26120	Noun	26180	26300
+Non-dominant POS	Pronoun	26340	26500
+English translation	It becomes  a grass house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	26560
+End frame:	28500
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	016
+main gloss	IX-3p:j	26880	27000	PIG	27100	27160	IX-loc:j	27220	27340	part:indef	27460	27940	LAZY	28040	28180	|>		28500
+non-dominant hand gloss	NEXT	26580	26860	part:indef	27460	27940	|>		28080	NOT	28240	28500
+head pos: tilt fr/bk	start	26580	26680	back	26700	27400	start	27420	27580	front	27600	27740	start	27760	27940	back	27960	28260	start	28280	28320	front	28340	28500
+head pos: turn	left	26560	26780	end	26800	26880	start	27480	27580	left	27600	28500
+head pos: tilt side	left	26560	26680	start	26700	26880	right	26900	27280	start	27300	27520	left	27540	27780	start	27800	27920	right	27940	28500
+head pos: jut	back	26560	26580	start	26600	26760	forward	26780	27620	start	27640	27900	slightly back	27920	28080	end	28100	28200
+head mvmt: nod	start	27000	27080	slow	27100	27860	end	27880	27980
+head mvmt: shake	start	28040	28060	slight rapid headshake	28080	28460	end	28480	28500
+body lean	back left	26560	26760	end	26780	26880	start	26980	27100	slightly forward	27120	27360	end	27380	27440	start	27560	27680	slightly forward	27700	27780	end	27800	27920	start	28200	28320	forward	28340	28500
+eye brows	slightly raised	26560	28020	start	28040	28200	lowered	28220	28500
+eye gaze	down/right	28460	28500
+eye aperture	lowered lid	26560	26560	start	26580	26620	blink	26640	26760	start	26780	26840	lowered lid	26860	27140	start	27160	27220	closed	27240	27540	start	27560	27620	lowered lid	27640	27640	start	27660	27680	blink	27700	27780	start	27800	27820	blink	27840	27900	start	27920	28000	closed	28020	28240	start	28260	28280	squint	28300	28500
+negative	neg	28080	28460
+POS	Pronoun	26880	27000	Noun	27100	27160	Pronoun	27220	27340	Particle	27460	27940	Adjective	28040	28180
+Non-dominant POS	Adjective	26580	26860	Particle	27460	27940	Negation	28240	28500
+English translation	The next pig, he is not lazy.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	28540
+End frame:	30920
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	BUT	28580	28820	part:indef	28920	29220	NOT	29280	29440	DECORATE	29500	29840	HARD	29920	30060	AVERAGE	30240	30660	IX-3p:j	30700	30860	part:indef	30900	30920
+non-dominant hand gloss	part:indef	28920	29220	|>		29440
+head pos: tilt fr/bk	front	28540	28560	end	28580	28640	start	28700	28820	back	28840	28900	start	28920	29040	front	29060	29200	end	29220	29280	start	29460	29540	front	29560	29620	end	29640	29720	start	30140	30320	back	30340	30760	end	30780	30900
+head pos: turn	slightly left	28540	28740	end	28760	28820	start	28980	29040	slightly left	29060	29200	end	29220	29300	start	29620	29700	right	29720	29960	end	29980	30100	start	30340	30660	slightly left	30680	30920
+head pos: tilt side	right	28540	28780	start	28800	29040	left	29060	30080	start	30100	30340	right	30360	30800	start	30820	30900	slightly left	30920	30920
+head pos: jut	start	28920	28980	forward	29000	29240	start	29260	29540	forward	29560	29640	end	29660	29780	start	30220	30280	forward	30300	30680	end	30700	30820
+head mvmt: nod	start	28540	28580	slow	28600	30680	start	30700	30740	rapid	30760	30860	end	30880	30900
+body lean	forward	28540	28640	end	28660	28760	start	28980	29040	left	29060	30240	end	30260	30360
+eye brows	lowered	28540	29300	start	29320	29540	further lowered	29560	29840	start	29860	29940	lowered	29960	30920
+eye gaze	down/right	28540	28620	down/left	29500	29620
+eye aperture	squint	28540	28560	start	28580	28620	blink	28640	28740	start	28760	28780	closed	28800	29260	start	29280	29540	squint	29560	29820	start	29840	29900	blink	29920	29940	start	29960	29960	further lowered	29980	30340	start	30360	30820	closed	30840	30920
+POS	Conjunction	28580	28820	Particle	28920	29220	Negation	29280	29440	Verb	29500	29840	Adjective	29920	30060	Noun	30240	30660	Pronoun	30700	30860	Particle	30900	30920
+Non-dominant POS	Particle	28920	29220
+English translation	He is an average, but not kind of person who would like to decorate a lot.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	30940
+End frame:	32260
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	BUILD	31180	31360	HOUSE	31400	31540	part:indef	31580	31660	TREE	31760	31880	CUT++	32000	32260
+non-dominant hand gloss	part:indef	30940	30960	|>		31080
+head pos: tilt fr/bk	start	30980	31040	back	31060	31760	start	31780	31960	front	31980	32260
+head pos: turn	slightly left	30940	31040	start	31060	31160	left	31180	32260
+head pos: tilt side	slightly left	30940	31600	end	31620	31640	start	31680	31760	slightly right	31780	32040	end	32060	32100	start	32200	32220	slightly left	32240	32260
+head pos: jut	start	31180	31280	back	31300	31420	end	31440	31500	start	31940	31980	forward	32000	32180	end	32200	32260
+head mvmt: shake	start	31380	31420	slight rapid headshake	31440	31620	end	31640	31700
+body lean	start	31260	31320	slightly back	31340	31480	end	31500	31560	start	32020	32080	forward	32100	32260
+eye brows	lowered	30940	31320	start	31340	31460	raised	31480	31560	end	31580	31640	start	31940	31980	slightly lowered	32000	32260
+eye gaze	up/left	31620	31900	down/left	32000	32180
+eye aperture	closed	30940	30960	start	30980	31000	lowered lid	31020	31280	start	31300	31440	wide	31460	31560	end	31580	31640
+POS	Verb	31180	31360	Noun	31400	31540	Particle	31580	31660	Noun	31760	31880	Verb	32000	32260
+Non-dominant POS	Particle	30940	30960
+English translation	Cut the tree to build a house.
+Notes - number of character bytes:	30
+- last gloss- CUT, is it ICL??
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	32280
+End frame:	34020
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	CUT++	32340	32740	BUILD	32820	32980	HOUSE	33020	33100	WOOD	33200	33380	HOUSE	33440	33760	|>		34020
+non-dominant hand gloss	IX-loc:j	33800	34020
+head pos: tilt fr/bk	front	32280	32740	start	32760	32880	back	32900	33380	end	33400	33560	start	33660	33760	front	33780	33940	end	33960	34020
+head pos: turn	left	32280	34020
+head pos: tilt side	slightly left	32280	32620	start	32640	32840	left	32860	34020
+head pos: jut	start	32480	32540	forward	32560	32740	end	32760	32820	start	33100	33160	back	33180	33740	start	33760	33940	slightly back	33960	34020
+head mvmt: nod	start	33840	33900	single	33920	34000	end	34020	34020
+body lean	slightly forward	32280	32720	end	32740	32840	start	33160	33260	slightly back	33280	33600	end	33620	33780
+eye brows	lowered	32280	33740	end	33760	33820	start	33980	34000	slightly raised	34020	34020
+eye gaze	down/left	32280	32660	up/right	32900	33040
+eye aperture	start	33900	33960	closed	33980	34020
+POS	Verb	32340	32740	Verb	32820	32980	Noun	33020	33100	Adjective	33200	33380	Noun	33440	33760
+Non-dominant POS	Pronoun	33800	34020
+English translation	After building a house, it becomes a wood house.
+Notes - number of character bytes:	12
+-CUT as ICL?
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	34080
+End frame:	36220
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	IX-3p:k	34440	34640	|>		34860	WORK	35060	35180	HARD	35240	35480	DECORATE	35680	36220
+non-dominant hand gloss	IX-3p:k	34220	34340	IX-loc:k	34600	34660
+head pos: tilt fr/bk	start	34080	34180	slightly back	34200	34320	end	34340	34440	start	34520	34600	slightly front	34620	34660	end	34680	34860	start	35200	35240	slightly front	35260	36220
+head pos: turn	left	34080	34420	end	34440	34580	start	34660	34720	right	34740	35240	end	35260	35500
+head pos: tilt side	left	34080	36220
+head pos: jut	slightly back	34080	34080	end	34100	34180	start	35660	35780	slightly forward	35800	36220
+head mvmt: shake	start	34080	34180	slight rapid headshake	34200	34420	end	34440	34520
+body lean	slightly back	34080	34940	end	34960	35160	start	35660	35740	slightly forward	35760	35840	end	35860	35900	start	36120	36160	slightly forward	36180	36220
+eye brows	slightly raised	34080	34260	start	34280	34440	raised	34460	34520	start	34540	34640	lowered	34660	36220
+eye gaze	down/left	34080	34620
+eye aperture	lowered lid	34080	34080	end	34100	34120	start	34220	34280	wide	34300	34540	start	34560	34580	closed	34600	34700	start	34720	34860	closed	34880	35140	start	35160	35180	squint	35200	35440	start	35460	35480	closed	35500	36140	start	36160	36160	further squinted	36180	36220
+POS	Pronoun	34440	34640	Verb	35060	35180	Adjective	35240	35480	Verb	35680	36220
+Non-dominant POS	Pronoun	34220	34340	Pronoun	34600	34660
+English translation	He is kind of person who would work hard and likes to decorate.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	36240
+End frame:	37720
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	UNKNOWN	36360	36700	"wow"	36740	37060	DECORATE	37180	37360	TEND	37460	37540	IX-2p:k	37580	37720
+non-dominant hand gloss
+head pos: tilt fr/bk	front	36240	36700	start	36720	36840	slightly back	36860	37040	start	37060	37100	front	37120	37260	end	37280	37380
+head pos: turn	start	36640	36700	slightly right	36720	36800	start	36820	36860	right	36880	37100	end	37120	37200	start	37340	37380	right	37400	37720
+head pos: tilt side	left	36240	37720
+head pos: jut	slightly forward	36240	36800	end	36820	36880	start	37120	37160	forward	37180	37260	end	37280	37360	start	37440	37480	back	37500	37720
+head mvmt: nod	start	37260	37360	slight rapid headnod	37380	37700	end	37720	37720
+head mvmt: shake	start	37060	37080	slow	37100	37380	end	37400	37420
+body lean	slightly forward	36240	36280	end	36300	36360	start	36480	36520	slightly forward	36540	36740	end	36760	36840	start	37140	37180	slightly forward	37200	37340	start	37360	37480	back left	37500	37720
+eye brows	lowered	36240	37720
+eye aperture	further squinted	36240	36660	start	36680	36720	squint	36740	36920	start	36940	37060	closed	37080	37260	end	37280	37340	start	37640	37680	closed	37700	37720
+POS	Verb	37180	37360	Verb	37460	37540	Pronoun	37580	37720
+English translation
+Notes - number of character bytes:	22
+- english translation?
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	37740
+End frame:	39940
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	IX-3p:k	37800	38260	BUILD	38400	38540	HOUSE	38600	39000	WOOD	39140	39320	FROM	39380	39500	BRICK+	39600	39940
+non-dominant hand gloss	IX-2p:k	37740	37760	|>		38180
+head pos: turn	right	37740	37740	start	37760	37880	left	37900	38260	end	38280	38360	start	38800	38900	left	38920	39480	end	39500	39600
+head pos: tilt side	slightly left	37740	37760	start	37780	38040	right	38060	38280	end	38300	38380	start	39100	39280	right	39300	39440	end	39460	39580
+head pos: jut	back	37740	37780	end	37800	37860	start	38000	38060	forward	38080	38220	end	38240	38300	start	38400	38460	back	38480	38760	end	38780	38900
+body lean	back left	37740	37840	end	37860	38000	start	38120	38180	forward	38200	38260	end	38280	38380	start	39200	39320	slightly forward	39340	39940
+eye brows	lowered	37740	37740	start	37760	37820	raised	37840	38060	start	38080	38180	lowered	38200	39940
+eye gaze	left	37840	38140	down/left	38800	39540
+eye aperture	closed	37740	37740	start	37760	37880	wide	37900	38120	start	38140	38160	blink	38180	38280	start	38300	38340	squint	38360	39940
+POS	Pronoun	37800	38260	Verb	38400	38540	Noun	38600	39000	Noun	39140	39320	Preposition	39380	39500	Noun	39600	39940
+Non-dominant POS	Pronoun	37740	37760
+English translation	He was building a house from bricks.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	39940
+End frame:	42480
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	MAKE	40040	40120	ICL:5"putting on the objects"	40220	40360	MAKE	40440	40480	ICL:5"putting on the objects"	40660	40960	BUILD	41060	41920	CL:5"getting bigger"	42040	42480
+non-dominant hand gloss
+head pos: tilt fr/bk	start	39940	40100	front	40120	41120	start	41140	42120	back	42140	42480
+head pos: turn	start	39940	40100	left	40120	40320	end	40340	40360	start	40460	40500	left	40520	42480
+head pos: tilt side	start	39940	40120	slightly left	40140	40320	end	40340	40360	start	40480	40680	left	40700	41840	start	41860	42320	right	42340	42480
+head pos: jut	slightly forward	39940	40460	end	40480	40680	start	42400	42440	slightly back	42460	42480
+head mvmt: nod	start	40960	41080	slow	41100	42380	end	42400	42460
+body lean	forward	39940	41100	start	41120	42300	slightly back	42320	42480
+eye brows	lowered	39940	42480
+eye gaze	down/left	40480	40500	down	40600	41840	up/left	42080	42420
+eye aperture	squint	39940	42480
+POS	Verb	40040	40120	Classifier	40220	40360	Verb	40440	40480	Classifier	40660	40960	Verb	41060	41920	Verb	42040	42480
+English translation
+Notes - number of character bytes:	22
+- english translation?
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	42520
+End frame:	43280
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	BEAUTIFUL	42580	42760	BRICK	42840	42960	HOUSE	43000	43280
+non-dominant hand gloss
+head pos: tilt fr/bk	back	42520	42880	end	42900	42960	start	43020	43060	front	43080	43140	start	43160	43240	back	43260	43280
+head pos: turn	slightly left	42520	42520	end	42540	42580	start	42820	42880	left	42900	43140	end	43160	43200
+head pos: tilt side	right	42520	43280
+head pos: jut	slightly back	42520	42900	end	42920	42980	start	43080	43100	forward	43120	43280
+body lean	slightly back	42520	42860	end	42880	42920	start	43060	43120	slightly forward	43140	43240	end	43260	43280
+eye brows	lowered	42520	43280
+eye gaze	left	42800	43120
+eye aperture	squint	42520	43060	start	43080	43120	blink	43140	43200	end	43220	43240
+POS	Adjective	42580	42760	Adjective	42840	42960	Noun	43000	43280
+English translation	It's a beautiful brick house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	43300
+End frame:	43960
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	IX-3p:j	43340	43520	WOOD	43600	43740	HOUSE	43780	43940	|>		43960
+non-dominant hand gloss
+head pos: tilt fr/bk	back	43300	43680	start	43700	43780	front	43800	43960
+head pos: turn	start	43380	43400	slightly right	43420	43600	start	43620	43740	right	43760	43960
+head pos: tilt side	right	43300	43960
+head pos: jut	forward	43300	43340	start	43360	43420	slightly back	43440	43580	end	43600	43640	start	43720	43760	slightly forward	43780	43960
+body lean	start	43380	43420	back	43440	43640	start	43660	43760	forward	43780	43960
+eye brows	lowered	43300	43960
+eye aperture	start	43880	43900	closed	43920	43960
+POS	Pronoun	43340	43520	Adjective	43600	43740	Noun	43780	43940
+English translation	There is a wood house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	43980
+End frame:	45520
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	GRASS	44640	44880	HOUSE	45000	45080	part:indef	45140	45320
+non-dominant hand gloss	HOUSE	43980	44000	|>		44060	IX-3p:i	44140	44400
+head pos: tilt fr/bk	front	43980	44040	start	44060	44200	back	44220	44880	end	44900	45020
+head pos: turn	right	43980	44480	end	44500	44620
+head pos: tilt side	right	43980	44580	end	44600	44740
+head pos: jut	slightly forward	43980	44000	end	44020	44040	start	44100	44180	back	44200	45220	start	45240	45340	slightly back	45360	45520
+body lean	slightly forward	43980	44020	start	44040	44200	back left	44220	44480	start	44500	44620	back	44640	45100	end	45120	45320
+shoulders	start	44500	44620	left up	44640	45180	end	45200	45320
+eye brows	lowered	43980	45520
+eye gaze	right	43980	44360	right	45340	45520
+eye aperture	start	43980	44000	squint	44020	44720	end	44740	44880	start	45000	45040	closed	45060	45140	start	45160	45160	blink	45180	45500	end	45520	45520
+POS	Noun	43980	44000	Pronoun	44140	44400	Adjective	44640	44880	Noun	45000	45080	Particle	45140	45320
+English translation	And, there is a grass house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	45540
+End frame:	48860
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	MISTAKE	45780	46100	HAPPEN	46300	46940	ARRIVE	47360	47480	CL:5"location"	47640	47920	WOLF	48200	48860
+non-dominant hand gloss
+head pos: tilt fr/bk	start	45720	45980	further front	46000	47340	end	47360	47580	start	48080	48280	front	48300	48860
+head pos: turn	start	45540	45800	right	45820	47400	end	47420	47580
+head pos: tilt side	start	45700	45840	slightly right	45860	46180	end	46200	46400	start	47560	47680	slightly left	47700	47760	end	47780	47820
+head pos: jut	slightly back	45540	46380	end	46400	46940
+body lean	start	45860	46240	forward	46260	47140	end	47160	47340	start	47680	47740	slightly forward	47760	48860
+eye brows	lowered	45540	45780	end	45800	45940	start	47020	47100	raised	47120	47760	start	47780	48020	lowered	48040	48860
+eye gaze	right	45540	45600	up/right	47020	47220
+eye aperture	start	46960	47060	wide	47080	47780	end	47800	47880	start	48040	48100	squint	48120	48340	start	48360	48840	squint	48860	48860
+POS	Verb	45780	46100	Verb	46300	46940	Verb	47360	47480	Classifier	47640	47920	Noun	48200	48860
+English translation	All of sudden, a wolf arrive the location.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	48900
+End frame:	51160
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	WOLF	48960	49080	|>		49420	SMELL	49640	50020	PIG	50080	50340	DELICIOUS	50400	50580	|>		50660	WHERE	50740	51160
+non-dominant hand gloss
+head pos: tilt fr/bk	front	48900	49020	end	49040	49100
+head pos: turn	start	49080	49220	left	49240	49640	start	49660	50020	right	50040	51160
+head pos: tilt side	start	50180	50360	slightly right	50380	51160
+head mvmt: shake	start	49060	49180	single	49200	51060	end	51080	51160
+body lean	slightly forward	48900	49020	start	49040	49420	forward/left	49440	50040	start	50060	50160	slightly forward	50180	50640	start	50660	50820	forward/right	50840	51060	start	51080	51140	slightly forward	51160	51160
+eye brows	lowered	48900	51040	start	51060	51100	raised	51120	51160
+eye gaze	left	49080	49600	right	49780	51060
+eye aperture	squint	48900	50980	start	51000	51080	wide	51100	51160
+wh question	wh	48900	51040
+role shift	wolf	49640	51060
+POS	Noun	48960	49080	Verb	49640	50020	Noun	50080	50340	Adjective	50400	50580	Wh-word	50740	51160
+English translation	A wolf could smell pigs. "Delicious! Wondering where they are?," Wolf thought.
+Notes - number of character bytes:	26
+- theres role shift right?
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	51200
+End frame:	53900
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	SEE	51280	51440	THREE	51480	51520	PIG	51620	51640	THREE	51680	51920	"ahh"	51980	52140	ALL	52220	52420	THREE	52440	52500	"ahh"	52520	52880	HIDE	53020	53160	HIDE	53180	53240	HIDE	53280	53420	|>		53900
+non-dominant hand gloss
+head pos: turn	right	51200	51360	end	51380	51480	start	52100	52180	right	52200	52960	end	52980	53060	start	53800	53860	slightly right	53880	53900
+head pos: tilt side	slightly right	51200	51500	end	51520	51680
+head pos: jut	start	51660	51740	back	51760	53320	start	53340	53440	slightly back	53460	53900
+head mvmt: shake	start	51640	51720	slight rapid headshake	51740	52020	end	52040	52180
+body lean	start	52500	52640	back	52660	53140	start	53160	53200	slightly forward	53220	53240	start	53260	53260	forward/left	53280	53900
+eye brows	slightly raised	51200	51440	start	51460	51500	raised	51520	52660	start	52680	52840	lowered	52860	53900
+eye gaze	left	51340	51520	right	52140	52240	right	52380	52580
+eye aperture	wide	51200	52720	start	52740	52860	squint	52880	53900
+POS	Verb	51280	51440	Number	51480	51520	Noun	51620	51640	Number	51680	51920	Adjective	52220	52420	Number	52440	52500	Verb	53020	53160	Verb	53180	53240	Verb	53280	53420
+English translation	A wolf saw three pigs, they all screamed and ran away to hide.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	53920
+End frame:	56140
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	WOLF	53980	54100	BCL:5"walking"	54260	54640	TO	54720	54740	IX-3p:i	54780	55020	HOUSE	55080	55220	GRASS	55340	55440	part:indef	55600	55760	|>		56140
+non-dominant hand gloss	TO	54720	54740	|>		55020
+head pos: tilt fr/bk	start	54080	54220	front	54240	55240	start	55260	55420	back	55440	55820	end	55840	56020
+head pos: turn	slightly right	53920	54080	start	54100	54180	right	54200	56140
+head pos: tilt side	start	54100	54180	slightly left	54200	54720	start	54740	54960	slightly right	54980	55360	end	55380	55460	start	55640	55800	slightly left	55820	55980	end	56000	56140
+head pos: jut	slightly back	53920	54160	start	54180	54240	slightly forward	54260	55120	end	55140	55260
+body lean	forward/left	53920	54620	start	54640	54820	slightly forward	54840	55420	start	55440	55660	back left	55680	56140
+eye brows	lowered	53920	55340	start	55360	55400	raised	55420	55460	start	55480	55600	lowered	55620	56140
+eye gaze	right	54140	54740	right	54940	55120	up/right	55320	55840	right	55860	56140
+eye aperture	squint	53920	55320	start	55340	55360	wide	55380	55600	start	55620	55760	squint	55780	56140
+POS	Noun	53980	54100	Classifier	54260	54640	Preposition	54720	54740	Pronoun	54780	55020	Noun	55080	55220	Noun	55340	55440	Particle	55600	55760
+Non-dominant POS	Preposition	54720	54740
+English translation	A wolf walk to grass house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	56160
+End frame:	58120
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	WARN	56200	56380	IX-2p:i	56400	56520	IX-1p	57060	57080	TAKE-OVER	57200	57280	EAT	57340	57440	CL:5"eating the whole thing"	57520	57620	FUTURE	57680	58120
+non-dominant hand gloss	WARN	56200	56380	|>		56420	OUT	56580	56780	|>		57060	TAKE-OVER	57200	57280	|>		57400
+head pos: tilt fr/bk	start	56200	56380	front	56400	56660	end	56700	56920	start	57120	57140	slightly front	57160	58120
+head pos: turn	right	56160	56420	start	56440	56500	left	56520	56560	start	56580	56620	right	56640	56760	end	56780	56860	start	57000	57040	right	57060	58120
+head pos: tilt side	start	56400	56440	left	56460	56620	end	56640	56760
+head pos: jut	start	56200	56380	back	56400	56640	end	56660	56760
+head mvmt: shake	start	56420	56460	single	56480	56700	start	56720	56980	slow	57000	57800	end	57820	58120
+body lean	back left	56160	56200	end	56220	56380
+eye brows	lowered	56160	58120
+eye gaze	right	56160	56400	right	56620	56720	right	57020	58120
+eye aperture	squint	56160	56380	start	56400	56400	closed	56420	56560	start	56580	56640	squint	56660	57900	end	57920	58120
+POS	Verb	56200	56380	Pronoun	56400	56520	Pronoun	57060	57080	Verb	57200	57280	Verb	57340	57440	Classifier	57520	57620	Tense Marker	57680	58120
+Non-dominant POS	Verb	56200	56380	Preposition	56580	56780	Verb	57200	57280
+English translation	"I warn you, get out or else, I will take over and eat you!," Wolf said.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	58140
+End frame:	60980
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	PIG	58360	58480	IX-loc:i	58560	58600	CL:5"scaring"	58700	58820	REFUSE	58900	59020	CLOSE	59140	59240	|>		59380	ICL:S"fixing"	59500	59660	LOCK	59740	60020	CHAIR	60200	60420	WAIT	60520	60760
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	58140	58160	start	58180	58340	slightly back	58360	58620	end	58640	58700	start	59400	59480	front	59500	59580	end	59600	59620	start	59940	60000	further front	60020	60760	start	60780	60860	front	60880	60980
+head pos: turn	right	58140	58180	end	58200	58320	start	58600	58620	slightly left	58640	59040	start	59060	59120	left	59140	59160	end	59180	59340	start	59420	59480	left	59500	59600	end	59620	59660	start	60820	60860	right	60880	60980
+head pos: tilt side	start	58280	58360	slightly right	58380	59580	end	59600	59640	start	60720	60820	left	60840	60980
+head pos: jut	start	58580	58620	slightly back	58640	59380	end	59400	59500	start	59940	60000	back	60020	60780	end	60800	60880
+head mvmt: shake	start	58560	58600	rapid	58620	59080	end	59100	59140
+body lean	start	60020	60140	forward	60160	60780	start	60800	60880	left	60900	60980
+eye brows	slightly lowered	58140	58520	start	58540	58600	raised	58620	58700	start	58720	58800	slightly lowered	58820	60400	start	60420	60780	slightly raised	60800	60980
+eye gaze	right	58140	58180	left	58600	59120	right	60760	60840
+eye aperture	start	58140	58160	wide	58180	60000	end	60020	60200
+POS	Noun	58360	58480	Pronoun	58560	58600	Classifier	58700	58820	Verb	58900	59020	Verb	59140	59240	Classifier	59500	59660	Verb	59740	60020	Noun	60200	60420	Verb	60520	60760
+English translation	A pig refused and closed the door.  The door is locked, pig sat on the chair and waiting. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	61020
+End frame:	64580
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	PIG	61100	61120	LOOK	61200	61220	#OK	61280	61440	WARN	61660	61860	part:indef	61940	62240	ONE	62700	62960	|>		63540	TWO	63740	64140	|>		64280	THREE	64540	64580
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	61020	61080	start	61100	61180	front	61200	62240	end	62260	62360	start	62620	62700	front	62720	63260	start	63280	63580	front	63600	64160	end	64180	64320
+head pos: turn	right	61020	61540	end	61560	61680	start	61800	61840	right	61860	62280	end	62300	62460	start	62760	62920	left	62940	63080	end	63100	63180	start	63600	63720	slightly left	63740	64300	start	64320	64440	right	64460	64580
+head pos: tilt side	slightly left	61020	61300	start	61320	61520	right	61540	62300	end	62320	62480	start	63180	63260	slightly right	63280	64580
+head pos: jut	start	61300	61460	forward	61480	62240	start	62260	62420	back	62440	62500	end	62520	62680	start	62840	62920	forward	62940	63220	start	63240	63940	forward	63960	64140	start	64160	64300	back	64320	64500	end	64520	64560
+head mvmt: shake	start	61540	61740	rapid	61760	62180	end	62200	62240
+body lean	left	61020	61320	end	61340	61480	start	61980	62180	forward	62200	62320	start	62340	62480	back	62500	62680	start	62700	62840	forward	62860	63240	start	63260	63740	forward	63760	64180	end	64200	64340
+eye brows	slightly raised	61020	61120	start	61140	61240	lowered	61260	61800	start	61820	61860	raised	61880	62040	start	62060	62180	lowered	62200	64580
+eye gaze	right	61100	62420	right	63140	63640	right	64380	64580
+eye aperture	start	61020	61020	blink	61040	61120	start	61140	61240	squint	61260	61660	start	61680	61760	wide	61780	62000	start	62020	62040	blink	62060	62200	start	62220	62240	squint	62260	63040	start	63060	63100	blink	63120	63200	start	63220	63240	squint	63260	64580
+POS	Noun	61100	61120	Verb	61200	61220	Discourse Marker	61280	61440	Verb	61660	61860	Particle	61940	62240	Number	62700	62960	Number	63740	64140	Number	64540	64580
+English translation	A wolf look at pig and said, "Ok, I warned you, one... two... three..."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	64620
+End frame:	67700
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	HOUSE	66640	66760	CL:5"the object flying out"	66880	67700
+non-dominant hand gloss	CL:5"sucking the air"	64900	65780	BLOW	65960	66460
+head pos: tilt fr/bk	start	64620	64680	front	64700	64900	start	64920	65160	back	65180	65900	start	65920	66060	front	66100	66580	end	66600	66760
+head pos: turn	right	64620	64620	end	64640	64740	start	65040	65140	left	65160	65940	start	65960	66000	right	66020	66580	end	66600	66700	start	66800	67040	left	67060	67700
+head pos: tilt side	slightly right	64620	64780	end	64800	65040	start	65900	65940	right	65960	67700
+head pos: jut	start	65100	65400	back	65420	66620	end	66640	66780
+body lean	start	64620	64720	right	64740	64800	start	64820	65080	back left	65100	65920	start	65940	66040	forward	66060	66580	end	66600	66760
+eye brows	lowered	64620	66420	start	66440	66560	slightly raised	66580	66760	end	66780	67040
+eye gaze	right	64620	64880	right	66000	66580
+eye aperture	squint	64620	65420	start	65440	65720	closed	65740	65960	start	65980	66000	squint	66020	66460	start	66480	66600	wide	66620	66760	start	66780	66800	blink	66820	66940	start	66960	67060	wide	67080	67700
+POS	Noun	66640	66760	Classifier	66880	67700
+Non-dominant POS	Classifier	64900	65780	Verb	65960	66460
+English translation	A fox suck the air and then blow the house.  
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	67740
+End frame:	69620
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	GRASS	67860	68040	GONE	68180	68380	CL:5"shocking"	68540	69220	FINISH	69480	69620
+non-dominant hand gloss
+head pos: tilt fr/bk	start	68200	68280	back	68300	69100	end	69120	69320
+head pos: turn	left	67740	68220	end	68240	68280	start	68460	68520	left	68540	68800	start	68820	68940	right	68960	69200	end	69220	69360	start	69480	69540	left	69560	69620
+head pos: tilt side	slightly right	67740	69160	end	69180	69280
+head pos: jut	start	68180	68280	forward	68300	68480	start	68500	68760	slightly back	68780	69160	end	69180	69280
+head mvmt: shake	start	67840	67960	slight rapid headshake	67980	68500	start	68520	68660	slow	68680	69320	end	69340	69440
+body lean	back left	67740	67980	end	68000	68160	start	68540	68640	slightly back	68660	69120	end	69140	69360
+eye brows	start	68180	68260	slightly raised	68280	69620
+eye gaze	up	68000	68080	up	68260	68340	up	68500	68520	up/left	68540	68760	up	68780	68800	up/right	68820	69120	up/left	69600	69620
+eye aperture	wide	67740	67840	start	67860	67940	blink	67960	68000	start	68020	68060	wide	68080	69560	start	69580	69580	slightly squinted	69600	69620
+role shift	Pig	68540	69620
+POS	Noun	67860	68040	Adjective	68180	68380	Classifier	68540	69220	Adverb	69480	69620
+English translation	A grass house is gone.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	69640
+End frame:	70800
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	LOOK	69700	69780	SEE	69860	69980	WOLF	70120	70340
+non-dominant hand gloss	IX-3p:l	70060	70180	|>		70340	LOOK	70400	70460	|>		70800
+head pos: tilt fr/bk	start	69640	69700	back	69720	69800	end	69820	69900	start	70360	70380	front	70400	70800
+head pos: turn	left	69640	69860	end	69880	69980	start	70360	70380	right	70400	70800
+head pos: tilt side	slightly right	69640	70000	end	70020	70100	start	70380	70440	right	70460	70800
+head pos: jut	start	70320	70360	back	70380	70800
+body lean	start	69640	69680	back right	69700	70360	end	70380	70440	start	70560	70580	slightly forward	70600	70800
+eye brows	slightly raised	69640	69800	end	69820	69900	start	70140	70340	lowered	70360	70760	start	70780	70780	slightly raised	70800	70800
+eye gaze	up/left	69640	69800	down/right	70340	70800
+eye aperture	slightly squinted	69640	69640	end	69660	69700	start	70300	70340	squint	70360	70800
+role shift	Pig	69640	69780	wolf	70400	70800
+POS	Verb	69700	69780	Verb	69860	69980	Noun	70120	70340
+Non-dominant POS	Pronoun	70060	70180	Verb	70400	70460
+English translation	Looked up and saw wolf was looking down.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	70820
+End frame:	72400
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	LOOK	70980	71100	SCARE	71380	71620	GET-UP	71840	71900	RUN	71960	72400
+non-dominant hand gloss
+head pos: tilt fr/bk	front	70820	70920	end	70940	71020	start	71080	71120	slightly back	71140	71600	start	71620	71680	front	71700	72280	end	72300	72400
+head pos: turn	slightly right	70820	70820	start	70840	70900	left	70920	71140	end	71160	71260	start	72060	72140	left	72160	72240	start	72260	72280	slightly left	72300	72400
+head pos: tilt side	right	70820	71180	end	71200	71300	start	71720	71840	left	71860	72260	end	72280	72400
+head pos: jut	back	70820	70840	end	70860	70900	start	71020	71140	back	71160	72260	end	72280	72400
+body lean	slightly forward	70820	71160	end	71180	71260	start	72120	72220	forward	72240	72400
+eye brows	raised	70820	71060	end	71080	71120	start	71620	71660	slightly raised	71680	72220	end	72240	72340
+eye gaze	down/left	70820	70820	up/left	70860	71100	down	71640	72160
+eye aperture	slightly squinted	70820	70880	end	70900	70960	start	71080	71100	blink	71120	71260	start	71280	71320	wide	71340	71760	start	71780	71860	squint	71880	72240	end	72260	72360
+role shift	Pig	70940	71160
+POS	Verb	70980	71100	Verb	71380	71620	Verb	71840	71900	Verb	71960	72400
+English translation	He looked and got scared.  He got up and ran away.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	72440
+End frame:	73040
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	009
+main gloss	ARRIVE	72440	72580	IX-3p:j	72620	72680	WOOD	72740	72880	HOUSE	72920	73040
+non-dominant hand gloss
+head pos: turn	slightly left	72440	73040
+head pos: jut	start	72480	72500	slightly back	72520	73040
+head mvmt: nod	start	72440	72460	slight rapid headnod	72480	72640	end	72660	72680
+body lean	slightly forward	72440	73040
+eye brows	start	72480	72500	slightly lowered	72520	72960	start	72980	73020	slightly raised	73040	73040
+POS	Verb	72440	72580	Pronoun	72620	72680	Adjective	72740	72880	Noun	72920	73040
+English translation	He arrived to wood house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	73080
+End frame:	75440
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	IN	73240	73580	BROTHER	73720	73880	IX-3p-pl-2:i/j	73960	74000	part:indef	74080	74100	CL:5"talking back and forth"	74180	74600	DO	74660	74740	(2h)CL:3"sitting down"	74820	75080	UNKNOWN	75260	75440
+non-dominant hand gloss
+head pos: tilt fr/bk	start	73080	73120	front	73140	73220	end	73240	73300	start	73680	73720	slightly front	73740	74080	start	74100	74140	front	74160	75440
+head pos: turn	slightly left	73080	73980	start	74000	74020	slightly right	74040	74080	start	74100	74200	left	74220	74240	start	74260	74300	right	74320	74340	start	74360	74400	left	74420	74440	start	74460	74500	right	74520	74540	start	74560	74620	left	74640	74800	end	74820	75060
+head pos: tilt side	start	73080	73120	left	73140	73240	end	73260	73400	start	74100	74120	slightly left	74140	74260	start	74280	74380	slightly left	74400	74440	start	74460	74500	right	74520	74560	start	74580	74620	slightly left	74640	74780	start	74800	75080	slightly left	75100	75360	end	75380	75440
+head pos: jut	slightly back	73080	73240	end	73260	73320	start	73920	73960	back	73980	75300	end	75320	75440
+head mvmt: shake	start	74080	74100	slight rapid headshake	74120	74660	end	74680	74920
+body lean	slightly forward	73080	75440
+eye brows	start	73080	73120	slightly raised	73140	73240	start	73260	73700	raised	73980	75060	end	75080	75280
+eye aperture	start	73140	73300	wide	73320	74100	start	74120	74160	squint	74180	75080	start	75100	75260	blink	75280	75360	end	75380	75440
+POS	Preposition	73240	73580	Noun	73720	73880	Pronoun	73960	74000	Particle	74080	74100	Classifier	74180	74600	Verb	74660	74740	Classifier	74820	75080
+English translation	Got in and discuss with his brother to see what they should do.  They were sitting  down and waiting.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	41
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	75460
+End frame:	77580
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	015
+main gloss	PIG	75560	75700	WOLF	76040	76200	ARRIVE	76320	76600	LOOK	76720	76820	BCL:S"waiting"	76860	76920	|>		77580
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	75460	75500	end	75520	75620	start	75880	76000	front	76020	77580
+head pos: turn	start	75600	75720	left	75740	75820	start	75840	76000	right	76020	76180	end	76200	76280	start	76820	76860	slightly right	76880	77580
+head pos: tilt side	start	75540	75700	left	75720	75980	end	76000	76060	start	76220	76260	slightly left	76280	76560	start	76580	76800	right	76820	77580
+head pos: jut	start	75840	75980	back	76000	76480	end	76500	76680
+head mvmt: nod	start	76720	76840	slow	76860	77540	end	77560	77580
+head mvmt: shake	start	75580	75720	single	75740	76320	end	76340	76540
+body lean	slightly forward	75460	75500	end	75520	75560	start	75720	75820	left	75840	76040	end	76060	76160	start	76280	76340	left	76360	76600	start	76620	76860	right	76880	77580
+eye brows	start	75560	75640	lowered	75660	77580
+eye gaze	down	75700	75840
+eye aperture	start	75700	75800	closed	75820	76180	end	76200	76280	start	76500	76560	blink	76580	76660	start	76680	76720	squint	76740	76860	start	76880	76900	blink	76920	77180	start	77200	77260	squint	77280	77560	end	77580	77580
+role shift	wolf	76720	77580
+POS	Noun	75560	75700	Noun	76040	76200	Verb	76320	76600	Verb	76720	76820	Classifier	76860	76920
+English translation	A Pig, I mean, Wolf arrived and stared at him.
+Notes - number of character bytes:	56
+- what is the right way to gloss for last CL? as BODY CL
+
+
+Utterance ID:	42
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	77600
+End frame:	79520
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	WARN	77800	78080	ONE	78140	78420	|>		78700	TWO	78840	78940	|>		79100	THREE	79180	79200	|>		79520
+non-dominant hand gloss
+head pos: tilt fr/bk	front	77600	79520
+head pos: turn	slightly right	77600	77600	start	77620	77720	right	77740	79520
+head pos: tilt side	slightly right	77600	77620	start	77640	77760	slightly left	77780	79520
+head pos: jut	start	77660	77720	slightly back	77740	78200	end	78220	78440
+head mvmt: shake	start	78820	78860	rapid	78880	79440	end	79460	79520
+body lean	right	77600	77760	end	77780	77900	start	78140	78200	slightly forward	78220	79520
+eye brows	slightly raised	77600	79320	end	79340	79440
+eye gaze	up/left	79240	79320	up/right	79500	79520
+eye aperture	start	77600	77640	wide	77660	77700	end	77720	77760	start	78080	78100	wide	78120	79320	start	79340	79440	blink	79460	79520
+role shift	wolf	77600	79520
+POS	Verb	77800	78080	Number	78140	78420	Number	78840	78940	Number	79180	79200
+English translation	Wolf said,"I warned you, ONE... TWO... THREE..."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	43
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	79540
+End frame:	82640
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	CL:5"sucking the air"	79720	80680	BLOW	80780	81320	HOUSE	81500	81620	CL:5"the object flying out"	81680	82640
+non-dominant hand gloss	THREE	79540	79560
+head pos: tilt fr/bk	front	79540	79560	start	79580	79800	back	79820	80680	start	80700	80860	front	80880	81360	end	81380	81520	start	81720	81880	back	81900	82480	end	82500	82640
+head pos: turn	right	79540	80720	end	80740	80880
+head pos: tilt side	slightly left	79540	80680	start	80700	80840	left	80860	81360	end	81380	81520
+head pos: jut	start	80440	80680	back	80700	81360	end	81380	81520
+body lean	slightly forward	79540	79600	start	79620	80280	back	80300	80760	start	80780	81320	forward	81340	81460	end	81480	81560
+eye brows	lowered	79540	81320	start	81340	81440	slightly raised	81460	81560	end	81580	81720
+eye gaze	up/right	79540	80700
+eye aperture	squint	79540	79780	end	79800	79980	start	80560	80640	closed	80660	81340	start	81360	81460	wide	81480	81540	start	81560	81600	closed	81620	81740	start	81760	81820	wide	81840	82320	start	82340	82400	blink	82420	82580	start	82600	82620	wide	82640	82640
+role shift	wolf	79540	81400
+POS	Classifier	79720	80680	Verb	80780	81320	Noun	81500	81620	Classifier	81680	82640
+Non-dominant POS	Number	79540	79560
+English translation	Wolf sucked the air and then blew the house away.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	44
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	82660
+End frame:	84160
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	TWO	82700	82860	PIG	82940	83000	LEAVE	83040	83080	(2h)CL:3"sitting"	83140	83400	LOOK-AROUND	83500	84160
+non-dominant hand gloss
+head pos: tilt fr/bk	start	83120	83180	front	83200	83280	start	83300	83400	back	83420	84160
+head pos: turn	start	83180	83260	left	83280	83680	start	83700	83840	right	83860	83940	start	83960	84080	left	84100	84160
+head pos: tilt side	start	83200	83260	slightly right	83280	84160
+head pos: jut	start	84020	84100	slightly back	84120	84160
+head mvmt: shake	start	83420	83520	slow	83540	84140	end	84160	84160
+body lean	start	83180	83260	slightly forward	83280	83300	start	83320	83440	back right	83460	84160
+eye brows	start	83080	83180	raised	83200	84160
+eye gaze	up/left	83280	83520	up/right	83680	83800	up/left	83960	84140
+eye aperture	wide	82660	84160
+role shift	Pig	83140	84160
+POS	Number	82700	82860	Noun	82940	83000	Verb	83040	83080	Classifier	83140	83400	Verb	83500	84160
+English translation	So, there are only two pigs left, they were sitting and looking around.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	45
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	84180
+End frame:	85680
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	WOLF	84280	84400	LOOK	84440	84780	READY	84820	84860	IX-1p	84920	84980	TAKE-OVER	85080	85240	EAT	85320	85440	CL:5"eating the whole thing"	85540	85680
+non-dominant hand gloss	LOOK	84180	84200	|>		84320
+head pos: tilt fr/bk	back	84180	84240	end	84260	84320	start	84440	84560	slightly front	84580	85680
+head pos: turn	left	84180	84180	end	84200	84320	start	84820	84880	right	84900	85620	start	85640	85660	slightly right	85680	85680
+head pos: tilt side	slightly right	84180	84660	end	84680	84780	start	84880	84960	left	84980	85680
+head pos: jut	slightly back	84180	84380	start	84400	84420	back	84440	85240	start	85260	85320	slightly back	85340	85680
+body lean	back right	84180	84320	start	84340	84520	slightly back	84540	85280	start	85300	85440	slightly forward	85460	85680
+eye brows	raised	84180	84220	start	84240	84300	lowered	84320	85680
+eye gaze	down	84380	85680
+eye aperture	wide	84180	84220	start	84240	84320	squint	84340	85680
+role shift	Pig	84180	84200	wolf	84440	85680
+POS	Noun	84280	84400	Verb	84440	84780	Adjective	84820	84860	Pronoun	84920	84980	Verb	85080	85240	Verb	85320	85440	Classifier	85540	85680
+Non-dominant POS	Verb	84180	84200
+English translation	Wolf looked at them and said," I am ready to catch and eat you!"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	46
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	85700
+End frame:	87040
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	CL:5"attacking"	86040	86200	MISTAKE	86280	86300	TWO	86340	86460	CL:2"running"	86500	86660
+non-dominant hand gloss	CL:5"attacking"	86040	86200	|>		87040
+head pos: tilt fr/bk	slightly front	85700	85760	end	85780	85860	start	86040	86080	front	86100	86640	start	86660	86760	further front	86780	87040
+head pos: turn	start	86460	86480	left	86500	86540	end	86560	86620	start	86760	86800	left	86820	87040
+head pos: tilt side	slightly left	85700	86100	end	86120	86180
+head pos: jut	slightly back	85700	85760	start	85780	85820	back	85840	86100	end	86120	86180	start	86300	86340	back	86360	86740	end	86760	86800
+body lean	slightly forward	85700	85760	start	85780	85920	back	85940	86020	start	86040	86160	forward	86180	87040
+eye brows	lowered	85700	85720	start	85740	85760	slightly lowered	85780	86100	end	86120	86180	start	86320	86360	raised	86380	86660	start	86680	86740	slightly lowered	86760	87040
+eye gaze	down	85700	86080	down/left	86460	86540	down	86680	86780	down/left	86800	86960	left	86980	87040
+eye aperture	squint	85700	85740	start	85760	85800	wide	85820	86020	start	86040	86060	blink	86080	86120	end	86140	86180	start	86280	86300	wide	86320	87040
+role shift	wolf	85700	86200	Pig	86340	86680	wolf	86800	87040
+POS	Classifier	86040	86200	Verb	86280	86300	Number	86340	86460	Classifier	86500	86660
+Non-dominant POS	Classifier	86040	86200
+English translation	Wolf was about to attack, but two pigs ran away before wolf catch them.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	47
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	87060
+End frame:	88720
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	CHASE	87140	87580	TWO	87660	87760	IN	87860	88160	BRICK	88240	88460	HOUSE	88520	88640	|>		88720
+non-dominant hand gloss	CHASE	87140	87580	|>		87760	IX-loc:k	88640	88720
+head pos: tilt fr/bk	front	87060	87440	end	87460	87620
+head pos: turn	left	87060	87360	end	87380	87440	start	87740	87780	left	87800	87900	end	87920	87980
+head pos: jut	start	87620	87660	slightly back	87680	88360	start	88380	88440	back	88460	88720
+body lean	forward	87060	87200	start	87220	87360	forward/left	87380	88720
+eye brows	lowered	87060	87460	end	87480	87580	start	87740	87780	slightly lowered	87800	88160	end	88180	88220	start	88680	88700	slightly lowered	88720	88720
+eye gaze	left	87060	87320	left	87740	87880	down/left	88720	88720
+eye aperture	wide	87060	87080	start	87100	87200	slightly squinted	87220	87400	end	87420	87460	start	87740	87780	slightly squinted	87800	88720
+POS	Verb	87140	87580	Number	87660	87760	Preposition	87860	88160	Adjective	88240	88460	Noun	88520	88640
+Non-dominant POS	Verb	87140	87580	Pronoun	88640	88720
+English translation	Wolf was chasing after pigs.  Two pigs got in the brick house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	48
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	88740
+End frame:	90200
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	IN	88820	89000	DO++	89060	89240	CLOSE	89480	89720	ICL:S"closing the object"	89800	90040	LOCK	90100	90200
+non-dominant hand gloss
+head pos: tilt fr/bk	start	88740	88780	front	88800	88860	end	88880	88940
+head pos: turn	start	88740	88780	left	88800	88880	end	88900	89000	start	89040	89080	slightly left	89100	89180	start	89200	89340	right	89360	89720	start	89740	89820	slightly left	89840	90200
+head pos: tilt side	start	88740	88780	left	88800	88880	end	88900	89000	start	89360	89440	slightly left	89460	89620	end	89640	89720
+head pos: jut	back	88740	89920	start	89940	90020	slightly back	90040	90200
+head mvmt: shake	start	88740	88860	rapid	88880	89320	end	89340	89400
+body lean	forward/left	88740	89360	start	89380	89460	back left	89480	90200
+eye brows	slightly lowered	88740	89320	start	89340	89380	lowered	89400	89640	start	89660	89740	slightly raised	89760	90200
+eye gaze	down/left	88740	88900	right	89380	89820
+eye aperture	slightly squinted	88740	88860	start	88880	88920	wide	88940	89260	start	89280	89320	blink	89340	89400	start	89420	89440	squint	89460	89640	start	89660	89760	wide	89780	90200
+role shift	Pig	89060	90040
+POS	Preposition	88820	89000	Verb	89060	89240	Verb	89480	89720	Classifier	89800	90040	Noun	90100	90200
+English translation	Got in and discuss what to do, then closed the window and locked.
+Notes - number of character bytes:	36
+- correct cl?
+- english translation?
+
+
+Utterance ID:	49
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	90220
+End frame:	91600
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	015
+main gloss	part:indef	90280	90380	DO++	90420	90760	part:indef	90820	91140	SEE	91220	91340	part:indef	91400	91600
+non-dominant hand gloss	part:indef	90820	91140	|>		91600
+head pos: tilt fr/bk	start	90240	90300	front	90320	90380	end	90400	90420	start	90640	90660	front	90680	90740	end	90760	90800	start	91260	91300	front	91320	91600
+head pos: turn	left	90220	90360	end	90380	90420	start	90560	90600	slightly left	90620	90720	start	90740	90780	left	90800	91440	end	91460	91520
+head pos: tilt side	start	91280	91360	slightly left	91380	91600
+head pos: jut	slightly back	90220	90300	start	90320	90380	back	90400	90780	end	90800	90900	start	91340	91400	slightly forward	91420	91600
+head mvmt: shake	start	90240	90300	rapid	90320	90820	end	90840	90900
+body lean	back left	90220	90240	start	90260	90300	slightly forward	90320	90400	start	90420	90580	slightly forward	90600	90700	end	90720	90780	start	90860	90940	back right	90960	91320	end	91340	91380	start	91440	91480	slightly forward	91500	91600
+eye brows	slightly raised	90220	90700	end	90720	90780	start	90820	90900	lowered	90920	91600
+eye gaze	left	90240	90300	left	90840	90960	right	91480	91600
+eye aperture	wide	90220	90660	start	90680	90720	blink	90740	90820	start	90840	90880	squint	90900	91280	start	91300	91340	blink	91360	91380	start	91400	91420	slightly squinted	91440	91600
+role shift	Pig	90220	91600
+POS	Particle	90280	90380	Verb	90420	90760	Particle	90820	91140	Verb	91220	91340	Particle	91400	91600
+Non-dominant POS	Particle	90820	91140
+English translation	The pigs said," What should we do?  We will wait and see."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	50
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_443_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_443_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_443_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_443_small_3.mov
+Audio	
+Start frame:	91620
+End frame:	92220
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	015
+main gloss	WOLF	91840	91960	ARRIVE	92040	92220
+non-dominant hand gloss	part:indef	91620	91640	|>		91660
+head pos: tilt fr/bk	slightly front	91620	91660	end	91680	91720	start	92100	92140	slightly front	92160	92220
+head pos: turn	start	91800	91820	slightly right	91840	92000	end	92020	92060	start	92140	92180	left	92200	92220
+head pos: tilt side	slightly left	91620	91620	end	91640	91660	start	91780	91820	slightly right	91840	92020	end	92040	92060
+head pos: jut	slightly forward	91620	91760	end	91780	91820	start	92000	92060	back	92080	92140	end	92160	92200
+head mvmt: side to side	start	91820	91840	single	91860	91980	end	92000	92040
+body lean	slightly forward	91620	91680	end	91700	91760	start	92120	92160	slightly forward	92180	92220
+eye brows	lowered	91620	91800	start	91820	91860	slightly raised	91880	91980	start	92000	92040	lowered	92060	92220
+eye gaze	right	91620	91660	down/left	92200	92220
+eye aperture	slightly squinted	91620	91780	start	91800	91840	wide	91860	91980	start	92000	92040	squint	92060	92220
+role shift	Pig	91620	91640
+POS	Noun	91840	91960	Verb	92040	92220
+Non-dominant POS	Particle	91620	91640
+English translation	Wolf arrived.
+Notes - number of character bytes:	0

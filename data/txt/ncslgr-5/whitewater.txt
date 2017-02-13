@@ -1,0 +1,2088 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	whitewater	Firewire 38200:NCSLGRv5:whitewater
+Number of utterances:	66
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	3960
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	REALLY	480	640	PAST++	840	1200	WEEKEND	1360	1840	IX-1p	2000	2160	GET-TOGETHER	2320	2520	FRIEND	2640	3080	IX-1p-arc	3240	3360	TWENTY	3560	3960
+non-dominant hand gloss	WEEKEND	1360	1840	|>		2120	FRIEND	2640	3080	|>		3440
+head pos: tilt fr/bk	start	0	320	front	360	1840	start	1880	3080	front	3120	3360	start	3400	3920	slightly front	3960	3960
+head pos: turn	slightly left	0	80	start	120	320	left	360	600	start	640	960	right	1000	1840	start	1880	2200	left	2240	2600	start	2640	3200	right	3240	3960
+head pos: tilt side	slightly right	0	560	start	600	840	left	880	1880	start	1920	2440	slightly right	2480	2800	start	2840	3280	slightly right	3320	3960
+head pos: jut	start	0	760	back	800	1880	start	1920	2640	back	2680	3960
+head mvmt: nod
+	start	1160	1840	slight rapid head nod	1880	2080	end	2120	2200
+body lean	start	0	520	forward	560	920	start	960	1560	slightly back	1600	3960
+eye brows	slightly lowered	0	360	start	400	560	lowered	600	3960
+eye gaze	to addressee	0	160	left	200	400	to addressee	440	1880	left	1920	2120	to addressee	2160	3960
+eye aperture	slightly squinted	0	360	start	400	560	squint	600	3960
+nose	start	0	560	wrinkle	600	3960
+POS	Discourse Marker	480	640	Tense Marker	840	1200	Noun	1360	1840	Pronoun	2000	2160	Verb	2320	2520	Noun	2640	3080	Pronoun	3240	3360	Number	3560	3960
+Non-dominant POS	Noun	1360	1840	Noun	2640	3080
+English translation	Really, last weekend, twenty friends of us got together.
+Notes - number of character bytes:	65
+- CBD
+- "GET TOGETHER" is there any specific gloss for that sign?
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	4000
+End frame:	10000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p-arc	4080	4520	DEAF	4720	4960	GO	5120	5440	TO	5520	5600	MAINE	5840	6200	fs-MAINE	6440	7200	IX-3p:i	7320	7560	WATER	7720	8000	WHITE	8160	8280	WATER	8360	8560	BOAT	8720	9520
+non-dominant hand gloss	TO	5520	5600	|>		8480
+head pos: tilt fr/bk	front	4000	4320	start	4360	5240	front	5280	7480	start	7520	7840	slightly back	7880	8440	start	8480	9040	front	9080	9560	start	9600	9920	slightly back	9960	10000
+head pos: turn	right	4000	4480	start	4520	4760	left	4800	5320	start	5360	5760	right	5800	7720	start	7760	8160	slightly left	8200	8480	start	8520	8920	right	8960	9320	start	9360	9680	left	9720	10000
+head pos: tilt side	slightly right	4000	4400	start	4440	4680	left	4720	5320	start	5360	8960	slightly right	9000	9400	start	9440	9920	left	9960	10000
+head pos: jut	back	4000	4480	start	4520	6120	back	6160	7520	start	7560	7800	slightly forward	7840	7960	start	8000	8200	slightly back	8240	9440	start	9480	9680	slightly forward	9720	10000
+head mvmt: nod
+	start	4000	4040	single	4080	4520	start	4560	6880	rapid	6960	7680	end	7720	7880
+body lean	slightly back	4000	4680	start	4720	5440	slightly forward	5480	5800	start	5840	9360	forward	9400	9800	end	9840	10000
+eye brows	lowered	4000	5800	start	5840	7000	slightly raised	7040	7040	start	7080	7360	lowered	7400	9080	start	9120	9680	slightly lowered	9720	10000
+eye gaze	to addressee	4000	7960	left	8000	8200	to addressee	8240	8560	right	8600	8720	to addressee	8760	9360	left	9400	10000
+eye aperture	squint	4000	6200	start	6240	6520	wide	6560	7000	start	7040	7080	closed	7120	7280	start	7320	7400	squint	7440	9600	end	9640	10000
+nose	wrinkle	4000	9600	end	9640	10000
+POS	Pronoun	4080	4520	Proper Noun	4720	4960	Verb	5120	5440	Preposition	5520	5600	Proper Noun	5840	6200	Proper Noun	6440	7200	Pronoun	7320	7560	Noun	7720	8000	Adjective	8160	8280	Noun	8360	8560	Noun	8720	9520
+Non-dominant POS	Preposition	5520	5600
+English translation	We, Deafies, went to Maine for White water rafting.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	10040
+End frame:	12040
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	REALLY	10360	10440	IX-1p	10520	10600	ARRIVE	10720	10880	FRIDAY	10960	11240	NIGHT	11440	12000
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	10040	10200	start	10240	10400	front	10440	11720	end	11760	12040
+head pos: turn	left	10040	10320	start	10360	10600	right	10640	12040
+head pos: tilt side	left	10040	10400	start	10440	10680	start	10720	11600	right	11640	12040
+head pos: jut	slightly forward	10040	10120	start	10160	10440	back	10480	11680	end	11720	12040
+body lean	start	10040	10520	back/left	10560	11720	end	11760	12040
+eye brows	slightly lowered	10040	10200	start	10240	10360	lowered	10400	12040
+eye gaze	left	10040	10320	to addressee	10600	11200	right	11240	11480	to addressee	11520	11920	left	11960	12040
+eye aperture	start	10040	10320	closed	10360	10560	start	10600	10720	further squinted	10760	11240	start	11280	11360	squint	11400	12040
+nose	start	10200	10320	wrinkle	10360	12040
+POS	Discourse Marker	10360	10440	Pronoun	10520	10600	Verb	10720	10880	Adjective	10960	11240	Noun	11440	12000
+English translation	I arrived on Friday night.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	12080
+End frame:	16000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	REALLY	12200	12240	MANY	12360	12400	CAMP	12560	12920	CL:5"locations"	13080	14440	SET-UP++	14640	15480	|>		15960
+non-dominant hand gloss
+head pos: tilt fr/bk	start	12080	12720	front	12760	14400	start	14440	15640	slightly back	15680	16000
+head pos: turn	right	12080	12080	start	12120	12360	slightly left	12400	12720	start	12760	13000	right	13040	13720	start	13760	14040	left	14080	15280	start	15320	15840	right	15880	16000
+head pos: tilt side	slightly right	12080	12200	start	12240	12400	right	12440	13560	start	13600	14040	left	14080	15320	start	15360	15600	right	15640	16000
+head pos: jut	start	12080	12640	back	12680	12800	start	12840	13480	forward	13520	15320	end	15360	16000
+body lean	start	12080	12640	slightly back	12680	12920	start	12960	13680	forward	13720	14240	start	14280	14520	forward/left	14560	15080	end	15120	16000
+eye brows	lowered	12080	13480	start	13520	15720	lowered	15760	16000
+eye gaze	to addressee	12080	14760	left	14800	15400	to addressee	15440	16000
+eye aperture	squint	12080	16000
+nose	wrinkle	12080	12880	start	12920	15760	wrinkle	15800	16000
+POS	Discourse Marker	12200	12240	Adjective	12360	12400	Noun	12560	12920	Classifier	13080	14440	Verb	14640	15480
+English translation	There was many camps all over that is already set up.
+Notes - number of character bytes:	21
+-SET-UP, is it cl or?
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	16040
+End frame:	21760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	part:indef	16080	16160	BEER	16400	16800	CL:5"many objects"	17160	17800	REALLY	17920	18000	EVERYWHERE	18160	18520	CL:5"locations"	18720	19200	PEOPLE	19600	20200	CL:5"crowding"	20360	21680
+non-dominant hand gloss	EVERYWHERE	18160	18520
+head pos: tilt fr/bk	slightly back	16040	18320	start	18360	21120	slightly back	21160	21760
+head pos: turn	right	16040	16160	start	16200	16600	left	16640	17560	start	17600	18400	right	18440	18560	start	18600	19120	left	19160	19480	start	19520	19960	right	20000	20680	start	20720	21280	slightly left	21320	21560	start	21600	21720	slightly left	21760	21760
+head pos: tilt side	right	16040	16120	start	16160	16520	left	16560	17280	start	17320	17680	right	17720	18600	start	18640	19160	left	19200	19520	start	19560	19920	right	19960	20720	start	20760	21200	left	21240	21480	end	21520	21760
+head pos: jut	start	16040	16640	forward	16680	18160	start	18200	19160	forward	19200	19520	start	19560	20440	forward	20480	21040	end	21080	21520
+body lean	start	16040	16800	forward/left	16840	17520	start	17560	19040	forward	19080	19200	start	19240	20360	forward/right	20400	20760	end	20800	21760
+eye brows	lowered	16040	20400	end	20440	21280
+eye gaze	to addressee	16040	16160	right	19520	19840	to addressee	20760	21760
+eye aperture	squint	16040	16320	start	16360	16360	closed	16400	18600	start	18640	19120	further squinted	19160	19280	start	19320	19600	further squinted	19640	21760
+nose	wrinkle	16040	20760	end	20800	21280
+POS	Particle	16080	16160	Noun	16400	16800	Classifier	17160	17800	Discourse Marker	17920	18000	Noun	18160	18520	Classifier	18720	19200	Noun	19600	20200	Classifier	20360	21680
+Non-dominant POS	Noun	18160	18520
+English translation	The beers were all over, really, it was in everywhere and there was crowd of people.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	21800
+End frame:	25640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p-arc	21920	22480	IX-1p-arc	22640	22920	part:indef	23000	23360	OVER-NIGHT	23560	24400	WAKE-UP	24720	25120	MORNING	25360	25640
+non-dominant hand gloss
+head pos: tilt fr/bk	back	21800	22280	start	22320	24600	front	24640	25280	end	25320	25640
+head pos: turn	slightly left	21800	21800	start	21840	22160	right	22200	22560	start	22600	22840	left	22880	23560	start	23600	24200	right	24240	24480	start	24520	24880	left	24920	25640
+head pos: tilt side	start	21800	21960	right	22000	22560	start	22600	22880	left	22920	23320	start	23360	23680	right	23720	24520	start	24560	24880	left	24920	25640
+head pos: jut	forward	21800	24200	end	24240	24880
+head mvmt: nod
+	start	21800	22960	rapid	23000	24080	end	24120	24880
+body lean	start	21800	23240	forward/left	23280	23680	start	23720	24160	forward/right	24200	24560	start	24600	24880	forward/left	24920	25640
+eye brows	slightly lowered	21800	22560	start	22600	23040	raised	23080	24880	end	24920	25640
+eye gaze	to addressee	21800	22600	left	22640	23520	right	23560	24440	left	25120	25520
+eye aperture	squint	21800	24040	start	24080	24320	closed	24360	24800	start	24840	24880	blink	24920	25120	start	25160	25560	closed	25600	25640
+nose	wrinkle	21800	24480	end	24520	25120
+POS	Pronoun	21920	22480	Pronoun	22640	22920	Particle	23000	23360	Noun	23560	24400	Verb	24720	25120	Noun	25360	25640
+English translation	We stayed up overnight and then woke up next morning.
+Notes - number of character bytes:	45
+-Not sure if English translation is correct??
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	25680
+End frame:	28640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	MORNING	25680	25720	PATIENT	25960	26600	STAND-UP	26880	27120	SEVEN	27240	27560	MORNING	28000	28560
+non-dominant hand gloss
+head pos: tilt fr/bk	start	26640	26840	slightly front	26880	28640
+head pos: turn	left	25680	25920	start	25960	27960	left	28000	28640
+head pos: tilt side	left	25680	25720	start	25760	26080	right	26120	26840	end	26880	27560
+head pos: jut	start	25680	26040	back	26080	28000	end	28040	28560
+body lean	forward/left	25680	25840	start	25880	26600	back/right	26640	26800	start	26840	27400	forward/left	27440	28640
+eye gaze	to addressee	26440	28040	left	28080	28400	to addressee	28440	28640
+eye aperture	closed	25680	26320	end	26360	26800
+POS	Noun	25680	25720	Adjective	25960	26600	Verb	26880	27120	Number	27240	27560	Noun	28000	28560
+English translation	We had to be patient because we got up at seven o'clock in the morning.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	28680
+End frame:	33880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	READY	28800	28920	FOR	29080	29200	IX-1p-arc	29360	29520	GREAT	29720	30160	fs-ADVDVENTURE	30280	32480	|>		32800	"clapping"	33040	33880
+non-dominant hand gloss	G:"focus"	30520	30680
+head pos: tilt fr/bk	slightly front	28680	31800	end	31840	33040
+head pos: turn	slightly left	28680	28720	start	28760	28880	slightly right	28920	29480	start	29520	29800	left	29840	30160	start	30200	30560	slightly right	30600	31760	start	31800	32760	left	32800	32840	start	32880	33160	left	33200	33880
+head pos: tilt side	start	28680	28800	right	28840	29480	start	29520	29720	further left	29760	30000	start	30040	30600	slightly right	30640	30720	start	30760	31120	left	31160	31800	start	31840	32480	right	32520	32960	start	33000	33280	left	33320	33880
+head pos: jut	start	28680	28800	back	28840	29520	start	29560	30440	back	30480	31800	start	31840	33320	slightly back	33360	33880
+head mvmt: side to side	start	28680	28880	slow	28920	30320	start	30360	31160	slow	31200	33160	end	33200	33880
+body lean	forward/left	28680	28760	start	28800	29320	back	29360	29520	start	29560	29960	slightly forward	30000	30240	start	30280	32000	forward	32040	32440	start	32480	32880	back/right	32920	33200	end	33240	33880
+eye gaze	to addressee	28680	31960	left	32000	32280	to addressee	32320	32920	left	32960	33680	to addressee	33720	33880
+eye aperture	start	31800	32880	blink	32920	33160	end	33200	33880
+POS	Verb	28800	28920	Preposition	29080	29200	Pronoun	29360	29520	Adjective	29720	30160	Noun	30280	32480
+English translation	We are ready for our great adventure!
+Notes - number of character bytes:	80
+-I glossed exactly what he spelled.. is that proper or shld I gloss right spell?
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	33920
+End frame:	38120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	#BUS	34000	34440	CL:5"vehicle motion"	34680	35160	ARRIVE	35360	35720	IX-1p-arc	35920	36120	CL:3"sitting on"++	36400	36960	AFTER	37080	37200	EAT	37360	37720	MORNING	37840	38080
+non-dominant hand gloss	ARRIVE	35360	35720	|>		36120
+head pos: tilt fr/bk	start	33920	34280	front	34320	35640	start	35680	36000	slightly back	36040	36160	start	36200	37040	front	37080	37240	start	37280	37800	front	37840	38120
+head pos: turn	slightly left	33920	33960	start	34000	34240	right	34280	35760	start	35800	36400	left	36440	37000	start	37040	37520	right	37560	38120
+head pos: tilt side	slightly left	33920	33920	start	33960	34240	right	34280	36040	start	36080	36400	further left	36440	36960	start	37000	37840	right	37880	38040	start	38080	38080	slightly right	38120	38120
+head pos: jut	slightly back	33920	33960	start	34000	34280	back	34320	35440	start	35480	36920	back	36960	37240	start	37280	37760	slightly back	37800	38120
+body lean	start	33920	34760	forward/right	34800	35640	start	35680	35800	forward	35840	35960	start	36000	36680	left	36720	37240	start	37280	37800	forward	37840	38120
+eye brows	start	33920	34240	slightly lowered	34280	34480	start	34520	36920	lowered	36960	38120
+eye gaze	to addressee	33920	35680	left	35720	36200	to addressee	36240	37120	right	37160	37520	to addressee	37560	38120
+eye aperture	start	33920	36920	squint	36960	38120
+nose	start	36400	36920	wrinkle	36960	38120
+POS	Noun	34000	34440	Classifier	34680	35160	Verb	35360	35720	Pronoun	35920	36120	Classifier	36400	36960	Preposition	37080	37200	Verb	37360	37720	Noun	37840	38080
+Non-dominant POS	Verb	35360	35720
+English translation	We went in the bus after breakfast.
+Notes - number of character bytes:	37
+-FIRST CL, is it corect way to gloss?
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	38160
+End frame:	42400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	38200	38280	CL:3"sitting on"++	38520	39040	CL:C"riding on the vehicle"	39160	40320	ARRIVE	40520	40800	ONE	40960	41080	RIVER	41240	42120	|>		42400
+non-dominant hand gloss
+head pos: tilt fr/bk	front	38160	38920	start	38960	39160	back	39200	40520	start	40560	41000	front	41040	42400
+head pos: turn	right	38160	38200	start	38240	38400	left	38440	39400	start	39440	39800	right	39840	40840	start	40880	41160	left	41200	41240	start	41280	41760	right	41800	41880	start	41920	42280	left	42320	42400
+head pos: tilt side	slightly right	38160	38200	start	38240	38480	left	38520	39120	start	39160	39760	right	39800	40880	start	40920	41200	left	41240	41320	start	41360	41920	slightly right	41960	42000	start	42040	42320	left	42360	42400
+head pos: jut	slightly back	38160	38160	start	38200	39440	forward	39480	40440	start	40480	40840	back	40880	41960	start	42000	42280	forward	42320	42400
+body lean	forward	38160	38360	start	38400	38960	back/left	39000	39400	start	39440	39720	forward/left	39760	40320	start	40360	41200	back/right	41240	41360	start	41400	41920	forward	41960	42400
+eye brows	lowered	38160	42400
+eye gaze	left	38680	39160	to addressee	39200	39440	to addressee	41040	42400
+eye aperture	closed	38160	38280	start	38320	38400	further squinted	38440	39480	start	39520	39720	closed	39760	42400
+nose	wrinkle	38160	42400
+POS	Pronoun	38200	38280	Classifier	38520	39040	Classifier	39160	40320	Verb	40520	40800	Number	40960	41080	Noun	41240	42120
+English translation	We went in the bus and arrived to one river.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	42440
+End frame:	46680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	part:indef	43360	43560	fs-K	43680	44080	SPELL	44120	44520	LONG-TERM	44760	45080	WORD	45200	45600	IX-3p:i	45720	45840	RIVER	46080	46680
+non-dominant hand gloss	WORD	45200	45600	|>		45880
+head pos: tilt fr/bk	front	42440	46400	end	46440	46680
+head pos: turn	left	42440	42520	start	42560	42880	right	42920	43400	start	43440	43840	right	43880	44200	start	44240	44560	left	44600	44840	start	44880	45640	right	45680	46320	start	46360	46560	left	46600	46680
+head pos: tilt side	left	42440	42520	start	42560	43360	slightly right	43400	43400	start	43440	43680	right	43720	44240	start	44280	44520	left	44560	45120	start	45160	46560	slightly left	46600	46680
+head pos: jut	start	42440	42880	back	42920	44880	start	44920	45760	forward	45800	46200	end	46240	46680
+head mvmt: nod
+	start	42440	42920	slight rapid head nod	42960	43400	start	43440	45240	slight rapid head nod	45280	45840	end	45880	46560
+head mvmt: shake	start	44240	44720	rapid	44760	45240	end	45280	45840
+body lean	slightly forward	42440	42480	start	42520	42880	slightly back	42920	43200	start	43240	44120	back	44160	44440	start	44480	44880	forward	44920	46680
+eye brows	lowered	42440	44240	start	44280	45120	lowered	45160	46680
+eye gaze	to addressee	44160	46240	left	46280	46680
+eye aperture	further squinted	42440	42840	start	42880	42960	closed	43000	44000	start	44040	44240	blink	44280	44400	start	44440	45520	squint	45560	46680
+nose	wrinkle	42440	44160	start	44200	45520	wrinkle	45560	46680
+POS	Particle	43360	43560	Noun	44120	44520	Adjective	44760	45080	Noun	45200	45600	Determiner	45720	45840	Noun	46080	46680
+English translation	The river named start with "K", I don't know how to spell because its long word.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	46720
+End frame:	50880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IN	46840	46960	CLOSE-BY	47160	47240	MAINE	47400	47840	TWENTY	48000	48160	MINUTES	48240	48400	FROM	48640	48840	WHERE	48880	48960	IX-3p-arc	49000	49160	CAMP	49360	49720	CL:5"location"	49840	50160
+non-dominant hand gloss	CAMP	49360	49720	|>		50160
+head pos: tilt fr/bk	start	46720	47000	front	47040	50160	start	50200	50440	back	50480	50880
+head pos: turn	left	46720	46800	start	46840	47040	right	47080	47280	start	47320	48000	slightly left	48040	48200	start	48240	48320	left	48360	50360	start	50400	50760	right	50800	50880
+head pos: tilt side	left	46720	46800	start	46840	48680	left	48720	49080	start	49120	50800	right	50840	50880
+head pos: jut	start	46720	46920	back	46960	50000	start	50040	50240	forward	50280	50880
+head mvmt: nod
+	start	49360	49800	single	49840	50280	end	50320	50800
+body lean	forward	46720	46800	start	46840	47200	slightly back	47240	48200	start	48240	49800	forward/left	49840	50160	start	50200	50360	forward	50400	50840	end	50880	50880
+eye brows	lowered	46720	49120	start	49160	50400	slightly lowered	50440	50880
+eye gaze	to addressee	46720	48360	left	48400	48880	to addressee	48920	50880
+eye aperture	squint	46720	50040	start	50080	50080	blink	50120	50200	end	50240	50400
+nose	wrinkle	46720	49440	end	49480	50120
+POS	Preposition	46840	46960	Adjective	47160	47240	Noun	47400	47840	Number	48000	48160	Noun	48240	48400	Preposition	48640	48840	Wh-word	48880	48960	Pronoun	49000	49160	Noun	49360	49720	Classifier	49840	50160
+Non-dominant POS	Noun	49360	49720
+English translation	It was close by, twenty minutes away from our camp ground.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	50920
+End frame:	54560
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	SIT	51440	51640	ON	51800	51960	fs-RAFT	52080	52720	RAFT	52960	53760	|>		54400
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	50920	51280	start	51320	51840	front	51880	53640	start	53680	54440	slightly front	54480	54560
+head pos: turn	right	50920	53600	start	53640	54400	left	54440	54560
+head pos: tilt side	slightly right	50920	51200	start	51240	54200	left	54240	54560
+head pos: jut	forward	50920	51560	start	51600	54160	slightly back	54200	54560
+body lean	start	51320	51880	forward	51920	53920	end	53960	54560
+eye brows	slightly lowered	50920	53800	start	53840	54320	lowered	54360	54560
+eye gaze	to addressee	50920	53640	left	53680	54080	to addressee	54120	54560
+eye aperture	start	50920	51800	slightly squinted	51840	53480	start	53520	53600	blink	53640	53760	start	53800	54480	squint	54520	54560
+nose	start	51840	52720	wrinkle	52760	54560
+POS	Verb	51440	51640	Preposition	51800	51960	Noun	52080	52720	Noun	52960	53760
+English translation	We sat on the raft.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	54600
+End frame:	57080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	54640	54760	POSS-1p	54880	55000	FIRST	55120	55280	TIME	55440	55560	ADMIT	55680	56040	IX-1p	56120	56360	part:indef	56480	57080
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	54600	56640	end	56680	57080
+head pos: turn	left	54600	54680	start	54720	54880	right	54920	56080	start	56120	56320	left	56360	57080
+head pos: tilt side	left	54600	54720	start	54760	54960	slightly right	55000	56080	start	56120	56360	left	56400	57080
+head pos: jut	slightly back	54600	54680	start	54720	54840	back	54880	57080
+head mvmt: shake	start	56400	56720	slight rapid head shake	56760	57040	end	57080	57080
+body lean	start	54600	54920	back/left	54960	55600	start	55640	56400	right	56440	57080
+eye brows	lowered	54600	56360	start	56400	56640	raised	56680	57080
+eye gaze	to addressee	54600	56960	left	57000	57080
+eye aperture	squint	54600	56360	start	56400	56640	wide	56680	57080
+nose	wrinkle	54600	56400	end	56440	56680
+POS	Pronoun	54640	54760	Possessive	54880	55000	Number	55120	55280	Noun	55440	55560	Verb	55680	56040	Pronoun	56120	56360	Particle	56480	57080
+English translation	I have to admit that it was my first time.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	57120
+End frame:	62480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	57400	57480	NOT-KNOW	57680	57800	WHAT	57960	58040	FEEL	58200	58800	SAME	58920	59120	ON	59280	59800	BOAT	60000	60680	WATER	60880	61480	THINK	61600	61840	NOTHING	61960	62400
+non-dominant hand gloss	part:indef	57120	57160	|>		58040	part:indef	58640	59120	BOAT	60000	60680	|>		61680
+head pos: tilt fr/bk	start	57120	57480	slightly front	57520	57800	start	57840	61520	front	61560	62040	end	62080	62480
+head pos: turn	left	57120	57160	start	57200	57560	right	57600	58720	start	58760	59040	left	59080	62240	start	62280	62400	slightly right	62440	62480
+head pos: tilt side	slightly left	57120	57160	start	57200	60040	left	60080	62240	start	62280	62440	slightly right	62480	62480
+head pos: jut	back	57120	59200	start	59240	60040	forward	60080	60880	start	60920	62280	forward	62320	62480
+body lean	right	57120	57400	start	57440	60040	forward	60080	61040	start	61080	62000	left	62040	62480
+eye brows	raised	57120	60920	start	60960	61480	lowered	61520	62480
+eye gaze	left	57120	57200	to addressee	57240	59120	left	59160	59360	to addressee	59400	62480
+eye aperture	wide	57120	60920	start	60960	61480	squint	61520	62480
+nose	start	60960	61560	wrinkle	61600	62480
+POS	Pronoun	57400	57480	Negation+Verb	57680	57800	Wh-word	57960	58040	Verb	58200	58800	Adjective	58920	59120	Preposition	59280	59800	Noun	60000	60680	Noun	60880	61480	Verb	61600	61840	Negation	61960	62400
+Non-dominant POS	Particle	57120	57160	Particle	58640	59120	Noun	60000	60680
+English translation	I didn't know what it feel like to be on the boat but thought its nothing.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	62520
+End frame:	64680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	62600	62680	START	62800	62920	CL:3"sitting on"++	63040	63760	IX-3p:i	63840	64240	part:indef	64440	64600
+non-dominant hand gloss	NOTHING	62520	62560	|>		62640	CL:3"sitting on"++	63040	63760	|>		64080
+head pos: tilt fr/bk	start	62520	63200	front	63240	63480	start	63520	63720	slightly back	63760	64680
+head pos: turn	slightly right	62520	62520	start	62560	62640	right	62680	63240	start	63280	63560	left	63600	63720	start	63760	64080	right	64120	64680
+head pos: tilt side	slightly right	62520	62760	start	62800	63000	right	63040	63240	start	63280	63640	slightly left	63680	63880	end	63920	64120
+head pos: jut	forward	62520	62680	start	62720	63560	forward	63600	63880	start	63920	64600	slightly back	64640	64680
+head mvmt: nod
+	start	62520	62840	rapid	62880	63680	start	63720	64000	rapid	64040	64480	end	64520	64680
+body lean	left	62520	62560	start	62600	62960	right	63000	63240	start	63280	63520	forward	63560	64120	end	64160	64680
+eye brows	lowered	62520	64680
+eye gaze	to addressee	62520	62680
+eye aperture	further squinted	62520	63280	start	63320	63440	closed	63480	64680
+nose	wrinkle	62520	64680
+POS	Pronoun	62600	62680	Verb	62800	62920	Classifier	63040	63760	Pronoun	63840	64240	Particle	64440	64600
+Non-dominant POS	Negation	62520	62560	Classifier	63040	63760
+English translation	We started to sit down.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	64720
+End frame:	67400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p-arc	64840	64960	HAVE	65160	65240	LEADER	65480	66200	|>		66480
+non-dominant hand gloss	CL:3"sitting behind the person"	66520	67400
+head pos: tilt fr/bk	slightly back	64720	64720	start	64760	64960	slightly front	65000	65800	start	65840	66280	front	66320	67400
+head pos: turn	right	64720	64760	start	64800	65320	slightly left	65360	65720	start	65760	66280	right	66320	67400
+head pos: tilt side	slightly left	64720	64920	start	64960	66480	slightly right	66520	66960	end	67000	67400
+head pos: jut	back	64720	67400
+body lean	start	64720	64920	back/right	64960	65360	start	65400	65520	slightly back	65560	66440	start	66480	66720	back	66760	67400
+eye brows	lowered	64720	67400
+eye gaze	to addressee	64960	67280	left	67320	67400
+eye aperture	further squinted	64720	65200	start	65240	65320	squint	65360	67400
+nose	wrinkle	64720	67400
+POS	Pronoun	64840	64960	Adverb	65160	65240	Proper Noun	65480	66200
+Non-dominant POS	Classifier	66520	67400
+English translation	We have a leader who sit behind us.
+Notes - number of character bytes:	35
+- the last CL correct way to gloss?
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	67440
+End frame:	71400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	HAVE	67600	67720	|>		68680	UNDERSTAND	68920	69160	BOTH	69480	69760	FRONT	69960	70240	MUST	70400	70520	HEARING	70720	71400
+non-dominant hand gloss	CL:3"sitting behind the person"	67440	67480	|>		67680	IX-3p-pl-8:x/y	67920	68760	|>		69280
+head pos: tilt fr/bk	front	67440	70320	end	70360	71400
+head pos: turn	slightly right	67440	67480	start	67520	67640	left	67680	68520	start	68560	68960	right	69000	70160	start	70200	70800	left	70840	71400
+head pos: tilt side	start	67440	67720	slightly left	67760	67960	start	68000	69040	right	69080	70320	start	70360	70840	left	70880	71400
+head pos: jut	back	67440	70360	end	70400	71400
+body lean	back	67440	67640	start	67680	68080	forward/left	68120	69000	start	69040	69720	forward	69760	71400
+eye brows	lowered	67440	68920	start	68960	69560	raised	69600	70120	start	70160	70640	slightly lowered	70680	71400
+eye gaze	left	67440	67800	to addressee	67840	68760	right	68800	69160	to addressee	69200	71400
+eye aperture	squint	67440	69040	start	69080	69640	wide	69680	70360	end	70400	70680
+nose	wrinkle	67440	68560	end	68600	69640
+POS	Adverb	67600	67720	Verb	68920	69160	Pronoun	69480	69760	Noun	69960	70240	Verb	70400	70520	Adjective	70720	71400
+Non-dominant POS	Classifier	67440	67480	Pronoun	67920	68760
+English translation	There was eight of us, two people in front have to be hearing.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	71440
+End frame:	74560
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	010
+main gloss	#SO	71560	71760	IX-1p	71880	71960	CAN	72080	72160	FOLLOW	72360	72960	BCL:S"rowing"	73200	74560
+non-dominant hand gloss
+head pos: tilt fr/bk	start	72960	73080	slightly front	73120	74040	end	74080	74360
+head pos: turn	left	71440	73000	start	73040	73320	right	73360	73640	start	73680	73880	slightly right	73920	74560
+head pos: tilt side	left	71440	71800	start	71840	73240	right	73280	73640	start	73680	74040	slightly right	74080	74520	end	74560	74560
+head pos: jut	start	71440	72080	back	72120	73480	end	73520	74280
+body lean	forward	71440	71720	start	71760	72120	back/right	72160	73120	start	73160	73440	forward	73480	73880	start	73920	74120	back/left	74160	74560
+eye gaze	to addressee	71440	73120	right	73160	73560	to addressee	73600	74560
+POS	Discourse Marker	71560	71760	Pronoun	71880	71960	Modal	72080	72160	Verb	72360	72960	Classifier	73200	74560
+English translation	So, I can follow the way how to rowing.
+Notes - number of character bytes:	77
+- last cl, correct way to gloss and is it considers as  Body Classifier sign?
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	74600
+End frame:	77840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	KNOW	74680	74800	WHEN	74960	75120	RIGHT	75320	75520	TIME	75640	75800	STOP	76120	76320	BCL:S"rowing"+	76520	77520
+non-dominant hand gloss
+head pos: tilt fr/bk	start	75640	76120	front	76160	76800	end	76840	77720
+head pos: turn	slightly right	74600	74640	start	74680	74840	left	74880	76080	start	76120	77680	left	77720	77840
+head pos: tilt side	start	74600	74920	left	74960	75760	start	75800	76120	right	76160	76760	end	76800	77640
+head pos: jut	start	74600	75240	back	75280	75880	end	75920	76760
+head mvmt: nod
+	start	75640	76080	single	76120	76800	end	76840	77560
+body lean	back/left	74600	74720	start	74760	76080	back/right	76120	76720	start	76760	77040	forward	77080	77560	end	77600	77840
+eye brows	start	75280	75800	raised	75840	76880	start	76920	77760	lowered	77800	77840
+eye gaze	to addressee	74600	76280	down/right	76320	76480	to addressee	76520	77840
+eye aperture	start	75280	75760	wide	75800	76640	start	76680	77680	squint	77720	77840
+nose	start	77080	77680	wrinkle	77720	77840
+POS	Verb	74680	74800	Wh-word	74960	75120	Adjective	75320	75520	Noun	75640	75800	Verb	76120	76320	Classifier	76520	77520
+English translation	They will know when is right time to stop rowing.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	77880
+End frame:	81680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	SCREAM	78840	79200	#SO	79280	79440	IX-3p-arc	79520	79680	DEAF	79800	80120	CAN-NOT	80240	80480	HEAR	80640	80920	BACK	81080	81680
+non-dominant hand gloss	THUMB-IX-3p:i	78080	78680	|>		79840
+head pos: tilt fr/bk	start	77880	78080	front	78120	78320	start	78360	79000	slightly back	79040	79200	start	79240	79520	front	79560	81680
+head pos: turn	slightly left	77880	77920	start	77960	78120	right	78160	79040	start	79080	79520	left	79560	80240	start	80280	80520	right	80560	81560	end	81600	81680
+head pos: tilt side	start	77880	78160	slightly right	78200	79200	start	79240	79480	left	79520	80200	end	80240	81000
+head pos: jut	start	77880	77960	back	78000	81680
+body lean	start	77880	78080	back	78120	78800	start	78840	79640	back/right	79680	80600	start	80640	81240	back	81280	81680
+eye brows	lowered	77880	78360	start	78400	80400	slightly lowered	80440	81680
+eye gaze	to addressee	77880	79600	left	79640	80000	to addressee	80040	80280	right	80320	81680
+eye aperture	squint	77880	78720	start	78760	80320	squint	80360	81680
+nose	wrinkle	77880	78440	start	78480	80240	wrinkle	80280	81680
+POS	Verb	78840	79200	Discourse Marker	79280	79440	Pronoun	79520	79680	Proper Noun	79800	80120	Negation+Verb	80240	80480	Verb	80640	80920	Preposition	81080	81680
+Non-dominant POS	Pronoun	78080	78680
+English translation	The person behind us would scream and we Deaf people can not hear back.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	81720
+End frame:	83520
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	#SO	81760	81840	IX-1p	81960	82040	CL:3"sitting down"+	82160	82680	part:indef	82800	83000	READY	83120	83520
+non-dominant hand gloss
+head pos: tilt fr/bk	front	81720	82920	start	82960	83360	back	83400	83520
+head pos: turn	start	81720	81880	left	81920	82400	start	82440	82640	right	82680	82920	start	82960	83080	left	83120	83520
+head pos: tilt side	start	82920	83080	left	83120	83520
+head pos: jut	back	81720	81840	start	81880	82760	forward	82800	83080	start	83120	83440	slightly back	83480	83520
+head mvmt: nod
+	start	81720	81960	rapid	82000	83240	end	83280	83440
+body lean	slightly back	81720	81840	start	81880	82800	slightly forward	82840	83120	end	83160	83520
+eye brows	lowered	81720	83320	start	83360	83480	raised	83520	83520
+eye gaze	right	81720	81920	left	82840	83520
+eye aperture	squint	81720	81800	start	81840	81960	closed	82000	82720	start	82760	82920	squint	82960	83480	end	83520	83520
+nose	wrinkle	81720	83520
+POS	Discourse Marker	81760	81840	Pronoun	81960	82040	Classifier	82160	82680	Particle	82800	83000	Verb	83120	83520
+English translation	So we sat down and get ready.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	83560
+End frame:	87160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	BOAT	83760	84840	REALLY	85040	85160	SLOW	85360	85960	IX-1p	86080	86400	UNKNOWN	86720	87160
+non-dominant hand gloss	BOAT	83760	84840	|>		85040	SLOW	85360	85960	|>		86240
+head pos: tilt fr/bk	back	83560	84920	start	84960	85440	front	85480	85600	end	85640	86560
+head pos: turn	left	83560	83680	start	83720	84600	right	84640	85960	start	86000	86320	left	86360	87160
+head pos: tilt side	left	83560	83560	start	83600	84040	right	84080	84440	start	84480	85080	left	85120	86000	end	86040	86560
+head pos: jut	back	83560	84120	start	84160	84480	forward	84520	86000	end	86040	86560
+head mvmt: nod
+	start	83560	83680	slow	83720	84920	end	84960	85400
+body lean	start	83560	83800	back	83840	84040	start	84080	84840	forward	84880	85960	end	86000	86720
+eye brows	slightly raised	83560	84520	start	84560	84720	lowered	84760	87160
+eye gaze	right	84000	84600
+eye aperture	lowered lid	83560	83600	start	83640	83640	closed	83680	83880	start	83920	84000	lowered lid	84040	84480	start	84520	84640	further squinted	84680	85640	start	85680	85960	closed	86000	86320	start	86360	86600	further squinted	86640	87160
+nose	wrinkle	83560	83640	start	83680	85040	wrinkle	85080	87160
+POS	Noun	83760	84840	Adverb	85040	85160	Adjective	85360	85960	Pronoun	86080	86400
+Non-dominant POS	Noun	83760	84840	Adjective	85360	85960
+English translation	The boat was really slow.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	87200
+End frame:	93000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	87320	87360	BCL:S"rowing"++	87680	88960	IX-1p	89120	89240	THINK	89480	89680	UNKNOWN	89880	90120	BORE	90360	90680	UNKNOWN	90800	91400	CL:S"rowing"++	91760	93000
+non-dominant hand gloss	BCL:S"rowing"++	87680	88960	|>		89640
+head pos: tilt fr/bk	start	92280	92760	front	92800	93000
+head pos: turn	left	87200	87440	start	87480	88080	right	88120	88560	start	88600	89080	left	89120	90240	start	90280	90680	right	90720	91240	start	91280	91640	left	91680	92240	start	92280	92720	left	92760	93000
+head pos: tilt side	start	87200	87440	right	87480	87880	start	87920	88480	slightly left	88520	88800	start	88840	89960	left	90000	90200	start	90240	90960	right	91000	91320	start	91360	91680	left	91720	92240	start	92280	92920	left	92960	93000
+head pos: jut	start	87200	87600	forward	87640	87960	start	88000	90720	slightly back	90760	91360	start	91400	92840	back	92880	93000
+head mvmt: side to side	start	87200	87600	slow	87640	92760	end	92800	92880
+body lean	start	87200	87640	forward/right	87680	88120	start	88160	88400	back/left	88440	88600	start	88640	90680	slightly forward	90720	91160	end	91200	92760
+eye brows	lowered	87200	87200	start	87240	87360	raised	87400	92360	start	92400	92920	slightly raised	92960	93000
+eye gaze	down/right	87640	87920	right	87960	88600	to addressee	88720	89440	left	89720	90200	down/right	90520	90840	right	90880	91360	left	91600	93000
+eye aperture	further squinted	87200	87200	start	87240	87240	closed	87280	87360	start	87400	87400	further lowered	87440	87920	start	87960	88000	lowered lid	88040	88480	start	88520	88600	blink	88640	88840	start	88880	88880	blink	88920	89080	start	89120	89120	further lowered	89160	89240	start	89280	89480	closed	89520	89960	start	90000	90120	further squinted	90160	90480	start	90520	90520	blink	90560	90720	start	90760	90880	lowered lid	90920	91240	start	91280	91320	closed	91360	91600	start	91640	91680	lowered lid	91720	91720	start	91760	91760	blink	91800	92240	start	92280	92800	further squinted	92840	93000
+nose	wrinkle	87200	87240	start	87280	92720	wrinkle	92760	93000
+POS	Pronoun	87320	87360	Classifier	87680	88960	Pronoun	89120	89240	Verb	89480	89680	Adjective	90360	90680	Classifier	91760	93000
+Non-dominant POS	Classifier	87680	88960
+English translation	I was rowing and thought it was bored.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	93040
+End frame:	95920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	SAY	93200	93280	IX-1p	93440	93520	BCL:4"tapping person"	93720	93880	fs-TONY	94040	94840	POSS-1p	95000	95080	FRIEND	95360	95880	|>		95920
+non-dominant hand gloss	BCL:S"rowing"	93040	93080	|>		94920
+head pos: tilt fr/bk	front	93040	93920	start	93960	95080	slightly front	95120	95240	start	95280	95720	front	95760	95920
+head pos: turn	left	93040	93200	start	93240	93520	slightly right	93560	94200	start	94240	94920	right	94960	95600	start	95640	95880	slightly left	95920	95920
+head pos: tilt side	left	93040	94040	start	94080	95160	slightly left	95200	95880	end	95920	95920
+head pos: jut	back	93040	93840	start	93880	94680	back	94720	95480	end	95520	95920
+body lean	start	93040	93360	forward	93400	94000	start	94040	94920	slightly back	94960	95640	end	95680	95920
+eye brows	slightly raised	93040	93320	start	93360	93480	lowered	93520	95920
+eye gaze	left	93040	93240	right	93360	93480	to addressee	93520	95920
+eye aperture	further squinted	93040	93520	start	93560	93840	squint	93880	95920
+nose	wrinkle	93040	94440	start	94480	95720	wrinkle	95760	95920
+POS	Verb	93200	93280	Pronoun	93440	93520	Classifier	93720	93880	Proper Noun	94040	94840	Possessive	95000	95080	Pronoun	95360	95880
+Non-dominant POS	Classifier	93040	93080
+English translation	I tapped to my friend Tony.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	95960
+End frame:	99680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	96040	96280	BCL:5"tapping person"	96840	97520	THAT	97760	98080	IX-3p:i	98160	98280	WHITE	98520	98680	WATER	98760	98880	BOAT	99080	99680
+non-dominant hand gloss	FRIEND	95960	96000	|>		96040	UNKNOWN	96360	96880	|>		98680
+head pos: tilt fr/bk	front	95960	96280	start	96320	98200	front	98240	99680
+head pos: turn	slightly left	95960	95960	start	96000	96080	left	96120	99560	start	99600	99640	slightly left	99680	99680
+head pos: tilt side	start	95960	96000	slightly left	96040	96320	start	96360	99560	slightly right	99600	99680
+head pos: jut	start	95960	96400	forward	96440	97640	start	97680	98280	back	98320	99680
+body lean	start	95960	96680	forward/left	96720	97680	start	97720	98160	slightly forward	98200	98480	start	98520	99320	forward	99360	99680
+eye brows	lowered	95960	99200	start	99240	99600	slightly raised	99640	99680
+eye gaze	to addressee	95960	96040	left	96200	97240	to addressee	97280	97880	left	97920	99400	to addressee	99440	99600
+eye aperture	squint	95960	96040	start	96080	96120	further squinted	96160	96200	start	96240	96520	squint	96560	99280	start	99320	99640	closed	99680	99680
+nose	wrinkle	95960	99480	end	99520	99680
+POS	Pronoun	96040	96280	Classifier	96840	97520	Pronoun	97760	98080	Determiner	98160	98280	Adjective	98520	98680	Noun	98760	98880	Noun	99080	99680
+Non-dominant POS	Pronoun	95960	96000
+English translation	I tapped and asked if that is what white water raft is all about.
+Notes - number of character bytes:	67
+-the UNKNOWN part, I believe its related to him holding the stick??
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	99720
+End frame:	103160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	CL:5"boat floating"	99720	99920	CL:5"waving"++	100160	103160
+non-dominant hand gloss
+head pos: tilt fr/bk	front	99720	100080	start	100120	100400	further front	100440	100840	start	100880	101000	front	101040	101360	start	101400	101520	further front	101560	101640	start	101680	102200	further front	102240	102320	start	102360	102800	front	102840	102880	start	102920	103120	back	103160	103160
+head pos: turn	slightly left	99720	99760	start	99800	99840	right	99880	99920	start	99960	100080	left	100120	100160	start	100200	100280	right	100320	100400	start	100440	100560	left	100600	101040	start	101080	101160	right	101200	101440	start	101480	101520	left	101560	101720	start	101760	101840	right	101880	102040	start	102080	102160	left	102200	102440	start	102480	102560	right	102600	102840	start	102880	102960	slightly left	103000	103000	start	103040	103120	right	103160	103160
+head pos: tilt side	right	99720	99960	start	100000	100080	left	100120	100200	start	100240	100280	further left	100320	100920	start	100960	101080	right	101120	101400	start	101440	101480	left	101520	101680	start	101720	101800	right	101840	101960	start	102000	102000	further left	102040	102240	start	102280	102440	right	102480	103160
+head pos: jut	back	99720	100560	start	100600	101360	back	101400	101960	start	102000	103080	slightly back	103120	103160
+body lean	forward	99720	99720	start	99760	99840	back	99880	100280	start	100320	100600	forward	100640	102800	end	102840	103160
+eye brows	slightly raised	99720	99760	start	99800	99800	raised	99840	103160
+eye gaze	to addressee	99720	103160
+eye aperture	slightly squinted	99720	99920	start	99960	100120	wide	100160	100440	end	100480	101080
+POS	Classifier	99720	99920	Classifier	100160	103160
+Notes - number of character bytes:	23
+- English translation??
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	103200
+End frame:	106120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	103240	103320	CL:3"falling out"	103480	104600	|>		105120	IX-1p	105160	105280	part:indef	105400	106120
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	103200	103320	start	103360	103440	slightly front	103480	103960	start	104000	104280	front	104320	105280	start	105320	105480	further back	105520	106120
+head pos: turn	right	103200	103320	start	103360	103480	left	103520	103640	start	103680	103760	right	103800	104040	start	104080	104240	left	104280	105280	start	105320	105360	left	105400	105640	start	105680	105880	slightly left	105920	106120
+head pos: tilt side	right	103200	103240	start	103280	103360	left	103400	103560	start	103600	103720	right	103760	104120	start	104160	105120	slightly left	105160	105200	start	105240	105360	slightly right	105400	105520	end	105560	105880
+head pos: jut	slightly back	103200	103320	start	103360	103520	back	103560	106120
+head mvmt: shake	start	103200	103280	rapid	103320	104920	start	104960	105240	rapid	105280	105920	end	105960	106120
+body lean	start	103200	103520	back/left	103560	103640	start	103680	104560	forward/right	104600	104760	start	104800	105160	slightly forward	105200	105240	start	105280	105480	back	105520	106120
+eye brows	raised	103200	105960	end	106000	106120
+eye gaze	to addressee	103200	106120
+eye aperture	slightly lowered	103200	105040	start	105080	105160	blink	105200	105320	end	105360	105880
+POS	Pronoun	103240	103320	Classifier	103480	104600	Pronoun	105160	105280	Particle	105400	106120
+English translation	I fell off and I was overwhelming.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	106160
+End frame:	109160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	106240	106280	LOSE	106440	106840	IX-1p	106960	107080	CAN-NOT	107200	107280	FIND	107440	107600	BOAT	107760	108160	|>		109080
+non-dominant hand gloss	part:indef	106160	106200	|>		106240	CAN-NOT	107200	107280	|>		107560	CL:5"boat behind person"	108560	109160
+head pos: tilt fr/bk	back	106160	106240	start	106280	107200	front	107240	109080	end	109120	109160
+head pos: turn	slightly left	106160	106160	start	106200	106240	slightly left	106280	106960	start	107000	107680	slightly right	107720	108960	start	109000	109120	slightly left	109160	109160
+head pos: tilt side	start	106160	106280	slightly left	106320	107040	start	107080	108360	right	108400	109080	end	109120	109160
+head pos: jut	back	106160	107320	start	107360	108160	forward	108200	109160
+head mvmt: shake	start	106160	106280	rapid	106320	107280	end	107320	108200
+body lean	back	106160	106240	start	106280	106960	forward	107000	109160
+eye brows	start	108400	108960	raised	109000	109160
+eye gaze	to addressee	106160	109080	up/left	109120	109160
+eye aperture	lowered lid	106160	108960	start	109000	109040	blink	109080	109120	end	109160	109160
+negative	negation	106320	107280
+POS	Pronoun	106240	106280	Verb	106440	106840	Pronoun	106960	107080	Modal+Negation	107200	107280	Verb	107440	107600	Noun	107760	108160
+Non-dominant POS	Particle	106160	106200	Classifier	108560	109160
+English translation	I get lost and can not find the boat.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	109200
+End frame:	112680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	109320	109400	"waving"	109640	110680	BOAT	110840	111000	GET	112200	112400	IX-1p	112480	112680
+non-dominant hand gloss	CL:5"boat toward to person"	111200	112000	GET	112200	112400	|>		112680
+head pos: tilt fr/bk	start	109200	109320	back	109360	109600	start	109640	111080	back	111120	111800	start	111840	112320	front	112360	112680
+head pos: turn	left	109200	110720	start	110760	111280	slightly right	111320	111920	start	111960	112240	slightly left	112280	112600	end	112640	112680
+head pos: tilt side	start	109200	109560	right	109600	109760	start	109800	109960	left	110000	110680	start	110720	111040	right	111080	112160	end	112200	112680
+head pos: jut	forward	109200	110680	start	110720	110960	back	111000	112680
+head mvmt: side to side	start	109200	109600	rapid	109640	110720	end	110760	111000
+body lean	forward	109200	111000	start	111040	111440	back/right	111480	112200	start	112240	112560	back	112600	112680
+eye brows	raised	109200	110720	start	110760	112560	lowered	112600	112680
+eye gaze	up/left	109200	109920	to addressee	109960	112680
+eye aperture	start	109200	109320	wide	109360	110600	start	110640	112560	squint	112600	112680
+nose	start	112280	112600	wrinkle	112640	112680
+POS	Pronoun	109320	109400	Noun	110840	111000	Verb	112200	112400	Pronoun	112480	112680
+Non-dominant POS	Classifier	111200	112000	Verb	112200	112400
+English translation	I waved at the boat and they came to get me.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	112720
+End frame:	117760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	AND	112720	112800	ANOTHER	112960	113160	MAN	113400	113600	fs-MIKE	113760	114360	fs-DAISY	114480	115440	IX-3p:i	115520	115640	CL:3"falling off"	115720	116240	WITH	116440	116560	IX-1p	116640	116840	(2h)CL:3"falling off"	116960	117760
+non-dominant hand gloss	1:"focus"	113760	114360	|>		115440	WITH	116440	116560	|>		116880
+head pos: tilt fr/bk	slightly front	112720	115400	start	115440	115560	front	115600	117560	end	117600	117760
+head pos: turn	start	112720	112880	right	112920	113120	start	113160	113640	slightly left	113680	114000	start	114040	115400	right	115440	115520	start	115560	116000	left	116040	117760
+head pos: tilt side	start	112720	112880	right	112920	113320	start	113360	113800	slightly left	113840	114440	start	114480	115440	right	115480	116040	start	116080	116680	slightly left	116720	117560	end	117600	117760
+head pos: jut	back	112720	117680	end	117720	117760
+head mvmt: nod
+	start	114440	115440	slight rapid head nod	115480	115840	end	115880	116160
+body lean	back	112720	112760	start	112800	115400	slightly forward	115440	115800	start	115840	116080	back/right	116120	117760
+eye brows	lowered	112720	116520	end	116560	117680
+eye gaze	to addressee	112720	116760	right	116800	117280	to addressee	117320	117760
+eye aperture	squint	112720	114880	start	114920	115320	blink	115360	115600	start	115640	115640	further squinted	115680	116080	start	116120	117720	closed	117760	117760
+nose	wrinkle	112720	116240	end	116280	117560
+POS	Preposition	112720	112800	Adjective	112960	113160	Pronoun	113400	113600	Proper Noun	113760	114360	Proper Noun	114480	115440	Determiner	115520	115640	Classifier	115720	116240	Preposition	116440	116560	Pronoun	116640	116840	Classifier	116960	117760
+Non-dominant POS	Preposition	116440	116560
+English translation	And another guy named Mike Daisy who also fell off with me.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	117800
+End frame:	121600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	117920	118120	part:indef	118240	118480	IX-3p:i	118920	119080	CL:S"pulling person out"	119360	120000	IX-1p	120120	120200	IN	120360	120480	ON	120720	120800	BOAT	121000	121560
+non-dominant hand gloss	CL:S"pulling person out"	119360	120000	|>		120120
+head pos: tilt fr/bk	start	117800	118640	back	118680	119000	start	119040	119440	further front	119480	120000	start	120040	120720	front	120760	121600
+head pos: turn	left	117800	119680	start	119720	120200	right	120240	121600
+head pos: tilt side	start	117800	118920	further left	118960	119880	start	119920	120600	slightly right	120640	120920	end	120960	121600
+head pos: jut	start	117800	118200	back	118240	121560	end	121600	121600
+body lean	back/right	117800	117920	start	117960	118360	slightly forward	118400	118560	start	118600	118880	back/right	118920	119480	start	119520	119880	slightly forward	119920	120160	start	120200	120960	forward	121000	121600
+eye brows	start	117800	118120	raised	118160	118960	start	119000	120440	lowered	120480	121600
+eye gaze	to addressee	117800	117800	left	117840	118520	to addressee	118560	120280	right	120320	121600
+eye aperture	closed	117800	117800	start	117840	118000	blink	118040	118120	start	118160	118800	lowered lid	118840	119240	end	119280	119880
+POS	Pronoun	117920	118120	Particle	118240	118480	Pronoun	118920	119080	Classifier	119360	120000	Pronoun	120120	120200	Preposition	120360	120480	Preposition	120720	120800	Noun	121000	121560
+Non-dominant POS	Classifier	119360	120000
+English translation	They pulled me into the boat.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	121640
+End frame:	123160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	121720	121800	CL:3"sitting on"++	122040	122560	IX-1p	122640	122840	UNKNOWN	122920	123160
+non-dominant hand gloss	CL:3"sitting on"++	122040	122560	|>		122760
+head pos: tilt fr/bk	front	121640	122200	end	122240	122680
+head pos: turn	right	121640	121720	start	121760	121880	left	121920	122320	start	122360	122600	right	122640	122960	start	123000	123120	slightly left	123160	123160
+head pos: tilt side	start	121640	121760	left	121800	122280	start	122320	122560	right	122600	122920	start	122960	123120	slightly left	123160	123160
+head pos: jut	start	121640	121720	forward	121760	122280	start	122320	122600	back	122640	123160
+head mvmt: nod
+	start	121640	121840	single	121880	122120	end	122160	122320
+head mvmt: shake	start	122520	122600	single	122640	123120	end	123160	123160
+body lean	forward	121640	121760	start	121800	122920	slightly back	122960	123120	end	123160	123160
+eye brows	slightly lowered	121640	122040	end	122080	122320
+eye gaze	to addressee	121640	121680	left	121720	122000	up	122040	122280	right	122320	122880	left	122920	123160
+eye aperture	squint	121640	121760	start	121800	121960	blink	122000	122120	start	122160	122240	blink	122280	122360	start	122400	122840	blink	122880	123000	end	123040	123160
+POS	Pronoun	121720	121800	Classifier	122040	122560	Pronoun	122640	122840
+Non-dominant POS	Classifier	122040	122560
+English translation	I got back to sit down.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	123200
+End frame:	125800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IX-1p	123280	123360	REALIZE	123520	123840	UNKNOWN	123920	124200	SERIOUS	124320	124640	UNKNOWN	124760	124880	SERIOUS	124960	125080	BUSINESS	125200	125480	UNKNOWN	125560	125800
+non-dominant hand gloss	UNKNOWN	123200	123240	|>		123880	UNKNOWN	123920	124200	|>		124680	UNKNOWN	124760	124880	|>		125800
+head pos: tilt fr/bk	start	123200	123280	front	123320	124240	start	124280	124520	front	124560	125800
+head pos: turn	left	123200	124000	start	124040	124440	right	124480	124640	start	124680	124960	left	125000	125480	end	125520	125800
+head pos: tilt side	left	123200	124000	start	124040	124240	right	124280	124800	start	124840	125040	left	125080	125520	end	125560	125800
+head pos: jut	back	123200	123880	start	123920	124240	back	124280	125800
+head mvmt: nod
+	start	123200	123720	rapid	123760	124200	start	124240	124440	single	124480	124880	end	124920	125080
+body lean	start	123200	123360	forward	123400	124240	start	124280	125200	forward	125240	125800
+eye gaze	left	123200	123800	to addressee	123840	124760	left	124800	125280	right	125320	125800
+eye aperture	start	124920	125200	slightly lowered	125240	125800
+POS	Pronoun	123280	123360	Verb	123520	123840	Adjective	124320	124640	Adjective	124960	125080	Noun	125200	125480
+English translation	I realized its a serious business.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	125840
+End frame:	130000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	125960	126040	fs-FOOT	126360	126720	BPCL:4"foot under the object"	127000	127800	MAKE	128040	128120	SURE	128200	128320	IX-1p	128400	128480	REFUSE	128520	128560	FALL	128640	128960	AGAIN	129080	129280	BPCL:4"foot under the object"	129360	130000
+non-dominant hand gloss	MAKE	128040	128120	|>		128560
+head pos: tilt fr/bk	front	125840	126040	start	126080	127040	further front	127080	127720	start	127760	128920	further front	128960	130000
+head pos: turn	start	125840	126520	slightly right	126560	129680	end	129720	130000
+head pos: tilt side	start	125840	126960	left	127000	128280	start	128320	128920	slightly right	128960	130000
+head pos: jut	back	125840	126960	start	127000	128280	back	128320	130000
+body lean	slightly forward	125840	125840	start	125880	126400	back	126440	126960	start	127000	127400	forward/right	127440	127800	start	127840	129720	forward/right	129760	130000
+eye brows	start	128560	129320	lowered	129360	130000
+eye gaze	right	125840	125960	to addressee	126000	130000
+eye aperture	slightly lowered	125840	125960	start	126000	129160	squint	129200	129840	start	129880	129960	closed	130000	130000
+nose	start	128560	129160	wrinkle	129200	130000
+POS	Pronoun	125960	126040	Noun	126360	126720	Classifier	127000	127800	Verb	128040	128120	Adjective	128200	128320	Pronoun	128400	128480	Negation	128520	128560	Verb	128640	128960	Adverb	129080	129280	Classifier	129360	130000
+Non-dominant POS	Verb	128040	128120
+English translation	I had to put my foot under the seat so I won't fall again.
+Notes - number of character bytes:	31
+-first CL, is it correct: BPCL?
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	130040
+End frame:	135400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	BCL:S"rowing"++	130160	131120	CL:4"waving"++	131240	132280	SOME	132480	132640	CL:3"falling off"++	132760	134720	UNKNOWN	135000	135400
+non-dominant hand gloss	BCL:S"rowing"++	130160	131120	|>		131920
+head pos: tilt fr/bk	front	130040	131240	start	131280	133600	front	133640	134400	start	134440	134720	back	134760	134840	end	134880	135400
+head pos: turn	start	130040	130160	slightly left	130200	130880	start	130920	131120	left	131160	131680	start	131720	131920	slightly left	131960	133120	start	133160	133440	right	133480	134040	start	134080	134440	left	134480	135400
+head pos: tilt side	slightly right	130040	130760	start	130800	131160	left	131200	131560	start	131600	132080	right	132120	132320	start	132360	132520	left	132560	132880	start	132920	133720	right	133760	134120	start	134160	134640	left	134680	135400
+head pos: jut	back	130040	130240	start	130280	130800	forward	130840	132360	start	132400	133640	slightly back	133680	134400	start	134440	134720	slightly forward	134760	135000	end	135040	135400
+head mvmt: nod
+	start	130040	130480	rapid	130520	132320	start	132360	132640	rapid	132680	134600	start	134640	134920	single	134960	135360	end	135400	135400
+body lean	forward/right	130040	130320	start	130360	131040	slightly forward	131080	131360	start	131400	131800	forward	131840	132480	start	132520	132920	forward/left	132960	133600	start	133640	134280	forward/right	134320	134600	end	134640	135400
+eye brows	lowered	130040	135400
+eye gaze	to addressee	130040	133160
+eye aperture	closed	130040	130160	start	130200	130680	squint	130720	132360	start	132400	132840	further squinted	132880	134440	start	134480	134480	closed	134520	135400
+nose	wrinkle	130040	135400
+POS	Classifier	130160	131120	Classifier	131240	132280	Adjective	132480	132640	Classifier	132760	134720
+Non-dominant POS	Classifier	130160	131120
+English translation	There was waving while we were rowing, and people fell off the raft.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	135440
+End frame:	137880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	#FUN	135520	135840	GOOD	135960	136120	TIME	136280	136480	ALL-DAY	136640	137280	BREAK	137720	137880
+non-dominant hand gloss	UNKNOWN	135440	135480	|>		135880
+head pos: tilt fr/bk	start	136120	136400	slightly front	136440	136520	end	136560	137480
+head pos: turn	left	135440	135480	start	135520	135840	right	135880	136200	start	136240	136880	slightly left	136920	137080	start	137120	137320	right	137360	137880
+head pos: tilt side	left	135440	135480	start	135520	135880	right	135920	136480	start	136520	136760	left	136800	137880
+head pos: jut	start	137480	137800	back	137840	137880
+head mvmt: nod
+	start	135440	136120	slow	136160	137280	end	137320	137800
+body lean	start	135440	135760	forward	135800	136600	start	136640	137000	left	137040	137880
+eye brows	lowered	135440	137880
+eye gaze	left	136600	136800	to addressee	136840	137640	left	137680	137880
+eye aperture	further squinted	135440	137000	start	137040	137280	squint	137320	137880
+nose	wrinkle	135440	137880
+POS	Adjective	135520	135840	Adjective	135960	136120	Noun	136280	136480	Noun	136640	137280	Verb	137720	137880
+English translation	It was fun all day and we had a good time.  Then we decided to take a break.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	137920
+End frame:	140440
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	HAVE	138040	138240	EAT	138320	138600	NOON	138640	138800	BREAK	139000	139600	IX-1p	139720	139880	CL:5"pulling over"	140000	140440
+non-dominant hand gloss	BREAK	137920	137960	|>		138000	BREAK	139000	139600	|>		140440
+head pos: tilt fr/bk	start	137920	138000	back	138040	138640	start	138680	139440	front	139480	139600	start	139640	139840	back	139880	140080	start	140120	140280	front	140320	140440
+head pos: turn	slightly right	137920	137960	start	138000	138440	slightly left	138480	138640	start	138680	139160	right	139200	140320	end	140360	140440
+head pos: tilt side	slightly left	137920	138000	start	138040	139160	slightly right	139200	139800	start	139840	140000	right	140040	140360	end	140400	140440
+head pos: jut	back	137920	139480	end	139520	140000
+body lean	left	137920	138000	start	138040	139320	slightly forward	139360	139760	start	139800	140160	back/right	140200	140440
+eye brows	slightly lowered	137920	140440
+eye gaze	left	137920	137920	to addressee	137960	138400	right	138440	138600	to addressee	138640	140440
+eye aperture	slightly squinted	137920	140440
+nose	wrinkle	137920	138920	end	138960	139160
+POS	Adverb	138040	138240	Verb	138320	138600	Adjective	138640	138800	Noun	139000	139600	Pronoun	139720	139880	Classifier	140000	140440
+Non-dominant POS	Noun	137920	137960	Noun	139000	139600
+English translation	We have a lunch break to eat so we pulled over.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	140480
+End frame:	143000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	HAVE	140600	140800	STEAK	141000	141400	#OR	141560	141640	CHICKEN	141760	142160	CHOICE	142360	143000
+non-dominant hand gloss	STEAK	141000	141400	|>		141960
+head pos: tilt fr/bk	slightly front	140480	140520	start	140560	141440	slightly back	141480	142080	start	142120	142320	front	142360	142920	end	142960	143000
+head pos: turn	start	140480	140800	slightly left	140840	140920	start	140960	141760	slightly right	141800	142200	start	142240	142440	left	142480	143000
+head pos: tilt side	start	140480	141400	slightly right	141440	142080	start	142120	142400	left	142440	142960	end	143000	143000
+head pos: jut	start	140480	140720	slightly back	140760	141640	start	141680	142200	slightly back	142240	142880	end	142920	143000
+head mvmt: nod
+	start	142120	142320	slight rapid head nod	142360	142880	end	142920	143000
+body lean	back/right	140480	140600	start	140640	141400	left	141440	142200	start	142240	142560	right	142600	143000
+eye brows	slightly lowered	140480	140480	start	140520	142080	lowered	142120	142640	end	142680	142920
+eye gaze	to addressee	140480	140840	right	140880	141040	to addressee	141080	142880	right	142920	143000
+eye aperture	slightly squinted	140480	140520	start	140560	142080	squint	142120	142720	end	142760	142960
+nose	start	141760	142120	wrinkle	142160	142720	end	142760	142960
+POS	Verb	140600	140800	Noun	141000	141400	Preposition	141560	141640	Noun	141760	142160	Noun	142360	143000
+Non-dominant POS	Noun	141000	141400
+English translation	There was two choice to pick, steak or chicken.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	143080
+End frame:	147440
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	143240	143360	GO	143480	143640	FOR	143720	143840	STEAK	144000	144400	IX-1p	144560	144840	KISS	145000	145120	STEAK	145240	145480	IX-1p	145600	146040	IX-1p	146120	146200	GRAB	146360	146680	EAT	146840	147360
+non-dominant hand gloss	STEAK	144000	144400	|>		145120	STEAK	145240	145480	|>		146120	GRAB	146360	146680	|>		147440
+head pos: tilt fr/bk	start	143080	144200	slightly front	144240	144640	start	144680	145160	slightly front	145200	145800	start	145840	146040	slightly back	146080	146240	start	146280	146560	front	146600	147000	start	147040	147360	back	147400	147440
+head pos: turn	left	143080	143280	start	143320	143480	right	143520	144520	start	144560	144680	slightly left	144720	144840	start	144880	145320	left	145360	146040	start	146080	146280	right	146320	147160	start	147200	147400	left	147440	147440
+head pos: tilt side	start	143080	143280	right	143320	143840	start	143880	144480	right	144520	145280	start	145320	145800	left	145840	145880	start	145920	146120	right	146160	147080	start	147120	147360	left	147400	147440
+head pos: jut	start	143080	143520	back	143560	144440	start	144480	145040	back	145080	145760	start	145800	145920	forward	145960	147440
+head mvmt: nod
+	start	145240	145720	single	145760	146040	end	146080	146280
+body lean	right	143080	143280	start	143320	143560	back/left	143600	144680	start	144720	146640	forward	146680	147440
+eye brows	start	143080	143240	lowered	143280	146920	end	146960	147440
+eye gaze	right	143080	143160	to addressee	143200	144520	to addressee	145200	147320	down/left	147360	147440
+eye aperture	start	143080	143400	squint	143440	144400	start	144440	144560	closed	144600	145160	start	145200	145320	further squinted	145360	147440
+nose	start	143080	143360	wrinkle	143400	147440
+POS	Pronoun	143240	143360	Verb	143480	143640	Preposition	143720	143840	Noun	144000	144400	Pronoun	144560	144840	Verb	145000	145120	Noun	145240	145480	Pronoun	145600	146040	Pronoun	146120	146200	Verb	146360	146680	Verb	146840	147360
+Non-dominant POS	Noun	144000	144400	Noun	145240	145480	Verb	146360	146680
+English translation	I decided to go for steak.  I love steak myself so I thought why not eat steak.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	41
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	147480
+End frame:	150680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	CL:5"etc"	147560	148000	FINISH	148360	148600	CL:2"sitting on"	148800	149120	ON	149200	149320	fs-RAFT	149440	150040	AGAIN	150280	150680
+non-dominant hand gloss	ON	149200	149320	|>		149880
+head pos: tilt fr/bk	back	147480	147640	start	147680	147920	back	147960	148600	start	148640	148880	front	148920	150680
+head pos: turn	left	147480	147880	start	147920	148280	right	148320	148480	start	148520	148840	left	148880	149200	start	149240	149440	slightly right	149480	150040	start	150080	150240	left	150280	150520	start	150560	150640	slightly left	150680	150680
+head pos: tilt side	left	147480	147920	start	147960	148200	right	148240	148480	start	148520	148800	left	148840	149240	start	149280	150200	left	150240	150520	end	150560	150680
+head pos: jut	forward	147480	148520	start	148560	150080	slightly back	150120	150520	end	150560	150680
+body lean	forward	147480	148080	start	148120	148600	back/right	148640	148760	start	148800	149000	forward	149040	149160	start	149200	149240	forward/left	149280	150680
+eye brows	slightly lowered	147480	147960	start	148000	148160	slightly raised	148200	150680
+eye gaze	left	147480	147760	to addressee	147800	150280	left	150320	150640	to addressee	150680	150680
+eye aperture	squint	147480	148960	start	149000	149960	slightly squinted	150000	150680
+nose	wrinkle	147480	148760	end	148800	149160
+POS	Classifier	147560	148000	Aspect Marker	148360	148600	Classifier	148800	149120	Preposition	149200	149320	Noun	149440	150040	Adverb	150280	150680
+Non-dominant POS	Preposition	149200	149320
+English translation	We went to sit on the raft again.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	42
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	150720
+End frame:	154400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	CL:5"vehicle motion"	150920	151560	IX-3p:i	151840	152240	|>		152960	MAN	153080	153360	WHO	153440	153560	LEAD	153720	154120	IX-3p-arc	154240	154400
+non-dominant hand gloss	CL:5"vehicle motion"	150920	151560	|>		152200	THUMB-IX-3p:i	152280	152800	|>		153360	LEAD	153720	154120	|>		154400
+head pos: tilt fr/bk	front	150720	151040	start	151080	152520	slightly front	152560	153360	start	153400	153640	front	153680	154400
+head pos: turn	slightly left	150720	150760	start	150800	151560	left	151600	152520	start	152560	153720	right	153760	154400
+head pos: tilt side	start	153680	153920	slightly right	153960	154320	end	154360	154400
+head pos: jut	start	151240	151520	back	151560	154400
+head mvmt: nod
+	start	150720	150760	rapid	150800	151520	end	151560	152280
+body lean	forward/right	150720	151080	start	151120	151560	forward	151600	152200	start	152240	152560	back	152600	154400
+eye brows	start	150720	151400	slightly lowered	151440	151640	start	151680	151800	raised	151840	154400
+eye gaze	to addressee	150720	151000	left	151040	151680	to addressee	151720	152160	left	152200	152480	to addressee	152520	153400	right	153440	153880	to addressee	153920	154400
+eye aperture	slightly squinted	150720	151560	start	151600	152160	wide	152200	154400
+nose	start	151080	151320	wrinkle	151360	151760	end	151800	152280
+POS	Classifier	150920	151560	Pronoun	151840	152240	Noun	153080	153360	Wh-word	153440	153560	Verb	153720	154120	Pronoun	154240	154400
+Non-dominant POS	Classifier	150920	151560	Pronoun	152280	152800	Verb	153720	154120
+English translation	While the raft was moving, the man behind us is our leader. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	43
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	154440
+End frame:	157840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	THUMB-IX-3p-i	154520	154920	WARN	155080	155560	SAY	155760	155960	LATER	156280	156600	IX-3p:j	156720	156960	TOUGH	157120	157840
+non-dominant hand gloss	WARN	155080	155560	|>		156160
+head pos: tilt fr/bk	front	154440	155120	start	155160	155760	front	155800	157840
+head pos: turn	right	154440	154680	start	154720	155080	left	155120	157840
+head pos: tilt side	start	154440	155160	slightly left	155200	155600	start	155640	156160	slightly right	156200	157560	end	157600	157840
+head pos: jut	back	154440	155160	end	155200	155640
+body lean	back	154440	155000	start	155040	155600	forward	155640	157120	end	157160	157840
+eye brows	raised	154440	154600	start	154640	154880	lowered	154920	157840
+eye gaze	to addressee	154440	157840
+eye aperture	wide	154440	154680	start	154720	155000	squint	155040	155680	start	155720	155960	closed	156000	157000	start	157040	157080	squint	157120	157840
+POS	Pronoun	154520	154920	Verb	155080	155560	Verb	155760	155960	Adverb	156280	156600	Pronoun	156720	156960	Adjective	157120	157840
+Non-dominant POS	Verb	155080	155560
+English translation	He warned us that later will be tougher.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	44
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	157880
+End frame:	160520
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	REALLY	157960	158040	EXPECT	158120	158560	MANY	159080	159400	IX-3p-arc	159480	159640	FALL	159880	160520
+non-dominant hand gloss	EXPECT	158120	158560	|>		159040
+head pos: tilt fr/bk	slightly front	157880	160520
+head pos: turn	left	157880	158760	start	158800	159280	right	159320	160080	start	160120	160480	left	160520	160520
+head pos: tilt side	start	157880	158080	left	158120	158840	start	158880	159120	right	159160	160120	start	160160	160480	slightly left	160520	160520
+head pos: jut	start	159080	159240	back	159280	160160	end	160200	160520
+head mvmt: shake	start	158600	158720	rapid	158760	159560	end	159600	159960
+body lean	forward	157880	158560	start	158600	158600	forward/left	158640	158760	start	158800	158800	forward	158840	159200	start	159240	159920	forward	159960	160520
+eye brows	lowered	157880	160520
+eye gaze	to addressee	157880	160280	left	160320	160520
+eye aperture	slightly squinted	157880	160080	start	160120	160240	blink	160280	160400	start	160440	160440	slightly squinted	160480	160520
+nose	start	157880	158120	tensed	158160	158440	end	158480	159080
+POS	Discourse Marker	157960	158040	Verb	158120	158560	Adjective	159080	159400	Pronoun	159480	159640	Verb	159880	160520
+Non-dominant POS	Verb	158120	158560
+English translation	He expected for us all to fall.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	45
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	160560
+End frame:	163160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	160680	160840	LOOK	160960	161880	|>		161960	#OK	162040	162240	FINE	162320	163160
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	160560	160640	start	160680	161360	back	161400	162040	start	162080	162440	front	162480	162680	start	162720	163040	back	163080	163160
+head pos: turn	left	160560	161960	start	162000	162320	right	162360	163160
+head pos: tilt side	slightly left	160560	161960	start	162000	162280	right	162320	163160
+head pos: jut	start	162000	162280	slightly back	162320	162840	end	162880	163160
+head mvmt: nod
+	start	162000	162240	slow	162280	163120	end	163160	163160
+body lean	slightly forward	160560	160720	start	160760	161400	back	161440	162080	start	162120	162440	forward	162480	162840	end	162880	163160
+eye brows	slightly lowered	160560	163040	end	163080	163160
+eye gaze	left	160560	161080	to addressee	161120	162280	right	162320	163160
+eye aperture	slightly squinted	160560	161520	start	161560	161800	blink	161840	162320	end	162360	162840
+POS	Pronoun	160680	160840	Verb	160960	161880	Discourse Marker	162040	162240	Adjective	162320	163160
+English translation	I looked at him and said ok, that is fine.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	46
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	163200
+End frame:	168280
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	FINE	163200	163240	|>		163400	REALLY	165440	165600	FIFTEEN	165680	166080	#FEET	166200	166600	DOWN	166720	168160	|>		168280
+non-dominant hand gloss	CL:5"waving"	163640	164840	|>		165600
+head pos: tilt fr/bk	back	163200	165360	start	165400	166680	further front	166720	167280	start	167320	168200	slightly back	168240	168280
+head pos: turn	right	163200	163520	start	163560	164360	left	164400	165360	start	165400	165920	right	165960	166600	start	166640	167080	left	167120	168280
+head pos: tilt side	right	163200	163840	start	163880	164320	left	164360	165200	start	165240	166760	left	166800	168280
+head pos: jut	start	163200	163200	back	163240	164800	start	164840	164880	slightly back	164920	165680	start	165720	166000	back	166040	166680	start	166720	167920	forward	167960	168280
+body lean	start	163200	163480	back	163520	164360	start	164400	165080	forward	165120	168280
+eye brows	start	163200	163360	raised	163400	164720	start	164760	165360	slightly lowered	165400	165560	start	165600	165800	raised	165840	166120	start	166160	166560	slightly lowered	166600	167000	end	167040	168280
+eye gaze	right	163200	163320	to addressee	163360	163560	up	163600	165240	to addressee	165280	168280
+nose	start	164920	165360	wrinkle	165400	165560	end	165600	166120
+POS	Adjective	163200	163240	Discourse Marker	165440	165600	Number	165680	166080	Noun	166200	166600	Preposition	166720	168160
+Non-dominant POS	Classifier	163640	164840
+English translation
+Notes - number of character bytes:	100
+-FOR "FIFTEEN" did he use focus?? or just holding his arm?
+-Not sure abut English Translation part??
+
+
+Utterance ID:	47
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	168320
+End frame:	172040
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	168440	168720	BCL:S"holding the stick"	169000	169240	|>		170160	EXPECT	170360	170680	FALL	170800	171120	IX-1p	171280	171360	BCL:S"holding the stick"	171440	172040
+non-dominant hand gloss	EXPECT	170360	170680	|>		170920
+head pos: tilt fr/bk	slightly back	168320	168760	start	168800	168960	further back	169000	169840	start	169880	170360	front	170400	171320	start	171360	172000	front	172040	172040
+head pos: turn	left	168320	172040
+head pos: tilt side	slightly left	168320	169840	start	169880	170160	further left	170200	170960	end	171000	172040
+head pos: jut	forward	168320	168960	start	169000	170160	back	170200	172040
+head mvmt: nod
+	start	169120	169240	rapid	169280	169880	end	169920	170960
+head mvmt: shake	start	169840	170160	rapid	170200	171360	end	171400	172000
+body lean	forward	168320	168480	start	168520	169120	back	169160	169440	start	169480	172000	slightly forward	172040	172040
+eye brows	start	170560	171240	raised	171280	172040
+eye gaze	to addressee	168320	172040
+eye aperture	start	168320	168600	slightly lowered	168640	170720	start	170760	171440	wide	171480	172040
+POS	Pronoun	168440	168720	Classifier	169000	169240	Verb	170360	170680	Verb	170800	171120	Pronoun	171280	171360	Classifier	171440	172040
+Non-dominant POS	Verb	170360	170680
+English translation	I was holding the stick and expected to fall.
+Notes - number of character bytes:	38
+- correct way to gloss the CL as BCL??
+
+
+Utterance ID:	48
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	172080
+End frame:	175840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	173880	173960	MANY	174120	174360	FALL++	174480	175840
+non-dominant hand gloss	CL:4"down"	172520	173720	|>		173920
+head pos: tilt fr/bk	front	172080	172120	start	172160	172360	further front	172400	173440	start	173480	173920	front	173960	175840
+head pos: turn	slightly left	172080	172240	start	172280	172480	right	172520	173000	start	173040	173840	left	173880	174480	start	174520	174640	right	174680	174920	start	174960	175120	left	175160	175520	start	175560	175640	right	175680	175840
+head pos: tilt side	start	173480	173920	left	173960	174400	start	174440	174680	right	174720	174800	start	174840	175080	left	175120	175520	end	175560	175840
+head pos: jut	back	172080	172640	start	172680	173920	back	173960	174960	start	175000	175640	back	175680	175840
+head mvmt: shake	start	173920	174160	rapid	174200	175800	end	175840	175840
+body lean	slightly forward	172080	172160	start	172200	172400	forward	172440	175840
+eye brows	raised	172080	173840	end	173880	174160
+eye gaze	to addressee	172080	175840
+eye aperture	wide	172080	173800	start	173840	174280	blink	174320	174480	end	174520	174800
+POS	Discourse Marker	173880	173960	Adjective	174120	174360	Verb	174480	175840
+Non-dominant POS	Classifier	172520	173720
+English translation	We went down and many people fell off.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	49
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	175880
+End frame:	180320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	LEAVE	176040	176440	IX-1p	176680	176800	ns-MIKE	177000	177400	ns-DAISY	177560	178520	SARCASM	178640	179240	|>		179880	STRANGE	180160	180320
+non-dominant hand gloss	1:"focus"	177000	178600	IX-3p-pl-2:x/y	179440	179920	|>		180320
+head pos: tilt fr/bk	front	175880	176440	start	176480	178600	slightly front	178640	180320
+head pos: turn	right	175880	175920	start	175960	176320	right	176360	180320
+head pos: tilt side	start	175880	176120	slightly right	176160	177560	start	177600	178960	left	179000	180320
+head pos: jut	back	175880	180320
+head mvmt: shake	start	175880	175960	rapid	176000	176920	end	176960	178600
+body lean	forward	175880	176000	start	176040	176480	back	176520	180320
+eye brows	start	177560	178520	lowered	178560	180320
+eye gaze	to addressee	175880	180320
+eye aperture	start	177560	178520	squint	178560	180320
+POS	Verb	176040	176440	Pronoun	176680	176800	Proper Noun	177000	177400	Proper Noun	177560	178520	Noun	178640	179240	Adjective	180160	180320
+Non-dominant POS	Pronoun	179440	179920
+English translation	The only left was me and Mike Daisy.  I think it is sarcasm that it was just two of us.  It is strange.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	50
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	180360
+End frame:	183480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	SARCASM	180440	181560	|>		181800	FALL	182000	182680	PAST	182800	183480
+non-dominant hand gloss	IX-3p-pl-2:x/y	181680	181880	|>		183480
+head pos: tilt fr/bk	slightly front	180360	180520	start	180560	182680	slightly front	182720	183480
+head pos: turn	right	180360	180680	start	180720	181440	left	181480	181880	start	181920	182040	right	182080	183400	start	183440	183440	slightly right	183480	183480
+head pos: tilt side	left	180360	180960	start	181000	181320	right	181360	182160	start	182200	183160	slightly left	183200	183400	end	183440	183480
+head pos: jut	back	180360	183240	end	183280	183480
+body lean	back	180360	183480
+eye brows	slightly lowered	180360	181800	start	181840	182000	lowered	182040	183480
+eye gaze	to addressee	180360	181320	left	181360	181920
+eye aperture	squint	180360	181720	start	181760	181840	blink	181880	182000	start	182040	182040	further squinted	182080	183480
+nose	start	180960	181240	wrinkle	181280	183480
+POS	Noun	180440	181560	Verb	182000	182680	Tense Marker	182800	183480
+Non-dominant POS	Pronoun	181680	181880
+English translation	It was sarcasm because we both fell before.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	51
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	183520
+End frame:	187840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	BUT	183680	183920	IX-3p-pl-2:x/y	184240	184640	STILL	184800	185560	part:indef	185800	186240	LIVE	186360	186720	THAT	186840	187120	CL:5"falling"	187440	187720
+non-dominant hand gloss	STILL	184800	185560	|>		185760	LIVE	186360	186720	|>		186960
+head pos: tilt fr/bk	front	183520	187840
+head pos: turn	slightly right	183520	183520	start	183560	183720	left	183760	184520	start	184560	184800	right	184840	185560	start	185600	185840	left	185880	186080	start	186120	186320	right	186360	186760	start	186800	187080	left	187120	187840
+head pos: tilt side	start	183520	183760	slightly right	183800	184520	start	184560	184800	left	184840	185880	start	185920	187280	right	187320	187840
+head pos: jut	start	183520	184240	forward	184280	184320	start	184360	184640	back	184680	185160	start	185200	185600	forward	185640	186080	start	186120	186360	back	186400	187080	start	187120	187520	forward	187560	187840
+body lean	start	183520	184080	forward	184120	184720	start	184760	185600	forward	185640	186360	start	186400	186800	back/right	186840	187120	start	187160	187480	forward	187520	187840
+eye brows	lowered	183520	187560	start	187600	187720	slightly raised	187760	187840
+eye gaze	left	185840	186040	right	186080	186640	to addressee	186680	187360	left	187400	187680	to addressee	187720	187840
+eye aperture	squint	183520	187840
+nose	wrinkle	183520	187840
+POS	Conjunction	183680	183920	Pronoun	184240	184640	Adverb	184800	185560	Particle	185800	186240	Verb	186360	186720	Pronoun	186840	187120	Classifier	187440	187720
+Non-dominant POS	Adverb	184800	185560	Verb	186360	186720
+English translation	But, we both were still alive from that kind of fall.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	52
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	187880
+End frame:	190120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	187960	188240	BCL:S"grabbing person"++	188800	189960	|>		190120
+non-dominant hand gloss
+head pos: tilt fr/bk	front	187880	188000	start	188040	188200	back	188240	188400	start	188440	188640	front	188680	190000	end	190040	190120
+head pos: turn	left	187880	188760	start	188800	189080	right	189120	189240	start	189280	189520	left	189560	190120
+head pos: tilt side	right	187880	187960	start	188000	188120	left	188160	188800	start	188840	188960	right	189000	189400	start	189440	189880	slightly left	189920	190120
+head pos: jut	forward	187880	188080	start	188120	188760	forward	188800	190120
+body lean	forward	187880	189680	end	189720	190120
+eye brows	slightly raised	187880	187920	start	187960	188000	raised	188040	188320	start	188360	188800	slightly lowered	188840	189200	start	189240	189440	raised	189480	190120
+eye gaze	to addressee	187880	188160	left	188200	188440	to addressee	188480	190120
+eye aperture	squint	187880	187880	start	187920	187920	blink	187960	188200	start	188240	188520	slightly squinted	188560	188800	start	188840	189400	wide	189440	190120
+nose	wrinkle	187880	187960	end	188000	188200
+POS	Pronoun	187960	188240	Classifier	188800	189960
+English translation	I had to grab all people.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	53
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	190160
+End frame:	193960
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	190280	190360	ONE	190560	190760	"eee"	190920	191280	ONE	191400	191560	WOMAN	191640	192240	IX-3p	192360	192560	RIDE	192880	193120	WITH	193240	193360	IX-3p-arc	193480	193960
+non-dominant hand gloss	BCL:"grabbing person"	190160	190200	|>		190800
+head pos: tilt fr/bk	start	191640	192240	front	192280	193960
+head pos: turn	left	190160	190760	start	190800	191600	right	191640	192280	start	192320	192560	left	192600	192680	start	192720	193200	right	193240	193640	start	193680	193840	slightly right	193880	193960
+head pos: tilt side	left	190160	190320	start	190360	190880	right	190920	192240	start	192280	192520	left	192560	192800	start	192840	193160	slightly right	193200	193960
+head pos: jut	start	190160	190360	back	190400	193960
+body lean	slightly forward	190160	190200	start	190240	190880	back	190920	191280	end	191320	191640
+eye brows	raised	190160	191560	start	191600	191920	lowered	191960	193680	end	193720	193960
+eye gaze	to addressee	190160	190320	left	190360	190640	to addressee	190680	193960
+eye aperture	wide	190160	190360	start	190400	190600	blink	190640	190840	start	190880	192240	squint	192280	193640	end	193680	193960
+nose	start	191600	192160	wrinkle	192200	193680	end	193720	193960
+POS	Discourse Marker	190280	190360	Number	190560	190760	Number	191400	191560	Pronoun	191640	192240	Determiner	192360	192560	Verb	192880	193120	Preposition	193240	193360	Pronoun	193480	193960
+Non-dominant POS	Classifier	190160	190200
+English translation	One woman who was riding with us.
+Notes - number of character bytes:	60
+- the word of "eee", is it correct way to gloss as gesture??
+
+
+Utterance ID:	54
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	194000
+End frame:	198200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	STUCK	194240	194640	UNDER	194800	195560	BOAT	195760	196200	|>		196440	CAN-NOT	196560	196720	BREATH	196800	197240	FOR	197360	197480	A-WHILE	197600	198200
+non-dominant hand gloss	IX-3p:i	196320	196360	|>		196480	BREATH	196800	197240	|>		197400
+head pos: tilt fr/bk	slightly front	194000	194160	start	194200	195240	front	195280	198200
+head pos: turn	slightly right	194000	194040	start	194080	194640	left	194680	194960	start	195000	195560	slightly right	195600	195880	start	195920	196400	left	196440	197280	start	197320	197680	slightly right	197720	198200
+head pos: tilt side	slightly right	194000	194040	start	194080	195080	right	195120	195840	start	195880	196480	left	196520	197320	start	197360	197720	slightly right	197760	198200
+head pos: jut	slightly back	194000	194080	start	194120	194680	back	194720	195920	start	195960	196560	slightly back	196600	198200
+head mvmt: shake	start	195960	196560	rapid	196600	197360	end	197400	197920
+body lean	start	194000	194640	right	194680	197240	start	197280	197720	forward	197760	198200
+eye gaze	to addressee	194000	198200
+negative	negation	196600	197360
+POS	Verb	194240	194640	Preposition	194800	195560	Noun	195760	196200	Negation+Verb	196560	196720	Verb	196800	197240	Preposition	197360	197480	Noun	197600	198200
+Non-dominant POS	Determiner	196320	196360	Verb	196800	197240
+English translation	She was stuck under the boat and could not breath for a while.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	55
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	198240
+End frame:	200400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	198360	198640	BCL:5"grabbing person"	199320	199640	FIND	199760	199920	#HER	200040	200360	|>		200400
+non-dominant hand gloss	A-WHILE	198240	198280	|>		198680
+head pos: tilt fr/bk	front	198240	199040	start	199080	199200	further front	199240	200160	start	200200	200360	front	200400	200400
+head pos: turn	slightly right	198240	198280	start	198320	198440	right	198480	198840	start	198880	199040	left	199080	200400
+head pos: tilt side	right	198240	198800	start	198840	199040	left	199080	200400
+head pos: jut	back	198240	199160	start	199200	199440	forward	199480	199720	start	199760	200080	slightly back	200120	200400
+head mvmt: nod
+	start	199240	199600	slight rapid head nod	199640	200200	end	200240	200400
+body lean	forward	198240	198400	start	198440	198760	forward/right	198800	200160	start	200200	200240	forward	200280	200400
+eye brows	start	198240	198440	raised	198480	199160	end	199200	199600
+eye gaze	to addressee	198240	198400	down/left	198440	199200	to addressee	199240	200400
+eye aperture	start	198240	198280	blink	198320	198640	end	198680	198760
+nose	start	198240	198320	tensed	198360	199240	end	199280	199640
+POS	Pronoun	198360	198640	Classifier	199320	199640	Verb	199760	199920	Pronoun	200040	200360
+Non-dominant POS	Noun	198240	198280
+English translation	I found and grabbed her.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	56
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	200440
+End frame:	203120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	BCL:S"giving the stick to person"	200480	201160	GIFT	201280	201400	POSS-1p	201520	201680	ROW	201800	202200	fs-POLE	202320	202880	BCLS"giving the stick to person	203080	203120
+non-dominant hand gloss	ROW	201800	202200	|>		202880
+head pos: tilt fr/bk	front	200440	203120
+head pos: turn	slightly left	200440	200480	start	200520	200840	left	200880	201400	start	201440	202000	right	202040	203120
+head pos: tilt side	left	200440	200480	start	200520	200760	left	200800	201200	start	201240	201800	right	201840	202080	start	202120	203080	right	203120	203120
+head pos: jut	back	200440	203120
+body lean	forward	200440	201360	start	201400	201880	left	201920	202360	end	202400	203120
+eye brows	start	200440	200640	slightly lowered	200680	201880	end	201920	202400
+eye gaze	down	200440	200720	to addressee	200760	203120
+eye aperture	start	200440	200640	slightly squinted	200680	201800	end	201840	203080
+nose	start	200440	200600	wrinkle	200640	201640	end	201680	202400
+POS	Classifier	200480	201160	Noun	201280	201400	Possessive	201520	201680	Verb	201800	202200	Noun	202320	202880	Classifier	203080	203120
+Non-dominant POS	Verb	201800	202200
+English translation	I gave her my rowing stick.
+Notes - number of character bytes:	80
+-Not sure what he fingerspelled where I glossed "Pole"(thats what I assumed) ...
+
+
+Utterance ID:	57
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	203160
+End frame:	206920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	BCL:S"giving the stick to person"	203160	203840	PULL	204040	204720	GRAB	205200	205520	PULL	205800	206920
+non-dominant hand gloss	PULL	204040	204720	|>		205720
+head pos: tilt fr/bk	front	203160	203800	start	203840	204360	back	204400	204800	start	204840	206200	back	206240	206920
+head pos: turn	right	203160	203520	start	203560	203800	left	203840	203960	start	204000	205120	left	205160	206920
+head pos: tilt side	right	203160	203360	start	203400	203800	left	203840	205760	start	205800	205960	right	206000	206440	start	206480	206720	left	206760	206920
+head pos: jut	back	203160	203200	start	203240	203560	forward	203600	204160	start	204200	205280	forward	205320	206640	end	206680	206920
+body lean	start	203160	203480	forward	203520	204240	start	204280	204720	back/right	204760	204960	start	205000	205280	forward	205320	206120	start	206160	206800	back	206840	206920
+eye brows	start	203160	203280	lowered	203320	206640	end	206680	206920
+eye gaze	to addressee	203160	206920
+eye aperture	start	203160	203440	squint	203480	204040	start	204080	204480	closed	204520	206800	start	206840	206840	further squinted	206920	206920
+nose	start	203160	203520	wrinkle	203560	206720	end	206760	206920
+POS	Classifier	203160	203840	Verb	204040	204720	Verb	205200	205520	Verb	205800	206920
+Non-dominant POS	Verb	204040	204720
+English translation	I gave her my stick and pull her in.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	58
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	206960
+End frame:	210920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p:i	206960	207080	COUGH++	207240	208160	THINK	208360	208560	MAYBE	208680	208760	MUST	208880	209000	DO	209080	209200	fs-CPR	209400	210000	ON	210200	210400	IX-3p:i	210600	210920
+non-dominant hand gloss	PULL	206960	207000	|>		208520	G:"focus"	209760	209840
+head pos: tilt fr/bk	slightly back	206960	207040	start	207080	207880	front	207920	210920
+head pos: turn	left	206960	207000	start	207040	207840	left	207880	208920	start	208960	209320	right	209360	210920
+head pos: tilt side	left	206960	206960	start	207000	207120	right	207160	207400	start	207440	207800	left	207840	208760	end	208800	209000
+head pos: jut	start	206960	207800	back	207840	209920	end	209960	210400
+head mvmt: nod
+	start	206960	207080	slow	207120	208320	end	208360	208680
+body lean	back	206960	207120	start	207160	210520	forward	210560	210920
+eye brows	start	207840	208120	raised	208160	210920
+eye gaze	to addressee	206960	209400	right	209440	210920
+eye aperture	squint	206960	207200	start	207240	208160	wide	208200	210920
+POS	Pronoun	206960	207080	Verb	207240	208160	Verb	208360	208560	Adverb	208680	208760	Adverb	208880	209000	Verb	209080	209200	Verb	209400	210000	Preposition	210200	210400	Pronoun	210600	210920
+Non-dominant POS	Verb	206960	207000
+English translation	She was coughing occasionally and I thought maybe I will have to do CPR on her.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	59
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	210960
+End frame:	214520
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	BUT	211120	211280	UNKNOWN	211360	211880	REALLY	212080	212320	SPIT++	212480	213200	WATER	213320	213600	"gagging"	213680	214280
+non-dominant hand gloss	UNKNOWN	211360	211880	|>		212120	"gagging"	213680	214280	|>		214520
+head pos: tilt fr/bk	front	210960	211840	start	211880	213760	front	213800	214000	end	214040	214520
+head pos: turn	right	210960	211400	start	211440	211560	left	211600	212400	start	212440	212960	right	213000	213240	start	213280	213680	left	213720	214040	end	214080	214520
+head pos: tilt side	start	210960	211040	right	211080	211520	start	211560	211840	left	211880	212400	start	212440	212840	right	212880	213240	start	213280	213640	left	213680	214440	end	214480	214520
+head pos: jut	start	210960	211360	back	211400	211440	start	211480	212600	forward	212640	213160	end	213200	213640
+head mvmt: nod
+	start	211560	211800	rapid	211840	212360	end	212400	212840
+head mvmt: shake	start	211080	211320	rapid	211360	211840	end	211880	212360
+body lean	forward	210960	211080	start	211120	212760	slightly forward	212800	212960	start	213000	214120	forward	214160	214520
+eye brows	slightly raised	210960	211000	start	211040	211200	lowered	211240	211960	start	212000	214480	lowered	214520	214520
+eye gaze	right	210960	211440	to addressee	211800	211960	right	212000	212360	to addressee	212400	214520
+eye aperture	wide	210960	211000	start	211040	211240	squint	211280	211880	start	211920	213280	start	213320	213600	blink	213640	213760	start	213800	213800	blink	213840	214000	start	214040	214440	squint	214480	214520
+nose	start	210960	211120	wrinkle	211160	211920	start	211960	214480	wrinkle	214520	214520
+POS	Conjunction	211120	211280	Discourse Marker	212080	212320	Verb	212480	213200	Noun	213320	213600
+English translation	But, she was gagging and spitting.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	60
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	214560
+End frame:	220640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	THROW	214680	215040	A-LITTLE	215200	215800	FINISH	216040	216280	part:indef	216600	216920	REALLY	217040	217120	NOTHING	217200	217440	COLD	217640	218000	CL:2"quotation"	218120	218360	CONCEPT	218600	218880	CL:1"spitting out"	219040	219720	UNKNOWN	219920	220120
+non-dominant hand gloss	"gagging"	214560	214600	|>		214920	G:"focus"	215280	216000	NOTHING	217200	217440	|>		217920
+head pos: tilt fr/bk	start	217200	217560	slightly back	217600	218280	start	218320	218520	front	218560	218880	start	218920	219040	slightly back	219080	219320	start	219360	219440	front	219480	220120	end	220160	220240
+head pos: turn	start	214560	214720	right	214760	216320	start	216360	216680	left	216720	217280	start	217320	217600	right	217640	218120	start	218160	218560	left	218600	218760	start	218800	219080	right	219120	219680	start	219720	220040	right	220080	220240
+head pos: tilt side	start	214560	214600	right	214640	216360	start	216400	216600	left	216640	217360	start	217400	217560	right	217600	218080	start	218120	218360	left	218400	218680	start	218720	219040	right	219080	219720	start	219760	220040	slightly right	220080	220240
+head pos: jut	start	214560	214920	back	214960	216320	start	216360	217640	slightly forward	217680	218320	end	218360	218720
+head mvmt: shake	start	214560	215760	slight rapid head shake	215800	216320	start	216360	216640	slight rapid head shake	216680	217080	end	217120	217400
+body lean	start	217320	217800	slightly forward	217840	220240
+eye brows	lowered	214560	220240
+eye gaze	to addressee	214560	220240
+eye aperture	squint	214560	216440	start	216480	216640	closed	216680	219160	start	219200	219480	squint	219520	220240
+nose	wrinkle	214560	220240
+POS	Verb	214680	215040	Adjective	215200	215800	Adverb	216040	216280	Particle	216600	216920	Discourse Marker	217040	217120	Negation	217200	217440	Adjective	217640	218000	Classifier	218120	218360	Noun	218600	218880	Classifier	219040	219720
+Non-dominant POS	Negation	217200	217440
+English translation	She threw up a little, really, I dont think its nothing big.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	61
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	220680
+End frame:	223920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	REALLY	221360	221480	EVERYTHING	221640	221880	FINE	222000	222320	IX-3p:i	222400	222600	|>		222720	GIRL	222800	222960	WORRY	223080	223640	UNKNOWN	223720	223840
+non-dominant hand gloss	IX-3p:i	222680	222800	|>		223000
+head pos: tilt fr/bk	start	220680	220920	back	220960	221040	start	221080	221480	front	221520	222640	start	222680	223080	front	223120	223480	start	223520	223760	back	223800	223920
+head pos: turn	slightly right	220680	220920	start	220960	221120	left	221160	221640	start	221680	221800	right	221840	222360	start	222400	222560	left	222600	223280	start	223320	223680	right	223720	223920
+head pos: tilt side	slightly right	220680	220960	start	221000	221240	left	221280	221680	start	221720	222520	left	222560	223240	start	223280	223640	right	223680	223920
+head pos: jut	start	220680	221400	back	221440	222440	start	222480	223200	slightly back	223240	223520	start	223560	223760	forward	223800	223920
+head mvmt: nod
+	start	220680	220720	rapid	220760	221480	start	221520	223240	slow	223280	223800	end	223840	223920
+body lean	slightly forward	220680	220960	start	221000	221680	forward	221720	222640	start	222680	223440	forward	223480	223920
+eye brows	lowered	220680	223920
+eye gaze	to addressee	220680	220760	to addressee	221680	222320	left	222360	222960	to addressee	223000	223400	right	223440	223920
+eye aperture	squint	220680	220760	start	220800	220800	closed	220840	221200	start	221240	221560	further squinted	221600	221680	start	221720	221840	squint	221880	222360	start	222400	222760	squint	222800	223920
+nose	wrinkle	220680	223920
+POS	Discourse Marker	221360	221480	Noun	221640	221880	Adjective	222000	222320	Pronoun	222400	222600	Noun	222800	222960	Verb	223080	223640
+Non-dominant POS	Pronoun	222680	222800
+English translation	Everything is fine and the girl was worrying.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	62
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	223960
+End frame:	225480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	224040	224160	|>		224240	ARRIVE	224320	225000	UNKNOWN	225080	225440	|>		225480
+non-dominant hand gloss
+head pos: tilt fr/bk	back	223960	224240	start	224280	224680	front	224720	225080	end	225120	225480
+head pos: turn	right	223960	224720	start	224760	225120	left	225160	225480
+head pos: tilt side	right	223960	224760	start	224800	225080	left	225120	225480
+head pos: jut	forward	223960	224240	end	224280	224520
+head mvmt: nod
+	start	223960	224240	slow	224280	224920	start	224960	225080	slight rapid head nod	225120	225440	end	225480	225480
+body lean	forward	223960	224080	start	224120	224600	forward	224640	225160	end	225200	225480
+eye brows	lowered	223960	225480
+eye gaze	right	223960	224800	to addressee	224840	225480
+eye aperture	squint	223960	224840	start	224880	225000	further squinted	225040	225480
+nose	wrinkle	223960	225480
+POS	Pronoun	224040	224160	Verb	224320	225000
+English translation	I arrived.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	63
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	225520
+End frame:	228960
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	225600	225680	CALL	225840	226000	#IT	226080	226240	fs-DAY	226360	226920	FINISH	227040	227560	|>		228040	CL:3"pulling over"	228320	228960
+non-dominant hand gloss	UNKNOWN	225520	225560	|>		225680	CALL	225840	226000	|>		226760
+head pos: tilt fr/bk	start	225520	226440	front	226480	227480	start	227520	227680	back	227720	228600	start	228640	228880	slightly back	228920	228960
+head pos: turn	slightly left	225520	225600	start	225640	225840	right	225880	226400	start	226440	226720	left	226760	227560	start	227600	228120	right	228160	228880	end	228920	228960
+head pos: tilt side	slightly left	225520	225640	start	225680	225840	right	225880	226440	start	226480	226760	left	226800	227480	start	227520	227760	right	227800	228920	end	228960	228960
+head pos: jut	start	225520	225680	back	225720	227080	start	227120	227480	forward	227520	228240	end	228280	228960
+head mvmt: nod
+	start	226400	227040	slow	227080	227680	end	227720	228240
+body lean	start	225520	225960	slightly back	226000	226720	start	226760	227240	forward	227280	227960	start	228000	228480	forward/right	228520	228960
+eye brows	lowered	225520	228960
+eye gaze	to addressee	225520	227640	right	227680	228800
+eye aperture	squint	225520	228960
+nose	wrinkle	225520	228960
+POS	Pronoun	225600	225680	Verb	225840	226000	Pronoun	226080	226240	Noun	226360	226920	Adverb	227040	227560	Classifier	228320	228960
+Non-dominant POS	Verb	225840	226000
+English translation	I called it the day.  We finished and pulled over.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	64
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	229000
+End frame:	233720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	CL:2"sitting on"	229320	229520	ON	229640	229760	#BUS	229840	230240	CL:C"vehicle motion"	230600	231560	ARRIVE	231760	231960	CAMP	232120	232800	|>		232840	GROUND	232920	233720
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	229000	229080	start	229120	229640	front	229680	230360	start	230400	232920	front	232960	233720
+head pos: turn	start	229000	229080	left	229120	230200	start	230240	230680	right	230720	231520	start	231560	232040	left	232080	233520	start	233560	233680	slightly right	233720	233720
+head pos: tilt side	start	229000	229120	left	229160	230040	start	230080	230480	right	230520	231600	start	231640	232040	left	232080	233480	start	233520	233640	slightly right	233680	233720
+head pos: jut	start	230080	231400	forward	231440	233440	end	233480	233720
+body lean	forward/left	229000	229080	start	229120	229960	forward/left	230000	230440	start	230480	231160	forward/right	231200	231880	start	231920	232840	forward	232880	233720
+eye brows	slightly lowered	229000	230080	start	230120	230320	raised	230360	233040	start	233080	233680	slightly lowered	233720	233720
+eye gaze	to addressee	229000	233720
+eye aperture	squint	229000	230000	start	230040	230200	closed	230240	231360	start	231400	231640	squint	231680	232960	end	233000	233560
+nose	wrinkle	229000	231360	end	231400	231680
+POS	Classifier	229320	229520	Preposition	229640	229760	Noun	229840	230240	Classifier	230600	231560	Verb	231760	231960	Adjective	232120	232800	Noun	232920	233720
+English translation	We went back on the bus and arrived camping ground.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	65
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	233760
+End frame:	236440
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	MOST	233960	234120	IX-1p-arc	234240	234480	SIT	234600	234880	ON	235040	235200	fs-SPA	235360	236440
+non-dominant hand gloss	MOST	233960	234120	|>		234400
+head pos: tilt fr/bk	front	233760	234240	end	234280	234600
+head pos: turn	slightly right	233760	233760	start	233800	233920	right	233960	234880	start	234920	235560	left	235600	236440
+head pos: tilt side	right	233760	234960	start	235000	235840	slightly left	235880	236440
+head pos: jut	start	233760	233920	back	233960	235080	end	235120	235360
+body lean	slightly forward	233760	233920	start	233960	234400	back	234440	235160	start	235200	235720	slightly forward	235760	236440
+eye brows	slightly lowered	233760	233800	start	233840	233960	lowered	234000	236440
+eye gaze	to addressee	233760	235240	left	235280	235520	to addressee	235560	236440
+eye aperture	start	233760	233800	squint	233840	236440
+nose	start	233760	233920	wrinkle	233960	236440
+POS	Adjective	233960	234120	Pronoun	234240	234480	Verb	234600	234880	Preposition	235040	235200	Noun	235360	236440
+Non-dominant POS	Adjective	233960	234120
+English translation	Most of us were sitting in SPA.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	66
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_0.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_2.mov
+Video	NCSLGRv5:movies:whitewater:whitewater_1049_small_3.mov
+Video	
+Audio	
+Start frame:	236480
+End frame:	241320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	SIT	236880	237360	UNKNOWN	237440	237560	RELAX	237840	238480	"sign"	238880	239560
+non-dominant hand gloss
+head pos: tilt fr/bk	start	236480	236800	front	236840	237000	start	237040	237360	back	237400	239760	start	239800	240200	front	240240	241320
+head pos: turn	left	236480	237440	start	237480	238240	right	238280	241320
+head pos: tilt side	slightly left	236480	237360	start	237400	237520	right	237560	240040	start	240080	240520	left	240560	241320
+head pos: jut	start	237400	238000	back	238040	240040	end	240080	240520
+head mvmt: nod
+	start	240080	240520	single	240560	241160	end	241200	241320
+body lean	slightly forward	236480	237400	start	237440	238880	back	238920	239720	start	239760	240440	slightly forward	240480	241320
+eye brows	lowered	236480	237920	end	237960	238520
+eye gaze	to addressee	236480	241320
+eye aperture	squint	236480	236680	start	236720	236720	blink	236760	236960	start	237000	237000	closed	237040	237720	start	237760	237920	lowered lid	237960	238240	start	238280	238320	closed	238360	239720	start	239760	240080	slightly lowered	240120	241320
+nose	wrinkle	236480	237720	end	237760	239720
+POS	Verb	236880	237360	Adjective	237840	238480
+English translation	We sat in and felt relax.  SIGH.
+Notes - number of character bytes:	0

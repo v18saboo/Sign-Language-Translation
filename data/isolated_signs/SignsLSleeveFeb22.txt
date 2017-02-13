@@ -1,0 +1,765 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	SignsLSleeveFeb22	OS 9 Disk:Sign Exemplar Files:SignsLSleeveFeb22
+Number of utterances:	40
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1683_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8650
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	AND	300	430	ARRIVE	1540	1720	BIG	3100	3230	BORN	4450	4740	CAR	5980	6700	DECIDE	8000	8130
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1684_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	7950
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	DIFFERENT	260	380	FINISH	1660	1780	HERE	2970	3610	KNOW	4490	4680	MAN	5840	6130	MANY	7240	7350
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1685_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8100
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	MAYBE	190	660	NOW	1600	1690	OUT	2990	3120	PAST	4370	4520	RAIN	5820	6180	READ	7280	7480
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1686_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8400
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	TAKE-OFF	260	490	TELL	1730	1860	TOGETHER	3040	3160	WHAT	4470	4770	WOW	5960	6290	YESTERDAY	7410	7710
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1687_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8350
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	AND	270	460	ARRIVE	1760	1960	BIG	3310	3440	BORN	4650	4950	CAR	6030	6520	DECIDE	7570	7700
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1688_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8050
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	DIFFERENT	230	390	FINISH	1640	1760	HERE	2950	3560	KNOW	4480	4670	MAN	5850	6130	MANY	7250	7400
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1689_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8400
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	MAYBE	200	710	NOW	1670	1780	OUT	3080	3210	PAST	4470	4630	RAIN	5980	6290	READ	7510	7710
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1690_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8250
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	TAKE-OFF	230	460	TELL	1720	1860	TOGETHER	3040	3120	WHAT	4460	4840	WOW	5830	6300	YESTERDAY	7250	7660
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1691_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8350
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	AND	270	440	ARRIVE	1770	1980	BIG	3190	3350	BORN	4560	4860	CAR	6000	6570	DECIDE	7600	7740
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1692_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8000
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	DIFFERENT	210	350	FINISH	1660	1800	HERE	3120	3720	KNOW	4500	4700	MAN	5890	6230	MANY	7260	7380
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1693_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	7900
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	MAYBE	220	720	NOW	1670	1770	OUT	2960	3060	PAST	4170	4320	RAIN	5610	5930	READ	7100	7270
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1694_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	7550
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	TAKE-OFF	180	390	TELL	1570	1670	TOGETHER	2740	2840	WHAT	4040	4410	WOW	5340	5690	YESTERDAY	6530	6840
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1695_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8100
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	AND	230	410	ARRIVE	1640	1840	BIG	3120	3230	BORN	4310	4700	CAR	5760	6330	DECIDE	7370	7510
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1696_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8250
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	DIFFERENT	230	350	FINISH	1730	1880	HERE	3070	3740	KNOW	4660	4890	MAN	6050	6380	MANY	7490	7610
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1697_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8150
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	MAYBE	250	850	NOW	1800	1900	OUT	3210	3370	PAST	4520	4690	RAIN	5870	6180	READ	7300	7500
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1698_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8000
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	TAKE-OFF	230	450	TELL	1570	1650	TOGETHER	2920	3050	WHAT	4360	4730	WOW	5700	6210	YESTERDAY	7010	7410
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1699_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	7800
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	AND	290	450	ARRIVE	1480	1680	BIG	2920	3050	BORN	4190	4540	CAR	5530	6140	DECIDE	7010	7160
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1700_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8000
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	DIFFERENT	280	420	FINISH	1590	1740	HERE	2870	3550	KNOW	4360	4590	MAN	5540	5890	MANY	7120	7260
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1701_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8650
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	MAYBE	240	900	NOW	1890	2020	OUT	3170	3390	PAST	4710	4910	RAIN	6220	6530	READ	7700	7940
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1702_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8200
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	TAKE-OFF	230	440	TELL	1670	1770	TOGETHER	2870	2990	WHAT	4290	4840	WOW	5900	6280	YESTERDAY	7300	7670
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1703_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8400
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	AND	300	510	ARRIVE	1720	1940	BIG	3340	3490	BORN	4720	5060	CAR	6150	6760	DECIDE	7610	7770
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1704_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8250
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	DIFFERENT	390	530	FINISH	1700	1820	HERE	3060	3750	KNOW	4610	4870	MAN	6020	6370	MANY	7430	7580
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1705_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8400
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	MAYBE	220	840	NOW	1730	1820	OUT	3100	3230	PAST	4560	4740	RAIN	6040	6400	READ	7570	7780
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1706_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8550
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	TAKE-OFF	260	500	TELL	1710	1880	TOGETHER	3250	3410	WHAT	4860	5330	WOW	6210	6710	YESTERDAY	7580	7970
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1707_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8850
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	AND	310	490	ARRIVE	1680	1910	BIG	3180	3310	BORN	4700	5050	CAR	6200	6970	DECIDE	7990	8130
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1708_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8400
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	DIFFERENT	310	520	FINISH	1830	1980	HERE	3190	3790	KNOW	4700	4900	MAN	6020	6320	MANY	7520	7700
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1709_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8500
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	MAYBE	260	1050	NOW	2000	2070	OUT	3320	3530	PAST	4640	4790	RAIN	6040	6560	READ	7640	7880
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1710_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8750
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	TAKE-OFF	250	470	TELL	1790	1880	TOGETHER	3150	3260	WHAT	4710	5120	WOW	6200	6700	YESTERDAY	7690	8010
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1711_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	7950
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	AND	300	500	ARRIVE	1620	1820	BIG	2960	3170	BORN	4350	4700	CAR	5660	6240	DECIDE	7190	7320
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1712_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8100
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	DIFFERENT	210	330	FINISH	1530	1680	HERE	2870	3470	KNOW	4420	4610	MAN	5910	6230	MANY	7340	7490
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1713_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8400
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	MAYBE	220	910	NOW	1830	1920	OUT	3180	3370	PAST	4560	4700	RAIN	6010	6320	READ	7510	7750
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1714_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8350
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	TAKE-OFF	250	530	TELL	1770	1930	TOGETHER	3180	3330	WHAT	4730	5220	WOW	6050	6610	YESTERDAY	7400	7780
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1715_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8550
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	AND	360	510	ARRIVE	1820	2060	BIG	3330	3490	BORN	4770	5070	CAR	6140	6750	DECIDE	7730	7850
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1716_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8200
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	DIFFERENT	270	390	FINISH	1730	1850	HERE	3150	3730	KNOW	4600	4880	MAN	6050	6370	MANY	7440	7600
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1717_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8450
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	MAYBE	220	920	NOW	1800	1900	OUT	3110	3290	PAST	4580	4780	RAIN	5970	6300	READ	7520	7750
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1718_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8000
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	TAKE-OFF	280	480	TELL	1800	1910	TOGETHER	3050	3200	WHAT	4490	4850	WOW	5770	6140	YESTERDAY	7010	7310
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1719_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8050
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	AND	340	520	ARRIVE	1700	1930	BIG	3130	3260	BORN	4410	4710	CAR	5710	6380	DECIDE	7270	7400
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1720_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8150
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	DIFFERENT	290	410	FINISH	1650	1740	HERE	2910	3510	KNOW	4430	4650	MAN	5830	6130	MANY	7260	7450
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1721_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8450
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	MAYBE	250	800	NOW	1810	1890	OUT	3140	3280	PAST	4550	4750	RAIN	6000	6320	READ	7570	7770
+non-dominant hand gloss
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	OS 9 Disk:Sign Exemplar Files:Video Files:longsleeves_1722_small_3.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	8100
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	002
+main gloss	TAKE-OFF	250	480	TELL	1740	1870	TOGETHER	3080	3200	WHAT	4560	4920	WOW	5930	6310	YESTERDAY	7260	7560
+non-dominant hand gloss
+Notes - number of character bytes:	0
+

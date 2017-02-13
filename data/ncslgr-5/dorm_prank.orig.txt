@@ -1,0 +1,1727 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	dorm prank	Firewire 38200:NCSLGRv5:dorm prank
+Number of utterances:	54
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	0
+End frame:	2640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	REALLY	440	520	PAST+	680	1080	IX-1p	1320	1560	SEVEN	1800	2040	YEAR	2160	2640
+non-dominant hand gloss
+head pos: tilt fr/bk	start	0	120	slightly back	160	400	start	440	720	front	760	1160	start	1200	2040	front	2080	2640
+head pos: turn	start	0	200	right	240	2640
+head pos: tilt side	start	0	320	left	360	2040	end	2080	2640
+head pos: jut	start	0	280	forward	320	480	start	520	960	back	1000	1200	start	1240	1800	back	1840	2640
+body lean	start	0	640	slightly back	680	1240	start	1280	2000	slightly back	2040	2640
+eye brows	start	1000	1160	lowered	1200	2640
+eye gaze	to addressee	0	2640
+eye aperture	start	640	1240	squint	1280	2640
+nose	start	640	1320	wrinkle	1360	2640
+POS	Discourse Marker	440	520	Tense Marker	680	1080	Pronoun	1320	1560	Number	1800	2040	Noun	2160	2640
+English translation	Seven years ago.
+Notes - number of character bytes:	4
+-CBD
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	2640
+End frame:	4160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	FIRST	2760	2840	YEAR	3000	3120	ON	3240	3320	#CSUN	3440	4160
+non-dominant hand gloss	YEAR	2640	2680	|>		2920	ON	3240	3320	|>		4160
+head pos: tilt fr/bk	front	2640	4160
+head pos: turn	right	2640	4160
+head pos: tilt side	start	3720	3840	slightly left	3880	4160
+head pos: jut	back	2640	4160
+head mvmt: nod
+	start	3840	3920	single	3960	4120	end	4160	4160
+body lean	back	2640	3360	end	3400	3560
+eye brows	lowered	2640	4160
+eye gaze	to addressee	2640	4080	left	4120	4160
+eye aperture	squint	2640	4160
+nose	wrinkle	2640	4160
+POS	Number	2760	2840	Noun	3000	3120	Preposition	3240	3320	Proper Noun	3440	4160
+Non-dominant POS	Noun	2640	2680	Preposition	3240	3320
+English translation	My first year at CSUN.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	4160
+End frame:	6920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	4360	4600	|>		5000	BOY	5360	5560	LIVE	5760	5840	IN	6000	6040	DORM	6160	6440	ROOM	6520	6880
+non-dominant hand gloss	ON	4160	4200	|>		4400	IX-1p-pl-4:x/y	4680	5120	|>		5520
+head pos: tilt fr/bk	front	4160	6920
+head pos: turn	right	4160	4240	start	4280	4560	left	4600	6760	start	6800	6880	slightly left	6920	6920
+head pos: tilt side	slightly left	4160	4600	start	4640	5320	slightly right	5360	5960	start	6000	6480	left	6520	6800	end	6840	6920
+head pos: jut	back	4160	6120	end	6160	6920
+body lean	start	4160	4480	slightly back	4520	5280	start	5320	6440	forward	6480	6920
+eye brows	lowered	4160	6920
+eye gaze	left	4160	4360	to addressee	4400	6920
+eye aperture	squint	4160	6000	start	6040	6800	squint	6840	6920
+nose	wrinkle	4160	6080	start	6120	6840	wrinkle	6880	6920
+POS	Discourse Marker	4360	4600	Noun	5360	5560	Verb	5760	5840	Preposition	6000	6040	Adjective	6160	6440	Noun	6520	6880
+Non-dominant POS	Preposition	4160	4200	Number	4680	5120
+English translation	Four of us boys live in the dorm.
+Notes - number of character bytes:	65
+-Four of us gloss as IX-1p-pl-4:x/y, is it correct way to gloss??
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	6920
+End frame:	9480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	7040	7200	IX-3p-arc	7360	7560	TROUBLE+	7840	8760	MAKER	8840	9360
+non-dominant hand gloss	MAKER	8840	9360	|>		9480
+head pos: tilt fr/bk	front	6920	7040	start	7080	7480	back	7520	7840	end	7880	8760
+head pos: turn	slightly left	6920	6960	start	7000	7400	right	7440	8400	start	8440	8800	slightly left	8840	9440	end	9480	9480
+head pos: tilt side	start	6920	7240	right	7280	8360	start	8400	8800	left	8840	9200	end	9240	9480
+head pos: jut	start	6920	7520	back	7560	8240	start	8280	8800	forward	8840	9240	end	9280	9480
+body lean	slightly forward	6920	7080	start	7120	8280	forward	8320	9160	end	9200	9480
+eye brows	slightly lowered	6920	9480
+eye gaze	to addressee	6920	9320	right	9360	9480
+eye aperture	squint	6920	6920	start	6960	6960	closed	7000	8960	start	9000	9360	further squinted	9400	9480
+nose	wrinkle	6920	7200	end	7240	7560
+POS	Discourse Marker	7040	7200	Pronoun	7360	7560	Adjective	7840	8760	Verb	8840	9360
+Non-dominant POS	Verb	8840	9360
+English translation	Really, we were trouble makers.
+Notes - number of character bytes:	36
+-"WE", is it correct POS? IX-3p-arc?
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	9480
+End frame:	13640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IX-1p	9640	9800	TEND	9960	10120	CL:1"sneaking"	10360	11080	CAUSE	11920	12000	PROBLEM	12120	12320	FOR	12480	12600	ANOTHER	12720	12840	RESIDENCE	13040	13560
+non-dominant hand gloss	MAKER	9480	9520	|>		10040
+head pos: tilt fr/bk	start	9480	9760	back	9800	12200	start	12240	13120	slightly back	13160	13640
+head pos: turn	start	9480	9800	right	9840	10320	start	10360	10960	left	11000	11160	start	11200	11920	right	11960	12520	start	12560	13240	left	13280	13400	end	13440	13640
+head pos: tilt side	start	9480	9680	right	9720	10360	start	10400	10880	left	10920	11160	start	11200	11800	right	11840	12360	start	12400	13000	left	13040	13440	end	13480	13640
+head pos: jut	start	9480	10440	forward	10480	13440	end	13480	13640
+body lean	start	9480	9960	back	10000	10200	start	10240	10520	forward	10560	11280	start	11320	12120	forward	12160	13280	end	13320	13640
+eye gaze	right	9480	10040	to addressee	10080	13120	left	13160	13360	right	13400	13640
+eye aperture	squint	9480	13640
+POS	Pronoun	9640	9800	Verb	9960	10120	Classifier	10360	11080	Verb	11920	12000	Noun	12120	12320	Preposition	12480	12600	Adjective	12720	12840	Pronoun	13040	13560
+Non-dominant POS	Verb	9480	9520
+English translation	I tend to sneaking and cause problems for another residences.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	13640
+End frame:	19760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	CAUSE	13880	14040	PROBLEM	14160	14320	FOR	14440	14560	IX-3p-arc	14680	14720	#RA	14880	15720	RESIDENCE	15920	16520	COUNSELOR	16800	17160	KNOW	17360	17920	WHO	18040	18200	UNKNOWN	18320	18640	CHECK++	18760	19760
+non-dominant hand gloss	1:"focus"	14920	15720	COUNSELOR	16800	17160	|>		18480
+head pos: tilt fr/bk	slightly back	13640	14280	start	14320	14680	front	14720	18000	end	18040	18640
+head pos: turn	start	13640	14040	right	14080	16080	start	16120	16640	left	16680	18040	start	18080	18560	right	18600	18760	start	18800	19680	left	19720	19760
+head pos: tilt side	start	13640	14040	slightly right	14080	15800	start	15840	16640	left	16680	18040	start	18080	18600	slightly right	18640	18880	end	18920	19760
+head pos: jut	start	13640	14640	back	14680	16360	start	16400	18560	forward	18600	19480	end	19520	19760
+head mvmt: nod
+	start	15840	16600	rapid	16640	17360	end	17400	18080
+body lean	start	13640	14320	slightly forward	14360	14720	start	14760	16160	slightly back	16200	16600	start	16640	17120	forward	17160	19760
+eye brows	start	14720	15320	lowered	15360	19760
+eye gaze	right	13640	13920	to addressee	13960	19760
+eye aperture	squint	13640	19560	start	19600	19720	closed	19760	19760
+nose	start	15360	15960	wrinkle	16000	19760
+POS	Verb	13880	14040	Noun	14160	14320	Preposition	14440	14560	Pronoun	14680	14720	Proper Noun	14880	15720	Adjective	15920	16520	Proper Noun	16800	17160	Verb	17360	17920	Wh-word	18040	18200	Verb	18760	19760
+Non-dominant POS	Proper Noun	16800	17160
+English translation	Caused the problem for our RA, Residence Counselor, you know, they are the one who will checking on us.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	19760
+End frame:	24000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	19920	19960	IX-1p	20040	20120	KNOW	20280	20360	SURE	20520	20680	IX-2p-arc	20800	20920	WHO	21040	21120	LIVE	21200	21280	IN	21360	21440	DORM	21560	21880	PAST	22000	22120	CL:5"vomiting"	22320	22640	#RA	22760	23000	BUT	23080	23240	UNKNOWN	23320	23480	ANYWAY	23640	24000
+non-dominant hand gloss	CHECKING	19760	19800	|>		20920	CL:5"vomiting"	22320	22640	|>		22920
+head pos: tilt fr/bk	start	19760	20280	front	20320	20360	start	20400	22840	front	22880	23760	end	23800	24000
+head pos: turn	left	19760	20000	start	20040	20600	right	20640	21240	start	21280	21920	left	21960	23000	start	23040	23320	right	23360	23760	end	23800	24000
+head pos: tilt side	start	19760	19960	right	20000	21200	start	21240	21760	left	21800	22800	start	22840	23240	right	23280	23800	end	23840	24000
+head pos: jut	start	19760	20320	back	20360	20880	start	20920	22240	back	22280	23600	end	23640	24000
+body lean	slightly forward	19760	19960	start	20000	21120	slightly forward	21160	21520	start	21560	23040	forward/left	23080	23360	end	23400	24000
+eye brows	lowered	19760	20640	start	20680	20920	raised	20960	21560	start	21600	22240	lowered	22280	24000
+eye gaze	to addressee	20440	24000
+eye aperture	closed	19760	20080	start	20120	20400	squint	20440	20760	start	20800	21880	squint	21920	22040	start	22080	22160	blink	22200	22320	start	22360	22360	further squinted	22400	22840	start	22880	22960	closed	23000	23800	start	23840	23920	further squinted	23960	24000
+nose	wrinkle	19760	19960	start	20000	21920	wrinkle	21960	24000
+POS	Discourse Marker	19920	19960	Pronoun	20040	20120	Verb	20280	20360	Adjective	20520	20680	Pronoun	20800	20920	Wh-word	21040	21120	Verb	21200	21280	Preposition	21360	21440	Noun	21560	21880	Tense Marker	22000	22120	Classifier	22320	22640	Proper Noun	22760	23000	Conjunction	23080	23240	Discourse Marker	23640	24000
+Non-dominant POS	Verb	19760	19800	Classifier	22320	22640
+English translation	Really, I know, I am sure you guys who lived in the dorm, you hate your RAs. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	24000
+End frame:	28360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	24120	24320	IX-1p	24480	24640	|>		25000	ENJOY	25160	25560	WHY	25720	25800	POSS-1p	25880	26000	#RA	26120	26320	POSS-1p	26880	27160	FRATERNITY	27360	27560	BROTHER	27680	28360
+non-dominant hand gloss	IX-3p:i	26440	26800
+head pos: tilt fr/bk	start	24000	24720	back	24760	25280	start	25320	25600	front	25640	26440	start	26480	27800	front	27840	28360
+head pos: turn	start	24000	24280	slightly left	24320	24640	start	24680	25040	right	25080	25520	start	25560	26200	left	26240	27080	start	27120	27840	left	27880	28360
+head pos: tilt side	start	24000	24720	right	24760	25520	start	25560	26440	left	26480	26960	start	27000	27760	left	27800	28360
+head pos: jut	start	24000	24400	back	24440	26440	start	26480	27520	back	27560	27880	end	27920	28360
+body lean	start	24000	24920	back	24960	25200	start	25240	26920	forward	26960	28360
+eye brows	lowered	24000	24040	start	24080	26480	lowered	26520	28360
+eye gaze	to addressee	24000	28160	left	28200	28360
+eye aperture	further squinted	24000	24160	start	24200	24280	closed	24320	25080	start	25120	25360	squint	25400	25720	start	25760	26400	squint	26440	28360
+nose	wrinkle	24000	24080	start	24120	26600	wrinkle	26640	27920	end	27960	28360
+POS	Discourse Marker	24120	24320	Pronoun	24480	24640	Verb	25160	25560	Wh-word	25720	25800	Possessive	25880	26000	Proper Noun	26120	26320	Possessive	26880	27160	Adjective	27360	27560	Proper Noun	27680	28360
+Non-dominant POS	Pronoun	26440	26800
+English translation	Really, I enjoyed because my RA was my fraternity brother.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	28360
+End frame:	31800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	REALLY	28520	28640	HAPPEN	28840	29000	ONE	29160	29360	NIGHT	29560	29960	IX-3p-arc	30080	30320	"so"	30480	30880	CL:5"teasing"	31360	31720
+non-dominant hand gloss
+head pos: tilt fr/bk	front	28360	28440	start	28480	28840	back	28880	29160	start	29200	30520	back	30560	31400	end	31440	31800
+head pos: turn	left	28360	28400	start	28440	28960	right	29000	29560	start	29600	30040	left	30080	30480	start	30520	31040	right	31080	31520	end	31560	31800
+head pos: tilt side	left	28360	28480	start	28520	29040	right	29080	29440	start	29480	29960	left	30000	30560	start	30600	30920	right	30960	31600	end	31640	31800
+head pos: jut	start	28360	28680	forward	28720	28960	start	29000	29280	back	29320	29760	start	29800	30120	forward	30160	31480	end	31520	31800
+body lean	slightly forward	28360	28520	start	28560	29200	slightly back	29240	29520	start	29560	31560	forward/right	31600	31800
+eye brows	slightly lowered	28360	28960	start	29000	29200	lowered	29240	31400	end	31440	31800
+eye gaze	left	28360	28400	to addressee	28440	31240	right	31280	31800
+eye aperture	squint	28360	29000	start	29040	29040	further squinted	29080	30040	start	30080	30200	closed	30240	30960	start	31000	31160	further squinted	31200	31800
+nose	wrinkle	28360	31800
+POS	Discourse Marker	28520	28640	Verb	28840	29000	Number	29160	29360	Noun	29560	29960	Pronoun	30080	30320	Classifier	31360	31720
+English translation	It happened one night, that we didnt care and decided to tease him.
+Notes - number of character bytes:	33
+- "so" is it correct for gesture?
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	31800
+End frame:	35800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	ONE	31920	31960	NIGHT	32160	32400	UNKNOWN	32480	32600	IX-3p-arc	32760	32920	CL:3"going up"	33080	33680	REALLY	33920	34000	LIVE	34120	34280	ON	34360	34480
+non-dominant hand gloss	SECOND	34680	34840	FLOOR	35000	35760
+head pos: tilt fr/bk	start	31800	31960	front	32000	32600	start	32640	33000	back	33040	33320	start	33360	33520	front	33560	35240	end	35280	35800
+head pos: turn	start	31800	32120	left	32160	32640	start	32680	33120	right	33160	33480	start	33520	33960	left	34000	34800	start	34840	35760	right	35800	35800
+head pos: tilt side	start	31800	32120	left	32160	32600	start	32640	33000	right	33040	33520	start	33560	35760	slightly right	35800	35800
+head pos: jut	start	31800	32320	back	32360	32640	start	32680	33240	slightly back	33280	33960	start	34000	34120	back	34160	35760	end	35800	35800
+body lean	forward/right	31800	31920	start	31960	34280	back	34320	35000	end	35040	35800
+eye brows	start	33160	33480	lowered	33520	35800
+eye gaze	right	31800	31960	to addressee	32000	35800
+eye aperture	squint	31800	35800
+nose	start	33040	33400	wrinkle	33440	35800
+POS	Number	31920	31960	Noun	32160	32400	Pronoun	32760	32920	Classifier	33080	33680	Discourse Marker	33920	34000	Verb	34120	34280	Preposition	34360	34480
+Non-dominant POS	Number	34680	34840	Noun	35000	35760
+English translation	We decided to go up at one night. We live on second floor.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	35800
+End frame:	38000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p-arc	36160	36320	#RA	36480	36640	LIVE	36800	36920	ON	37040	37080	THIRD	37160	37400	FLOOR	37520	38000
+non-dominant hand gloss	REALLY	35800	36080	IX-2p	36120	36280	|>		36400
+head pos: tilt fr/bk	start	35800	36080	front	36120	38000
+head pos: turn	right	35800	35800	start	35840	36120	slightly left	36160	36280	start	36320	36480	right	36520	36960	start	37000	37640	left	37680	38000
+head pos: tilt side	slightly right	35800	35840	start	35880	36680	right	36720	36960	start	37000	37480	left	37520	38000
+head pos: jut	start	35800	35960	back	36000	37880	end	37920	38000
+body lean	start	35800	36080	back	36120	37280	start	37320	37960	forward	38000	38000
+eye brows	lowered	35800	38000
+eye gaze	to addressee	35800	38000
+eye aperture	squint	35800	36120	start	36160	36160	blink	36200	36280	start	36320	36400	squint	36440	38000
+nose	wrinkle	35800	38000
+POS	Pronoun	36160	36320	Proper Noun	36480	36640	Verb	36800	36920	Preposition	37040	37080	Number	37160	37400	Noun	37520	38000
+Non-dominant POS	Discourse Marker	35800	36080	Pronoun	36120	36280
+English translation	Our RA lives on third floor.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	38000
+End frame:	41600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	HAVE	39200	39360	fs-ROPE	39480	40040	CL:S"size of the object"	40160	41600
+non-dominant hand gloss	IX-1p	38160	38240	CL:1"going up"	38360	39120	1:"focus"	39720	40040
+head pos: tilt fr/bk	front	38000	38160	start	38200	40800	front	40840	41080	end	41120	41600
+head pos: turn	left	38000	38040	start	38080	38520	right	38560	39160	start	39200	39240	slightly right	39280	40040	start	40080	41520	slightly left	41560	41600
+head pos: tilt side	left	38000	38040	start	38080	38320	right	38360	39720	start	39760	41480	slightly left	41520	41600
+head pos: jut	slightly back	38000	38000	start	38040	38360	forward	38400	38560	start	38600	39400	back	39440	41080	start	41120	41480	slightly back	41520	41600
+body lean	slightly forward	38000	38240	start	38280	38680	forward/right	38720	39200	start	39240	39560	back	39600	40840	end	40880	41600
+eye brows	lowered	38000	38720	end	38760	39240
+eye gaze	to addressee	38000	39240	right	39280	39640	to addressee	39680	39960	right	40000	41600
+eye aperture	squint	38000	38000	start	38040	38120	closed	38160	38640	end	38680	39240
+nose	wrinkle	38000	38680	end	38720	39240
+POS	Verb	39200	39360	Noun	39480	40040	Classifier	40160	41600
+Non-dominant POS	Pronoun	38160	38240	Classifier	38360	39120
+English translation	We had rope with us when we went up.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	41600
+End frame:	46280
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	UNDERSTAND	41880	42120	TWO	42280	42440	POSS-3p:i	42800	43040	fs-DOOR	43200	43640	ANOTHER	45320	45480	fs-DOOR	45560	45760	CL:5"location of the object"	45960	46280
+non-dominant hand gloss	CL:S"size of the object"	41600	41640	|>		42120	CL:5"location of the object"	44000	44920	|>		46280
+head pos: tilt fr/bk	start	41600	41920	front	41960	44280	start	44320	45440	slightly front	45480	46280
+head pos: turn	slightly left	41600	41640	start	41680	42200	right	42240	45960	end	46000	46280
+head pos: tilt side	slightly left	41600	41680	start	41720	42920	slightly right	42960	44720	start	44760	45160	right	45200	46080	start	46120	46160	slightly right	46200	46280
+head pos: jut	slightly back	41600	41640	start	41680	41720	back	41760	46280
+head mvmt: nod
+	start	41600	41720	single	41760	42080	start	42120	43800	single	43840	44720	end	44760	45160
+body lean	start	41680	42080	left	42120	45160	end	45200	45480
+eye brows	start	41600	41920	lowered	41960	45760	end	45800	46200
+eye gaze	right	41600	41720	to addressee	41760	45720	right	45760	46280
+eye aperture	start	41600	41840	squint	41880	44280	end	44320	44760
+nose	start	41600	41920	wrinkle	41960	44320	end	44360	44760
+POS	Verb	41880	42120	Number	42280	42440	Possessive	42800	43040	Noun	43200	43640	Adjective	45320	45480	Noun	45560	45760	Classifier	45960	46280
+Non-dominant POS	Classifier	41600	41640	Classifier	44000	44920
+English translation	There is two doors, one on left side and another one on right side.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	46280
+End frame:	48880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	(2h)PERFECT	46640	46920	(2h)SAME	47040	47600	GOOD	47720	47960	SIZE	48040	48280	(2h)IX:3p:x/y	48360	48880
+non-dominant hand gloss	(2h)SAME	47040	47600	|>		47760
+head pos: tilt fr/bk	slightly front	46280	48080	start	48120	48320	front	48360	48880
+head pos: turn	start	46280	46560	left	46600	47320	start	47360	47640	slightly right	47680	48120	start	48160	48400	left	48440	48680	start	48720	48840	slightly right	48880	48880
+head pos: tilt side	slightly right	46280	48120	start	48160	48440	slightly left	48480	48800	end	48840	48880
+head pos: jut	back	46280	48880
+head mvmt: nod
+	start	46280	46680	single	46720	47080	start	47120	47680	single	47720	48000	end	48040	48160
+body lean	slightly back	46280	48880
+eye gaze	right	46280	46360	to addressee	46400	46400	left	46440	46560	right	46600	46960	left	47000	47320	right	47360	48280	left	48320	48640	to addressee	48680	48880
+POS	Adjective	46640	46920	Adjective	47040	47600	Adjective	47720	47960	Noun	48040	48280	Determiner	48360	48880
+Non-dominant POS	Adjective	47040	47600
+English translation	It was perfect because its same size in both sides.
+Notes - number of character bytes:	47
+-Two-handed signs for SAME, did I do right way?
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	48880
+End frame:	57240
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	SO	48960	49000	IX-1p	49200	49240	fs-ROPE	49400	49680	CL:S"fixing the object"	50120	51000	CL:S"pulling the object"	51320	51840	CL:S"fixing the object"	51960	53000	PERFECT	53720	53920	ON	54320	54440	fs-HOHOLE	54720	55880	CL:S"fixing the object"	56920	57200
+non-dominant hand gloss	CL:S"fixing the object"	50120	51000	|>		53280	CL:S"fixing the object"	56160	57240
+head pos: tilt fr/bk	front	48880	49040	start	49080	49520	front	49560	54640	start	54680	55880	front	55920	57240
+head pos: turn	slightly right	48880	49040	start	49080	49200	right	49240	49680	start	49720	49920	left	49960	50920	start	50960	51560	right	51600	51800	start	51840	52880	left	52920	54000	start	54040	54320	right	54360	55920	start	55960	56840	left	56880	57240
+head pos: tilt side	start	48880	49120	slightly right	49160	49600	start	49640	49920	left	49960	50960	start	51000	51520	right	51560	52800	start	52840	53640	left	53680	54040	end	54080	55920
+head pos: jut	back	48880	57240
+body lean	back	48880	49120	start	49160	50000	forward/left	50040	51000	start	51040	51800	forward/right	51840	53080	start	53120	53960	forward	54000	56240	end	56320	57200
+eye brows	start	52960	53080	raised	53120	53960	start	54000	54480	lowered	54520	57240
+eye gaze	to addressee	48880	49640	left	49680	49960	to addressee	50000	50960	right	51000	53160	left	53200	53880	to addressee	53920	57240
+eye aperture	start	48880	51800	slightly squinted	51840	53000	start	53040	53160	wide	53200	54080	start	54120	54400	squint	54440	57160	start	57200	57200	closed	57240	57240
+nose	start	48880	49680	tensed	49720	53000	start	53040	54200	wrinkle	54240	57240
+POS	Discourse Marker	48960	49000	Pronoun	49200	49240	Noun	49400	49680	Classifier	50120	51000	Classifier	51320	51840	Classifier	51960	53000	Adjective	53720	53920	Preposition	54320	54440	Noun	54720	55880	Classifier	56920	57200
+Non-dominant POS	Classifier	50120	51000	Classifier	56160	57240
+English translation	I fixed the rope to attach between the holes.
+Notes - number of character bytes:	18
+-all CL's correct?
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	57240
+End frame:	60600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	SAME	57280	57360	IX-1p	57560	57600	TIE	57760	58120	UNKNOWN	58280	58480	IX-1p	58720	58920	CL:S"pressing the object"++	59320	60600
+non-dominant hand gloss
+head pos: tilt fr/bk	front	57240	57400	start	57440	57800	front	57840	58160	start	58200	59240	front	59280	60600
+head pos: turn	left	57240	57720	start	57760	57920	slightly right	57960	58160	start	58200	58280	left	58320	60600
+head pos: tilt side	slightly left	57240	57400	start	57440	58920	left	58960	60600
+head pos: jut	back	57240	60600
+head mvmt: nod
+	start	57240	57240	single	57280	57400	start	57440	58360	single	58400	58640	end	58680	58960
+body lean	start	57240	57840	slightly back	57880	58240	start	58280	58480	right	58520	59240	start	59280	59640	forward/left	59680	60600
+eye brows	lowered	57240	57440	start	57480	57600	raised	57640	59640	start	59680	60520	lowered	60560	60600
+eye gaze	left	57400	57600	to addressee	57640	58160	left	58200	58600	to addressee	58640	60600
+eye aperture	closed	57240	57360	start	57400	57640	wide	57680	58920	end	58960	59240
+nose	wrinkle	57240	57760	start	57800	60560	wrinkle	60600	60600
+POS	Adjective	57280	57360	Pronoun	57560	57600	Verb	57760	58120	Pronoun	58720	58920	Classifier	59320	60600
+English translation	I was tying and then pressed the doorbell.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	60600
+End frame:	64600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	fs-ERICK	60840	61520	SAME	61640	61680	POSS-3p:i	61760	61800	NAME	61880	62040	ERICK	62200	62560	fs-ERICK	62680	63280	IX-3p:i	63320	63560	POSS-1p	63720	63800	PAST	63920	64040	#RA	64120	64480
+non-dominant hand gloss
+head pos: tilt fr/bk	front	60600	64600
+head pos: turn	left	60600	60720	start	60760	60920	right	60960	63920	start	63960	64560	left	64600	64600
+head pos: tilt side	left	60600	60880	start	60920	61600	right	61640	64600
+head pos: jut	back	60600	64520	end	64560	64600
+head mvmt: nod
+	start	63160	63400	slight rapid head nod	63440	63840	end	63880	64560
+body lean	forward/left	60600	60920	start	60960	61240	forward	61280	64600
+eye brows	lowered	60600	64600
+eye gaze	to addressee	60600	64520	left	64560	64600
+eye aperture	start	60600	60760	squint	60800	61320	start	61360	61520	blink	61560	61760	start	61800	61800	further squinted	61840	63160	start	63200	63240	closed	63280	63960	start	64000	64120	squint	64160	64600
+nose	start	60600	60760	wrinkle	60800	64600
+POS	Proper Noun	60840	61520	Adjective	61640	61680	Pronoun	61760	61800	Noun	61880	62040	Proper Noun	62200	62560	Proper Noun	62680	63280	Determiner	63320	63560	Possessive	63720	63800	Tense Marker	63920	64040	Proper Noun	64120	64480
+English translation	My RA named is Erick.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	64600
+End frame:	72880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	64960	65040	|>		66920	START	67440	67520	CL:S"pulling the object"++	67840	69440	IX-1p	69560	69720	CL:S"pressing the object"	69920	70320	ANOTHER	70440	70560	PERSON	70800	70880	CL:S"pressing the object"	71080	71280	CL:S"pulling against each other"++	71600	72880
+non-dominant hand gloss	CL:S"pressing the object"++	64960	67200
+head pos: tilt fr/bk	front	64600	66400	start	66440	67640	front	67680	68200	start	68240	68880	back	68920	69240	start	69280	70520	front	70560	71800	end	71840	72440
+head pos: turn	left	64600	66440	start	66480	67520	left	67560	68640	start	68680	68920	right	68960	70320	start	70360	71120	left	71160	71800	start	71840	72120	right	72160	72280	start	72320	72440	left	72480	72760	end	72800	72880
+head pos: tilt side	slightly right	64600	65000	start	65040	67880	left	67920	68440	start	68480	68680	right	68720	70360	start	70400	71360	left	71400	71840	start	71880	72000	right	72040	72200	start	72240	72360	left	72400	72800	end	72840	72880
+head pos: jut	start	64600	65160	back	65200	68440	start	68480	70000	back	70040	72240	end	72280	72880
+head mvmt: side to side	start	64600	67920	single	67960	69280	start	69320	71600	rapid	71640	72840	end	72880	72880
+body lean	forward	64600	64640	start	64680	65320	right	65360	69240	start	69280	70040	right	70080	71400	start	71440	72160	right	72200	72520	end	72560	72880
+eye brows	slightly lowered	64600	64640	start	64680	65000	raised	65040	67520	start	67560	67680	slightly lowered	67720	69320	start	69360	71040	lowered	71080	72880
+eye gaze	left	64600	65280	to addressee	65320	68600	right	68640	72880
+eye aperture	squint	64600	64600	start	64640	64840	closed	64880	65560	start	65600	66200	blink	66240	66440	start	66480	67680	squint	67720	69400	start	69440	71160	squint	71200	72880
+nose	wrinkle	64600	64600	start	64640	64720	tensed	64760	66480	start	66520	67600	wrinkle	67640	69280	start	69320	71240	wrinkle	71280	72880
+POS	Pronoun	64960	65040	Verb	67440	67520	Classifier	67840	69440	Pronoun	69560	69720	Classifier	69920	70320	Adjective	70440	70560	Noun	70800	70880	Classifier	71080	71280	Classifier	71600	72880
+Non-dominant POS	Classifier	64960	67200
+English translation	I pressed the doorbell and he started to pulling the door. Then I pressed another doorbell, both were trying to open the door.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	72880
+End frame:	76720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	BOTH	73040	73280	CAN-NOT	73560	73800	OUT	74480	75080	IX-1p	75240	75400	LAUGH	75600	76720
+non-dominant hand gloss
+head pos: tilt fr/bk	start	72880	73080	front	73120	75280	start	75320	75720	back	75760	76080	start	76120	76520	slightly front	76560	76640	end	76680	76720
+head pos: turn	start	72880	73080	slightly right	73120	73360	start	73400	73760	left	73800	74480	start	74520	75520	left	75560	76560	start	76600	76640	slightly left	76680	76720
+head pos: tilt side	start	72880	73840	left	73880	74440	start	74480	75520	left	75560	76640	end	76680	76720
+head pos: jut	start	72880	72960	slightly back	73000	73120	start	73160	73320	back	73360	74520	start	74560	76320	forward	76360	76520	end	76560	76720
+head mvmt: shake	start	73400	73760	rapid	73800	74520	end	74560	75160
+body lean	start	72880	74040	forward	74080	75240	start	75280	75880	back	75920	76160	start	76200	76520	forward	76560	76720
+eye brows	lowered	72880	72960	end	73000	73400
+eye gaze	to addressee	72880	76720
+eye aperture	squint	72880	73000	start	73040	75200	start	75240	75240	closed	75280	76200	start	76240	76320	squint	76360	76720
+nose	wrinkle	72880	72960	start	73000	75120	wrinkle	75160	75520	end	75560	75920
+negative	negation	73800	74520
+POS	Pronoun	73040	73280	Negation+Verb	73560	73800	Preposition	74480	75080	Pronoun	75240	75400	Verb	75600	76720
+English translation	Both could not get out and I was laughing hard. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	76720
+End frame:	80600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p-arc	76800	77200	ROOMMATE	77400	77600	PAST	77760	78280	SEVEN	78480	78560	YEAR	78640	78920	IX-3p:i	79000	79160	LAUGH	79320	79640	GOOD	79800	79920	TIME	80040	80280	IX-1p	80360	80440
+non-dominant hand gloss	LAUGH	76720	76760	|>		77040	ROOMMATE	77400	77600	|>		78480	TIME	80040	80280	|>		80600
+head pos: tilt fr/bk	start	76720	77120	front	77160	78920	start	78960	79520	back	79560	80280	start	80320	80480	front	80520	80600
+head pos: turn	slightly left	76720	76760	start	76800	77000	right	77040	78040	start	78080	78560	left	78600	79200	start	79240	79960	slightly right	80000	80400	start	80440	80560	slightly left	80600	80600
+head pos: tilt side	start	76720	76960	right	77000	78040	start	78080	78520	left	78560	79000	start	79040	79520	right	79560	80400	start	80440	80560	slightly left	80600	80600
+head pos: jut	start	76720	77040	back	77080	78600	start	78640	79120	forward	79160	80280	start	80320	80520	slightly back	80560	80600
+body lean	slightly forward	76720	76800	start	76840	77320	back	77360	78400	start	78440	79120	slightly forward	79160	79320	start	79360	79840	slightly back	79880	80120	start	80160	80560	forward/left	80600	80600
+eye brows	start	76720	77200	lowered	77240	78920	start	78960	80400	lowered	80440	80600
+eye gaze	to addressee	76720	80600
+eye aperture	squint	76720	77480	start	77520	77680	closed	77720	78320	start	78360	78360	further squinted	78400	78720	start	78760	78960	closed	79000	80280	start	80320	80400	further squinted	80440	80600
+nose	start	76800	77200	wrinkle	77240	78920	start	78960	80400	wrinkle	80440	80600
+POS	Pronoun	76800	77200	Proper Noun	77400	77600	Tense Marker	77760	78280	Number	78480	78560	Noun	78640	78920	Determiner	79000	79160	Verb	79320	79640	Adjective	79800	79920	Noun	80040	80280	Pronoun	80360	80440
+Non-dominant POS	Verb	76720	76760	Proper Noun	77400	77600	Noun	80040	80280
+English translation	We, the roommates seven years ago, were laughing and had a good time.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	80600
+End frame:	86800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	UNKNOWN	80720	81480	DECIDE	81760	81920	LEAVE	82160	82440	UNKNOWN	82480	82720	CL:1"going down"	82920	83720	FOR	84000	84040	FIFTEEN	84160	84280	MINUTE	84400	84840	#THEN	84920	85160	DECIDE	85320	85680	FEEL	85800	86040	BAD	86160	86600
+non-dominant hand gloss	DECIDE	85320	85680	|>		86160
+head pos: tilt fr/bk	front	80600	81040	start	81080	81640	front	81680	84560	start	84600	85120	back	85160	86160	end	86200	86800
+head pos: turn	left	80600	81240	start	81280	81600	right	81640	82320	start	82360	82480	left	82520	83600	start	83640	84240	right	84280	84800	start	84840	85480	slightly right	85520	86240	start	86280	86760	slightly left	86800	86800
+head pos: tilt side	left	80600	81200	start	81240	81520	right	81560	82320	start	82360	82480	left	82520	83640	start	83680	84240	slightly right	84280	84680	start	84720	85120	left	85160	85240	start	85280	85480	right	85520	86320	start	86360	86760	left	86800	86800
+head pos: jut	back	80600	84680	start	84720	85120	slightly forward	85160	85400	start	85440	86080	back	86120	86360	end	86400	86800
+head mvmt: side to side	start	80600	81080	rapid	81120	83720	end	83760	84240
+body lean	forward/left	80600	81040	start	81080	82320	forward/left	82360	82840	start	82880	83560	forward/right	83600	85160	start	85200	86080	back/right	86120	86560	end	86600	86800
+eye brows	lowered	80600	82240	start	82280	82360	slightly lowered	82400	84680	start	84720	84720	lowered	84760	85280	end	85320	85480
+eye gaze	to addressee	80600	83480	right	83520	84360	to addressee	84400	86800
+eye aperture	further squinted	80600	81880	start	81920	81920	squint	81960	84720	start	84760	84880	closed	84920	86800
+nose	wrinkle	80600	86760	end	86800	86800
+POS	Verb	81760	81920	Verb	82160	82440	Classifier	82920	83720	Preposition	84000	84040	Number	84160	84280	Noun	84400	84840	Adverb	84920	85160	Verb	85320	85680	Verb	85800	86040	Adjective	86160	86600
+Non-dominant POS	Verb	85320	85680
+English translation	We decided to leave it alone and went downstair for fifteen minutes.  Then we felt bad.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	86800
+End frame:	90360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	ON	88160	88240	THIRD	88320	88440	FLOOR	88560	89000	IX-1p	89240	89720	CL:S"pressing the object"	89960	90360
+non-dominant hand gloss	IX-1p	86920	87000	CL:1"going up"	87240	87960
+head pos: tilt fr/bk	start	88160	88680	front	88720	89040	end	89080	89720
+head pos: turn	left	86800	87520	start	87560	88000	slightly right	88040	89120	start	89160	89760	left	89800	90360
+head pos: tilt side	left	86800	87600	start	87640	88360	right	88400	89160	start	89200	89720	left	89760	90360
+head pos: jut	start	88720	89240	slightly forward	89280	90360
+head mvmt: nod
+	start	89760	89960	slight rapid head nod	90000	90320	end	90360	90360
+head mvmt: side to side	start	86800	86960	slow	87000	89920	end	89960	90320
+body lean	back/right	86800	86800	start	86840	87160	left	87200	87880	start	87920	89000	forward/right	89040	89400	start	89440	89800	left	89840	90240	start	90280	90320	forward/left	90360	90360
+eye brows	start	87920	88120	lowered	88160	89000	end	89040	89400
+eye gaze	to addressee	87240	89440	up	89480	90360
+eye aperture	closed	86800	86960	start	87000	87200	squint	87240	88920	start	88960	88960	blink	89000	89120	end	89160	89480
+nose	start	86800	87600	wrinkle	87640	88960	end	89000	89480
+POS	Preposition	88160	88240	Number	88320	88440	Noun	88560	89000	Pronoun	89240	89720	Classifier	89960	90360
+Non-dominant POS	Pronoun	86920	87000	Classifier	87240	87960
+English translation	I went up to third floor and pressed the doorbell.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	90360
+End frame:	94800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	90480	90640	CL:S"fixing the object"	90920	91400	DISCONNECT	91600	92120	fs-ROPE	92200	92560	DISCONNECT	92760	93400	IX-1p	93520	93640	UNKNOWN	93920	94800
+non-dominant hand gloss	CL:S"pressing the object"	90360	90400	|>		91400
+head pos: tilt fr/bk	start	90360	90720	front	90760	91240	start	91280	91600	slightly back	91640	91760	start	91800	91960	front	92000	93480	end	93520	93920
+head pos: turn	left	90360	90600	start	90640	91880	right	91920	93320	start	93360	93960	left	94000	94800
+head pos: tilt side	left	90360	91360	start	91400	92200	right	92240	93600	start	93640	94040	left	94080	94800
+head pos: jut	start	90360	90880	back	90920	93400	start	93440	94520	forward	94560	94800
+head mvmt: nod
+	start	91360	91680	slow	91720	93640	start	93680	94320	single	94360	94720	end	94760	94800
+body lean	forward/left	90360	90480	start	90520	90920	forward/right	90960	92240	start	92280	92920	forward	92960	94320	start	94360	94640	forward/right	94680	94800
+eye gaze	up	90360	90440	to addressee	90480	93400	up/left	93440	94040	up	94080	94640	to addressee	94680	94800
+eye aperture	start	93440	93960	squint	94000	94800
+nose	start	93640	94320	wrinkle	94360	94800
+POS	Pronoun	90480	90640	Classifier	90920	91400	Adjective	91600	92120	Noun	92200	92560	Adjective	92760	93400	Pronoun	93520	93640
+Non-dominant POS	Classifier	90360	90400
+English translation	I fixed the rope and got it deattached.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	94800
+End frame:	96600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	KNOW	94960	95080	IX-1p	95200	95320	CL:5"teasing"+	95440	96400
+non-dominant hand gloss
+head pos: tilt fr/bk	start	96400	96440	slightly front	96480	96600
+head pos: turn	left	94800	94960	start	95000	95440	slightly right	95480	96600
+head pos: tilt side	left	94800	94960	start	95000	95200	right	95240	96240	start	96280	96560	slightly left	96600	96600
+head pos: jut	forward	94800	96440	end	96480	96600
+head mvmt: nod
+	start	94800	95160	slight slow head nod	95200	96400	end	96440	96600
+body lean	forward/right	94800	95000	start	95040	95440	forward	95480	96600
+eye gaze	to addressee	94800	96600
+eye aperture	squint	94800	96200	end	96240	96480
+nose	wrinkle	94800	96240	end	96280	96600
+POS	Verb	94960	95080	Pronoun	95200	95320	Classifier	95440	96400
+English translation	I know that I was teasing.
+Notes - number of character bytes:	35
+- correct way to gloss the cl part?
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	96600
+End frame:	101320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	96680	96800	IX-3p:i	96920	97000	NS-ERICK	97120	97840	SAY	98080	98200	WORRY	98360	98960	SAY	99160	99320	part:indef	99480	99680	KNOW	99880	99960	IX-1p	100080	100200	HAVE	100360	100560	EMERGENCY	100800	101320
+non-dominant hand gloss	part:indef	99480	99680	|>		100120
+head pos: tilt fr/bk	slightly front	96600	98240	start	98280	99960	front	100000	100440	start	100480	101200
+head pos: turn	slightly right	96600	96760	start	96800	96960	right	97000	98000	start	98040	98600	slightly left	98640	98680	start	98720	99040	slightly right	99080	101040	end	101080	101320
+head pos: tilt side	slightly left	96600	96800	start	96840	98200	left	98240	98400	start	98440	98760	right	98800	99400	start	99440	99880	left	99920	101320
+head pos: jut	start	96600	96840	back	96880	98040	start	98080	99920	forward	99960	100360	start	100400	101280
+head mvmt: shake	start	98080	98360	slow	98400	99200	end	99240	99440
+body lean	forward	96600	96800	start	96840	98240	forward	98280	98640	start	98680	99120	back/right	99160	99320	start	99360	99600	forward	99640	100560	start	100600	101280	forward	101320	101320
+eye brows	start	96600	96800	raised	96840	97880	end	97920	98240
+eye gaze	to addressee	96600	98200	right	98240	99600	to addressee	99640	101320
+eye aperture	start	96600	96800	wide	96840	98760	start	98800	98800	blink	98840	99080	start	99120	99920	wide	99960	100760	end	100800	101320
+POS	Discourse Marker	96680	96800	Pronoun	96920	97000	Proper Noun	97120	97840	Verb	98080	98200	Verb	98360	98960	Verb	99160	99320	Particle	99480	99680	Verb	99880	99960	Pronoun	100080	100200	Verb	100360	100560	Noun	100800	101320
+Non-dominant POS	Particle	99480	99680
+English translation	Erick said I was worried, you know, I had an emergency.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	101320
+End frame:	105760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IX-1p	101480	101600	MUST	101680	101760	TO	101880	101920	GO	102160	102600	IX-1p	102960	103120	part:indef	103280	103680	REALLY	103840	103960	ANOTHER	104120	104280	BUILDING	104440	104640	MUST	104760	105000	IX-1p	105160	105440	part:indef	105600	105760
+non-dominant hand gloss	part:indef	103280	103680	|>		104120	BUILDING	104440	104640	|>		105360
+head pos: tilt fr/bk	front	101320	101480	start	101520	101800	slightly back	101840	104240	end	104280	105000
+head pos: turn	start	101320	103400	slightly right	103440	104600	end	104640	105000
+head pos: tilt side	left	101320	101720	start	101760	102120	right	102160	102800	start	102840	103440	left	103480	104000	start	104040	105680	slightly left	105720	105760
+head pos: jut	start	101320	101920	forward	101960	102960	start	103000	103640	back	103680	103840	start	103880	104600	back	104640	105760
+head mvmt: nod
+	start	101320	102120	single	102160	102880	end	102920	103640
+body lean	forward	101320	101760	start	101800	102680	forward	102720	103040	start	103080	103520	left	103560	104080	start	104120	105280	forward	105320	105760
+eye gaze	to addressee	101320	105760
+POS	Pronoun	101480	101600	Verb	101680	101760	Preposition	101880	101920	Verb	102160	102600	Pronoun	102960	103120	Particle	103280	103680	Discourse Marker	103840	103960	Adjective	104120	104280	Noun	104440	104640	Verb	104760	105000	Pronoun	105160	105440	Particle	105600	105760
+Non-dominant POS	Particle	103280	103680	Noun	104440	104640
+English translation	I have to go to the another building.
+Notes - number of character bytes:	120
+- GO, is it correct gloss for this sign?
+- not sure whats happening to his eyes for eye aperture?? did he wide his eyes?
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	105760
+End frame:	109360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	part:indef	105760	105800	WHY	105840	105960	DO	106080	106240	THAT	106360	106760	IX-1p	107000	107360	part:indef++	107480	108440	IX-1p	108560	108680	FEEL	108720	108960	BAD	109080	109360
+non-dominant hand gloss	part:indef	105760	105800	|>		105960	part:indef++	107480	108440	|>		109360
+head pos: tilt fr/bk	start	106760	107040	slightly back	107080	108440	start	108480	108960	slightly front	109000	109360
+head pos: turn	start	108480	108680	slightly right	108720	109360
+head pos: tilt side	slightly left	105760	106360	start	106400	108480	slightly right	108520	108680	start	108720	109120	left	109160	109360
+head pos: jut	back	105760	109360
+head mvmt: shake	start	105760	105960	slight rapid head shake	106000	106960	end	107000	107480
+body lean	forward	105760	106960	start	107000	108440	back	108480	109080	end	109120	109360
+eye brows	start	109120	109280	lowered	109320	109360
+eye gaze	to addressee	105760	107320	left	107360	107600	up	107640	108040	to addressee	108080	109360
+eye aperture	start	107000	107240	blink	107280	107360	end	107400	108040
+nose	start	109120	109280	wrinkle	109320	109360
+POS	Particle	105760	105800	Wh-word	105840	105960	Verb	106080	106240	Pronoun	106360	106760	Pronoun	107000	107360	Particle	107480	108440	Pronoun	108560	108680	Verb	108720	108960	Adjective	109080	109360
+Non-dominant POS	Particle	105760	105800	Particle	107480	108440
+English translation	He asked, "Why did you do that?" I felt bad.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	109360
+End frame:	112920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-3p:i	109440	109480	SAY	109600	109680	KNOW	109760	109920	IX-1p	110080	110120	CALL	110280	110560	COP	110720	111080	COME	111280	111760	NOW	111880	112360	|>		112920
+non-dominant hand gloss
+head pos: tilt fr/bk	front	109360	110160	end	110200	110720
+head pos: turn	right	109360	111200	start	111240	111360	slightly right	111400	112640	end	112680	112920
+head pos: tilt side	left	109360	112560	end	112600	112920
+head pos: jut	back	109360	110000	start	110040	110360	forward	110400	112360	end	112400	112920
+body lean	start	109360	109800	forward	109840	110720	start	110760	111120	back/right	111160	111400	start	111440	111800	forward	111840	112360	end	112400	112920
+eye brows	lowered	109360	112680	end	112720	112920
+eye gaze	to addressee	109360	111920	right	111960	112920
+eye aperture	start	110200	110640	slightly squinted	110680	112000	end	112040	112680
+nose	wrinkle	109360	110680	end	110720	111160
+POS	Pronoun	109440	109480	Verb	109600	109680	Verb	109760	109920	Pronoun	110080	110120	Verb	110280	110560	Proper Noun	110720	111080	Verb	111280	111760	Adverb	111880	112360
+English translation	He said, "You know, I called cop to come now."
+Notes - number of character bytes:	61
+- Call, is there any specific to gloss for that kind of sign?
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	112920
+End frame:	116160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	NOW	112920	112960	|>		113040	IX-1p	113240	113480	LOOK	113640	114040	TRUE-BUSINESS	114160	114520	IX-2p	114600	114720	CALL	114800	114920	COP	115080	115320	ON	115400	115520	IX-3p-arc	115640	116160
+non-dominant hand gloss	NOW	112920	112960	|>		113440	TRUE-BUSINESS	114160	114520	|>		114680
+head pos: turn	start	114600	114840	left	114880	116160
+head pos: jut	start	114040	114160	forward	114200	115040	start	115080	115640	back	115680	116160
+body lean	start	114040	114600	forward	114640	114920	start	114960	115160	back/right	115200	116160
+eye brows	start	113640	113960	raised	114000	116160
+eye gaze	right	112920	113320	left	113360	113720	up	113760	113960	to addressee	114000	116160
+eye aperture	start	112920	113280	blink	113320	113480	start	113520	113960	wide	114000	116160
+nose	start	114200	114800	tensed	114840	115880	end	115920	116160
+POS	Adverb	112920	112960	Pronoun	113240	113480	Verb	113640	114040	Pronoun	114600	114720	Verb	114800	114920	Proper Noun	115080	115320	Preposition	115400	115520	Pronoun	115640	116160
+Non-dominant POS	Adverb	112920	112960
+English translation	I looked at him and asked if he did call a cop on us.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	116160
+End frame:	121120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p:i	116240	116280	SAY	116360	116480	part:indef	116600	116720	IX-1p	116800	116920	NOT-KNOW	117000	117320	IX-2p-arc	117440	117680	IX-1p	117800	117920	THINK	118040	118240	SOMEONE	118320	118960	ELSE	119120	119640	PLAY	119880	120000	TROUBLE	120200	120560	WITH	120680	120840	IX-1p	120920	121120
+non-dominant hand gloss	part:indef	116600	116720	|>		119640
+head pos: tilt fr/bk	start	116160	116560	slightly back	116600	118240	start	118280	120840	slightly back	120880	121120
+head pos: turn	left	116160	116280	start	116320	116600	right	116640	117880	start	117920	118520	left	118560	120360	start	120400	121000	right	121040	121120
+head pos: tilt side	slightly right	116160	116320	start	116360	116720	left	116760	118000	start	118040	119640	right	119680	119960	start	120000	120880	left	120920	121120
+head pos: jut	slightly back	116160	116280	start	116320	116680	forward	116720	118040	start	118080	119240	back	119280	119480	start	119520	120200	forward	120240	120840	end	120880	121120
+body lean	back/right	116160	116240	start	116280	116600	forward	116640	118160	start	118200	119040	back/right	119080	119240	start	119280	119960	forward/left	120000	120320	start	120360	120600	forward	120640	121120
+eye brows	raised	116160	120280	end	120320	120640
+eye gaze	to addressee	116160	118360	right	118400	120920	to addressee	120960	121120
+eye aperture	wide	116160	119680	end	119720	120280
+nose	start	116160	116400	tensed	116440	118280	end	118320	119040
+POS	Pronoun	116240	116280	Verb	116360	116480	Particle	116600	116720	Pronoun	116800	116920	Negation+Verb	117000	117320	Pronoun	117440	117680	Pronoun	117800	117920	Verb	118040	118240	Pronoun	118320	118960	Adjective	119120	119640	Verb	119880	120000	Adjective	120200	120560	Preposition	120680	120840	Pronoun	120920	121120
+Non-dominant POS	Particle	116600	116720
+English translation	I didnt know it was you guys, I thought it was someone else play trouble with me
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	121120
+End frame:	124120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	NOT-KNOW	121240	121560	IX-1p	121640	121720	CAN-NOT	121800	121920	OUT	122000	122320	IX-1p	122400	122440	HAVE	122480	122520	EMERGENCY	122640	122880	ANOTHER	122960	123040	BUILDING	123120	123320	#SO	123360	123400	IX-1p	123520	123640	NONE	123720	123840	CHOICE	123920	124120
+non-dominant hand gloss	WITH	121120	121160	|>		121600
+head pos: tilt fr/bk	slightly back	121120	121360	start	121400	121680	front	121720	122200	start	122240	123760	slightly front	123800	123920	end	123960	124120
+head pos: turn	right	121120	123120	start	123160	123480	left	123520	124120
+head pos: tilt side	slightly left	121120	121280	start	121320	122400	slightly left	122440	122680	start	122720	123560	slightly left	123600	124120
+head pos: jut	start	121120	121640	back	121680	122400	start	122440	123360	back	123400	124120
+body lean	forward	121120	121280	start	121320	121720	back/left	121760	122760	start	122800	124000	back	124040	124120
+eye brows	start	121120	121440	raised	121480	124120
+eye gaze	to addressee	121120	124120
+eye aperture	start	121120	121680	wide	121720	123360	start	123400	123480	slightly squinted	123520	124120
+nose	start	123120	123480	wrinkle	123520	124120
+POS	Negation+Verb	121240	121560	Pronoun	121640	121720	Negation+Verb	121800	121920	Preposition	122000	122320	Pronoun	122400	122440	Adverb	122480	122520	Noun	122640	122880	Adjective	122960	123040	Noun	123120	123320	Discourse Marker	123360	123400	Pronoun	123520	123640	Negation	123720	123840	Noun	123920	124120
+Non-dominant POS	Preposition	121120	121160
+English translation	I can't get out of here and I got emergency at another building, so I had no choice.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	124120
+End frame:	127520
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	124200	124320	CALL	124400	124560	COP	124720	124880	CUT	125680	126120	fs-ROPE	126240	126840	|>		127440
+non-dominant hand gloss	CHOICE	124120	124160	|>		124720	COME	125080	125520	CUT	125680	126120	|>		127520
+head pos: tilt fr/bk	start	124120	124840	front	124880	126800	end	126840	127520
+head pos: turn	left	124120	124200	start	124240	124680	right	124720	127520
+head pos: tilt side	slightly left	124120	124240	start	124280	124560	slightly right	124600	127520
+head pos: jut	back	124120	125640	end	125680	126200
+body lean	back	124120	124360	start	124400	124840	forward	124880	126720	end	126760	127520
+eye brows	raised	124120	127520
+eye gaze	to addressee	124120	127520
+eye aperture	slightly squinted	124120	127520
+POS	Pronoun	124200	124320	Verb	124400	124560	Proper Noun	124720	124880	Verb	125680	126120	Noun	126240	126840
+Non-dominant POS	Noun	124120	124160	Verb	125080	125520	Verb	125680	126120
+English translation	I called the cop to come and cut the rope.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	127520
+End frame:	131680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	127920	128040	LOOK	128240	128600	TRUE-BUSINESS	128720	129200	SO	129240	129320	IX-3p-arc	129560	129760	MUST	129880	129960	WAIT	130080	130240	FOR	130360	130480	THAT	130560	130600	COP	130720	131000	ARRIVE	131200	131680
+non-dominant hand gloss	TRUE-BUSINESS	128720	129200	|>		129880	WAIT	130080	130240	|>		130680
+head pos: tilt fr/bk	start	127520	128600	front	128640	131560	end	131600	131680
+head pos: turn	right	127520	127680	start	127720	130000	left	130040	131680
+head pos: tilt side	slightly right	127520	127720	start	127760	128560	slightly left	128600	129560	start	129600	130000	slightly right	130040	130920	start	130960	131360	slightly left	131400	131560	end	131600	131680
+head pos: jut	start	127520	128840	forward	128880	129360	start	129400	129720	back	129760	131120	start	131160	131600	forward	131640	131680
+body lean	start	127520	129040	slightly forward	129080	129480	start	129520	130080	back/right	130120	130960	start	131000	131360	forward	131400	131680
+eye brows	raised	127520	131680
+eye gaze	to addressee	127520	127520	left	127560	129040	to addressee	129080	131680
+eye aperture	start	129720	129920	slightly squinted	129960	131680
+nose	start	129080	129520	wrinkle	129560	131680
+POS	Pronoun	127920	128040	Verb	128240	128600	Preposition	129240	129320	Pronoun	129560	129760	Modal	129880	129960	Verb	130080	130240	Preposition	130360	130480	Pronoun	130560	130600	Proper Noun	130720	131000	Verb	131200	131680
+Non-dominant POS	Verb	130080	130240
+English translation	I looked at him and asked if we have to wait for a cop to arrive?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	131680
+End frame:	136080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p:i	131840	132240	NO	132360	132640	NS-ERICK	132840	133240	(2h)IX-3p:i	133400	133520	SAY	133680	133920	YES	134040	134440	MUST	134520	134600	WAIT	134720	134800	FOR	134920	135200	COP	135360	135480	ARRIVE	135640	136000
+non-dominant hand gloss	WAIT	134720	134800	|>		135040
+head pos: tilt fr/bk	start	131680	132160	slightly back	132200	132600	start	132640	132880	front	132920	133400	start	133440	133640	back	133680	134080	start	134120	135040	front	135080	135880	end	135920	136080
+head pos: turn	left	131680	131840	start	131880	132400	right	132440	133680	start	133720	134200	left	134240	135040	start	135080	135520	right	135560	136080
+head pos: tilt side	start	131680	131760	right	131800	133640	start	133680	134040	left	134080	134800	start	134840	135240	right	135280	136080
+head pos: jut	forward	131680	132320	start	132360	132720	back	132760	133360	start	133400	134120	forward	134160	134800	start	134840	135160	back	135200	136080
+head mvmt: nod
+	start	131680	132080	rapid	132120	133440	start	133480	134200	single	134240	134560	end	134600	134800
+body lean	slightly forward	131680	132000	start	132040	134520	forward	134560	134840	start	134880	135240	back/right	135280	136080
+eye brows	raised	131680	132680	start	132720	132920	lowered	132960	133680	start	133720	134120	lowered	134160	136080
+eye gaze	to addressee	131680	136080
+eye aperture	slightly squinted	131680	132400	start	132440	132640	closed	132680	133080	start	133120	133360	squint	133400	133640	start	133680	133680	closed	133720	134080	start	134120	134240	squint	134280	135880	end	135920	136080
+nose	start	131680	132760	wrinkle	132800	136080
+POS	Pronoun	131840	132240	Negation	132360	132640	Proper Noun	132840	133240	Pronoun	133400	133520	Verb	133680	133920	Discourse Marker	134040	134440	Modal	134520	134600	Verb	134720	134800	Preposition	134920	135200	Proper Noun	135360	135480	Verb	135640	136000
+English translation	Erick said yes, we will have to wait til cop arrives.
+Notes - number of character bytes:	142
+- not sure if he "messed" up with his sentence in the beginning, that he said NO then said yes.. so, what english translation shld look like? 
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	136080
+End frame:	140840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-3p-arc	136240	136560	part:indef	137000	137160	UNKNOWN	137280	137760	FINE	138040	138280	WAIT++	138400	139160	COP	139360	139440	ARRIVE	139840	140840
+non-dominant hand gloss	WAIT++	138400	139160	|>		139360
+head pos: tilt fr/bk	start	136080	138280	slightly back	138320	139600	start	139640	140000	front	140040	140400	start	140440	140680	back	140720	140840
+head pos: turn	slightly right	136080	136200	start	136240	136840	left	136880	137560	start	137600	138240	slightly right	138280	139040	start	139080	139360	left	139400	140480	end	140520	140840
+head pos: tilt side	right	136080	136360	start	136400	136720	left	136760	137600	start	137640	137920	right	137960	139080	start	139120	139440	left	139480	140480	end	140520	140840
+head pos: jut	start	136080	136760	slightly back	136800	137160	start	137200	137480	slightly forward	137520	137880	start	137920	138520	slightly back	138560	139080	end	139120	140840
+head mvmt: side to side	start	136080	136480	slow	136520	140440	end	140480	140840
+body lean	back/right	136080	136200	start	136240	137800	slightly forward	137840	137960	start	138000	138760	slightly back	138800	139120	start	139160	140120	forward	140160	140760	end	140800	140840
+eye brows	slightly lowered	136080	136200	start	136240	139160	raised	139200	139680	end	139720	140520
+eye gaze	to addressee	136080	136120	right	136160	136360	to addressee	136400	136880	left	136920	137520	to addressee	137640	140840
+eye aperture	start	136080	136280	blink	136320	136480	start	136520	136720	blink	136760	137080	start	137120	137240	closed	137280	137880	start	137920	138120	blink	138160	138320	start	138360	139360	slightly squinted	139400	140040	end	140080	140560
+nose	wrinkle	136080	136280	end	136320	136880
+POS	Pronoun	136240	136560	Particle	137000	137160	Adjective	138040	138280	Verb	138400	139160	Proper Noun	139360	139440	Verb	139840	140840
+Non-dominant POS	Verb	138400	139160
+English translation	We said fine so we waited.  Then cop arrived.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	140840
+End frame:	146680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	COP	141320	141520	FIND	141680	141840	SITUATION	142000	142320	FUNNY	142480	142960	LUCKY	143120	143840	IX-3p-arc	144080	144320	LOOK	144480	145280	WHEW	145560	146600	|>		146680
+non-dominant hand gloss	SITUATION	142000	142320	|>		143440
+head pos: tilt fr/bk	slightly back	140840	141520	start	141560	142120	front	142160	143040	start	143080	144880	back	144920	145440	end	145480	146680
+head pos: turn	start	140840	141160	right	141200	141920	start	141960	142360	left	142400	143000	start	143040	143360	right	143400	144360	start	144400	145680	slightly left	145720	146680
+head pos: tilt side	start	140840	141000	right	141040	141880	start	141920	142120	left	142160	143000	start	143040	143200	right	143240	144520	start	144560	145320	left	145360	146680
+head pos: jut	start	140840	141480	back	141520	141880	start	141920	143080	slightly forward	143120	143320	start	143360	144880	slightly back	144920	146680
+body lean	start	140840	142040	forward	142080	143120	start	143160	145320	back	145360	146680
+eye brows	start	140840	141720	raised	141760	144880	end	144920	145720
+eye gaze	to addressee	140840	144400	left	144440	146160	to addressee	146200	146680
+eye aperture	start	140840	141840	wide	141880	144200	start	144240	144320	blink	144360	144480	start	144520	145280	blink	145320	145520	end	145560	146160
+POS	Proper Noun	141320	141520	Verb	141680	141840	Noun	142000	142320	Adjective	142480	142960	Adjective	143120	143840	Pronoun	144080	144320	Verb	144480	145280	Adjective	145560	146600
+Non-dominant POS	Noun	142000	142320
+English translation	We were relieved when cop found that situation funny.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	146680
+End frame:	152840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	COP	146800	146960	SAY	147120	147240	CL:1"pointing at us"	147360	147840	NOT	147920	147960	DO	148040	148600	#EVER	148720	148960	AGAIN	149200	149720	MAKE	150040	150160	IX-1p	150280	150360	DRIVE	150520	150920	FROM	151040	151160	#LA	151240	151600	CL:1"coming to here"	151720	151960	FOR	152040	152200	THAT	152320	152840
+non-dominant hand gloss	FROM	151040	151160	|>		152040
+head pos: tilt fr/bk	start	146680	147000	slightly front	147040	152840
+head pos: turn	slightly left	146680	146720	start	146760	147000	slightly right	147040	148720	start	148760	149040	left	149080	149800	start	149840	150360	right	150400	151240	start	151280	151800	slightly left	151840	152200	start	152240	152400	slightly right	152440	152840
+head pos: tilt side	left	146680	146760	start	146800	147000	right	147040	148720	start	148760	149040	left	149080	149840	start	149880	150360	right	150400	151280	start	151320	151840	left	151880	152240	end	152280	152840
+head pos: jut	back	146680	147160	start	147200	147600	slightly forward	147640	147800	start	147840	148360	back	148400	150920	start	150960	151120	slightly back	151160	152560	end	152600	152840
+head mvmt: shake	start	146680	147600	rapid	147640	148800	end	148840	149800
+body lean	slightly back	146680	146880	start	146920	147440	slightly forward	147480	148040	start	148080	149600	forward/left	149640	149840	start	149880	150920	forward	150960	152840
+eye brows	start	149080	150040	slightly raised	150080	150640	end	150680	151280
+eye gaze	to addressee	146680	147520	right	148680	152840
+eye aperture	start	146680	146720	blink	146760	146920	start	146960	147520	closed	147560	148640	start	148680	149880	slightly squinted	149920	152840
+POS	Proper Noun	146800	146960	Verb	147120	147240	Classifier	147360	147840	Negation	147920	147960	Verb	148040	148600	Adjective	148720	148960	Adverb	149200	149720	Verb	150040	150160	Pronoun	150280	150360	Verb	150520	150920	Preposition	151040	151160	Proper Noun	151240	151600	Classifier	151720	151960	Preposition	152040	152200	Pronoun	152320	152840
+Non-dominant POS	Preposition	151040	151160
+English translation	A cop pointed his finger to us and said, "Don't ever do that again because I drove here all the way from LA for that."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	152840
+End frame:	158080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	THAT	152840	152880	|>		152920	IX-1p	153000	153440	LOOK	153640	154560	WHEW	154760	155520	GOOD	155680	155960	IX-1p	156080	156200	GET	156280	156400	REGULAR	156520	156800	OPEN	157040	157280	COP	157440	158080
+non-dominant hand gloss	OPEN	157040	157280	|>		158080
+head pos: tilt fr/bk	slightly front	152840	152880	start	152920	154640	back	154680	156080	start	156120	156760	front	156800	158080
+head pos: turn	slightly right	152840	153160	start	153200	154600	left	154640	155520	start	155560	155920	right	155960	157680	start	157720	158040	slightly left	158080	158080
+head pos: tilt side	start	152840	152840	slightly right	152880	153200	start	153240	154560	left	154600	155560	start	155600	155880	right	155920	156800	start	156840	157960	slightly left	158000	158080
+head pos: jut	start	152840	154440	back	154480	158080
+body lean	forward	152840	152920	start	152960	155520	back	155560	155960	start	156000	157760	forward/left	157800	158080
+eye brows	start	154440	155560	lowered	155600	157720	start	157760	158040	raised	158080	158080
+eye gaze	to addressee	152840	154240	left	154280	154400	to addressee	154440	157920	right	157960	158080
+eye aperture	slightly squinted	152840	155760	start	155800	155960	squint	156000	157480	start	157520	158040	wide	158080	158080
+nose	start	155560	156000	wrinkle	156040	157920	end	157960	158080
+POS	Pronoun	152840	152880	Pronoun	153000	153440	Verb	153640	154560	Adjective	154760	155520	Adjective	155680	155960	Pronoun	156080	156200	Verb	156280	156400	Adjective	156520	156800	Adjective	157040	157280	Proper Noun	157440	158080
+Non-dominant POS	Adjective	157040	157280
+English translation	I was relief and it was good that we got regular and open-minded cop.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	158080
+End frame:	161520
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	COP	158080	158120	TRUE-BUSINESS	158240	158880	|>		159120	ns-ERICK	159320	159960	(2h)IX-3p:i	160000	160200	MUST	160280	160520	FINE	160640	161080	IX-3p-arc	161200	161520
+non-dominant hand gloss	OPEN	158080	158120	|>		158160	IX-3p:i	159120	159400	|>		160440
+head pos: tilt fr/bk	front	158080	158200	start	158240	159640	slightly front	159680	160640	start	160680	161120	slightly front	161160	161520
+head pos: turn	left	158080	159160	start	159200	159640	right	159680	160480	start	160520	161240	slightly right	161280	161520
+head pos: tilt side	left	158080	158880	start	158920	159440	right	159480	161520
+head pos: jut	slightly back	158080	158640	start	158680	159520	back	159560	161520
+head mvmt: nod
+	start	158080	158440	slight rapid head nod	158480	159120	end	159160	159560
+body lean	forward/left	158080	158320	start	158360	160760	forward/right	160800	161400	end	161440	161520
+eye brows	raised	158080	159680	start	159720	160000	lowered	160040	161520
+eye gaze	right	158080	159320	to addressee	159360	160200	right	160240	161520
+eye aperture	wide	158080	158600	start	158640	158840	blink	158880	159120	start	159160	159320	slightly squinted	159360	160080	start	160120	160200	squint	160240	161520
+nose	wrinkle	158080	158520	start	158560	160200	wrinkle	160240	160800	end	160840	161240
+POS	Proper Noun	158080	158120	Proper Noun	159320	159960	Determiner	160000	160200	Modal	160280	160520	Verb	160640	161080	Pronoun	161200	161520
+Non-dominant POS	Adjective	158080	158120	Pronoun	159120	159400
+English translation	Erick was supposed to fine us.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	161520
+End frame:	166080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	HAVE	161760	161920	PAST	162200	162320	HAVE	162440	162520	FINE	162640	163080	SYSTEM	163200	163480	AT	163520	163600	NS-CSUN	163720	164360	IF	164480	164720	TROUBLE	164840	165520	#SO	165720	165800	part:indef	165920	166080
+non-dominant hand gloss	TROUBLE	164840	165520	|>		165760
+head pos: tilt fr/bk	slightly front	161520	162360	start	162400	163520	slightly front	163560	164360	start	164400	165600	slightly back	165640	166080
+head pos: turn	slightly right	161520	161680	start	161720	162040	left	162080	162440	start	162480	163120	right	163160	164600	start	164640	165320	slightly left	165360	165640	start	165680	165920	slightly right	165960	166080
+head pos: tilt side	right	161520	161720	start	161760	161960	left	162000	162440	start	162480	163040	right	163080	164720	start	164760	165240	slightly left	165280	165640	start	165680	165960	slightly right	166000	166080
+head pos: jut	back	161520	161600	start	161640	163000	slightly forward	163040	163640	start	163680	165320	forward	165360	165800	end	165840	166080
+head mvmt: side to side	start	161520	161720	slow	161760	162960	start	163000	165280	slow	165320	166040	end	166080	166080
+body lean	start	161520	163000	forward	163040	164560	start	164600	165200	forward	165240	165800	start	165840	166000	slightly forward	166040	166080
+eye brows	slightly lowered	161520	161760	start	161800	162040	lowered	162080	164400	end	164440	165280
+eye gaze	right	161520	161800	right	164960	165800
+eye aperture	slightly squinted	161520	161760	start	161800	162000	closed	162040	164440	start	164480	164600	further squinted	164640	166080
+nose	start	161520	162040	wrinkle	162080	166080
+POS	Adverb	161760	161920	Tense Marker	162200	162320	Adverb	162440	162520	Adjective	162640	163080	Noun	163200	163480	Preposition	163520	163600	Proper Noun	163720	164360	Conjunction	164480	164720	Adjective	164840	165520	Discourse Marker	165720	165800	Particle	165920	166080
+Non-dominant POS	Adjective	164840	165520
+English translation	Back then, there was a fine system at CSUN for if you caused troubles.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	41
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	166080
+End frame:	168680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	part:indef	166080	166120	IX-3p:i	166320	166360	DECIDE	166520	166640	WAIVE	166760	167280	BECAUSE	167480	167720	THINK	167840	168000	FUNNY	168160	168680
+non-dominant hand gloss	WAIVE	166760	167280	|>		168680
+head pos: tilt fr/bk	slightly back	166080	167000	start	167040	167480	front	167520	168560	end	168600	168680
+head pos: turn	right	166080	167320	start	167360	167560	left	167600	168440	start	168480	168640	slightly left	168680	168680
+head pos: tilt side	right	166080	167320	start	167360	167600	left	167640	168400	end	168440	168680
+head pos: jut	forward	166080	166560	start	166600	166800	back	166840	167320	start	167360	167960	slightly back	168000	168440	end	168480	168680
+head mvmt: shake	start	166080	166320	slight rapid head shake	166360	167320	end	167360	167600
+body lean	slightly forward	166080	166200	start	166240	167040	forward	167080	167840	end	167880	168400
+eye brows	lowered	166080	166600	start	166640	167760	lowered	167800	167920	end	167960	168400
+eye gaze	to addressee	166080	166080	to addressee	166840	167160	right	167200	168680
+eye aperture	further squinted	166080	166160	start	166200	166280	closed	166320	166760	start	166800	167760	slightly squinted	167800	168120	end	168160	168400
+nose	wrinkle	166080	166600	start	166640	167720	wrinkle	167760	168120	end	168160	168400
+POS	Particle	166080	166120	Pronoun	166320	166360	Verb	166520	166640	Verb	166760	167280	Conjunction	167480	167720	Verb	167840	168000	Adjective	168160	168680
+Non-dominant POS	Verb	166760	167280
+English translation	He decided to waive us because he thought it was funny.
+Notes - number of character bytes:	114
+- the waive sign on second hand- did he do part:indef later at around "because" part or is it still under "waive"?
+
+
+Utterance ID:	42
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	168680
+End frame:	172680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	#SO	168880	169200	IX-3p:i	169560	169600	UNKNOWN	169840	169960	part:indef	170040	170080	REALLY+	170280	170760	ONE	170920	171080	PUNISH	171320	171520	IX-1p	171720	171800	MUST	171920	171960	DO	172080	172600	|>		172680
+non-dominant hand gloss	WAIVE	168680	168720	|>		169480
+head pos: tilt fr/bk	start	168680	169160	back	169200	170040	start	170080	170520	back	170560	170880	start	170920	171160	front	171200	172680
+head pos: turn	slightly left	168680	168720	start	168760	169480	right	169520	169640	start	169680	170040	left	170080	170440	start	170480	171040	slightly right	171080	171120	start	171160	171400	left	171440	171800	start	171840	172320	right	172360	172680
+head pos: tilt side	start	168680	169000	right	169040	169720	start	169760	169960	left	170000	170480	start	170520	170800	right	170840	171160	start	171200	171440	left	171480	171800	start	171840	172280	right	172320	172680
+head pos: jut	start	168680	169040	back	169080	170440	start	170480	170800	back	170840	172000	start	172040	172560	forward	172600	172680
+body lean	start	168680	169520	back	169560	170440	start	170480	171400	back/right	171440	171960	start	172000	172520	forward	172560	172680
+eye brows	start	168680	169200	raised	169240	170040	start	170080	171920	slightly lowered	171960	172680
+eye gaze	right	168680	169120	to addressee	169160	171800	right	171840	172160	to addressee	172200	172680
+eye aperture	start	168680	169240	slightly squinted	169280	169640	start	169680	169840	squint	169880	170280	start	170320	171840	squint	171880	172480	end	172520	172680
+POS	Discourse Marker	168880	169200	Pronoun	169560	169600	Particle	170040	170080	Discourse Marker	170280	170760	Number	170920	171080	Verb	171320	171520	Pronoun	171720	171800	Modal	171920	171960	Verb	172080	172600
+Non-dominant POS	Verb	168680	168720
+English translation	Actually, there was one punish we have to do.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	43
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	172680
+End frame:	177120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	172840	172920	MUST	173040	173080	#TO	173160	173240	GO	173400	173880	SEE	174040	174280	UNKNOWN	174440	175840	fs-HALL	175920	176400	COORDINATOR	176520	177120
+non-dominant hand gloss	DO	172680	172720	|>		174120	UNKNOWN	174440	175840	|>		176280
+head pos: tilt fr/bk	front	172680	172800	start	172840	173240	slightly front	173280	174000	start	174040	174440	front	174480	175200	start	175240	175840	slightly back	175880	176520	start	176560	176960	slightly front	177000	177000	end	177120	177120
+head pos: turn	right	172680	173040	start	173080	173520	left	173560	173760	start	173800	174120	right	174160	177120
+head pos: tilt side	right	172680	173000	start	173040	173360	left	173400	173720	start	173760	174440	right	174480	175200	start	175240	176920	slightly right	176960	177120
+head pos: jut	forward	172680	172840	start	172880	173320	slightly back	173360	173560	start	173600	174480	back	174520	175200	start	175240	175840	forward	175880	175920	start	175960	176280	back	176320	177120
+body lean	forward	172680	173000	start	173040	173760	forward	173800	174480	start	174520	175840	slightly forward	175880	176440	start	176480	176760	left	176800	177120
+eye brows	start	172680	173280	lowered	173320	177000	end	177040	177120
+eye gaze	to addressee	172680	177120
+eye aperture	start	172680	173120	squint	173160	177080	end	177120	177120
+nose	start	173080	173560	wrinkle	173600	177000	end	177040	177120
+POS	Pronoun	172840	172920	Verb	173040	173080	Preposition	173160	173240	Verb	173400	173880	Verb	174040	174280	Adjective	175920	176400	Proper Noun	176520	177120
+Non-dominant POS	Verb	172680	172760
+English translation	I have go to see a hall coordinator.
+Notes - number of character bytes:	42
+-UNKNOWN, not sure what to gloss that one?
+
+
+Utterance ID:	44
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	177120
+End frame:	182840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	IX-1p	177280	177400	GO	177560	177760	EXPLAIN	177880	178120	ABOUT	178280	178360	THAT	178480	178640	SITUATION	178760	179160	REALLY	179360	179400	fs-HALL	179840	180320	COORDINATOR	180520	180880	NOT	181000	181120	FRIENDLY	181320	182040	part:indef	182680	182800
+non-dominant hand gloss	COORDINATOR	177120	177160	|>		177680	ABOUT	178280	178360	|>		178600	THAT	179600	179760
+head pos: tilt fr/bk	start	177120	177320	back	177360	177920	start	177960	178320	front	178360	179080	start	179120	180600	slightly front	180640	180840	start	180880	181560	slightly front	181600	182040	end	182080	182840
+head pos: turn	right	177120	178800	start	178840	179680	left	179720	180920	start	180960	181240	right	181280	181600	start	181640	181840	left	181880	182040	start	182080	182400	right	182440	182840
+head pos: tilt side	right	177120	179240	start	179280	179800	left	179840	180640	start	180680	181040	right	181080	181520	start	181560	182200	right	182240	182840
+head pos: jut	back	177120	177160	start	177200	179840	back	179880	180760	start	180800	182480	slightly back	182520	182840
+head mvmt: shake	start	180640	181000	slow	181040	182440	end	182480	182840
+body lean	left	177120	177200	start	177240	177680	slightly back	177720	177960	start	178000	178600	forward	178640	179240	start	179280	181280	forward	181320	182080	end	182120	182840
+eye brows	slightly lowered	177120	177160	start	177200	178520	lowered	178560	182840
+eye gaze	to addressee	177120	181760
+eye aperture	slightly squinted	177120	178000	start	178040	179120	squint	179160	181760	start	181800	182080	closed	182120	182840
+nose	start	178360	178960	wrinkle	179000	182840
+negative	negation	181040	182440
+POS	Pronoun	177280	177400	Verb	177560	177760	Verb	177880	178120	Adverb	178280	178360	Pronoun	178480	178640	Noun	178760	179160	Discourse Marker	179360	179400	Adjective	179840	180320	Proper Noun	180520	180880	Negation	181000	181120	Adjective	181320	182040	Particle	182680	182800
+Non-dominant POS	Proper Noun	177120	177160	Adverb	178280	178360	Pronoun	179600	179760
+English translation	I went and explained about the situation.  The hall coordinator was not friendly.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	45
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	182840
+End frame:	187480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	#SO	182960	183160	part:indef	183320	183760	REALLY	183920	184080	IX-3p:i	184160	184240	part:indef	184320	184480	IX-3p:i	184560	184760	PUNISH	185040	185320	IX-3p:i	186360	186440	PUNISH	186680	186960	IX-3p-arc	187200	187360
+non-dominant hand gloss	part:indef	183320	183760	|>		184280	part:indef	184320	184480	|>		184720
+head pos: tilt fr/bk	start	182840	183800	slightly front	183840	184880	start	184920	186800	front	186840	187320	end	187360	187480
+head pos: turn	right	182840	183120	start	183160	183520	left	183560	183920	start	183960	184400	right	184440	185560	start	185600	185680	left	185720	185880	start	185920	187160	right	187200	187480
+head pos: tilt side	right	182840	183160	start	183200	183440	left	183480	184120	start	184160	184400	right	184440	185280	start	185320	185680	left	185720	185920	end	185960	187200
+head pos: jut	slightly back	182840	183200	start	183240	184080	back	184120	184880	start	184920	185720	slightly back	185760	186400	start	186440	186840	back	186880	187040	start	187080	187360	slightly forward	187400	187480
+head mvmt: nod
+	start	184920	185640	rapid	185680	186200	start	186240	187160	single	187200	187440	end	187480	187480
+body lean	start	182840	184160	back	184200	184760	start	184800	185320	forward	185360	185760	start	185800	187320	forward	187360	187480
+eye brows	lowered	182840	184920	start	184960	185760	lowered	185800	187480
+eye gaze	to addressee	184640	184840	right	184880	185640	to addressee	185680	187480
+eye aperture	squint	182840	184200	start	184240	184240	closed	184280	184560	start	184600	184640	squint	184680	184840	start	184880	185560	blink	185600	185680	start	185720	186440	squint	186480	187480
+nose	wrinkle	182840	184880	start	184920	186400	wrinkle	186440	187480
+POS	Discourse Marker	182960	183160	Particle	183320	183760	Discourse Marker	183920	184080	Pronoun	184160	184240	Particle	184320	184480	Pronoun	184560	184760	Verb	185040	185320	Pronoun	186360	186440	Verb	186680	186960	Pronoun	187200	187360
+Non-dominant POS	Particle	183320	183760	Particle	184320	184480
+English translation	So, she punished us.
+Notes - number of character bytes:	110
+-not sure if i m supposed to cut those frames where not belong to this sentence, (happened after first PUNISH)
+
+
+Utterance ID:	46
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	187480
+End frame:	195640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	#SO	187560	187760	IX-1p	187920	188040	CL:2"sitting down"	188280	188600	IX-1p	188680	188800	EXPLAIN	188920	189600	#HALL	189800	189960	COORDINATOR	190120	190560	IX-1p	190680	190800	HOPE	190960	191120	IX-3p:i	191240	191280	CAN	191480	191520	FIND	191720	191840	SOME	191960	192280	FUNNY	192520	192600	fs-HUMOR	192840	193440	IN	193600	193680	THAT	193960	194120	SITUATION	194320	194920	|>		195640
+non-dominant hand gloss	CL:2"sitting down"	188280	188600	|>		188720	HOPE	190960	191120	|>		191280	CAN	191480	191520	|>		191800
+head pos: tilt fr/bk	start	187480	188320	front	188360	190560	start	190600	191000	front	191040	191160	start	191200	192360	slightly front	192400	194880	end	194920	195640
+head pos: turn	right	187480	191760	start	191800	192400	left	192440	195640
+head pos: tilt side	start	187480	188120	left	188160	189960	start	190000	192160	left	192200	193200	start	193240	193880	right	193920	194200	start	194240	194880	left	195000	195640
+head pos: jut	forward	187480	187640	start	187680	188160	back	188200	191160	end	191200	191760
+head mvmt: nod
+	start	187480	188160	single	188200	188720	start	188760	189640	rapid	189680	190720	end	190760	191160
+body lean	slightly forward	187480	187720	start	187760	188560	slightly forward	188600	191400	end	191440	192400
+eye brows	lowered	187480	191400	start	191440	192160	raised	192200	193280	end	193320	194880
+eye gaze	to addressee	187480	194720	left	194760	195640
+eye aperture	squint	187480	188000	start	188040	188040	blink	188080	188240	start	188280	188280	squint	188320	195640
+nose	wrinkle	187480	192200	end	192240	193280
+POS	Discourse Marker	187560	187760	Pronoun	187920	188040	Classifier	188280	188600	Pronoun	188680	188800	Verb	188920	189600	Adjective	189800	189960	Proper Noun	190120	190560	Pronoun	190680	190800	Verb	190960	191120	Pronoun	191240	191280	Modal	191480	191520	Verb	191720	191840	Adjective	191960	192280	Adjective	192520	192600	Adjective	192840	193440	Preposition	193600	193680	Pronoun	193960	194120	Noun	194320	194920
+Non-dominant POS	Classifier	188280	188600	Verb	190960	191120	Modal	191480	191520
+English translation	We sitted down and I explained to the hall coordinator.  I was hoping she would find some funny about the situation.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	47
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	195640
+End frame:	203400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	HOPE	196640	197000	part:indef	197200	197560	#SO	197680	198080	IX-3p:i	198200	198320	REALLY	198440	198480	fs-HALL	198520	198880	COORDINATOR	198960	199360	REALLY	199560	199680	BIG	199800	200520	fs-B	200680	200960	WORD	201080	201280	IX-1p	201400	201480	NOT-WANT	201520	201560	SAY	201680	201720	#IT	201880	202120	HERE	202280	202480	KNOW	202760	203000	UNKNOWN	203120	203200
+non-dominant hand gloss	1:"focus"	200720	201000	HERE	202280	202480	|>		202880
+head pos: tilt fr/bk	start	195640	196680	front	196720	197720	start	197760	198840	front	198880	201280	start	201320	202040	front	202080	203200	end	203240	203400
+head pos: turn	left	195640	195760	start	195800	196640	right	196680	197560	start	197600	198000	slightly left	198040	198160	start	198200	198520	right	198560	198920	start	198960	199160	left	199200	199560	start	199600	199960	right	200000	200640	start	200680	200960	left	201000	201440	start	201480	201880	right	201920	202400	start	202440	202640	left	202680	203160	end	203200	203400
+head pos: tilt side	slightly left	195640	197360	start	197400	198000	left	198040	198160	start	198200	198360	right	198400	198920	start	198960	199240	left	199280	199640	start	199680	200160	right	200200	200600	start	200640	200800	left	200840	201440	start	201480	201720	right	201760	202480	start	202520	202800	left	202840	203160	end	203200	203400
+head pos: jut	start	195640	195840	slightly back	195880	196680	start	196720	197120	back	197160	199280	start	199320	200000	slightly back	200040	200600	start	200640	201880	back	201920	202520	end	202560	203160
+head mvmt: nod
+	start	195640	195760	single	195800	196480	end	196520	197160
+head mvmt: side to side	start	198600	199320	slow	199360	202520	end	202560	203160
+body lean	start	195640	197320	back	197360	197720	start	197760	202000	forward	202040	202680	end	202720	203400
+eye brows	start	195640	195800	lowered	195840	203400
+eye gaze	left	195640	195760	to addressee	195800	197520	left	197560	197880	to addressee	197920	203400
+eye aperture	start	195640	195760	squint	195800	197080	start	197120	197160	blink	197200	197320	start	197360	197400	blink	197440	197520	start	197560	198200	squint	198240	201200	start	201240	201320	closed	201360	201720	start	201760	202000	squint	202040	203400
+nose	start	195640	195960	wrinkle	196000	203400
+POS	Verb	196640	197000	Particle	197200	197560	Discourse Marker	197680	198080	Pronoun	198200	198320	Discourse Marker	198440	198480	Adjective	198520	198880	Proper Noun	198960	199360	Discourse Marker	199560	199680	Adjective	199800	200520	Noun	201080	201280	Pronoun	201400	201480	Negation+Verb	201520	201560	Verb	201680	201720	Pronoun	201880	202120	Pronoun	202280	202480
+Non-dominant POS	Pronoun	202280	202480
+English translation	I hoped but really, the hall coordinator is big "B" word that I don't want to say it here.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	48
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	203400
+End frame:	207560
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	#SO	203520	203880	IX-3p-arc	204000	204280	SIT	204480	204760	part:indef	204920	205240	IX-3p:i	205360	205520	TELL	205680	205920	GIFT	206120	206280	IX-1p	206320	206440	DISCIPLINE	206600	207000	ACT	207080	207480
+non-dominant hand gloss
+head pos: tilt fr/bk	start	203400	204320	slightly back	204360	204400	start	204440	204480	slightly front	204520	204640	start	204680	205000	front	205040	205120	start	205160	206200	front	206240	207560
+head pos: turn	slightly left	203400	203400	start	203440	203960	right	204000	204520	start	204560	205000	left	205040	205160	start	205200	205680	right	205720	205920	start	205960	206440	left	206480	207200	end	207240	207560
+head pos: tilt side	start	203400	203880	right	203920	204800	start	204840	205040	left	205080	205200	start	205240	205480	right	205520	205920	start	205960	206240	left	206280	207280	start	207320	207520	slightly right	207560	207560
+head pos: jut	start	203400	204040	slightly back	204080	205480	start	205520	205720	back	205760	207200	start	207240	207520	slightly forward	207560	207560
+head mvmt: nod
+	start	204080	204760	slow	204800	205320	start	205360	207000	single	207040	207520	end	207560	207560
+body lean	start	205160	206160	slightly back	206200	206800	start	206840	207480	forward	207520	207560
+eye brows	lowered	203400	205640	end	205680	206800
+eye gaze	to addressee	203400	204240	left	204680	205040	to addressee	205080	207560
+eye aperture	squint	203400	204160	start	204200	204280	closed	204320	204600	start	204640	205480	slightly squinted	205520	206360	end	206400	207480
+nose	wrinkle	203400	205680	end	205720	206360
+POS	Discourse Marker	203520	203880	Pronoun	204000	204280	Verb	204480	204760	Particle	204920	205240	Pronoun	205360	205520	Verb	205680	205920	Noun	206120	206280	Pronoun	206320	206440	Noun	206600	207000	Noun	207080	207480
+English translation
+Notes - number of character bytes:	107
+- Last word: ACT, is that what he said, or was it "DO"??
+- Not sure how to do the english translation part.
+
+
+Utterance ID:	49
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	207560
+End frame:	210640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	207720	207800	MUST	207880	208120	|>		208480	CLEAN++	208640	209560	GRASS	209680	210480
+non-dominant hand gloss	ACT	207560	207600	|>		208040	OUT	208280	208560	CLEAN++	208640	209560	|>		210080
+head pos: tilt fr/bk	front	207560	207720	start	207760	208400	front	208440	209160	end	209200	209640
+head pos: turn	slightly right	207560	207680	start	207720	207840	right	207880	210640
+head pos: tilt side	start	207560	207600	right	207640	209640	start	209680	210520	right	210560	210640
+head pos: jut	start	207560	208040	back	208080	209600	start	209640	210520	slightly back	210560	210640
+head mvmt: nod
+	start	208080	208920	slight rapid head nod	208960	209560	end	209600	210520
+body lean	forward	207560	207760	start	207800	208440	slightly back	208480	208840	start	208880	209000	slightly forward	209040	210280	end	210320	210640
+eye brows	start	209560	210240	lowered	210280	210640
+eye gaze	to addressee	207560	210280
+eye aperture	start	209560	210240	further squinted	210280	210640
+nose	start	209560	210280	wrinkle	210320	210640
+POS	Pronoun	207720	207800	Verb	207880	208120	Verb	208640	209560	Noun	209680	210480
+Non-dominant POS	Noun	207560	207600	Preposition	208280	208560
+English translation	I must go outside and clean around on the grass.
+Notes - number of character bytes:	63
+-read previous note.. ACT OR DO for first word on second hand.
+
+
+
+Utterance ID:	50
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	210640
+End frame:	215240
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p:i	210760	210880	HAVE	210960	211120	BIG	211200	211480	GRASS	211560	211840	CL:5"location"	211960	212640	A-LOT	212800	212920	CIGARETTE	213120	213480	#BUTTS	213560	214240	CL:1"throwing the objects"	214320	215240
+non-dominant hand gloss	BIG	211200	211480	|>		212600
+head pos: tilt fr/bk	start	210640	211040	slightly front	211080	211960	end	212000	212800
+head pos: turn	right	210640	211040	start	211080	211440	slightly left	211480	211920	start	211960	212600	right	212640	215000	start	215040	215200	slightly left	215240	215240
+head pos: tilt side	right	210640	211040	start	211080	211480	left	211520	211920	start	211960	212600	slightly right	212640	215000	start	215040	215200	left	215240	215240
+head pos: jut	slightly back	210640	210640	start	210680	210800	back	210840	211480	start	211520	214120	slightly back	214160	215000	end	215040	215240
+body lean	start	210640	210880	slightly back	210920	211560	start	211600	212320	forward	212360	212760	end	212800	214120
+eye brows	lowered	210640	212320	start	212360	215120	lowered	215160	215240
+eye gaze	to addressee	211480	215240
+eye aperture	further squinted	210640	211920	start	211960	212840	squint	212880	215240
+nose	wrinkle	210640	212360	start	212400	215160	wrinkle	215200	215240
+POS	Pronoun	210760	210880	Verb	210960	211120	Adjective	211200	211480	Noun	211560	211840	Classifier	211960	212640	Adjective	212800	212920	Noun	213120	213480	Noun	213560	214240	Classifier	214320	215240
+Non-dominant POS	Adjective	211200	211480
+English translation	They have huge grass area where a lot of cigarette butts that people threw on the grass.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	51
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	215240
+End frame:	220320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	REALLY	215360	215480	MAYBE	215560	215640	FROM	215720	215920	IX-1p-arc	216080	216280	ANYWAY	216360	216600	#SO	216720	216800	IX-3p:i	216920	217200	GO	217400	217680	CLEAN	217800	218120	PICK	218200	218600	THROW	218720	219760	IN	219800	219960
+non-dominant hand gloss	BAG	220080	220320
+head pos: tilt fr/bk	start	215240	215360	slightly back	215400	215480	start	215520	216160	slightly front	216200	216880	start	216920	217400	front	217440	218760	end	218800	220320
+head pos: turn	slightly left	215240	215280	start	215320	215400	left	215440	215680	start	215720	216120	right	216160	216840	start	216880	217240	left	217280	218280	start	218320	218800	right	218840	220320
+head pos: tilt side	left	215240	215760	start	215800	216160	right	216200	216960	start	217000	217200	left	217240	218400	start	218440	218760	right	218800	220320
+head pos: jut	start	215240	215440	forward	215480	215600	start	215640	216120	back	216160	216840	start	216880	217720	slightly back	217760	219800	start	219840	220120	back	220160	220320
+head mvmt: side to side	start	215240	215760	rapid	215800	218000	end	218040	218800
+body lean	start	215240	216200	slightly back	216240	216840	start	216880	217760	forward	217800	218720	end	218760	220320
+eye brows	lowered	215240	215360	end	215400	215600
+eye gaze	to addressee	215240	220320
+eye aperture	squint	215240	215360	start	215400	215520	slightly squinted	215560	220320
+nose	wrinkle	215240	215360	start	215400	218120	tensed	218160	218720	start	218760	219920	tensed	219960	220240	end	220280	220320
+POS	Discourse Marker	215360	215480	Adverb	215560	215640	Preposition	215720	215920	Pronoun	216080	216280	Adverb	216360	216600	Discourse Marker	216720	216800	Pronoun	216920	217200	Verb	217400	217680	Verb	217800	218120	Verb	218200	218600	Verb	218720	219760	Preposition	219800	219960
+Non-dominant POS	Noun	220080	220320
+English translation	It was probably from us anyway so we went and clean.  We threw them in the bag.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	52
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	220320
+End frame:	223200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	GIFT	221520	221680	TO	221760	221840	#HALL	221880	222440	COORDINATOR	222560	223120	|>		223200
+non-dominant hand gloss	CL:S"giving the object to person"	220600	221400	GIFT	221520	221680	|>		222400
+head pos: tilt fr/bk	start	220320	220960	front	221000	222400	end	222440	222520
+head pos: turn	right	220320	220840	start	220880	221360	left	221400	221880	start	221920	222400	right	222440	223200
+head pos: tilt side	right	220320	220840	start	220880	221360	left	221400	222000	start	222040	222720	right	222760	223200
+head pos: jut	back	220320	220880	start	220920	222720	back	222760	223120	end	223160	223200
+head mvmt: nod
+	start	220320	221680	rapid	221720	223160	end	223200	223200
+body lean	start	220920	221360	forward	221400	222160	end	222200	222720
+eye brows	start	220320	220600	raised	220640	221400	start	221440	221720	lowered	221760	223200
+eye gaze	to addressee	220320	223200
+eye aperture	slightly squinted	220320	220720	start	220760	221800	squint	221840	223200
+nose	start	221360	221760	wrinkle	221800	223200
+POS	Noun	221520	221680	Preposition	221760	221840	Adjective	221880	222440	Proper Noun	222560	223120
+Non-dominant POS	Classifier	220600	221400	Noun	221520	221680
+English translation	Gave the bag to the hall Coordinator.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	53
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	223200
+End frame:	227000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	223280	223440	|>		223880	IX-2p	224040	224080	HAPPY	224240	224600	NOW	224760	224880	IX-3p:i	224960	225000	SAY	225080	225200	"no"	225320	225680	NOT	225800	225840	DO	225880	226040	AGAIN	226160	226560	"no"	226680	226920
+non-dominant hand gloss	CL:S"giving to person"	223480	224040	NOW	224760	224880	|>		225160
+head pos: tilt fr/bk	start	223200	223760	front	223800	224880	start	224920	225280	front	225320	225760	start	225800	226200	front	226240	226640	end	226680	227000
+head pos: turn	right	223200	223360	start	223400	223640	left	223680	225240	start	225280	225720	slightly right	225760	225840	start	225880	226200	slightly left	226240	226640	end	226680	227000
+head pos: tilt side	slightly right	223200	223320	start	223360	223560	left	223600	224080	start	224120	224320	further left	224360	224880	start	224920	225680	right	225720	225880	start	225920	226160	left	226200	226680	start	226720	226960	slightly right	227000	227000
+head pos: jut	start	223200	223800	slightly forward	223840	224040	start	224080	224480	slightly back	224520	224920	start	224960	225480	forward	225520	225840	start	225880	226200	back	226240	226440	start	226480	226640	forward	226680	226920	end	226960	227000
+head mvmt: nod
+	start	223200	223680	single	223720	224040	start	224080	225200	single	225240	225800	start	225840	226280	single	226320	226960	end	227000	227000
+body lean	start	223200	223840	forward	223880	224480	start	224520	224760	left	224800	225160	start	225200	225720	forward	225760	225880	start	225920	226520	forward	226560	226920	end	226960	227000
+eye brows	slightly lowered	223200	223520	start	223560	223720	raised	223760	224960	end	225000	225480
+eye gaze	to addressee	223200	223400	to addressee	223800	224800	left	224840	225120	up/left	225160	225720	to addressee	225760	227000
+eye aperture	squint	223200	223360	start	223400	223400	closed	223440	223720	start	223760	223760	squint	223800	224000	start	224040	224160	wide	224200	225000	end	225040	225680
+nose	wrinkle	223200	223760	end	223800	224040
+POS	Pronoun	223280	223440	Pronoun	224040	224080	Adjective	224240	224600	Adverb	224760	224880	Pronoun	224960	225000	Verb	225080	225200	Negation	225800	225840	Verb	225880	226040	Adverb	226160	226560
+Non-dominant POS	Classifier	223480	224040	Adverb	224760	224880
+English translation	I gave and asked if she is happy now.  She said, "Don't do it again"
+Notes - number of character bytes:	47
+-There are two gestures for "no" is it correct?
+
+
+Utterance ID:	54
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_0.mo copy
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_2.mov
+Video	NCSLGRv5:movies:dorm prank:dorm_prank_1053_small_3. mov
+Video	
+Audio	
+Start frame:	227000
+End frame:	232720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	#SO	227040	227240	FROM-NOW-ON	227400	227960	IX-1p-arc	228120	228360	UNKNOWN	228480	228720	GOOD	228840	229200	STAY	229600	229800	OUT	229920	230200	TROUBLE	230280	230680	FROM-NOW-ON	230840	231200	ON	231360	231440	#CSUN	231560	232040	UNKNOWN	232120	232320
+non-dominant hand gloss	FROM-NOW-ON	227400	227960	|>		228320
+head pos: tilt fr/bk	start	227000	227760	front	227800	229640	start	229680	230240	front	230280	231880	end	231920	232720
+head pos: turn	start	227000	227280	right	227320	227960	start	228000	228320	left	228360	229240	start	229280	229640	right	229680	230040	start	230080	230560	left	230600	231720	start	231760	232240	slightly right	232280	232720
+head pos: tilt side	right	227000	228000	start	228040	228360	left	228400	229280	start	229320	229600	right	229640	230040	start	230080	230400	left	230440	231640	start	231680	232080	right	232120	232720
+head pos: jut	start	227000	227160	back	227200	227920	start	227960	228720	slightly back	228760	229160	start	229200	229680	back	229720	230040	start	230080	230920	slightly forward	230960	231320	end	231360	232120
+head mvmt: nod
+	start	227000	228000	slight rapid head nod	228040	228560	start	228600	229600	slight rapid head nod	229640	230280	start	230320	232240	slight rapid head nod	232280	232400	end	232440	232720
+body lean	forward	227000	227040	start	227080	227800	forward/right	227840	228040	start	228080	229200	forward	229240	229600	start	229640	230560	forward	230600	231720	end	231760	232400
+eye brows	start	229280	230040	lowered	230080	232040	start	232080	232280	slightly lowered	232320	232720
+eye gaze	to addressee	227000	227920	to addressee	228920	232720
+eye aperture	start	227000	227880	start	227920	228000	closed	228040	228760	start	228800	230200	squint	230240	232720
+nose	start	229680	230760	wrinkle	230800	232720
+POS	Discourse Marker	227040	227240	Pronoun	228120	228360	Adjective	228840	229200	Verb	229600	229800	Preposition	229920	230200	Noun	230280	230680	Preposition	231360	231440	Proper Noun	231560	232040
+Non-dominant POS
+English translation	From now on, we will be good and stay out of trouble at CSUN.
+Notes - number of character bytes:	58
+-FROM-NOW-ON, is it correct gloss? and whats POS for that?

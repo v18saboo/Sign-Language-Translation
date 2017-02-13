@@ -1,0 +1,1575 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	ncslgr10f 3/6/03	BACK TO THE FUTURE:Users:carolneidle:Desktop: Fran - Sarah 3-7:ncslgr10f 3/6/03
+Number of utterances:	53
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:914_731_master_small.mov
+Video	NCSLGR:video files:slave1:914_731_slave1_small.mov
+Video	NCSLGR:video files:slave2:914_731_slave2_small.mov
+Video	
+Audio	
+Start frame:	280
+End frame:	1780
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	015
+main gloss	STUDENT	540	680	BUY+	720	940	MANY	980	1100	BOOK	1160	1220	part:indef	1340	1500
+non-dominant hand gloss
+yes/no question	yes/no question	460	1560
+eye brows	start	280	440	slightly raised	460	1560	end	1580	1780
+eye aperture	start	280	360	wide	380	1440	blink	1460	1540	end	1560	1680
+eye gaze	watch hands	700	820
+head pos: tilt fr/bk	start	280	420	front	440	1560	end	1580	1780
+head pos: turn	start	280	420	slightly left	440	1780
+head pos: tilt side	start	280	400	slight right	420	1780
+head pos: jut	slightly forward	940	1320	forward	1340	1540	end	1560	1720
+head mvmt: jut
+body lean	start	280	680	slightly forward	700	1520	end	1540	1780
+nose	start	600	700	tensed	720	1240	end	1260	1520
+POS	Noun	540	680	Verb	720	940	Quantifier	980	1100	Noun	1160	1220	Particle	1340	1500
+English translation	Did the student buy many books?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:915_732_master_small.mov
+Video	NCSLGR:video files:slave1:915_732_slave1_small.mov
+Video	NCSLGR:video files:slave2:915_732_slave2_small.mov
+Video	
+Audio	
+Start frame:	220
+End frame:	1360
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	STUDENT	280	400	BUY+	480	680	MANY	740	840	BOOK	900	960	part:indef	1080	1220
+non-dominant hand gloss
+yes/no question	yes/no question	220	1220
+eye brows	raised	220	1220	end	1240	1360
+eye aperture	start	220	240	wide	260	480	end	500	1020
+head pos: tilt fr/bk	start	220	720	front	740	1280	end	1300	1360
+head pos: turn	start	220	540	slightly left	560	1360
+head pos: tilt side	start	220	400	right	420	1360
+head pos: jut	forward	220	400	start	420	520	slightly back	540	720	end	740	880
+head mvmt: jut	forward	900	1220
+body lean	start	680	900	slightly forward	920	1240	end	1260	1360
+nose	start	220	440	slightly tensed	460	1240	end	1260	1360
+POS	Noun	280	400	Verb	480	680	Quantifier	740	840	Noun	900	960	Particle	1080	1220
+English translation	Did the student buy many books?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:916_733_master_small.mov
+Video	NCSLGR:video files:slave1:916_733_slave1_small.mov
+Video	NCSLGR:video files:slave2:916_733_slave2_small.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	1120
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	010
+main gloss	fs-JOHN	140	360	FINISH	400	480	READ+	560	700	BOOK+	760	980
+non-dominant hand gloss
+eye aperture	start	100	280	squint	300	460	end	480	600
+head pos: tilt fr/bk	start	100	140	slightly back	160	400	slightly front	420	1080	end	1100	1120
+head pos: turn	start	100	380	slightly right	400	1020	end	1040	1120
+head mvmt: nod	slight rapid head nod	400	800
+body lean	start	100	220	slightly back	240	1040	end	1060	1120
+nose	start	120	280	tensed	300	900	end	920	1120
+POS	Proper Noun	140	360	Verb	400	480	Verb	560	700	Noun	760	980
+English translation	John finished reading the book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:917_734_master_small.mov
+Video	NCSLGR:video files:slave1:917_734_slave1_small.mov
+Video	NCSLGR:video files:slave2:917_734_slave2_small.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	1320
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	280	380	FINISH	460	520	READ	600	640	BOOK	720	760	#WHEN	860	920	|>		1200
+non-dominant hand gloss
+wh question	wh	240	1200
+eye brows	start	80	220	lowered	240	1200	end	1220	1320
+eye aperture	blink	100	120	start	140	280	squint	300	1200	closed	1220	1320
+head pos: tilt fr/bk	start	80	420	back	440	1240	end	1260	1320
+head pos: jut	forward	80	1200	end	1220	1320
+head mvmt: shake	start	180	400	slight rapid head shake	420	1180	end	1200	1320
+body lean	start	80	500	slightly forward	520	1200	end	1220	1320
+nose	start	80	260	tensed	280	1220	end	1240	1320
+POS	Proper Noun	280	380	Verb	460	520	Verb	600	640	Noun	720	760	Wh-word	860	920
+English translation	When did John finish reading the book?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:919_736_master_small.mov
+Video	NCSLGR:video files:slave1:919_736_slave1_small.mov
+Video	NCSLGR:video files:slave2:919_736_slave2_small.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	1400
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	160	280	FINISH	320	400	READ	480	560	BOOK	660	740	#WHEN	840	920	|>		1180
+non-dominant hand gloss	BOOK	660	740	|>		840
+wh question	wh	780	1200
+eye brows	start	380	760	lowered	780	1200	end	1220	1400
+eye aperture	start	600	800	squint	820	1140	start	1160	1180	closed	1200	1360
+head pos: tilt fr/bk	start	140	380	front	400	1220	end	1240	1340
+head pos: turn	start	620	800	right	820	1220	end	1240	1400
+head pos: tilt side	start	140	320	right	340	1260	end	1280	1400
+head pos: jut	start	140	320	back	340	840	forward	860	1180	end	1200	1400
+nose	start	140	320	start	720	760	tensed	780	1200	end	1220	1340
+POS	Proper Noun	160	280	Verb	320	400	Verb	480	560	Noun	660	740	Wh-word	840	920
+English translation	When did John finish reading the book?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:920_737_master_small.mov
+Video	NCSLGR:video files:slave1:920_737_slave1_small.mov
+Video	NCSLGR:video files:slave2:920_737_slave2_small.mov
+Video	
+Audio	
+Start frame:	260
+End frame:	1340
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	011
+main gloss	fs-JOHN	300	420	FINISH	460	520	READ	580	680	BOOK	800	840	WHEN	960	1080	|>		1140
+non-dominant hand gloss
+wh question	wh	960	1220
+eye brows	start	840	940	lowered	960	1220	end	1240	1340
+eye aperture	squint	920	1240	closed	1260	1340
+head pos: tilt fr/bk	back	260	340	start	360	460	front	480	1280	end	1300	1340
+head pos: turn	start	760	920	right	940	1260	end	1280	1340
+head pos: jut	forward	260	460	back	480	920	start	940	1100	forward	1120	1260	end	1280	1340
+nose	start	260	280	tensed	300	1220	end	1240	1340
+POS	Proper Noun	300	420	Verb	460	520	Verb	580	680	Noun	800	840	Wh-word	960	1080
+English translation	When did John finish reading the book?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:921_738_master_small.mov
+Video	NCSLGR:video files:slave1:921_738_slave1_small.mov
+Video	NCSLGR:video files:slave2:921_738_slave2_small.mov
+Video	
+Audio	
+Start frame:	160
+End frame:	1240
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	013
+main gloss	fs-JOHN	200	280	NOT-YET	360	500	FINISH	580	640	READ	740	820	BOOK	940	980	|>		1040
+non-dominant hand gloss
+negative	negation	360	1220
+eye aperture	start	560	680	wide	700	1100	end	1120	1240
+head pos: tilt fr/bk	back	160	1180	end	1200	1240
+head pos: turn	start	320	440	right	480	620	start	640	820	left	840	1000	start	1020	1180	right	1200	1240
+head pos: jut	forward	160	360	back	380	620	start	640	680	forward	700	1060	end	1080	1240
+head mvmt: shake	slow	360	1220	end	1240	1240
+body lean	slightly back	160	1240
+mouth	open & tongue visible	360	500
+nose	start	180	360	tensed	380	1120	end	1140	1240
+POS	Proper Noun	200	280	Neg + Aspect	360	500	Verb	580	640	Verb	740	820	Noun	940	980
+English translation	John hasn't finished reading the book yet.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:922_739_master_small.mov
+Video	NCSLGR:video files:slave1:922_739_slave1_small.mov
+Video	NCSLGR:video files:slave2:922_739_slave2_small.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	1600
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	011
+main gloss	fs-JOHN	240	300	FUTURE	400	440	FINISH	520	580	READ	660	740	BOOK	820	900	|>		980	WHEN	1040	1200	|>		1360
+non-dominant hand gloss
+wh question	wh	1020	1460
+eye brows	start	700	1000	lowered	1020	1460	end	1480	1600
+eye aperture	start	540	620	slightly lowered	640	740	start	760	1000	squint	1020	1380	blink	1400	1440	start	1460	1580	closed	1600	1600
+eye gaze	watch hands	640	740
+head pos: tilt fr/bk	start	80	160	back	180	1000	start	1020	1180	front	1200	1420	end	1440	1580
+head pos: turn	start	640	1020	right	1040	1440	end	1460	1540
+head mvmt: nod	rapid	260	820
+POS	Proper Noun	240	300	Tense	400	440	Verb	520	580	Verb	660	740	Noun	820	900	Wh-word	1040	1200
+English translation	When will John finish reading the book?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:923_740_master_small.mov
+Video	NCSLGR:video files:slave1:923_740_slave1_small.mov
+Video	NCSLGR:video files:slave2:923_740_slave2_small.mov
+Video	
+Audio	
+Start frame:	560
+End frame:	1540
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	010
+main gloss	fs-JOHN	560	680	FINISH	780	860	READ	880	1020	BOOK	1120	1140	FINISH	1200	1280	|>		1440
+non-dominant hand gloss
+yes/no question	yes/no question	560	1460
+eye brows	raised	560	1460	end	1480	1540
+eye aperture	start	1420	1460	closed	1480	1500	lowered lid	1520	1540
+head pos: tilt fr/bk	start	560	640	front	660	1540
+head pos: jut	start	560	620	back	640	820	end	840	1060
+body lean	start	580	660	slightly forward	680	1540
+POS	Proper Noun	560	680	Aspect	780	860	Verb	880	1020	Noun	1100	1140	Aspect	1200	1280
+English translation	Has John already read the book, has he?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:924_741_master_small.mov
+Video	NCSLGR:video files:slave1:924_741_slave1_small.mov
+Video	NCSLGR:video files:slave2:924_741_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	1120
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	010
+main gloss	fs-JOHN	300	400	FINISH	480	560	READ	620	700	BOOK	820	900	|>		960
+non-dominant hand gloss
+yes/no question	yes/no question	300	980
+eye brows	start	180	280	raised	300	980	end	1000	1120
+eye aperture	start	220	340	wide	360	980	end	1000	1120
+head pos: tilt fr/bk	back	180	240	start	260	420	front	440	1120
+head pos: jut	forward	180	280	start	300	400	back	420	780	end	840	1120
+body lean	slightly back	180	1120
+POS	Proper Noun	300	400	Aspect	480	560	Verb	620	700	Noun	820	900
+English translation	Has John already read the book?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:925_742_master_small.mov
+Video	NCSLGR:video files:slave1:925_742_slave1_small.mov
+Video	NCSLGR:video files:slave2:925_742_slave2_small.mov
+Video	
+Audio	
+Start frame:	340
+End frame:	1300
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	009
+main gloss	fs-JOHN	380	480	FINISH	520	580	READ	640	720	BOOK	780	860	QMwg	900	1080	|>		1140
+non-dominant hand gloss
+yes/no question	yes/no question	340	1160
+eye brows	raised	340	1160	end	1180	1300
+eye aperture	start	340	360	wide	380	980	start	1180	1180	lowered lid	1200	1220	end	1240	1300
+head pos: tilt fr/bk	start	340	400	front	420	1200	end	1220	1300
+head pos: jut	start	340	380	back	400	1200	end	1220	1300
+POS	Proper Noun	380	480	Aspect	520	580	Verb	640	720	Noun	780	860	Discourse Marker	900	1080
+English translation	Did John finish reading the book?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:926_743_master_small.mov
+Video	NCSLGR:video files:slave1:926_743_slave1_small.mov
+Video	NCSLGR:video files:slave2:926_743_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	1580
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	THAT	200	280	BOOK+	380	540	fs-JOHN	620	700	FINISH	760	860	READ	900	1000	YESTERDAY	1140	1300
+non-dominant hand gloss	READ	900	1000	|>		1080
+topic/focus	top2	180	540
+eye brows	raised	180	540	end	560	1300
+eye aperture	wide	180	1280	end	1300	1460
+eye gaze	down/right	180	360
+head pos: tilt fr/bk	start	180	200	slightly back	220	1420	end	1440	1580
+head pos: turn	start	600	800	slightly right	820	1420	end	1440	1580
+head pos: jut	start	180	240	back	260	1320	end	1340	1540
+head mvmt: nod	rapid	600	1100
+body lean	slightly back	180	1400	end	1420	1580
+nose	tensed	180	1280	end	1300	1480
+POS	Demonstrative	200	280	Noun	380	540	Proper Noun	620	700	Verb	760	860	Verb	900	1000	Adverb	1140	1300
+English translation	That book, John finished reading it yesterday.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:927_744_master_small.mov
+Video	NCSLGR:video files:slave1:927_744_slave1_small.mov
+Video	NCSLGR:video files:slave2:927_744_slave2_small.mov
+Video	
+Audio	
+Start frame:	160
+End frame:	1540
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	THAT	260	360	BOOK	460	520	fs-JOHN	660	740	FINISH	780	860	READ	920	980	BOOK	1100	1140	YESTERDAY	1240	1380
+non-dominant hand gloss	BOOK	460	520	|>		620	BOOK	1100	1140	|>		1180
+topic/focus	top2	240	520
+eye brows	start	160	220	raised	240	520	end	540	840
+eye aperture	start	160	220	wide	240	560	squint	580	640	closed	1420	1540
+eye gaze	down/right	220	340
+head pos: tilt fr/bk	start	160	320	front	340	1540
+head pos: turn	start	260	700	slightly right	720	1500	end	1520	1540
+head pos: jut	start	160	280	back	300	1440	end	1460	1540
+head mvmt: nod	single	220	600	slight rapid head nod	740	1340
+POS	Demonstrative	260	360	Noun	460	520	Proper Noun	660	740	Verb	780	860	Verb	920	980	Noun	1100	1140	Adverb	1240	1380
+English translation	That book, John finished reading it yesterday.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:928_745_master_small.mov
+Video	NCSLGR:video files:slave1:928_745_slave1_small.mov
+Video	NCSLGR:video files:slave2:928_745_slave2_small.mov
+Video	
+Audio	
+Start frame:	160
+End frame:	1580
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	011
+main gloss	THAT	180	260	BOOK	380	500	fs-JOHN	600	700	FINISH	760	860	READ	920	1020	YESTERDAY	1140	1300
+non-dominant hand gloss
+topic/focus	top2	160	500
+eye brows	raised	160	500	end	520	540
+eye aperture	start	160	240	wide	260	520	end	540	640
+eye gaze	down/right	160	360
+head pos: tilt fr/bk	start	160	300	slightly front	320	540	start	560	680	slightly back	700	940	start	960	1160	front	1180	1440	end	1460	1580
+head pos: jut	start	160	200	back	220	540	end	560	700
+head mvmt: nod	start	520	600	rapid	620	1060	end	1080	1260
+POS	Demonstrative	180	260	Noun	380	500	Proper Noun	600	700	Verb	760	860	Verb	920	1020	Adverb	1140	1300
+English translation	That book, John finished reading it yesterday.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:929_746_master_small.mov
+Video	NCSLGR:video files:slave1:929_746_slave1_small.mov
+Video	NCSLGR:video files:slave2:929_746_slave2_small.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	1300
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	013
+main gloss	OVER/AFTER	200	260	CLASS	360	400	NOW	420	420	fs-JOHN	480	580	FINISH	640	720	READ	780	880	BOOK	1020	1080	|>		1100
+non-dominant hand gloss	NOW	420	420	|>		440
+conditional/when	when	260	400
+eye brows	start	80	220	slightly raised	260	380	end	400	460
+eye aperture	start	80	100	slightly lowered	120	220	end	240	300	start	1100	1100	further lowered	1120	1300
+eye gaze	down	120	200
+head pos: tilt fr/bk	back	80	940	end	960	1260
+head pos: turn	start	80	320	slightly right	340	1220	end	1240	1300
+head pos: jut	start	80	120	back	140	420	forward	440	540	slightly back	560	820	end	860	1300
+head mvmt: nod	single	420	720
+body lean	start	80	160	slightly back	180	1180	end	1200	1300
+POS	Preposition	200	260	Noun	360	400	Adverb	420	420	Proper Noun	480	580	Verb	640	720	Verb	780	880	Noun	1020	1080
+English translation	After class, John has finished reading the book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:930_747_master_small.mov
+Video	NCSLGR:video files:slave1:930_747_slave1_small.mov
+Video	NCSLGR:video files:slave2:930_747_slave2_small.mov
+Video	
+Audio	
+Start frame:	120
+End frame:	1500
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	#IF	160	240	TEACHER	300	360	REQUIRE	500	560	|>		720	fs-JOHN	860	900	FUTURE	980	1020	READ	1060	1140	BOOK	1260	1320	 		
+non-dominant hand gloss
+conditional/when	start	120	140	conditional	160	720
+eye brows	start	120	140	raised	160	720	end	740	960
+eye aperture	start	120	120	wide	140	600	start	620	720	blink	740	820	lowered lid	840	960	squint	980	1300	end	1320	1500
+eye gaze	down/right	300	600
+head pos: tilt fr/bk	back	120	180	front	200	740	start	780	780	back	800	1400	end	1420	1500
+head pos: turn	start	120	380	slightly right	400	1480	end	1500	1500
+head pos: tilt side	start	120	280	right	300	1400	end	1420	1500
+head pos: jut	start	120	160	back	180	740	start	760	840	forward	860	1500
+head mvmt: nod	single	480	680	rapid	880	1420
+body lean	slightly back	120	1380	end	1400	1500
+POS	Conjunction	160	240	Noun	300	360	Verb	500	560	Proper Noun	860	900	Tense	980	1020	Verb	1060	1140	Noun	1260	1320
+English translation	If the teacher requires it, then John will read a book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:931_748_master_small.mov
+Video	NCSLGR:video files:slave1:931_748_slave1_small.mov
+Video	NCSLGR:video files:slave2:931_748_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1300
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	013
+main gloss	fs-JOHN	100	280	READ	380	480	BOOK	560	640	|>		720	FINISH	800	940	|>		1100
+non-dominant hand gloss
+topic/focus	top2	100	680
+eye brows	start	0	80	raised	100	680	end	700	1180
+eye aperture	start	0	160	wide	180	620	end	640	800
+eye gaze	down	280	420
+head pos: tilt fr/bk	start	0	380	slightly front	400	760	start	780	1000	slightly back	1020	1260	end	1280	1300
+head pos: turn	start	760	980	slightly left	1000	1260	end	1280	1300
+head pos: jut	forward	0	180	start	200	460	forward	500	800	start	820	1020	back	1040	1300
+head mvmt: nod	slight rapid head nod	320	720
+nose	start	660	760	tensed	780	1240	end	1260	1300
+POS	Proper Noun	100	280	Verb	380	480	Noun	560	640	Aspect	800	940
+English translation	As for John reading a book, he already did!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:933_750_master_small.mov
+Video	NCSLGR:video files:slave1:933_750_slave1_small.mov
+Video	NCSLGR:video files:slave2:933_750_slave2_small.mov
+Video	
+Audio	
+Start frame:	120
+End frame:	1160
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	180	260	READ	360	440	BOOK	520	580	ABOUT	600	700	"WHAT"	740	920	|>		1020
+non-dominant hand gloss
+wh question	wh	180	1020
+eye brows	start	120	160	lowered	180	1040	end	1060	1160
+eye aperture	start	120	160	squint	180	280	lowered lid	300	1060	blink	1080	1100
+head pos: tilt fr/bk	back	120	1040	end	1060	1160
+head pos: jut	forward	120	1040	end	1060	1160
+head mvmt: shake	start	240	360	rapid	380	1020	end	1040	1160
+body lean	start	120	320	slightly forward	340	1040	end	1060	1160
+nose	start	120	200	wrinkle	220	1020	end	1040	1160
+POS	Proper Noun	180	260	Verb	360	440	Noun	520	580	Preposition	600	700	Wh-word	740	920
+English translation	What is John reading a book about? 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:934_751_master_small.mov
+Video	NCSLGR:video files:slave1:934_751_slave1_small.mov
+Video	NCSLGR:video files:slave2:934_751_slave2_small.mov
+Video	
+Audio	
+Start frame:	220
+End frame:	1480
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	013
+main gloss	fs-JOHN	380	520	READ	600	700	BOOK	780	820	ABOUT	880	980	"WHAT"	1020	1100	|>		1360
+non-dominant hand gloss
+wh question	wh	1000	1360
+eye brows	start	960	980	lowered	1000	1360	end	1380	1480
+eye aperture	start	840	1000	squint	1020	1340	start	1360	1380	blink	1400	1480
+eye gaze	down	700	780
+head pos: tilt fr/bk	start	220	320	slightly front	380	1020	start	1040	1360	front	1380	1480
+head pos: turn	start	600	1020	slightly right	1040	1420	end	1440	1480
+head pos: jut	start	220	420	slightly back	460	800	start	820	1140	forward	1160	1380	end	1400	1460
+head mvmt: shake	start	800	1020	rapid	1040	1360	end	1380	1480
+nose	start	840	1000	wrinkle	1020	1360	end	1380	1480
+POS	Proper Noun	380	520	Verb	600	700	Noun	780	820	Preposition	880	980	Wh-word	1020	1100
+English translation	What is John reading a book about?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:935_752_master_small.mov
+Video	NCSLGR:video files:slave1:935_752_slave1_small.mov
+Video	NCSLGR:video files:slave2:935_752_slave2_small.mov
+Video	
+Audio	
+Start frame:	440
+End frame:	2040
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	520	640	NEED	700	860	MORE	940	980	INFORMATION	1020	1200	|>		1280	IX-3p:i	1360	1400	FUTURE	1520	1560	READ	1600	1680	BOOK	1780	1840	|>		1920
+non-dominant hand gloss	INFORMATION	1020	1200	|>		1520
+conditional/when	conditional	520	1240
+eye brows	start	440	560	raised	580	1240	end	1260	1740
+eye aperture	squint	440	560	start	580	660	wide	680	880	end	900	1240	start	1260	1260	lowered lid	1280	1340	slightly lowered	1380	1560	end	1580	2020
+eye gaze	right	440	520	down/right	700	900
+head pos: tilt fr/bk	start	440	460	back	480	520	start	540	720	front	740	1260	end	1280	1680
+head pos: tilt side	start	440	680	slight right	700	1260	start	1280	1600	slight left	1620	2020
+head pos: jut	forward	440	600	start	620	700	back	720	1280	end	1300	1840
+head mvmt: nod	slight rapid head nod	1340	1920
+POS	Proper Noun	520	640	Verb	700	860	Adjective	940	980	Noun	1020	1200	Pronoun	1360	1400	Tense	1520	1560	Verb	1600	1680	Noun	1780	1840
+English translation	If John needs more information, he will read the book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:936_753_master_small.mov
+Video	NCSLGR:video files:slave1:936_753_slave1_small.mov
+Video	NCSLGR:video files:slave2:936_753_slave2_small.mov
+Video	
+Audio	
+Start frame:	160
+End frame:	2660
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	fs-JOHN	180	260	READ+	360	560	BOOK	660	780	|>		1140	FUTURE	1260	1320	KNOW	1360	1400	MORE	1480	1520	ABOUT	1580	1640	ns-LINCOLN	1780	1820	POSS-3p:i	2000	2020	LIFE	2200	2300	|>		2380
+non-dominant hand gloss	BOOK	660	780	|>		1140	ABOUT	1580	1640	|>		1940
+conditional/when	when	180	1140
+eye brows	raised	160	1120	end	1140	1360
+eye aperture	start	160	220	wide	240	1080	blink	1100	1180	start	1200	2280	closed	2300	2340	further lowered	2400	2660
+eye gaze	right	280	1140	left	1880	2040
+head pos: tilt fr/bk	back	160	340	slightly back	360	680	front	2080	2660
+head pos: turn	start	160	360	slightly right	380	520	start	540	880	slightly left	900	1200	end	1220	2080
+head pos: tilt side	start	160	220	slight right	240	1160	start	1180	1360	slight left	1380	2300	end	2320	2560
+head pos: jut	forward	160	300	start	320	440	back	460	1120	start	1140	1240	forward	1260	1300	start	1320	1400	back	1420	1560	start	1580	1720	forward	1740	1860	start	1880	1980	back	2000	2280	end	2300	2660
+head mvmt: nod	start	680	900	single	920	1200	slow	1300	2320
+mouth	smile mouth open	880	1120
+POS	Proper Noun	180	260	Verb	360	560	Noun	660	780	Tense	1260	1320	Verb	1360	1400	Adjective	1480	1520	Preposition	1580	1640	Proper Noun	1780	1820	Possessive	2000	2020	Noun	2200	2300
+English translation	When John reads the book, he will know more about LIncoln's life.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:938_755_master_small.mov
+Video	NCSLGR:video files:slave1:938_755_slave1_small.mov
+Video	NCSLGR:video files:slave2:938_755_slave2_small.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	2420
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	fs-JOHN	280	440	FIND^#OUT	480	660	|>		900	TEST	1120	1280	(2h)DCL:B"hair on head raising"	1520	1640	(2h)NEED	1760	1800	READ	1860	1920	BOOK	2040	2220
+non-dominant hand gloss
+conditional/when	when	280	1280
+eye brows	start	100	260	raised	280	1260	end	1280	1820
+eye aperture	start	100	160	blink	180	240	start	260	320	wide	340	1220	blink	1240	1340	start	1360	1460	closed	1480	1640	end	1660	1900
+eye gaze	down/right	340	640	down/left	900	1100
+head pos: tilt fr/bk	start	100	460	front	480	2260	end	2280	2420
+head pos: turn	start	100	1300	right	1320	1400	start	1420	1520	left	1540	1660	start	1680	1940	left	1960	2020	start	2040	2220	slightly right	2240	2260	end	2280	2420
+head pos: tilt side	start	100	380	slight right	400	580	right	600	1380	start	1400	1680	left	1700	2260	end	2280	2420
+head pos: jut	start	100	320	back	340	1280	end	1300	1860
+head mvmt: shake	start	1120	1320	slow	1340	2220	end	2240	2340
+body lean	start	340	740	back	760	1820	end	1840	2220
+POS	Proper Noun	280	440	Verb	480	660	Noun	1120	1280	Classifier	1520	1640	Verb	1760	1800	Verb	1860	1920	Noun	2040	2220
+English translation	When John finds out about the test, he will freak out and need to read the book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:939_756_master_small.mov
+Video	NCSLGR:video files:slave1:939_756_slave1_small.mov
+Video	NCSLGR:video files:slave2:939_756_slave2_small.mov
+Video	
+Audio	
+Start frame:	220
+End frame:	2440
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	fs-JOHN	260	380	FIND^#OUT	500	640	|>		920	TEST	1120	1220	|>		1300	(2h)DCL:B"hair on head raising"	1520	1620	(2h)NEED	1760	1800	READ	1860	1920	BOOK	2040	2240
+non-dominant hand gloss
+conditional/when	when	260	1220
+eye brows	start	220	280	raised	300	1220	start	1240	1320	slightly lowered	1340	1500	end	1520	1800
+eye aperture	blink	220	240	start	260	300	wide	320	1220	blink	1240	1300	start	1320	1460	closed	1480	1640	end	1660	2240
+eye gaze	down/right	340	640	down/left	920	1100
+head pos: tilt fr/bk	start	220	460	front	480	1200	start	1220	1320	back	1340	1580	end	1600	1900
+head pos: turn	start	220	500	slightly right	520	700	start	720	960	slightly left	980	1240	start	1260	1340	right	1360	1420	start	1440	1520	left	1540	1640	start	1660	1820	slightly right	1840	1840	start	1860	1980	left	2000	2020	end	2040	2440
+head pos: tilt side	start	220	420	right	440	1320	start	1340	1840	left	1860	2280	end	2300	2440
+head pos: jut	start	220	440	back	460	1280	start	1300	1540	slightly back	1560	1620	end	1640	1840
+head mvmt: shake	slow	1400	2280
+body lean	start	220	640	back right	660	1820	end	1840	2240
+POS	Proper Noun	260	380	Verb	500	640	Noun	1120	1220	Classifier	1520	1620	Verb	1760	1800	Verb	1860	1920	Noun	2040	2240
+English translation	When John finds out about the test, he will freak out and need to read the book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:940_757_master_small.mov
+Video	NCSLGR:video files:slave1:940_757_slave1_small.mov
+Video	NCSLGR:video files:slave2:940_757_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	2340
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	fs-J	300	340	FIND^#OUT	460	580	|>		760	TEST+	1060	1280	FINISH	1380	1520	|>		1680	READ+++	1740	1940	BOOK++	2000	2180	|>		2260
+non-dominant hand gloss
+conditional/when	when	220	1280
+eye brows	raised	180	1260	start	1280	1380	lowered	1400	2020	end	2040	2340
+eye aperture	wide	180	1260	blink	1280	1360	squint	1380	1640	closed	1660	1960	end	1980	2340
+eye gaze	down/right	360	640	up/left	880	1200
+head pos: tilt fr/bk	start	180	380	front	400	1100	start	1120	1360	back	1380	1600	start	1640	1720	front	1740	2080	end	2140	2340
+head pos: turn	start	180	980	slightly left	1000	1260	start	1280	1500	right	1520	1620	end	1640	2260
+head pos: tilt side	start	180	340	right	360	1460	start	1480	1740	left	1760	2040	end	2060	2340
+head pos: jut	start	180	500	back	520	1040	start	1060	1400	forward	1420	1560	start	1580	1720	back	1740	1960	end	1980	2340
+body lean	start	360	600	back right	620	1460	start	1480	1720	forward	1740	2260	end	2280	2340
+nose	start	960	1280	wrinkle	1300	1980	end	2000	2340
+POS	Proper Noun	300	340	Verb	460	580	Noun	1060	1280	Discourse Marker	1380	1520	Verb	1740	1940	Noun	2000	2180
+English translation	Once John had found out that there is a test, he read the book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:941_758_master_small.mov
+Video	NCSLGR:video files:slave1:941_758_slave1_small.mov
+Video	NCSLGR:video files:slave2:941_758_slave2_small.mov
+Video	
+Audio	
+Start frame:	320
+End frame:	1620
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	STUDENT	380	460	IX-loc:i	520	540	|>		660	POSS-3p:i	860	880	FATHERwg	1020	1060	BUY	1160	1260	HOUSE	1320	1520
+non-dominant hand gloss
+topic/focus	top2	380	580	focus/top1	800	1060
+eye brows	start	320	340	raised	360	480	start	500	780	raised	800	1060	end	1080	1120	slightly lowered	1160	1460	end	1480	1560
+eye aperture	lowered lid	320	360	wide	380	580	closed	600	640	start	660	740	wide	760	1060	blink	1080	1140	end	1160	1580
+eye gaze	down	320	500	up/right	760	920
+head pos: tilt fr/bk	start	320	440	back	460	620	start	640	760	front	780	1100	end	1120	1560
+head pos: tilt side	start	320	360	right	380	1180	end	1200	1600
+head pos: jut	start	320	560	back	580	1140	end	1160	1560
+body lean	start	320	460	slightly back	480	1200	end	1220	1580
+POS	Noun	380	460	Adverb	520	540	Possessive	860	880	Noun	1020	1060	Verb	1160	1260	Noun	1320	1520
+English translation	It's that student's father that is buying a house. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:942_759_master_small.mov
+Video	NCSLGR:video files:slave1:942_759_slave1_small.mov
+Video	NCSLGR:video files:slave2:942_759_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	1420
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	013
+main gloss	STUDENT	240	380	POSS-3p:i	500	540	FATHERwg	700	800	FUTURE	880	900	BUY	1000	1020	HOUSE	1080	1260
+non-dominant hand gloss	STUDENT	240	380	|>		740
+topic/focus	top2	240	400
+eye brows	start	180	220	raised	240	400	end	420	840
+eye aperture	start	180	200	wide	220	580	end	600	1000
+eye gaze	down/left	220	340
+head pos: tilt fr/bk	back	180	200	front	220	1260	end	1280	1320
+head pos: turn	start	460	680	slightly right	700	900	end	920	1260
+head pos: tilt side	start	460	700	right	720	860	end	880	1260
+head pos: jut	start	180	260	back	280	640	start	660	680	back	700	840	end	860	1260
+body lean	back	180	1320
+POS	Noun	240	380	Possessive	500	540	Noun	700	800	Tense	880	900	Verb	1000	1020	Noun	1080	1260
+English translation	That student's father will buy a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:943_760_master_small.mov
+Video	NCSLGR:video files:slave1:943_760_slave1_small.mov
+Video	NCSLGR:video files:slave2:943_760_slave2_small.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	1180
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	010
+main gloss	STUDENT	120	220	POSS-3p:i	280	340	MOTHER+	480	620	|>		680	BUY	800	860	CAR	920	1100
+non-dominant hand gloss
+topic/focus	focus/top1	120	620
+eye brows	start	80	460	slightly raised	480	620	end	640	1080
+eye aperture	start	80	200	squint	220	260	wide	280	600	blink	620	680	end	700	980
+eye gaze	down/left	180	260
+head pos: tilt fr/bk	start	80	220	front	240	580	start	600	700	back	720	1160	end	1180	1180
+head pos: jut	start	80	300	back	320	640	end	660	1000
+POS	Noun	120	220	Possessive	280	340	Noun	480	620	Verb	800	860	Noun	920	1100
+English translation	It's that student's mother that is buying a car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:944_761_master_small.mov
+Video	NCSLGR:video files:slave1:944_761_slave1_small.mov
+Video	NCSLGR:video files:slave2:944_761_slave2_small.mov
+Video	
+Audio	
+Start frame:	880
+End frame:	2540
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	STUDENT	960	1040	IX-loc:i	1080	1180	POSS-3p:j	1240	1280	FATHER	1440	1480	BUY	1580	1700	HOUSE	1880	1940	WHICH	2000	2360
+non-dominant hand gloss	STUDENT	960	1040	|>		1320
+wh question	wh	1260	2360
+eye brows	raised	880	1140	start	1160	1240	lowered	1260	2360	end	2380	2540
+eye aperture	start	880	960	wide	980	1160	squint	1180	1760	blink	1780	1900	squint	1920	2340	blink	2360	2420	end	2460	2540
+eye gaze	down/left	960	1060	up/right	1580	1840
+head pos: tilt fr/bk	start	980	1140	front	1160	1580	back	1600	2360	end	2380	2520
+head pos: turn	start	960	1660	right	1680	1900	end	1920	2540
+head pos: jut	start	1060	1160	slightly back	1180	1440	forward	1460	2360	end	2380	2540
+nose	start	880	1240	tensed	1260	2340	end	2360	2540
+POS	Noun	960	1040	Adverb	1080	1180	Pronoun	1240	1280	Noun	1440	1480	Verb	1580	1700	Noun	1880	1940	Wh-word	2000	2360
+English translation	Which house did the student's father buy?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:945_762_master_small.mov
+Video	NCSLGR:video files:slave1:945_762_slave1_small.mov
+Video	NCSLGR:video files:slave2:945_762_slave2_small.mov
+Video	
+Audio	
+Start frame:	520
+End frame:	1540
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	013
+main gloss	MOTHER	580	640	(V)FUTURE	720	780	READ	840	920	BOOK+	1040	1200	QMwg	1260	1460	|>		1500
+non-dominant hand gloss
+yes/no question	yes/no question	520	1460
+eye brows	raised	520	1460	end	1480	1540
+eye aperture	start	520	540	wide	560	1280	start	1300	1460	lowered lid	1480	1540
+eye gaze	right	800	920
+head pos: tilt fr/bk	start	520	640	front	660	1480	end	1500	1540
+head pos: turn	start	520	640	slightly left	660	1540
+head pos: tilt side	start	520	560	slight right	580	1540
+head pos: jut	forward	520	540	start	560	780	back	800	1480	end	1500	1540
+body lean	start	260	260
+POS	Noun	580	640	Tense	720	780	Verb	840	920	Noun	1040	1200	Discourse Marker	1260	1460
+English translation	Will mother read the book?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:946_763_master_small.mov
+Video	NCSLGR:video files:slave1:946_763_slave1_small.mov
+Video	NCSLGR:video files:slave2:946_763_slave2_small.mov
+Video	
+Audio	
+Start frame:	200
+End frame:	1280
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	FATHER	300	340	BUY	440	480	THAT:i	520	560	BOOK	700	760	(25)WHY	820	960	|>		1120
+non-dominant hand gloss
+wh question	wh	820	1120
+eye brows	raised	200	720	start	740	800	lowered	820	1120	end	1140	1280
+eye aperture	start	220	260	squint	280	760	start	780	800	further squinted	820	1100	blink	1120	1140	end	1160	1280
+eye gaze	down/right	460	600	left	1180	1280
+head pos: tilt fr/bk	start	200	400	front	420	820	end	840	1280
+head pos: turn	slightly left	200	1280
+head pos: tilt side	slight right	200	1280
+head pos: jut	start	200	420	back	440	580	end	600	1280
+head mvmt: shake	start	440	800	slight rapid head shake	820	1140	end	1160	1280
+nose	start	200	260	tensed	280	660	start	680	780	tensed	800	1120	end	1140	1280
+POS	Noun	300	340	Verb	440	480	Demonstrative	520	560	Noun	700	760	Wh-word	820	960
+English translation	Why did father buy that book?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:947_764_master_small.mov
+Video	NCSLGR:video files:slave1:947_764_slave1_small.mov
+Video	NCSLGR:video files:slave2:947_764_slave2_small.mov
+Video	
+Audio	
+Start frame:	220
+End frame:	1140
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	FATHER	280	300	MUST	360	400	BUY	480	540	BOOK	660	700	IX-loc:i	740	820	(25)WHY	900	1000	|>		1140
+non-dominant hand gloss	IX-loc:i	740	820	|>		920
+wh question	wh	860	1080
+eye brows	raised	220	740	start	760	840	lowered	860	1080	end	1100	1140
+eye aperture	start	280	300	slightly squinted	320	740	start	760	860	further squinted	880	1080	start	1100	1140
+eye gaze	right	440	540
+head pos: tilt fr/bk	start	240	500	front	520	580	start	600	620	slightly front	640	820	end	840	980
+head pos: turn	start	760	820	slightly left	840	1140
+head pos: tilt side	right	220	1140
+head pos: jut	start	540	620	slightly forward	640	1140
+head mvmt: shake	start	760	840	slight rapid head shake	860	1140
+nose	start	300	320	tensed	340	760	start	780	820	tensed	840	1080	end	1100	1140
+POS	Noun	280	300	Modal	360	400	Verb	480	540	Noun	660	700	Adverb	740	820	Wh-word	900	1000
+English translation	Why does father have to buy that book there?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:948_765_master_small.mov
+Video	NCSLGR:video files:slave1:948_765_slave1_small.mov
+Video	NCSLGR:video files:slave2:948_765_slave2_small.mov
+Video	
+Audio	
+Start frame:	320
+End frame:	1360
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	MOTHER	340	360	SHOULD	400	480	NOT	520	600	BUY	620	700	THAT:i	760	820	CAR	840	900	part:indef	960	1080	|>		1240
+non-dominant hand gloss
+negative	negation	560	1220
+eye brows	raised	320	340	end	360	420
+eye aperture	lowered lid	320	360	end	380	540
+eye gaze	right	720	780
+head pos: tilt fr/bk	start	340	560	front	580	1240	end	1260	1360
+head pos: turn	start	500	520	slightly right	540	680	end	700	740
+head pos: tilt side	start	380	480	left	500	1260	end	1280	1360
+head mvmt: shake	start	500	540	rapid	560	1220	end	1240	1360
+POS	Noun	340	360	Modal	400	480	Negation	520	600	Verb	620	700	Demonstrative	760	820	Noun	840	900	Particle	960	1080
+English translation	Mother should not buy that car!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:950_767_master_small.mov
+Video	NCSLGR:video files:slave1:950_767_slave1_small.mov
+Video	NCSLGR:video files:slave2:950_767_slave2_small.mov
+Video	
+Audio	
+Start frame:	280
+End frame:	920
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	MOTHER	320	360	SHOULD	400	440	BUY	500	580	CAR	620	720	|>		800
+non-dominant hand gloss
+yes/no question	yes/no question	280	800
+eye brows	slightly raised	280	800	end	820	920
+eye aperture	start	300	340	squint	360	780	end	800	820	blink	880	900
+head pos: tilt fr/bk	start	300	440	front	460	800	end	820	920
+head pos: tilt side	start	420	440	slight left	460	920
+head mvmt: jut	back	460	800
+nose	start	400	440	tensed	460	760	end	780	840
+cheeks	start	400	440	tensed	460	760	end	780	920
+POS	Noun	320	360	Modal	400	440	Verb	500	580	Noun	620	720
+English translation	Should mother buy a car?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:952_769_master_small.mov
+Video	NCSLGR:video files:slave1:952_769_slave1_small.mov
+Video	NCSLGR:video files:slave2:952_769_slave2_small.mov
+Video	
+Audio	
+Start frame:	240
+End frame:	1380
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	015
+main gloss	MOTHER	300	340	SHOULD	380	480	BUY	560	620	CAR	660	860	(25)WHY	920	1000	|>		1080	(1h)part:indef	1120	1260	|>		1300
+non-dominant hand gloss	CAR	660	860	|>		1060
+wh question	wh	880	1240
+eye brows	slightly raised	240	740	start	760	860	slightly lowered	880	1240	end	1260	1360
+eye aperture	start	380	420	squint	440	1240	start	1260	1260	blink	1280	1280	end	1300	1380
+head pos: tilt fr/bk	start	260	480	front	500	1260	end	1280	1380
+head pos: turn	start	400	440	slightly right	460	1280	end	1300	1380
+head pos: tilt side	start	400	460	slight left	480	1320	end	1340	1380
+head mvmt: shake	start	780	860	slight rapid head shake	880	1220	end	1240	1380
+head mvmt: jut	back	480	900
+shoulders	start	900	980	raised	1000	1040	end	1060	1140
+cheeks	start	480	500	tensed	520	1240	end	1260	1340
+nose	start	780	840	tensed	860	1000	end	1020	1120
+POS	Noun	300	340	Modal	380	480	Verb	560	620	Noun	660	860	Wh-word	920	1000	Particle	1120	1260
+English translation	Why should mother buy a car?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:953_770_master_small.mov
+Video	NCSLGR:video files:slave1:953_770_slave1_small.mov
+Video	NCSLGR:video files:slave2:953_770_slave2_small.mov
+Video	
+Audio	
+Start frame:	540
+End frame:	1720
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	011
+main gloss	IX-1p	580	620	NEVER	660	680	SEE	820	860	fs-JOHN	900	1040	POSS-3p:i	1140	1160	CAR	1240	1380	NEVER	1420	1640
+non-dominant hand gloss	CAR	1240	1380	|>		1600
+negative	negation	660	1660
+eye brows	start	540	640	lowered	660	1660	end	1680	1720
+eye aperture	start	1640	1660	blink	1680	1680
+eye gaze	right	820	960
+head mvmt: shake	start	620	640	slow	660	1720
+nose	start	660	700	tensed	720	1660	end	1680	1720
+mouth	raised upper lip	580	1640	end	1660	1720
+POS	Pronoun	580	620	Negation	660	680	Verb	820	860	Proper Noun	900	1040	Possessive	1140	1160	Noun	1240	1380	Negation	1420	1640
+English translation	I've never seen John's car.
+Notes - number of character bytes:	150
+This is simiar to another utterance (in NCSLGRe, I think) - the movement of SEE seems to be toward the face. I wonder if this is a dialect difference.
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:954_771_master_small.mov
+Video	NCSLGR:video files:slave1:954_771_slave1_small.mov
+Video	NCSLGR:video files:slave2:954_771_slave2_small.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	1440
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	fs-JOHN	160	280	POSS-3p:i	360	400	CAR	560	700	|>		720	NEVER	800	860	SEE	980	1060	IX-1p	1160	1200	|>		1300
+non-dominant hand gloss	CAR	560	700	|>		1060
+topic/focus	focus/top1	140	700
+negative	start	740	900	negation	920	1360
+eye brows	raised	140	260	start	280	360	further raised	380	700	end	720	800
+eye aperture	lowered lid	140	260	start	280	420	wide	440	680	end	700	740	start	1300	1320	blink	1340	1360	end	1380	1440
+eye gaze	right	280	360
+head pos: tilt fr/bk	back	140	400	start	420	540	further back	560	1440
+head pos: tilt side	start	400	500	slight right	520	1440
+head pos: jut	forward	140	240	end	260	300	start	900	980	forward	1000	1440
+head mvmt: shake	start	740	900	slow	920	1300	end	1320	1440
+mouth	lips spread	1000	1360
+POS	Proper Noun	160	280	Possessive	360	400	Noun	560	700	Negation	800	860	Verb	980	1060	Pronoun	1160	1200
+English translation	It's John's CAR I've never seen.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:955_772_master_small.mov
+Video	NCSLGR:video files:slave1:955_772_slave1_small.mov
+Video	NCSLGR:video files:slave2:955_772_slave2_small.mov
+Video	
+Audio	
+Start frame:	200
+End frame:	1400
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	015
+main gloss	fs-JOHN	240	340	|>		360	POSS-3p:i	460	480	CAR	580	680	|>		760	NEVER	840	920	SEE	1040	1140	IX-1p	1300	1300
+non-dominant hand gloss	CAR	580	680	|>		1300
+topic/focus	focus/top1	200	740
+negative	negation	840	1340
+eye brows	raised	200	780	end	800	880
+eye aperture	start	200	220	wide	240	740	start	760	780	blink	800	800	start	820	820	lowered lid	840	1280	start	1300	1300	blink	1320	1320	end	1340	1400
+eye gaze	right	400	460	left	1340	1400
+head pos: tilt fr/bk	back	200	200	end	220	400	start	800	920	slightly back	940	1400
+head pos: turn	start	300	340	slightly left	360	740	start	760	920	right	940	1220	end	1240	1360
+head pos: tilt side	start	220	360	right	380	1360	end	1380	1400
+head pos: jut	start	560	600	back	620	740	end	760	820	start	960	1060	forward	1080	1400
+head mvmt: shake	start	760	820	slow	840	1340
+cheeks	start	260	320	tensed	340	760	end	780	820
+POS	Proper Noun	240	340	Possessive	460	480	Noun	580	680	Negation	840	920	Verb	1040	1140	Pronoun	1300	1300
+English translation	It's John's car I've never seen.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:956_773_master_small.mov
+Video	NCSLGR:video files:slave1:956_773_slave1_small.mov
+Video	NCSLGR:video files:slave2:956_773_slave2_small.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	1440
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	017
+main gloss	fs-JOHN	120	260	|>		300	POSS-3p:i	380	420	CAR	540	680	|>		800	NEVER	880	960	SEE	1100	1140	IX-1p	1240	1280
+non-dominant hand gloss	CAR	540	680	|>		1060
+topic/focus	top2	120	780
+negative	negation	880	1360
+eye brows	start	80	100	raised	120	780	end	800	900
+eye aperture	start	80	120	wide	140	240	start	260	380	squint	400	740	start	760	760	lowered lid	780	820	end	840	860	blink	1300	1320
+eye gaze	right	320	420
+head pos: tilt fr/bk	back	80	100	start	120	260	front	280	540	start	560	600	further front	620	760	end	780	880
+head pos: turn	start	460	500	slightly left	520	780	start	800	900	slightly right	920	1220	end	1240	1360
+head pos: tilt side	slight right	80	80	start	100	240	right	260	800	end	820	1000
+head pos: jut	start	180	260	slightly back	280	540	start	560	600	back	640	760	end	780	840
+head mvmt: shake	start	800	860	rapid	880	1360
+mouth	raised upper lip	320	480	intense	580	740
+cheeks	start	280	300	tensed	320	740	end	760	820
+nose	start	260	300	tensed	320	740	end	760	840
+POS	Proper Noun	120	260	Possessive	380	420	Noun	540	680	Negation	880	960	Verb	1060	1160	Pronoun	1240	1280
+English translation	As for John's car, I've never seen (it).
+Notes - number of character bytes:	0
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:967_784_master_small.mov
+Video	NCSLGR:video files:slave1:967_784_slave1_small.mov
+Video	NCSLGR:video files:slave2:967_784_slave2_small.mov
+Video	
+Audio	
+Start frame:	340
+End frame:	1940
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	MUST	460	600	FATHER	780	820	neu:GIVE:j	940	1180	CAR	1260	1420	IX-3p:j	1460	1500	fs-JOHN	1520	1660	IX-loc:j	1740	1760
+non-dominant hand gloss
+eye brows	lowered	460	1760	end	1780	1940
+eye aperture	squint	460	800	blink	820	1040	start	1060	1060	squint	1080	1740	blink	1760	1900	end	1920	1940
+eye gaze	left	880	1020	left	1840	1940
+head pos: tilt fr/bk	start	460	540	back	560	620	end	640	1180
+head pos: turn	right	460	640	start	660	900	left	920	1040	start	1060	1200	right	1220	1540	start	1560	1900	slightly left	1920	1940
+head pos: tilt side	right	460	1940
+head pos: jut	forward	460	640	start	660	880	forward	900	1080	start	1100	1720	forward	1740	1940
+nose	wrinkle	460	1780	end	1800	1900
+POS	Modal	460	600	Noun	780	840	Verb	940	1180	Noun	1260	1420	Determiner	1460	1500	Proper Noun	1520	1660	Pronoun	1740	1760
+English translation	Father must give a car to John.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:968_785_master_small.mov
+Video	NCSLGR:video files:slave1:968_785_slave1_small.mov
+Video	NCSLGR:video files:slave2:968_785_slave2_small.mov
+Video	
+Audio	
+Start frame:	600
+End frame:	2120
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	FATHER	760	800	IX-3p:i	960	1000	!MUST!	1180	1260	GIFT:k	1400	1480	fs-JOHN	1600	1720	CAR	1820	1980	|>		2020
+non-dominant hand gloss
+topic/focus	focus/top1	600	1020
+eye brows	raised	600	1020	start	1040	1140	lowered	1160	1940	end	1960	1980
+eye aperture	lowered lid	600	660	end	680	760	blink	980	980	lowered lid	1000	1100	start	1120	1120	blink	1140	1160	end	1180	1220	start	1280	1300	squint	1320	1460	end	1480	1560	blink	2020	2040
+eye gaze	right	820	980	left	1180	1260
+head pos: tilt fr/bk	back	600	1560	end	1580	1780
+head pos: turn	start	820	1000	slightly left	1020	1040	end	1060	1200	start	1260	1380	right	1400	1540	start	1560	1940	left	1960	2060	end	2080	2100
+head pos: tilt side	right	600	1180	end	1200	1260	start	1480	1500	right	1520	1880	end	1900	2120
+head pos: jut	start	640	740	slightly forward	760	1060	start	1080	1280	back	1300	1500	end	1520	1660
+nose	start	1020	1120	wrinkle	1140	1940	end	1960	2120
+mouth	lips spread & crnrs down	1120	1180	intense	1320	1480	raised upper lip	1600	1940
+POS	Noun	760	800	Pronoun	960	1000	Modal	1180	1260	Verb	1400	1480	Proper Noun	1600	1720	Noun	1820	1980
+English translation	His father MUST give John a car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	41
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:969_786_master_small.mov
+Video	NCSLGR:video files:slave1:969_786_slave1_small.mov
+Video	NCSLGR:video files:slave2:969_786_slave2_small.mov
+Video	
+Audio	
+Start frame:	200
+End frame:	1900
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	240	320	FATHERwg	440	460	IX-3p:i	580	600	!MUST!	740	820	neu:GIFT:j	940	1000	CAR	1060	1140	IX-3p:j	1260	1300	fs-MARY	1400	1540	|>		1700
+non-dominant hand gloss
+topic/focus	focus/top1	240	540
+eye brows	raised	200	540	end	560	640	start	800	860	raised	880	1160	end	1180	1280
+eye aperture	start	220	360	wide	380	520	end	540	580	start	620	620	closed	640	780	start	800	900	wide	920	1020	wider	1040	1120	end	1140	1200	blink	1600	1620
+eye gaze	up/right	380	500
+head pos: tilt fr/bk	start	600	720	back	740	860	start	880	900	slightly back	920	1160	end	1180	1300
+head pos: turn	start	640	800	right	820	860	start	880	1060	slightly left	1080	1160	start	1180	1260	slightly right	1280	1640	end	1680	1900
+head pos: tilt side	slight right	200	900	end	920	1000
+head pos: jut	slightly forward	200	260	end	280	360	start	780	800	slightly back	820	880	end	900	980
+POS	Proper Noun	240	320	Noun	440	460	Pronoun	580	600	Modal	740	820	Verb	940	1000	Noun	1060	1140	Determiner	1260	1300	Proper Noun	1400	1540
+English translation	John's father must give the car to Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	42
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:970_787_master_small.mov
+Video	NCSLGR:video files:slave1:970_787_slave1_small.mov
+Video	NCSLGR:video files:slave2:970_787_slave2_small.mov
+Video	
+Audio	
+Start frame:	160
+End frame:	2020
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	015
+main gloss	fs-JOHN	220	320	POSS-3p:i	420	440	FATHERwg	580	600	IX-3p:i	740	760	MUST	940	1000	neu:GIFT:j	1120	1200	CAR	1300	1380	IX-3p:j	1440	1480	fs-MARY	1600	1800	|>		1900
+non-dominant hand gloss	CAR	1300	1380	|>		1520
+topic/focus	focus/top1	220	760
+eye brows	start	160	240	raised	260	760	end	780	1780
+eye aperture	start	160	280	wide	300	740	start	760	760	closed	780	940	start	960	1000	wide	1020	1060	start	1080	1080	blink	1100	1120	end	1140	1780
+eye gaze	up/right	420	540	left	980	1120
+head pos: tilt fr/bk	slightly back	160	240	end	260	440	start	760	900	slightly back	920	1000	start	1020	1040	back	1060	1340	end	1360	1520
+head pos: turn	start	540	640	slightly left	660	760	start	780	980	right	1000	1060	end	1080	1180	start	1380	1520	slightly right	1540	1880	end	1900	2020
+head pos: tilt side	start	220	340	slight right	360	980	end	1000	1100	start	1420	1480	slight right	1500	1900	end	1920	2020
+head pos: jut	forward	160	240	end	260	440
+mouth	intense	1060	1140
+nose	start	780	900	tensed	920	1180	end	1200	1500
+head mvmt: shake	start	560	960
+POS	Proper Noun	220	320	Possessive	420	440	Noun	580	600	Pronoun	740	760	Modal	940	1000	Verb	1120	1200	Noun	1300	1380	Pronoun	1440	1480	Proper Noun	1600	1800
+English translation	It's John's father, him, who must give a car to Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	43
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:972_789_master_small.mov
+Video	NCSLGR:video files:slave1:972_789_slave1_small.mov
+Video	NCSLGR:video files:slave2:972_789_slave2_small.mov
+Video	
+Audio	
+Start frame:	480
+End frame:	2380
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	IX-3p:i	560	560	fs-MARY	620	680	IX-loc:i	760	880	|>		960	fs-JOHN	1080	1160	FATHER	1280	1340	MUST	1480	1600	j:GIFT:i	1740	1860	CAR	2100	2220
+non-dominant hand gloss
+topic/focus	focus/top1	540	900
+eye brows	start	480	520	raised	540	900	slightly raised	920	1320	start	1340	1520	lowered	1540	1860	end	1880	1920
+eye aperture	start	640	640	wide	660	860	start	880	880	blink	900	920	end	940	1000	start	1340	1340	blink	1360	1500	start	1520	1540	squint	1560	1680	blink	1700	1720	squint	1740	1900	end	1920	1940
+eye gaze	left	480	580	up/right	1120	1240	left	1620	1680
+head pos: tilt fr/bk	slightly back	480	560	end	580	680	start	940	1080	slightly back	1100	1160	end	1180	1280	start	1380	1500	slightly back	1520	1880	end	1900	2020
+head pos: turn	start	940	1040	slightly right	1060	1380	start	1420	1500	right	1520	1600	start	1620	1860	slightly left	1880	1960	end	1980	2140
+head pos: jut	start	560	780	back	800	920	end	940	1060	start	1520	1540	back	1560	1900	end	1920	2060
+nose	start	560	620	tensed	640	940	end	960	1040	start	1400	1600	wrinkle	1620	1860	end	1880	1980
+POS	Determiner	560	560	Proper Noun	620	680	Adverb	760	880	Proper Noun	1080	1160	Noun	1280	1340	Modal	1480	1600	Verb	1740	1860	Noun	2100	2220
+English translation	It's Mary there to whom John's father must give a car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	44
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:973_790_master_small.mov
+Video	NCSLGR:video files:slave1:973_790_slave1_small.mov
+Video	NCSLGR:video files:slave2:973_790_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1560
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	320	460	SHOULD	480	620	neu:GIFT:i	680	840	CAR	920	980	IX-3p:i	1080	1100	FATHER	1200	1300
+non-dominant hand gloss	CAR	920	980	|>		1200
+eye brows	raised	0	600	start	620	680	lowered	700	920	end	940	1300
+eye aperture	lowered lid	0	120	closed	140	200	start	220	460	lowered lid	480	600	end	620	1280
+eye gaze	watch hands	480	600	left	680	800
+head pos: tilt fr/bk	further front	0	160	start	180	460	front	480	860	start	880	1140	slightly front	1160	1340	end	1360	1560
+head pos: tilt side	start	320	500	slight left	520	940	end	960	1300
+head pos: jut	start	0	280	forward	300	420	start	440	580	back	600	1220	end	1240	1360
+head mvmt: nod	single	680	840
+body lean	forward	0	100	start	120	960	slightly back	980	1180	end	1200	1560
+POS	Proper Noun	320	460	Verb	480	620	Noun	680	840	Noun	920	980	Determiner	1080	1100	Pronoun	1200	1300
+English translation	John should give car to the father.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	45
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:974_791_master_small.mov
+Video	NCSLGR:video files:slave1:974_791_slave1_small.mov
+Video	NCSLGR:video files:slave2:974_791_slave2_small.mov
+Video	
+Audio	
+Start frame:	220
+End frame:	1380
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	260	340	IX-3p:i	380	400	FUTURE	480	580	GIFT:j	660	780	(1h)CAR	840	960	IX-3p:j	1020	1020	FATHER	1140	1200
+non-dominant hand gloss
+topic/focus	focus/top1	260	400
+eye brows	raised	220	320	end	340	480
+eye aperture	slightly lowered	300	380	lowered lid	400	440	end	460	560	blink	1260	1280
+eye gaze	down/right	300	380
+head pos: turn	start	480	520	slightly right	540	760	end	780	960
+head pos: tilt side	start	220	300	slight right	320	440	start	460	1040	slight right	1060	1340	end	1360	1380
+head pos: jut	start	460	500	back	520	720	end	740	820
+head mvmt: nod	start	600	660	slight rapid head nod	680	1280
+POS	Proper Noun	260	340	Pronoun	380	400	Tense	480	580	Verb	660	780	Noun	840	960	Determiner	1020	1040	Noun	1140	1200
+English translation	It's John who will give a car to (his) father.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	46
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:975_792_master_small.mov
+Video	NCSLGR:video files:slave1:975_792_slave1_small.mov
+Video	NCSLGR:video files:slave2:975_792_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	920
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	006
+main gloss	MOTHER	280	300	FUTURE	380	420	BUY	500	560	HOUSE	640	820
+non-dominant hand gloss
+eye brows	slightly lowered	180	560	end	580	660
+head mvmt: nod	start	400	460	slight rapid head nod	480	760
+POS	Noun	280	300	Tense	380	420	Verb	500	560	Noun	640	820
+English translation	Mother will buy a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	47
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:977_794_master_small.mov
+Video	NCSLGR:video files:slave1:977_794_slave1_small.mov
+Video	NCSLGR:video files:slave2:977_794_slave2_small.mov
+Video	
+Audio	
+Start frame:	200
+End frame:	1200
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	017
+main gloss	MOTHER	360	380	FUTURE	420	540	BUY	680	740	HOUSE	780	920	|>		940
+non-dominant hand gloss
+rhetorical question	yes-no rhq	200	880
+negative	start	900	960	negation	980	1200
+eye brows	raised	200	880	start	900	980	lowered	1000	1200
+eye aperture	start	220	280	wide	300	880	start	900	940	squint	960	1200
+eye gaze	right	240	300
+head pos: tilt fr/bk	start	900	980	slightly back	1000	1200
+head pos: turn	start	920	960	slightly right	980	1200
+head pos: tilt side	start	340	540	right	560	960	end	980	1040
+head pos: jut	start	340	500	slightly back	520	900	end	920	1020
+head mvmt: shake	start	900	960	rapid	980	1200
+body lean	start	420	500	back	520	920	end	940	1180
+nose	start	940	940	wrinkle	960	1200
+mouth	lips spread & crnrs down	200	680	lips spread & crnrs down	940	1200
+POS	Noun	360	380	Tense	420	540	Verb	680	740	Noun	780	920
+English translation	Will mother buy a house?  No.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	48
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:978_795_master_small.mov
+Video	NCSLGR:video files:slave1:978_795_slave1_small.mov
+Video	NCSLGR:video files:slave2:978_795_slave2_small.mov
+Video	
+Audio	
+Start frame:	220
+End frame:	900
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	011
+main gloss	MOTHER	240	260	NOT	320	380	BUY	460	540	HOUSE	600	780
+non-dominant hand gloss
+negative	start	220	280	negation	300	800
+eye brows	start	220	260	lowered	280	800	end	820	840
+eye aperture	start	220	240	squint	260	780	start	800	800	closed	820	900
+head pos: turn	start	220	280	slightly right	300	840	end	860	900
+head mvmt: shake	start	220	280	rapid	300	820	end	840	900
+mouth	raised upper lip	220	280	lips spread & crnrs down	300	900
+nose	start	220	240	wrinkle	260	800	end	820	880
+POS	Noun	240	260	Negation	320	380	Verb	460	540	Noun	600	780
+English translation	Mother is not buying a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	49
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:979_796_master_small.mov
+Video	NCSLGR:video files:slave1:979_796_slave1_small.mov
+Video	NCSLGR:video files:slave2:979_796_slave2_small.mov
+Video	
+Audio	
+Start frame:	200
+End frame:	960
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	016
+main gloss	MOTHER	200	240	FUTURE	340	380	BUY	500	580	HOUSE	640	780
+non-dominant hand gloss
+rhetorical question	yes-no rhq	200	660
+negative	start	680	720	negation	740	920
+eye brows	raised	200	660	start	680	760	lowered	780	900	end	920	960
+eye aperture	squint	200	220	end	240	300	start	660	680	squint	700	880	end	900	940
+eye gaze	right	200	220	up/right	360	560
+head pos: turn	start	680	720	slightly right	740	960
+head pos: tilt side	slight left	200	280	start	300	540	further right	560	700	end	720	940
+head pos: jut	start	200	380	back	400	640	end	660	840
+head mvmt: shake	start	680	720	rapid	740	920
+nose	tensed	200	660	start	680	720	wrinkle	740	880	end	900	960
+mouth	lips spread & crnrs down	200	920	end	940	960
+body lean	start	480	520	back	540	720	end	740	920
+POS	Noun	200	240	Tense	340	380	Verb	500	580	Noun	640	780
+English translation	WIll mother buy a house?  No.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	50
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:981_798_master_small.mov
+Video	NCSLGR:video files:slave1:981_798_slave1_small.mov
+Video	NCSLGR:video files:slave2:981_798_slave2_small.mov
+Video	
+Audio	
+Start frame:	240
+End frame:	860
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	MOTHER	260	300	NOT-WANT	340	420	BUY	520	580	HOUSE	660	840
+non-dominant hand gloss
+negative	start	280	300	negation	320	840
+eye brows	slightly lowered	240	460	end	480	540
+eye aperture	squint	240	420	end	440	540
+head pos: tilt fr/bk
+head pos: jut	slightly forward	240	540	end	560	620
+head mvmt: shake	start	280	300	rapid	320	840
+nose	tensed	240	520	end	540	580
+mouth	lips spread & crnrs down	240	520	end	540	600
+POS	Noun	260	300	Neg + Verb	340	420	Verb	520	580	Noun	660	840
+English translation	Mother doesn't want to buy a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	51
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:982_799_master_small.mov
+Video	NCSLGR:video files:slave1:982_799_slave1_small.mov
+Video	NCSLGR:video files:slave2:982_799_slave2_small.mov
+Video	
+Audio	
+Start frame:	400
+End frame:	1060
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	011
+main gloss	MOTHER	400	440	FUTURE	520	580	BUY	640	700	HOUSE	780	980
+non-dominant hand gloss
+yes/no question	yes/no question	400	980
+eye brows	slightly raised	400	980
+head pos: tilt fr/bk	front	400	1060
+head pos: turn	start	400	440	slightly left	460	1060
+head pos: tilt side	slight right	400	1060
+nose	start	520	560	tensed	580	700	end	720	780
+mouth	lips spread & crnrs down	400	640
+POS	Noun	400	440	Tense	520	580	Verb	640	700	Noun	780	980
+English translation	Will mother buy a house?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	52
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:983_800_master_small.mov
+Video	NCSLGR:video files:slave1:983_800_slave1_small.mov
+Video	NCSLGR:video files:slave2:983_800_slave2_small.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1040
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	(1h)HOW-MANY	140	200	BOOK	320	360	fs-JOHN	420	480	FUTURE	580	600	BUY	680	760	|>		880
+non-dominant hand gloss	BOOK	320	360	|>		660	BUY	680	760	|>		800
+wh question	wh	120	1040
+eye brows	start	60	100	lowered	120	1040
+eye aperture	start	60	100	squint	120	1040
+head pos: tilt fr/bk	start	120	220	back	240	820	start	840	920	slightly back	940	1040
+head pos: turn	start	100	120	slightly left	140	1040
+head pos: jut	start	120	140	forward	160	1040
+head mvmt: shake	start	100	140	slight rapid head shake	160	960	end	980	1040
+nose	start	100	180	tensed	200	1040
+POS	Wh-word	140	200	Noun	320	360	Proper Noun	420	480	Tense	580	600	Verb	680	760
+English translation	How many books will John buy?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	53
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:985_820_master_small.mov
+Video	NCSLGR:video files:slave1:985_820_slave1_small.mov
+Video	NCSLGR:video files:slave2:985_820_slave2_small.mov
+Video	
+Audio	
+Start frame:	660
+End frame:	2240
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	STUDENT	800	880	GIFT:j	1040	1100	TEACHER	1200	1260	WHICH	1360	1460	BOOK	1520	1560	IX-3p:k	1680	1720	IX-3p:m	1780	1820	IX-3p:k	1900	1920	IX-3p:m	2040	2060
+non-dominant hand gloss	STUDENT	800	880	|>		1100
+wh question	wh	1320	2240
+eye brows	start	880	1020	slightly lowered	1040	1220	start	1240	1300	lowered	1320	2240
+eye aperture	squint	1180	2240
+eye gaze	left	1580	1660
+head pos: tilt fr/bk	start	660	780	back	800	1460	end	1480	1620
+head pos: turn	start	840	1020	slightly left	1040	2240
+head pos: tilt side	start	840	1000	right	1020	2240
+head pos: jut	start	1560	1620	forward	1640	2240
+head mvmt: shake	start	1280	1300	rapid	1320	1700
+body lean	start	1660	1720	forward/right	1740	2240
+POS	Noun	800	880	Verb	1040	1100	Noun	1200	1260	Wh-word	1360	1460	Noun	1520	1560	Pronoun	1680	1720	Pronoun	1780	1820	Pronoun	1900	1920	Pronoun	2040	2060
+English translation	Which of those two books did the student give the teacher?
+Notes - number of character bytes:	0

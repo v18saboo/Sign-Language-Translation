@@ -1,0 +1,2599 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	boston-la	Firewire 38200:NCSLGRv4:boston-la
+Number of utterances:	83
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	5880
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	IX-1p	360	960	COMPARE	1040	1480	TWO	1640	1720	DIFFERENT	1840	1960	CITY	2080	2520	fs-BOSTON	2640	3920	AND	4040	4280	ns-LA	4360	4960	cl:1"two areas"	5080	5880
+non-dominant hand gloss
+head pos: tilt fr/bk	start	0	240	back	280	680	start	720	1000	front	1040	2720	start	2760	3360	front	3400	4200	start	4240	5000	front	5040	5880
+head pos: turn	start	0	560	right	600	5880
+head pos: tilt side	start	0	400	slightly left	440	5880
+head pos: jut	start	0	400	slightly forward	440	1040	start	1080	2280	slightly back	2320	2640	start	2680	3960	slightly back	4000	4240	start	4280	4880	slightly back	4920	5880
+head mvmt: nod	start	1640	2000	single	2040	2640	start	2680	3280	single	3320	4120	end	4160	4800
+eye brows	start	0	720	lowered	760	5880
+eye gaze	to addressee	0	5880
+eye aperture	start	0	840	squint	880	5880
+nose	start	0	1000	tensed	1040	1800	start	1840	2320	wrinkle	2400	3800	start	3840	4960	wrinkle	5000	5880
+POS	Determiner	360	960	Verb	1040	1480	Number	1640	1720	Adverb	1840	1960	Noun	2080	2520	Proper Noun	2640	3920	Preposition	4040	4280	Proper Noun	4360	4960	Classifier	5080	5880
+English translation	I compared two different cities, Boston and Los Angelos. 
+Notes - number of character bytes:	71
+FMC
+CBD
+- FOR CL part (last word), not sure if it is correct, or IX-3p?
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	5880
+End frame:	9680
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	IX-3p	5880	6080	REALLY	6120	6280	IX-1p	6400	6480	part:indef	6520	6800	BORN	6880	7280	IN	8160	8200	ns-BOSTON	8280	8840
+non-dominant hand gloss	IX-3p	5880	6200	part:indef	6440	6800	GREW-UP	7600	8080
+head pos: tilt fr/bk	front	5880	5920	start	5960	6680	slightly back	6720	6880	start	6920	7240	front	7280	9080	end	9120	9680
+head pos: turn	right	5880	6280	start	6320	7000	left	7040	9120	start	9160	9520	right	9560	9680
+head pos: tilt side	slightly left	5880	6080	start	6120	7160	left	7200	8960	start	9000	9600	slightly right	9640	9680
+head pos: jut	slightly back	5880	5960	start	6000	6400	forward	6440	6920	start	6960	7240	back	7280	9040	end	9080	9680
+head mvmt: nod	start	5880	6920	single	6960	7720	start	7760	8600	single	8640	9320	end	9360	9680
+eye brows	lowered	5880	9680
+eye gaze	to addressee	5880	9680
+eye aperture	squint	5880	9680
+nose	wrinkle	5880	9680
+POS	Pronoun	5880	6080	Discourse Marker	6120	6280	Pronoun	6400	6480	Particle	6520	6800	Verb	6880	7280	Preposition	8160	8200	Proper Noun	8280	8840
+Non-dominant POS	Pronoun	5880	6200	Particle	6440	6800	Verb	7600	8080
+English translation	I was born and grew up in Boston.
+Notes - number of character bytes:	37
+add index for IX-3p
+should be IX-3p:i
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	9680
+End frame:	19720
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	REALLY	10000	10200	IX-1p	11120	11280	|>		11800	AFTER	12040	12560	fs-hs	12720	13080	IX-1p	13200	13280	GO	13360	13600	COLLEGE	13720	13920	ns-CSUN	14080	14880	CALIFORNIA	15080	15520	STATE	15640	15960	UNIVERSITY	16120	16320	ON	16480	16640	ns-NORTHRIDGE	16840	17960	IX-1p	18120	18440	GO	18480	18640	NINETY-SIX	18760	19280
+non-dominant hand gloss	ns-LA	11240	11720	|>		11960	COLLEGE	13720	13920	|>		15240	IX-3p	19160	19280
+head pos: tilt fr/bk	front	9680	17600	start	17640	18160	front	18200	19720
+head pos: turn	right	9680	10040	start	10080	11160	left	11200	11840	start	11880	12680	right	12720	14840	start	14880	15120	left	15160	15640	start	15680	16920	slightly right	16960	17680	start	17720	18440	left	18480	18760	start	18800	19200	right	19240	19720
+head pos: tilt side	slightly right	9680	9960	start	10000	10680	slightly left	10720	11800	start	11840	13200	slightly right	13240	14840	start	14880	15160	left	15200	15720	start	15760	16920	slightly right	16960	17840	start	17880	18440	slightly left	18480	18720	start	18760	19280	slightly right	19320	19720
+head pos: jut	start	9680	11000	back/left	11040	11920	start	11960	12720	back/right	12760	13880	start	13920	15160	slightly back	15200	17840	start	17880	18800	back	18840	19640	end	19680	19720
+head mvmt: nod	start	16120	16840	single	16880	17920	end	17960	18440
+eye brows	lowered	9680	16640	start	16680	18800	lowered	18840	19720
+eye gaze	to addressee	9680	19720
+eye aperture	squint	9680	9880	blink	9920	10280	start	10320	10680	squint	10720	17640	start	17680	17920	wide	17960	18520	start	18560	18760	squint	18800	19720
+nose	wrinkle	9680	15960	start	16000	18520	wrinkle	18560	19720
+POS	Discourse Marker	10000	10200	Pronoun	11120	11280	Preposition	12040	12560	Noun	12720	13080	Determiner	13200	13280	Verb	13360	13600	Noun	13720	13920	Proper Noun	14080	14880	Proper Noun	15080	15520	Proper Noun	15640	15960	Proper Noun	16120	16320	Preposition	16480	16640	Proper Noun	16840	17960	Determiner	18120	18440	Verb	18480	18640	Number	18760	19280
+Non-dominant POS	Proper Noun	11240	11720	Noun	13720	13920	Pronoun	19160	19280
+English translation	I went to LA after my high school in '96.  I went to the college, Calfornia State University, CSUN, in Northridge.
+Notes - number of character bytes:	72
+is ns-LA correct gloss?? (LEAVE?)
+what is the appropriate gloss for HS??
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	19720
+End frame:	28840
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	016
+main gloss	REALLY	19920	20080	IX-1p	20160	20240	MANY	20400	20560	THING	20720	21040	COMPARE	21280	21520	IX-3p	21680	22040	SAME	22440	22680	FOR	22880	23040	EXAMPLE	23160	23440	FOOD	23640	24800	REALLY	24880	25080	IX-loc	25240	25360	fs-BOSTON	25520	26520	REALLY	26680	26880	DELICIOUS	27360	27680	BETTER	27880	28080	FOOD	28240	28840
+non-dominant hand gloss	IX-3p	21680	22040	|>		22880
+head pos: tilt fr/bk	front	19720	19720	start	19760	20680	front	20720	22120	start	22160	22960	slightly front	23000	23400	start	23440	26240	front	26280	28840
+head pos: turn	right	19720	20320	start	20360	21760	right	21800	22840	start	22880	23800	slightly right	23840	25320	start	25360	26720	slightly left	26760	27520	start	27560	27720	slightly right	27760	27960	end	28000	28840
+head pos: tilt side	slightly right	19720	22800	start	22840	23280	slightly left	23320	23560	start	23600	25360	slightly right	25400	26320	start	26360	26880	slightly left	26920	27360	start	27400	27680	slightly right	27720	28040	start	28080	28600	slightly left	28640	28840
+head pos: jut	start	19720	20360	back	20400	21280	start	21320	23720	forward/right	23760	25000	end	25040	28840
+head mvmt: nod	start	20160	21480	single	21520	22640	end	22680	23640
+head mvmt: shake	start	25600	26920	slow	26960	28360	end	28400	28840
+body lean
+eye brows	lowered	19720	22080	start	22120	22880	slightly raised	22920	25000	end	25040	26880
+eye gaze	to addressee	19720	28840
+eye aperture	squint	19720	20040	start	20080	20240	closed	20280	22040	squint	22080	23440	start	23480	26400	closed	26440	27640	end	27680	28840
+nose	wrinkle	19720	23440	end	23480	26520
+POS	Discourse Marker	19920	20080	Pronoun	20160	20240	Adjective	20400	20560	Noun	20720	21040	Verb	21280	21520	Pronoun	21680	22040	Adjective	22440	22680	Preposition	22880	23040	Noun	23160	23440	Noun	23640	24800	Discourse Marker	24880	25080	Pronoun	25240	25360	Proper Noun	25520	26520	Adverb	26680	26880	Verb	27360	27680	Adjective	27880	28080	Noun	28240	28840
+Non-dominant POS	Pronoun	21680	22040
+English translation	There are many things I could compare, like for an example, Boston's food is a lot better.  They are more delicious.  
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	28840
+End frame:	39120
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	016
+main gloss	FOOD	28840	28880	REALLY	28960	29160	THINK	29480	29560	FIRST	29760	29840	fs-SEAFOOD	30200	31440	REALLY	31560	31600	NONE	31680	31840	COMPARE	31920	32440	"throw hand"	32560	32880	FIRST	33080	33160	SECOND	33360	33440	part:indef	33520	33640	MEAT	33840	34200	fs-FRESH	34680	35560	"thumbs up"	35720	36160	MORE	36360	36480	TASTE	37360	37880	ns-CALIFORNIA	38320	38480	MEAT	38720	38840	part:indef	39080	39120
+non-dominant hand gloss	IX-3p	38240	38480
+head pos: tilt fr/bk	front	28840	28880	start	28920	29280	front	29320	29680	start	29720	31600	slightly front	31640	32920	start	32960	33160	back	33200	33720	start	33760	34560	front	34600	35720	start	35760	38240	front	38280	39120
+head pos: turn	start	28840	29480	slightly left	29520	29800	start	29840	30520	right	30560	31080	start	31120	31840	right	31880	32320	start	32360	33400	right	33440	36440	start	36480	38280	left	38320	38840	end	38880	39120
+head pos: tilt side	slightly left	28840	29040	start	29080	29480	right	29520	29800	start	29840	31560	right	31600	32440	start	32480	33400	right	33440	33840	start	33880	34840	left	34880	35640	start	35680	38280	slightly left	38320	38880	end	38960	39120
+head pos: jut	start	28840	29480	back	29520	29720	start	29760	31560	slightly back	31600	32760	start	32800	33400	forward/right	33440	33880	start	33920	35520	forward/right	35560	36440	start	36480	38400	back/left	38440	38760	start	38800	39080	back	39120	39120
+head mvmt: nod	start	33520	35560	rapid	35600	36400	end	36440	38320
+head mvmt: shake	start	29480	31640	single	31680	32760	start	32800	38680	rapid	38720	39120
+eye brows	start	28840	30120	raised	30160	31360	start	31400	31640	lowered	31680	32880	start	32920	34320	slightly raised	34360	36280	start	36320	38760	lowered	38800	39120
+eye gaze	to addressee	28840	29280	down	29320	29560	to addressee	29600	39120
+eye aperture	start	28840	29160	closed	29200	29520	start	29560	31400	squint	31440	36360	start	36400	38120	squint	38160	39120
+nose	start	33520	35640	tensed	35680	36400	start	36440	38840	wrinkle	38880	39120
+negative	neg	31680	32760	neg	38720	39120
+POS	Noun	28840	28880	Discourse Marker	28960	29160	Verb	29480	29560	Number	29760	29840	Noun	30200	31440	Discourse Marker	31560	31600	Negation	31680	31840	Verb	31920	32440	Number	33080	33160	Number	33360	33440	Particle	33520	33640	Noun	33840	34200	Adjective	34680	35560	Adjective	36360	36480	Verb	37360	37880	Proper Noun	38320	38480	Noun	38720	38840	Particle	39080	39120
+Non-dominant POS	Pronoun	38240	38480
+English translation	First of all, I think the seafood is nothing here compare to Boston.  Second, the meat is more tasteful than California's meat.
+Notes - number of character bytes:	104
+- is "throw hand" appropriate gloss for this gesture?
+- Is FIRST and SECOND correct gloss? Or is it CL??
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	39080
+End frame:	43120
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	016
+main gloss	part:indef	39080	39320	NOT	39400	39440	GREAT	39560	39760	MAYBE	39920	40120	IX-3p	40200	40280	HAVE	40400	40480	BETTER	40560	40840	PRODUCT	41080	41320	FROM	41360	41480	COW	41640	41920	BRING	42120	42640	DON'T-KNOW	42720	43120
+non-dominant hand gloss	part:indef	39080	39320	|>		39440	MAYBE	39920	40120	|>		40800	BRING	42120	42640	|>		43120
+head pos: tilt fr/bk	front	39080	39760	start	39800	40280	back	40320	41080	start	41120	41440	front	41480	43120
+head pos: turn	start	39080	39240	slightly left	39280	39360	start	39400	40360	left	40400	43120
+head pos: tilt side	slightly left	39080	39600	start	39640	39920	slightly right	39960	40040	start	40080	40920	left	40960	43120
+head pos: jut	slightly back	39080	39760	start	39800	40240	back	40280	40720	start	40760	41200	back/left	41240	43120
+head mvmt: shake	rapid	39080	39640
+body lean	start	39080	40000	slightly forward	40040	41560	end	41600	43120
+eye brows	lowered	39080	39520	start	39560	39800	raised	39840	42600	end	42640	43120
+eye gaze	to addressee	39080	43120
+eye aperture	squint	39080	39560	start	39600	39800	wide	39840	41480	end	41520	43120
+nose	wrinkle	39080	39720	start	39760	39920	tensed	39960	41320	end	41360	43000
+negative	neg	39080	39640
+POS	Particle	39080	39320	Negation	39400	39440	Adjective	39560	39760	Adverb	39920	40120	Pronoun	40200	40280	Adverb	40400	40480	Adjective	40560	40840	Noun	41080	41320	Preposition	41360	41480	Noun	41640	41920	Verb	42120	42640	Negation	42720	43120
+Non-dominant POS	Particle	39080	39320	Adverb	39920	40120	Verb	42120	42640
+English translation
+Notes - number of character bytes:	36
+-not sure how to do the english part
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	43120
+End frame:	52040
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	012
+main gloss	DON'T-KNOW	43120	43160	THIRD	43600	44200	DIFFERENT	44680	44880	FRUIT	45040	45160	VEGETABLE	45440	45760	MORE	46120	46600	TASTE	47040	47200	fs-FRESH	47360	47760	IX-3p	48000	48160	GROW++	48760	50240	IN	50680	50800	OUT-OF	51080	51560	ns-CALIFORNIA	51680	51800	BUT	52000	52040
+non-dominant hand gloss	BRING	43120	43160	|>		44440	DIFFERENT	44680	44880	|>		45680	MORE	46120	46600	|>		48120	IX-3p	51680	51800
+head pos: tilt fr/bk	front	43120	43600	start	43640	44880	slightly back	44920	47440	start	47480	50920	slightly front	50960	52040
+head pos: turn	left	43120	43440	start	43480	44160	right	44200	48160	start	48200	49400	left	49440	52040
+head pos: tilt side	left	43120	43480	start	43520	47200	slightly left	47240	51640	end	51680	52040
+head pos: jut	back/left	43120	43480	start	43520	44880	forward/right	44920	47160	start	47200	49440	back/left	49480	51800	end	51840	52040
+eye brows	start	43120	44680	slightly lowered	44720	48160	start	48200	51480	raised	51520	52040
+eye gaze	to addressee	43120	52040
+eye aperture	start	43120	43560	squint	43600	46120	start	46160	46400	closed	46440	47600	start	47640	47720	squint	47760	48760	start	48800	51400	wide	51440	52040
+POS	Negation	43120	43160	Number	43600	44200	Adjective	44680	44880	Noun	45040	45160	Noun	45480	45760	Adjective	46120	46600	Verb	47040	47200	Adjective	47360	47760	Pronoun	48000	48160	Verb	48760	50240	Preposition	50680	50800	Preposition	51080	51560	Proper Noun	51680	51800	Conjunction	52000	52040
+Non-dominant POS	Verb	43120	43160	Adjective	44680	44880	Adjective	46120	46600	Pronoun	51680	51800
+English translation	Third, they both have different fruits and vegetables.  They have more tasteful and fresh because it was cropping out of California.  
+Notes - number of character bytes:	116
+NOTES FOR FRAN from CARLA:
+-DIFFERENT, I think its "PLUS", not different? 
+-Same for BUT, its more likely "while" ??
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	52000
+End frame:	57200
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	BUT	52000	52120	ns-CALIFORNIA	52320	52600	FARM	52840	53320	SYSTEM	53440	53840	IX-3p	53960	54240	MORE	54480	54560	SAME	54600	54760	OUTSIDE	54840	55520	IX-3p	55680	55880	INSIDE	56000	56360	fs-TOO	56480	56600	HOT	56640	57200
+non-dominant hand gloss	BUT	52000	52120	|>		52840
+head pos: tilt fr/bk	start	52000	52360	front	52400	54160	start	54200	55600	front	55640	57200
+head pos: turn	left	52000	52800	start	52840	53680	right	53720	57200
+head pos: tilt side	start	52000	52040	slightly left	52080	52400	start	52440	54560	slightly left	54600	56600	end	56640	57200
+head pos: jut	start	52000	52520	forward/left	52560	52800	start	52840	55840	back/right	55880	56640	end	56680	57200
+head mvmt: shake	start	52000	53840	slight rapid headshake	53880	54440	end	54480	55520
+eye brows	raised	52000	52600	start	52640	55840	raised	55880	55960	start	56000	56240	slightly lowered	56280	57200
+eye gaze	to addressee	52000	57200
+eye aperture	wide	52000	52600	start	52640	53800	squint	53840	54560	start	54600	56080	squint	56120	57200
+nose	start	52000	52080	tensed	52120	52600	start	52640	56320	wrinkle	56360	57200
+POS	Conjunction	52000	52120	Proper Noun	52320	52600	Noun	52840	53320	Noun	53440	53840	Determiner	53960	54240	Adjective	54480	54560	Adjective	54600	54760	Noun	54840	55520	Determiner	55680	55880	Noun	56000	56360	Adjective	56480	56600	Adjective	56640	57200
+Non-dominant POS	Conjunction	52000	52120
+English translation	California's farm system is more outside because it is too hot to crop in the state.
+Notes - number of character bytes:	72
+is that a fingerspelled "TOO"??
+
+Add index for IX-3p (should be IX-3p:i)
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	57200
+End frame:	64360
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	OUTSIDE	57480	58040	STILL	58240	58440	UNKNOWN	58480	58840	IX-3p:i	58960	59120	fs-VERY	59280	59680	DRY	59880	60400	EASIER	60640	61000	TO	61080	61240	GROW	61320	61560	fs-CROPS	61680	62520	IN	62600	62760	ns-LA	62920	63280	AREA	63440	64120
+non-dominant hand gloss	UNKNOWN	58480	58840	|>		60120	GROW	61320	61560	|>		62480
+head pos: tilt fr/bk	front	57200	58320	start	58360	59040	slightly back	59080	60400	start	60440	62880	front	62920	63960	start	64000	64200	back	64240	64360
+head pos: turn	right	57200	59200	start	59240	62920	slightly left	62960	63360	start	63400	64040	right	64080	64360
+head pos: tilt side	start	57200	58000	left	58040	59040	start	59080	60920	slightly right	60960	61560	start	61600	63040	left	63080	63360	end	63400	64360
+head pos: jut	start	57200	58440	forward/right	58480	60040	start	60080	62920	slightly back	62960	63960	start	64000	64120	forward/right	64160	64360
+head mvmt: nod	start	61680	62680	single	62720	64080	end	64120	64360
+eye brows	slightly lowered	57200	57600	start	57640	57920	lowered	57960	64360
+eye gaze	to addressee	57200	64360
+eye aperture	squint	57200	64360
+nose	wrinkle	57200	60400	start	60440	61560	tensed	61600	63760	end	63840	64360
+POS	Noun	57480	58040	Adjective	58240	58440	Pronoun	58960	59120	Adjective	59280	59680	Adjective	59880	60400	Adjective	60640	61000	Preposition	61080	61240	Verb	61320	61560	Noun	61680	62520	Preposition	62600	62760	Proper Noun	62920	63280	Noun	63440	64120
+Non-dominant POS	Verb	61320	61560
+English translation	To crop outside of California is better because it is dry.  It is easier to grow crops than in LA area.
+Notes - number of character bytes:	56
+-UNKNOWN, its about sun .. but not sure how to gloss it?
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	64360
+End frame:	71520
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	#SO	64560	64680	part:indef	64880	65160	REALLY	65800	66080	part:indef	66200	66360	REALLY	66520	66680	cl:5"list"++	66880	67840	IX-3p:i	68000	68040	REALLY	68120	68240	ADMIT	68280	68720	ns-MEXICO	68800	69160	FOOD	69320	69600	BETTER	69720	69960	IN	70040	70160	ns-LA	70280	71120	part:indef	71440	71520
+non-dominant hand gloss	cl:5"list"++	66880	67840	|>		68120
+head pos: tilt fr/bk	back	64360	64800	start	64840	65000	front	65040	65360	start	65400	65960	back	66000	66760	start	66800	67280	front	67320	67840	start	67880	68000	back	68040	68240	start	68280	68960	front	69000	71520
+head pos: turn	right	64360	65360	start	65400	66000	left	66040	67840	start	67880	68120	slightly right	68160	71520
+head pos: tilt side	start	64360	65160	slightly left	65200	65600	start	65640	67360	left	67400	67880	start	67920	68040	right	68080	68560	start	68600	69760	right	69800	70160	start	70200	71320	right	71360	71520
+head pos: jut	forward/right	64360	65680	start	65720	66200	forward/left	66240	67360	start	67400	68040	slightly forward	68080	68240	start	68280	68560	back	68600	71520
+head mvmt: nod	start	64360	65000	single	65040	65680	end	65720	66080
+eye brows	lowered	64360	64680	start	64720	64920	lowered	64960	67840	start	67880	67920	raised	67960	68160	start	68200	68280	lowered	68320	71120	end	71160	71520
+eye gaze	to addressee	64360	65160	left	65200	67720	to addressee	67760	71520
+eye aperture	squint	64360	64800	closed	64840	65200	squint	65240	71120	start	71160	71320	blink	71360	71520
+nose	start	64360	64920	wrinkle	64960	67840	start	67880	68240	wrinkle	68280	71320	end	71360	71520
+POS	Discourse Marker	64560	64680	Particle	64880	65160	Discourse Marker	65800	66080	Particle	66200	66360	Discourse Marker	66520	66680	Classifier	66880	67840	Pronoun	68000	68040	Discourse Marker	68120	68240	Verb	68280	68720	Proper Noun	68800	69160	Noun	69320	69600	Adjective	69720	69960	Preposition	70040	70160	Proper Noun	70280	71120	Particle	71440	71520
+Non-dominant POS	Classifier	66880	67840
+English translation	So, I have to admit that Mexican food in LA is better.
+Notes - number of character bytes:	99
+- the cl, I dont think its correct, how should I gloss that one (its definitely related to "LIST").
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	71520
+End frame:	75240
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	part:indef	71520	71600	OF-COURSE	71720	71920	IX-3p	72000	72080	CLOSE	72160	72640	ns-MEXICO	72840	73200	fs-BORDER	73320	73960	BORDER	74040	74400	NEXT	74520	74880	part:indef	74960	75200
+non-dominant hand gloss	OF-COURSE	71720	71920	|>		72560	BORDER	74040	74400	|>		74880
+head pos: tilt fr/bk	front	71520	75040	end	75080	75240
+head pos: turn	slightly right	71520	71880	start	71920	73320	right	73360	75240
+head pos: tilt side	right	71520	72120	start	72160	73840	slightly right	73880	75040	end	75080	75240
+head pos: jut	back	71520	73200	start	73240	73440	back/right	73480	74560	end	74600	75240
+eye brows	start	71520	72000	raised	72040	72600	start	72640	75080	raised	75120	75240
+eye gaze	to addressee	71520	75240
+eye aperture	slightly lowered	71520	71600	start	71640	72040	wide	72080	73960	start	74000	74960	squint	75000	75240
+nose	start	71520	71760	tensed	71800	74400	start	74440	75000	wrinkle	75040	75240
+POS	Particle	71520	71600	Pronoun	72000	72080	Adjective	72160	72640	Proper Noun	72840	73200	Noun	73320	73960	Noun	74040	74400	Adjective	74520	74880	Particle	74960	75200
+Non-dominant POS	Noun	74040	74400
+English translation	Of course, its because of live close to Mexico.  The state border is next to each other.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	75240
+End frame:	83522
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	part:indef	75240	75280	IX-1p	75360	75440	ns-BOSTON	75680	76000	NONE	76160	76360	ns-MEXICO	76680	76960	FOOD	77040	77240	IX-3p-arc	77360	77600	NOT	77720	77760	BAD	77880	78120	BUT	78240	78440	IX-1p	78560	78800	REALLY	78880	79000	POSS-1p	79080	79360	NOT-CARE	79440	79680	ABOUT	79800	79920	ns-MEXICO	79960	80360	FOOD	80520	80800	DELICIOUS	81160	81560	ADVANTAGE	81760	82160	part:indef	82240	82400
+non-dominant hand gloss	part:indef	75240	75280	|>		75960	ns-MEXICO	76680	76960	|>		78040	BUT	78240	78440	|>		79160	ns-MEXICO	79960	80360	|>		80880	ADVANTAGE	81760	82160	|>		82520
+head pos: tilt fr/bk	start	75240	76400	front	76440	77560	start	77600	78040	slightly back	78080	78280	start	78320	78720	front	78760	79080	start	79120	80000	front	80040	83160	start	83200	83440	slightly back	83480	83522
+head pos: turn	right	75240	75280	start	75320	76680	left	76720	77560	start	77600	78320	left	78360	78960	start	79000	80120	left	80160	82400	start	82440	83320	right	83400	83522
+head pos: tilt side	start	75240	76320	left	76360	77760	start	77800	78320	slightly right	78360	79000	start	79040	79960	left	80000	82480	end	82520	83522
+head pos: jut	start	75240	78080	back/right	78120	79000	start	79040	79400	back	79440	79960	start	80000	81600	back/right	81640	82440	start	82480	83400	forward/right	83440	83522
+eye brows	raised	75240	76320	start	76360	76760	lowered	76800	80440	start	80480	83160	slightly lowered	83200	83522
+eye gaze	to addressee	75240	83522
+eye aperture	squint	75240	76960	start	77000	77200	closed	77240	78800	start	78840	78840	squint	78880	80800	closed	80840	81840	start	81880	82200	squint	82240	83522
+nose	wrinkle	75240	80800	start	80840	82440	wrinkle	82480	83522
+POS	Particle	75240	75280	Pronoun	75360	75440	Proper Noun	75680	76000	Negation	76160	76360	Proper Noun	76680	76960	Noun	77040	77240	Pronoun	77360	77600	Negation	77720	77760	Adjective	77880	78120	Conjunction	78240	78440	Pronoun	78560	78800	Discourse Marker	78880	79000	Pronoun	79080	79360	Negation	79440	79680	Adverb	79800	79920	Proper Noun	79960	80360	Noun	80520	80800	Adjective	81160	81560	Noun	81760	82160	Particle	82240	82400
+Non-dominant POS	Particle	75240	75280	Proper Noun	76680	76960	Conjunction	78240	78440	Proper Noun	79960	80360	Noun	81760	82160
+English translation	Boston's mexican food is not bad, but myself, I dont care about mexican food.  I ate mexican food in LA because its really delicious.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	83421
+End frame:	90720
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	REALLY	84000	84200	IX-3p:i	84320	84560	CHICKEN	84800	85320	IX-3p:i	85640	85760	POSS-3p:i	86200	86320	FOOD	86480	86920	HAVE	87000	87120	fs-VERY	87280	87600	STRICT	87680	88080	ABOUT	88160	88320	FRUIT	88520	89120	VEGETABLE	89240	89680	POLICY	89800	90720
+non-dominant hand gloss	IX-3p:i	84920	85240	|>		86840	ABOUT	88160	88320	|>		89600
+head pos: tilt fr/bk	slightly back	83421	83520	start	83560	84480	slightly front	84520	88400	start	88440	89200	back	89240	89680	start	89720	90040	slightly front	90080	90720
+head pos: turn	right	83421	86400	start	86440	87400	left	87440	88280	start	88320	90200	right	90240	90720
+head pos: tilt side	start	83421	84640	slightly left	84680	86240	start	86280	89320	slightly left	89360	90040	end	90080	90720
+head pos: jut	slightly forward	83421	83520	start	83560	86880	slightly back	86920	88320	start	88360	89080	forward	89120	89640	start	89680	90080	slightly back	90120	90360	end	90440	90720
+eye brows	slightly lowered	83421	86400	start	86440	86920	lowered	86960	90720
+eye gaze	to addressee	83421	90720
+eye aperture	squint	83421	83960	start	84000	84120	closed	84160	86440	start	86480	87000	squint	87040	87720	end	87760	89240
+nose	wrinkle	83421	86640	end	86680	88080
+POS	Discourse Marker	84000	84200	Pronoun	84320	84560	Noun	84800	85320	Determiner	85640	85760	Pronoun	86200	86320	Noun	86480	86920	Adverb	87000	87120	Adjective	87280	87600	Verb	87680	88080	Adverb	88160	88320	Noun	88520	89120	Noun	89240	89680	Noun	89800	90720
+Non-dominant POS	Pronoun	84920	85240	Adverb	88160	88320
+English translation
+Notes - number of character bytes:	40
+-Im not sure how to do the english part.
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	90720
+End frame:	96440
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	POLICY	90720	90840	SAME	90960	91120	HAVE	91240	91440	ONE	91600	91880	SHEEP+	92120	92640	fs-I	92720	93280	FIVE	93360	94160	IX-3p:i	94280	94440	HAVE	94520	94720	ONE	94800	94960	|>		95680	STOP	95920	96440
+non-dominant hand gloss	POLICY	90720	90840	|>		91600
+head pos: tilt fr/bk	slightly front	90720	91000	start	91040	91200	slightly back	91240	91520	start	91560	91800	slightly front	91840	92800	start	92840	93320	front	93360	94400	start	94440	94680	front	94720	96440
+head pos: turn	right	90720	93280	start	93320	95680	right	95720	96440
+head pos: jut	start	90720	91960	slightly back	92000	95320	start	95360	95920	forward/right	95960	96440
+head mvmt: nod	slow	90720	92640	start	92680	93000	slow	93040	94280	end	94320	94720
+eye brows	lowered	90720	96440
+eye gaze	to addressee	90720	96440
+eye aperture	squint	90720	91520	start	91560	91640	closed	91680	92720	squint	92760	93360	start	93400	94960	squint	95000	96440
+nose	start	90720	91240	wrinkle	91280	95640	start	95680	96240	tensed	96280	96440
+POS	Noun	90720	90840	Adjective	90960	91120	Adverb	91240	91440	Number	91600	91880	Noun	92120	92640	Number	93360	94160	Pronoun	94280	94440	Adverb	94520	94720	Number	94800	94960	Verb	95920	96440
+Non-dominant POS	Noun	90720	90840
+English translation
+Notes - number of character bytes:	91
+-I have no idea what hes talking about.. SHEEP is that what he said or????
+- English part??
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	96440
+End frame:	100160
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	STOP	96440	96680	|>		96880	MAKE	97000	97120	SURE	97200	97400	NONE	97520	97640	ONE	97680	97840	BRING	97920	98400	FRUIT	98560	98840	AND	98920	99040	VEGETABLE	99120	99440	FROM	99520	99720	ns-MEXICO	99800	100160
+non-dominant hand gloss	MAKE	97000	97120	|>		97440	BRING	97920	98400	|>		99120
+head pos: tilt fr/bk	slightly back	96440	99800	start	99840	100040	slightly front	100080	100160
+head pos: turn	right	96440	97040	start	97080	99600	left	99640	100160
+head pos: tilt side	start	98560	99200	slightly left	99240	100160
+head pos: jut	start	96440	97240	forward	97280	97680	start	97720	99600	slightly back	99640	100160
+eye brows	lowered	96440	97000	start	97040	97040	slightly lowered	97080	99480	start	99520	99720	slightly raised	99760	100160
+eye gaze	to addressee	96440	100160
+eye aperture	squint	96440	97920	end	97960	99120
+nose	tensed	96440	97640	end	97680	98560
+POS	Verb	96440	96680	Verb	97000	97120	Adjective	97200	97400	Negation	97520	97640	Number	97680	97840	Verb	97920	98400	Noun	98560	98840	Preposition	98920	99040	Noun	99120	99440	Preposition	99520	99720	Proper Noun	99800	100160
+Non-dominant POS	Verb	97000	97120	Verb	97920	98400
+English translation	They will stop and make sure nobody would bring any fruit or vegetable from Mexico.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	100160
+End frame:	106720
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	012
+main gloss	#OR	100360	100480	ANYONE	100720	101200	ELSE	101360	101800	cl:5"that area"	101880	102160	BECAUSE	102240	102640	IX-3p:i	102720	102760	fs-VERY	102800	103040	STRICT	103160	103440	WITH	103520	103720	CHEMICAL	103800	104480	MAKE	104600	104720	SURE	104840	105200	cl:5"things"	105360	105920	WORK-OUT	106240	106720
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	100160	100480	start	100520	102120	front	102160	104560	start	104600	105040	front	105080	105680	start	105720	106640	slightly front	106680	106720
+head pos: turn	left	100160	102760	start	102800	103640	slightly right	103680	105480	start	105520	106200	left	106240	106720
+head pos: tilt side	slightly left	100160	102160	start	102200	105760	slightly left	105800	106720
+head pos: jut	back/left	100160	102160	start	102200	103440	forward/right	103480	105360	start	105400	106160	back/left	106200	106680	back	106720	106720
+eye brows	slightly raised	100160	100160	start	100200	100480	raised	100520	102080	start	102120	102480	lowered	102520	106720
+eye gaze	to addressee	100160	106720
+eye aperture	start	100160	100360	wide	100400	102160	start	102200	102720	squint	102760	106720
+nose	tensed	100160	102160	start	102200	106680	wrinkle	106720	106720
+POS	Preposition	100360	100480	Pronoun	100720	101200	Noun	101360	101800	Classifier	101880	102160	Preposition	102240	102640	Pronoun	102720	102760	Adjective	102800	103040	Verb	103160	103440	Adverb	103520	103720	Noun	103800	104480	Verb	104600	104720	Noun	104840	105200	Classifier	105360	105920	Verb	106240	106720
+English translation	Because, there is very strict with chemical issue, they had to make sure things would work out smooth.
+Notes - number of character bytes:	32
+-cl:5"things", is that correct?
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	106720
+End frame:	110040
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	SAME	106800	106880	IX-1p	107000	107160	LOOK	107320	107600	HERE	107760	108040	IX-1p	108240	108320	NEVER	108400	108520	HEAR	108600	108800	SOMETHING	108880	109280	SAME	109360	109640	THAT	109680	110040
+non-dominant hand gloss	HERE	107760	108040	|>		110040
+head pos: tilt fr/bk	slightly front	106720	107280	start	107320	108240	front	108280	110040
+head pos: turn	left	106720	107000	start	107040	108080	left	108120	109280	start	109320	109680	slightly right	109720	110040
+head pos: tilt side	slightly left	106720	107160	start	107200	108200	left	108240	110040
+body lean	slightly forward	106720	107120	end	107160	107600
+eye brows	lowered	106720	106800	start	106840	107000	raised	107040	108040	start	108080	108240	lowered	108280	110040
+eye gaze	to addressee	106720	110040
+eye aperture	squint	106720	107000	blink	107040	107240	start	107280	107680	wide	107720	108120	start	108160	108280	squint	108320	110040
+nose	wrinkle	106720	107600	start	107640	108280	wrinkle	108320	110040
+POS	Adjective	106800	106880	Pronoun	107000	107160	Verb	107320	107600	Noun	107760	108040	Determiner	108240	108320	Negation	108400	108520	Verb	108600	108800	Noun	108880	109280	Adjective	109360	109640	Noun	109680	110040
+Non-dominant POS	Noun	107760	108040
+English translation	I have never heard of that kind of situation here in Boston.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	110040
+End frame:	113640
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	015
+main gloss	part:indef	110160	110280	REALLY	110360	110600	part:indef	110680	111040	IX-1p	111120	111200	LEARN	111400	111920	THAT	111960	112080	IN	112160	112320	ns-LA	112400	112840	IX-loc:i	112920	113240
+non-dominant hand gloss	part:indef	110160	110280	|>		110640	part:indef	110680	111040	|>		112000
+head pos: tilt fr/bk	front	110040	113360	end	113400	113640
+head pos: turn	right	110040	113640
+head pos: tilt side	left	110040	113400	end	113440	113640
+head pos: jut	back/right	110040	112320	end	112360	113640
+head mvmt: nod	start	111960	112840	single	112880	113480	end	113520	113640
+body lean	start	112160	112880	forward	112920	113480	end	113520	113640
+eye brows	lowered	110040	110920	start	110960	111120	raised	111160	113640
+eye gaze	to addressee	110040	111080	left	111120	111320	to addressee	111360	113640
+eye aperture	squint	110040	110480	blink	110520	110920	start	110960	110960	squint	111000	113640
+nose	wrinkle	110040	113640
+POS	Particle	110160	110280	Discourse Marker	110360	110600	Particle	110680	111040	Pronoun	111120	111200	Verb	111400	111920	Noun	111960	112080	Preposition	112160	112320	Proper Noun	112400	112840	Pronoun	112920	113240
+Non-dominant POS	Particle	110160	110280	Particle	110680	111040
+English translation	Well, that is what I learned in LA.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	113640
+End frame:	118120
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	FINE	113920	114120	OTHER	114320	114560	THAN	114640	114840	FOOD	114920	115320	IX-1p	115360	115440	CAN	115520	115560	COMPARE	115640	115840	POSS-3p:i	116080	116440	ENVIRONMENT	116560	117640
+non-dominant hand gloss	POSS-3p:i	116080	116440	ENVIRONMENT	116560	117640	|>		118120
+head pos: tilt fr/bk	start	113640	114120	slightly back	114160	114560	start	114600	114960	front	115000	118120
+head pos: turn	slightly right	113640	113760	start	113800	114160	left	114200	114400	start	114440	114920	right	114960	118120
+head pos: tilt side	start	113640	114040	slightly right	114080	114480	start	114520	115160	left	115200	115840	start	115880	117000	left	117040	118120
+head pos: jut	start	113640	113800	slightly forward	113840	117640	end	117680	118120
+eye brows	raised	113640	118120
+eye gaze	to addressee	113640	114120	left	114160	114320	left	114360	118120
+eye aperture	squint	113640	118120
+nose	wrinkle	113640	118120
+POS	Verb	113920	114120	Adjective	114320	114560	Conjunction	114640	114840	Noun	114920	115320	Determiner	115360	115440	Verb	115520	115560	Verb	115640	115840	Pronoun	116080	116440	Noun	116560	117640
+Non-dominant POS	Pronoun	116080	116440	Noun	116560	117640
+English translation	Other than food I could compare, it is the environmental.  
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	118120
+End frame:	123640
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	REALLY	118280	118480	OF-COURSE	118880	119200	fs-BOSTON	119360	120240	IX-loc:i	120320	120440	HAVE	120600	120840	FOUR	120920	121080	DIFFERENT	121160	121440	fs-SEASONS	121600	122800	part:indef	123120	123480
+non-dominant hand gloss	DIFFERENT	121160	121440	|>		122560
+head pos: tilt fr/bk	slightly front	118120	118280	start	118320	120600	front	120640	122800	end	122840	123640
+head pos: turn	slightly right	118120	118200	start	118240	119560	slightly left	119600	120360	start	120400	120920	right	120960	123640
+head pos: tilt side	slightly left	118120	118240	start	118280	118760	right	118800	119160	start	119200	119720	left	119760	120400	start	120440	122840	slightly right	122880	123400	end	123440	123640
+head pos: jut	start	118120	118760	back	118800	120320	start	120360	121280	forward	121320	122840	end	122880	123640
+body lean	start	119360	120320	slightly forward	120360	122840	end	122880	123640
+eye brows	slightly raised	118120	119160	start	119200	119320	raised	119360	120240	start	120280	123400	raised	123440	123640
+eye gaze	to addressee	118120	123640
+eye aperture	squint	118120	118880	start	118920	119200	wide	119240	121080	end	121120	123360
+nose	wrinkle	118120	118440	end	118480	120240
+POS	Discourse Marker	118280	118480	Proper Noun	119360	120240	Pronoun	120320	120440	Adverb	120600	120840	Number	120920	121080	Adjective	121160	121440	Noun	121600	122800	Particle	123120	123480
+Non-dominant POS	Adjective	121160	121440
+English translation	Of course, Boston have four different seasons.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	123640
+End frame:	127348
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	WHILE	123840	124040	ns-LA	124120	124480	MAYBE	124600	124720	HAVE	124800	124960	ONE	125040	125240	#OR	125320	125440	TWO	125520	125760	FINISH	125880	126160	|>		126920	part:indef	127000	127240
+non-dominant hand gloss
+head pos: tilt fr/bk	start	123640	123800	back	123840	124320	start	124360	125760	front	125800	126160	start	126200	127040	slightly front	127080	127280	end	127320	127348
+head pos: turn	right	123640	126240	end	126360	127348
+head pos: tilt side	start	124600	124960	slightly right	125000	126160	end	126200	127348
+head pos: jut	start	125520	126920	slightly forward	126960	127348
+body lean	start	125040	125880	slightly forward	125920	127040	end	127080	127348
+eye brows	raised	123640	124120	start	124160	127120	slightly lowered	127160	127348
+eye gaze	to addressee	123640	127348
+eye aperture	start	123640	124560	squint	124600	127348
+nose	start	125880	127120	wrinkle	127160	127348
+POS	Noun	123840	124040	Proper Noun	124120	124480	Adverb	124600	124720	Adverb	124800	124960	Number	125040	125240	Preposition	125320	125440	Number	125520	125760	Verb	125880	126160	Particle	127000	127240
+English translation	While in LA, they only have one or two seasons.  
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	127348
+End frame:	139320
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	FINE	127480	127960	IX-loc:i	128200	128320	ns-LA	128440	129080	EVERYDAY	129200	129720	UP-TO-NOW	129800	129880	TEND	130080	130360	part:indef	130520	131400	75++	131560	132240	80	132320	133040	DEGREE	133080	133120	EVERYDAY	133200	133640	cl:5"flat"	133920	134760	part:indef	134920	135040	SUN	135880	136440	fs-DRY	136880	137680	part:indef	138080	138520	SIMPLE	138600	139320
+non-dominant hand gloss
+head pos: tilt fr/bk	start	127348	127800	slightly back	127840	127920	start	127960	130440	slightly front	130480	132320	start	132360	133840	front	133880	135520	start	135560	135960	front	136040	139320
+head pos: turn	start	127348	127360	right	127400	127960	start	128000	128360	slightly right	128400	129800	start	129840	130480	slightly right	130520	137440	start	137480	138360	left	138400	139320
+head pos: tilt side	start	127348	130360	right	130400	130920	start	130960	135880	left	135920	136400	start	136440	137000	right	137040	137480	start	137520	138360	right	138400	139320
+head pos: jut	forward	127348	127720	start	127760	129840	back	129880	131600	start	131640	134440	forward	134480	135880	start	135920	138360	slightly back	138400	139320
+head mvmt: side to side	start	129800	130280	slow	130320	132320	end	132360	133120
+body lean	start	129800	130920	slightly forward	130960	137400	end	137440	139320
+eye brows	slightly lowered	127348	127880	start	127920	128240	raised	128280	129560	start	129600	129760	lowered	129800	130360	start	130400	139240	raised	139280	139320
+eye gaze	to addressee	127348	127840	left	127880	128120	to addressee	128160	131120	left	131160	131400	to addressee	131440	134960	left	135000	135360	to addressee	135400	139320
+eye aperture	squint	127348	130280	start	130320	139280	wide	139320	139320
+nose	wrinkle	127348	130280	end	130320	132400
+POS	Verb	127480	127960	Pronoun	128200	128320	Proper Noun	128440	129080	Noun	129200	129720	Verb	130080	130360	Particle	130520	131400	Number	131560	132200	Number	132320	133040	Noun	133080	133120	Noun	133200	133640	Classifier	133920	134760	Particle	134920	135040	Noun	135880	136440	Adjective	136880	137680	Particle	138080	138520	Adjective	138600	139320
+English translation	Theres 75 to 80s degree with sunny and dry weather everyday here in LA since when I moved here.
+Notes - number of character bytes:	37
+-SUN part, Not sure if its CL or not?
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	139320
+End frame:	148240
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	BUT	139480	139560	HERE	139640	140080	REALLY	140160	140320	UNPREDICT	140400	141400	WEATHER	141480	142040	CAN	142280	142760	#BE	142920	143240	RAIN	143400	143880	CAN	143960	144360	#BE	144480	144720	part:indef	144880	145520	HOT	146280	146840	COLD	147040	147600	COOL	147680	148240
+non-dominant hand gloss	CAN	142280	142760	|>		143240	CAN	143960	144360	|>		144680	part:indef	144880	145520	|>		146880
+head pos: tilt fr/bk	front	139320	144280	start	144320	145480	front	145520	148240
+head pos: turn	right	139320	139600	start	139640	140840	left	140880	141280	start	141320	143200	slightly left	143240	143520	start	143560	143880	right	143920	144680	start	144720	145160	left	145200	145480	start	145520	146120	slightly right	146160	146800	start	146840	147240	slightly left	147280	147600	start	147640	147880	slightly right	147920	148240
+head pos: tilt side	slightly left	139320	139680	start	139720	140160	right	140200	140560	start	140600	140920	left	140960	141880	start	141920	142960	left	143000	143800	start	143840	144320	right	144360	144640	start	144680	145160	left	145200	145520	start	145560	146160	right	146200	146600	start	146640	146960	left	147000	147560	start	147600	147920	right	147960	148240
+head pos: jut	back	139320	140280	start	140320	143240	forward	143280	143840	start	143880	144720	back	144760	145480	start	145520	146160	forward	146200	146720	start	146760	147000	forward	147040	148240
+head mvmt: side to side	start	139320	140200	slow	140240	141920	start	141960	143480	slow	143520	148240
+body lean	start	139320	141280	forward	141320	142080	start	142120	143520	forward	143560	144000	start	144040	146600	forward	146640	146800	start	146840	147040	forward	147080	147560	start	147600	147920	forward	147960	148240
+eye brows	raised	139320	139680	end	139720	148240
+eye gaze	to addressee	139320	144640	left	144680	144840	up/left	144880	145440	to addressee	145480	146440	left	146480	146840	to addressee	146880	148240
+eye aperture	wide	139320	139720	end	139760	142040
+POS	Conjunction	139480	139560	Noun	139640	140080	Adverb	140160	140320	Verb	140400	141400	Noun	141480	142040	Verb	142280	142760	Verb	142920	143240	Noun	143400	143880	Verb	143960	144360	Verb	144480	144720	Particle	144880	145520	Adjective	146280	146840	Adjective	147040	147600	Adjective	147680	148240
+Non-dominant POS	Verb	142280	142760	Verb	143960	144360	Particle	144880	145520
+English translation	But here in Boston, it is unpredict weather, it can be raining, hot, cold or cool.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	148240
+End frame:	153920
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	COOL	148240	148600	REALLY	148720	148920	MANY	149040	149560	ONE	150960	151040	THING	151120	151240	IX-1p	151360	151440	NOTICE	151520	152160	SAME	153120	153480	part:indef	153600	153920
+non-dominant hand gloss	COOL	148240	148600	|>		148920	VARY	149200	149560	|>		150960	IX-loc:i	152720	152840	|>		153440
+head pos: tilt fr/bk	front	148240	148360	start	148400	149200	front	149240	149960	start	150000	151200	slightly back	151240	153080	end	153120	153680
+head pos: turn	right	148240	149080	start	149120	149680	left	149720	150000	start	150040	151040	slightly right	151080	151440	start	151480	152360	slightly right	152400	153200	start	153240	153720	slightly left	153760	153920
+head pos: tilt side	slightly right	148240	148360	start	148400	148600	left	148640	150000	start	150040	151760	slightly left	151800	152840	start	152880	153480	left	153520	153920
+head pos: jut	start	150960	151160	back	151200	153920
+body lean	slightly forward	148240	148440	end	148480	148720
+eye brows	start	148240	148760	lowered	148800	150000	start	150040	150960	raised	151000	153920
+eye gaze	to addressee	148240	153920
+eye aperture	start	148240	148800	closed	148840	150160	start	150200	151120	wide	151160	153920
+nose	start	148240	148840	tensed	148880	151000	start	151040	153480	wrinkle	153520	153920
+POS	Adjective	148240	148600	Discourse Marker	148720	148920	Adjective	149040	149560	Number	150960	151040	Noun	151120	151240	Determiner	151360	151440	Verb	151520	152160	Adjective	153120	153480	Particle	153600	153920
+Non-dominant POS	Adjective	148240	148600	Verb	149200	149560	Pronoun	152720	152840
+English translation	There is vary weathers in Boston, but one thing I notice...
+Notes - number of character bytes:	81
+-English sentence was not completed because he didnt really "finish his sentence"
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	153920
+End frame:	158960
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	012
+main gloss	IX-3p:i	154320	154400	FALL	154920	155360	fs-SEASON	155520	156080	SAME	156120	156280	IN	156400	156560	fs-SEPT	156640	157240	|>		157880	HERE	158040	158240	ns-BOSTON	158400	158800
+non-dominant hand gloss
+head pos: tilt fr/bk	start	155520	156160	front	156200	158680	end	158720	158960
+head pos: turn	slightly left	153920	153920	start	153960	154480	right	154520	156760	start	156800	157680	slightly left	157720	157800	start	157840	158720	left	158760	158960
+head pos: tilt side	slightly left	153920	153960	start	154000	154480	slightly right	154520	154960	start	155000	156120	right	156160	156680	end	156720	158960
+head pos: jut	back	153920	157240	end	157280	158960
+eye brows	raised	153920	153960	start	154000	154400	lowered	154440	158040	end	158080	158960
+eye gaze	to addressee	153920	158960
+eye aperture	wide	153920	154120	start	154160	154440	squint	154480	157880	end	157920	158960
+nose	start	153920	154400	wrinkle	154440	158040	end	158080	158960
+POS	Pronoun	154320	154400	Noun	154920	155360	Noun	155520	156080	Adjective	156120	156280	Preposition	156400	156560	Noun	156640	157240	Noun	158040	158240	Proper Noun	158400	158800
+English translation	In fall season, like in September period, here in Boston.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	158960
+End frame:	165880
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	IX-1p	159040	159120	UNKNOWN	159200	159280	NOTICE	159600	160040	LEAVE	160160	160600	CHANGE	160720	160960	COLOR	161120	162200	SOME	162360	162560	START	162640	162760	#TO	162800	162920	FALL++	163200	164160	REALLY	164200	164320	GREEN	164400	164600	GRASS	164680	165000	GREEN	165080	165560	PERFECT	165680	165880
+non-dominant hand gloss	FALL++	163200	164160	|>		164640	IX-loc:i	164800	165120
+head pos: tilt fr/bk	start	158960	160160	front	160200	161120	start	161160	163720	front	163760	165120	end	165160	165880
+head pos: turn	left	158960	160960	start	161000	162840	right	162880	165880
+head pos: tilt side	start	158960	159960	left	160000	160680	start	160720	161200	right	161240	161720	start	161760	163800	slightly left	163840	165880
+head pos: jut	start	158960	160200	forward/left	160240	161000	start	161040	163320	slightly forward	163360	164320	start	164360	164560	slightly back	164600	164840	end	164880	165880
+body lean	start	158960	160240	slightly forward	160280	161680	start	161720	163720	slightly forward	163760	165280	end	165320	165880
+eye brows	start	162360	163160	slightly raised	163200	165080	end	165120	165880
+eye gaze	to addressee	158960	164400	down	164440	164680	to addressee	164720	165880
+eye aperture	start	160160	162320	squint	162360	164360	start	164400	164560	further lowered	164600	164680	start	164720	164840	squint	164880	165880
+POS	Determiner	159040	159120	Verb	159600	160040	Noun	160160	160600	Verb	160720	160960	Noun	161120	162200	Adjective	162360	162560	Verb	162640	162760	Preposition	162800	162920	Verb	163200	164160	Adjective	164200	164320	Adjective	164400	164600	Noun	164680	165000	Adjective	165080	165560	Adjective	165680	165880
+Non-dominant POS	Verb	163200	164160	Pronoun	164800	165120
+English translation	I would notice once when the leaves change color, and some start to fall off and grass is really green.  
+Notes - number of character bytes:	0
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	165880
+End frame:	172480
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	015
+main gloss	PERFECT	165880	166000	BUT	166120	166240	IN	166320	166440	ns-LA	166560	166960	IX-loc:i	167080	167360	FALL	167480	167920	STILL	168120	168200	LOOK	168280	168360	SAME	168440	168520	SUMMER	168600	169320	REALLY	169400	169600	STILL	169960	170080	HOT	170160	170640	STILL	170840	170880	fs-VERY	171040	171160	HOT	171440	171960	part:indef	172120	172480
+non-dominant hand gloss	STILL	169960	170080	|>		170800	STILL	170840	170880	|>		172000
+head pos: tilt fr/bk	start	165880	167160	front	167200	171120	start	171160	172320	front	172360	172480
+head pos: turn	right	165880	171120	end	171160	172480
+head pos: tilt side	slightly left	165880	168280	start	168320	170080	left	170120	171200	start	171240	171240	slightly left	171280	172480
+head pos: jut	start	165880	167120	back	167160	168560	start	168600	172280	slightly back	172320	172480
+head mvmt: shake	start	167480	168520	slight rapid headshake	168560	169520	end	169560	170080
+body lean	start	168600	170360	slightly forward	170400	171200	end	171240	172480
+eye brows	start	165880	166120	raised	166160	167360	start	167400	168000	lowered	168040	172480
+eye gaze	to addressee	165880	171800	left	171840	172120	to addressee	172160	172480
+eye aperture	squint	165880	167240	start	167280	167440	wide	167480	167720	start	167760	168080	squint	168120	172480
+nose	start	167080	168000	wrinkle	168040	172480
+POS	Adjective	165880	166000	Conjunction	166120	166240	Preposition	166320	166440	Proper Noun	166560	166960	Determiner	167080	167360	Noun	167480	167920	Adjective	168120	168200	Verb	168280	168360	Adjective	168440	168520	Noun	168600	169320	Discourse Marker	169400	169600	Adjective	169960	170080	Adjective	170160	170640	Adjective	170840	170880	Adjective	171040	171160	Noun	171440	171960	Particle	172120	172480
+Non-dominant POS	Adjective	169960	170080	Adjective	170840	170880
+English translation	It is perfect, but fall season in LA, it still looks same as summer season.  It is still very hot.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	172480
+End frame:	181720
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	part:indef	172480	172760	GRASS	173040	173320	IX-loc:i	173520	173720	LITTLE-BIT	173840	174120	BROWN	174200	175040	part:indef	175360	175760	OF-COURSE	175800	176080	TOO	176320	176480	MUCH	176600	176800	fs-SUN	176960	177200	SUN	177400	177880	NONE	177960	178120	ENOUGH	178400	178800	RAIN	178880	179000	TO	179120	179200	FEED+	179320	180000	FLOWER	180080	180520	PLANT++	180880	181560
+non-dominant hand gloss	part:indef	172480	172760	|>		175040	FEED+	179320	180000	|>		180520
+head pos: tilt fr/bk	front	172480	173640	start	173680	176360	slightly front	176400	176640	start	176680	177240	front	177280	181720
+head pos: turn	start	172480	173040	left	173080	173400	start	173440	174800	right	174840	181000	start	181040	181600	left	181640	181720
+head pos: tilt side	left	172480	174200	start	174240	176320	right	176360	177200	start	177240	178680	slightly left	178720	180240	start	180280	180600	right	180640	181040	start	181080	181560	left	181600	181720
+head pos: jut	slightly back	172480	173000	start	173040	173680	slightly forward	173720	174000	start	174040	175600	back	175640	178120	start	178160	180600	forward	180640	181040	end	181080	181720
+body lean	start	172480	173160	slightly forward	173200	174080	start	174120	180200	slightly forward	180240	180680	end	180720	181720
+eye brows	lowered	172480	175800	start	175840	177240	raised	177280	177920	end	177960	179000
+eye gaze	to addressee	172480	172760	left	172800	173480	to addressee	173520	181720
+eye aperture	squint	172480	176760	start	176800	177280	wide	177320	178120	start	178160	180480	squint	180520	181720
+nose	wrinkle	172480	175800	start	175840	181600	wrinkle	181640	181720
+POS	Particle	172480	172760	Noun	173040	173320	Determiner	173520	173720	Adjective	173840	174120	Adjective	174200	175040	Particle	175360	175760	Adverb	176320	176480	Adjective	176600	176800	Noun	176960	177200	Noun	177400	177880	Negation	177960	178120	Adjective	178400	178800	Noun	178880	179000	Preposition	179120	179200	Verb	179320	180000	Noun	180080	180520	Noun	180880	181560
+Non-dominant POS	Particle	172480	172760	Verb	179320	180000
+English translation	The grass is a little bit brownish because of too much sun, not enough rain to feed the flowers and plants.
+Notes - number of character bytes:	35
+-SECOND SUN, it should be CL right?
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	181720
+End frame:	192400
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	part:indef	182560	182840	IN	183600	183960	UNKNOWN	184120	184240	OF-COURSE	184400	184720	fs-DEC	184880	185200	HERE	185280	185560	FUTURE	185680	185800	START	185880	186000	SNOW	186080	186760	BECOME	187160	187360	MORE	187480	187640	COLD	187800	188440	LEAVE	188760	189160	FALL++	189360	189920	TREE	190040	190280	EMPTY	190720	190960	cl:3"quotation"	191040	191320	NAKE	191440	191800	TREE	191880	192400
+non-dominant hand gloss
+head pos: tilt fr/bk	front	181720	182120	start	182160	183840	back	183880	184520	start	184560	185680	front	185720	186960	start	187000	187520	front	187560	188040	start	188080	189280	front	189320	192400
+head pos: turn	left	181720	182160	start	182200	183800	slightly right	183840	185200	start	185240	185520	left	185560	186680	start	186720	187400	right	187440	189600	start	189640	190760	left	190800	192400
+head pos: tilt side	slightly left	181720	182040	start	182080	186760	slightly right	186800	187280	end	187320	190280
+head pos: jut	start	181720	182160	forward/left	182200	182320	start	182360	184440	back	184480	185520	start	185560	185760	forward	185800	186200	start	186280	188360	slightly back	188400	189160	start	189200	189560	forward	189600	190880	start	190920	191240	slightly back	191280	191840	end	191880	192400
+head mvmt: nod	start	181720	182080	single	182120	182600	start	182640	185920	single	185960	186920	start	186960	187760	single	187800	188840	start	188880	189320	single	189400	190960	end	191000	191320
+body lean	start	181720	182080	forward	182120	182760	start	182800	185680	forward	185720	186880	start	186920	187600	forward	187640	188600	start	188640	189880	forward	189920	191040	end	191080	191320
+eye brows	start	181720	182800	raised	182840	185240	start	185280	185560	lowered	185600	185640	end	185680	187360
+eye gaze	to addressee	181720	192400
+eye aperture	squint	181720	182600	start	182640	182800	wide	182840	185240	start	185280	185560	squint	185600	192400
+nose	wrinkle	181720	185600	end	185640	186000
+POS	Particle	182560	182840	Preposition	183600	183960	Noun	184880	185200	Pronoun	185280	185560	Tense Marker	185680	185800	Verb	185880	186000	Noun	186080	186760	Verb	187160	187360	Adjective	187480	187640	Adjective	187800	188440	Noun	188760	189160	Noun	189360	189920	Noun	190040	190280	Adjective	190720	190960	Classifier	191040	191320	Adjective	191440	191800	Noun	191880	192400
+English translation	In December, there would have start snowing, colder and trees are naked because of no leaves. 
+Notes - number of character bytes:	40
+- right cl?
+- Whats pos for "OF-COURSE"?
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	192400
+End frame:	199600
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	TREE	192400	192760	part:indef	193040	193160	IX-loc:i	193240	193480	ns-LA	193600	194080	COLD	194520	195120	REALLY	195200	195280	LITTLE-BIT	195400	195880	cl:5"lower"	196000	196840	COOLER	197000	197560	BUT	197680	197880	STILL	197960	198240	HOT	198360	199080	cl:3"quotation"	199280	199600
+non-dominant hand gloss	COLD	194520	195120	|>		196920	STILL	197960	198240	|>		199160
+head pos: tilt fr/bk	slightly front	192400	192440	start	192480	195440	back	195480	197400	start	197440	198440	front	198480	198760	end	198800	199600
+head pos: turn	left	192400	192520	start	192560	193440	right	193480	193720	start	193760	194520	slightly left	194560	196000	start	196040	197880	right	197920	199600
+head pos: tilt side	start	192400	193680	left	193720	196960	start	197000	198800	slightly left	198840	199600
+head pos: jut	slightly back	192400	193080	start	193120	193360	forward/right	193400	193720	start	193760	194440	slightly back	194480	194840	start	194880	195360	back	195400	197960	start	198000	199280	forward/right	199320	199600
+body lean	start	195200	196400	forward	196440	197400	start	197440	198600	forward	198640	199440	end	199480	199600
+eye brows	start	192400	193200	raised	193240	194560	start	194600	194960	lowered	195000	195120	start	195160	197720	lowered	197760	198360	end	198400	199600
+eye gaze	to addressee	192400	199600
+eye aperture	squint	192400	193080	start	193120	193360	wide	193400	194800	start	194840	194880	squint	194920	195040	closed	195080	199600
+nose	start	192400	194480	tensed	194520	197640	start	197680	197840	wrinkle	197880	199600
+POS	Noun	192400	192760	Particle	193040	193160	Pronoun	193240	193480	Proper Noun	193600	194080	Noun	194520	195120	Discourse Marker	195200	195280	Adjective	195400	195880	Classifier	196000	196840	Adjective	197000	197560	Conjunction	197680	197880	Adjective	197960	198240	Adjective	198360	199080	Classifier	199280	199600
+Non-dominant POS	Noun	194520	195120	Adjective	197960	198240
+English translation	In LA, it would get cooler a little bit,  but at same time it is still hot.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	199600
+End frame:	208000
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	#TO	200120	200280	MOST	200440	200600	#OF	200680	200720	IX-3p-arc	200800	200960	IN	201040	201120	ns-BOSTON	201240	201440	ns-BOSTONIAN	201640	202280	IX-3p-arc	202440	202560	STILL	202640	202720	HOT	202880	203120	IN	203200	203360	ns-LA	203480	204040	part:indef	204560	205400	STILL	205480	205680	70	206160	206320	75	206840	207000	EVERYDAY	207200	208000
+non-dominant hand gloss	MOST	200440	200600	|>		200920	ns-BOSTONIAN	201640	202280	|>		202560	STILL	205480	205680	|>		206920
+head pos: tilt fr/bk	front	199600	203760	start	203800	204440	back	204480	205240	start	205280	205440	front	205480	208000
+head pos: turn	right	199600	202000	start	202040	203000	left	203040	203680	start	203720	204440	right	204480	205040	start	205080	205560	slightly left	205600	206040	start	206080	207080	slightly left	207120	208000
+head pos: tilt side	left	199600	201280	start	201320	201680	slightly right	201720	202080	start	202120	205320	slightly left	205360	208000
+head pos: jut	start	199600	200360	back/right	200400	202160	start	202200	203400	forward/left	203440	203760	start	203800	205040	back/right	205080	205200	start	205240	205240	back	205280	207440	end	207480	208000
+body lean	start	202440	203280	forward	203320	203920	start	203960	207120	forward	207160	208000
+eye brows	start	201040	201480	lowered	201520	202400	start	202440	206840	slightly lowered	206880	207280	end	207320	208000
+eye gaze	to addressee	199600	204760	up/right	204800	205240	to addressee	205280	205280	left	205320	205800	to addressee	205840	208000
+eye aperture	closed	199600	200160	start	200200	200200	squint	200240	204560	start	204600	206880	squint	206920	208000
+nose	wrinkle	199600	200240	start	200280	201600	wrinkle	201640	202440	start	202480	206760	wrinkle	206800	207280	end	207320	208000
+POS	Preposition	200120	200280	Adjective	200440	200600	Preposition	200680	200720	Pronoun	200800	200960	Preposition	201040	201120	Proper Noun	201240	201440	Proper Noun	201640	202280	Pronoun	202440	202560	Adjective	202640	202720	Adjective	202880	203120	Preposition	203200	203360	Proper Noun	203480	204040	Particle	204560	205400	Adjective	205480	205680	Number	206160	206360	Number	206840	207000	Noun	207200	208000
+Non-dominant POS	Adjective	200440	200600	Proper Noun	201640	202280	Adjective	205480	205680
+English translation	Most bostonian who are in LA still feel like hot, its 70 to 75 degrees.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	208000
+End frame:	214480
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	SUN	208400	208760	STILL	208880	208920	BUT	208960	209120	NIGHT	209240	210040	part:indef	210280	211000	LITTLE-BIT	211080	211280	MORE	211360	211480	COOLER	211560	212280	UNKNOWN	212440	212680	part:indef	213520	214040
+non-dominant hand gloss
+head pos: tilt fr/bk	front	208000	208560	start	208600	209160	slightly back	209200	211560	start	211600	212080	front	212120	212440	start	212480	212680	back	212720	213360	end	213400	214480
+head pos: turn	slightly left	208000	208240	start	208280	208880	right	208920	213240	start	213280	213920	left	213960	214480
+head pos: tilt side	slightly left	208000	208040	start	208080	210480	left	210520	213400	end	213440	214480
+head pos: jut	start	208000	210240	forward/right	210280	213360	end	213400	214480
+head mvmt: nod	start	208880	209160	slight rapid headnod	209200	210240	start	210280	211680	single	211720	212560	end	212600	213520
+body lean	forward	208000	208080	start	208120	212280	slightly forward	212320	212600	end	212640	214480
+eye brows	start	208000	208960	raised	209000	210000	start	210040	210280	lowered	210320	212680	start	212720	213520	raised	213560	214480
+eye gaze	to addressee	208000	213760	left	213800	214480
+eye aperture	squint	208000	208880	start	208920	209040	wide	209080	210040	start	210080	210360	squint	210400	214480
+nose	start	208960	210240	tensed	210280	210840	end	210880	211480
+POS	Noun	208400	208760	Adjective	208880	208920	Conjunction	208960	209120	Noun	209240	210040	Particle	210280	211000	Adjective	211080	211280	Adjective	211360	211480	Adjective	211560	212280	Particle	213520	214040
+English translation	The sun was still there, but during night time, its a little cooler.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	214480
+End frame:	221400
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	SPRING++	215040	216320	IX-1p	216520	216720	ADMIT	216800	217120	ONE	217240	217320	NEGATIVE	217400	217720	ABOUT	217800	217920	IX-loc:i	218000	218160	fs-BOSTON	218320	218960	SPRING++	219040	219600	REALLY	219680	219840	ALOT	219960	220120	RAIN	220280	221400
+non-dominant hand gloss
+head pos: tilt fr/bk	start	214480	216400	back	216440	217840	start	217880	219160	front	219200	220240	end	220280	221400
+head pos: turn	left	214480	214840	start	214880	215280	slightly right	215320	215640	start	215680	216440	slightly left	216480	219400	start	219440	219960	right	220000	221400
+head pos: tilt side	start	214480	216360	right	216400	217640	start	217680	219760	left	219800	220560	end	220600	221400
+head pos: jut	start	214480	214840	forward	214880	217240	start	217280	217680	back	217720	219440	start	219480	220320	forward/right	220360	221400
+head mvmt: nod	start	214480	216240	slight rapid headnod	216280	216760	end	216800	217320
+eye brows	raised	214480	215640	start	215680	216480	slightly lowered	216520	217240	start	217280	217400	lowered	217440	221400
+eye gaze	down/left	214480	214800	to addressee	214840	221400
+eye aperture	start	214480	214880	wide	214920	216240	start	216280	216520	closed	216560	216720	start	216760	217120	lowered lid	217160	217200	start	217240	217400	squint	217440	221400
+nose	start	214480	216480	tensed	216520	217640	start	217680	219840	wrinkle	219880	221400
+POS	Noun	215040	216320	Determiner	216520	216720	Verb	216800	217120	Number	217240	217320	Adjective	217400	217720	Adverb	217800	217920	Pronoun	218000	218160	Proper Noun	218320	218960	Noun	219040	219600	Discourse Marker	219680	219840	Adjective	219960	220120	Noun	220280	221400
+English translation	I have to admit that during spring time in Boston, there is a lot of raining.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	221400
+End frame:	225840
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	015
+main gloss	WHILE	221680	221960	ns-LA	222040	222640	BETTER	223600	223960	PERFECT	224120	224560	NONE	224680	224800	RAIN	224920	225840
+non-dominant hand gloss	WHILE	221680	221960	|>		222240	IX-loc:i	222440	222480	|>		224520
+head pos: tilt fr/bk	start	221400	222720	slightly back	222760	224120	start	224160	224720	front	224760	225080	start	225120	225600	slightly back	225640	225840
+head pos: turn	right	221400	225840
+head pos: tilt side	start	221400	221960	right	222000	222640	start	222680	223440	left	223480	225160	start	225200	225600	right	225640	225840
+head pos: jut	start	221400	222080	slightly back	222120	222480	start	222520	222720	forward	222760	223480	end	223520	224560
+head mvmt: nod	start	221400	222720	rapid	222760	223600	end	223640	224560
+body lean	start	222600	223520	slightly back	223560	224200	end	224240	224800
+eye brows	lowered	221400	221560	start	221600	222880	slightly raised	222920	223960	end	224000	224800
+eye gaze	to addressee	221400	221600	right	221640	221800	to addressee	221840	225840
+eye aperture	squint	221400	221640	end	221680	222040
+nose	wrinkle	221400	221560	start	221600	222720	tensed	222760	224120	end	224160	224800
+POS	Noun	221680	221960	Proper Noun	222040	222640	Adjective	223600	223960	Adjective	224120	224560	Negation	224680	224800	Noun	224920	225840
+Non-dominant POS	Noun	221680	221960	Pronoun	222440	222480
+English translation	While in LA, its better and perfect because of no rain.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	225840
+End frame:	231113
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	011
+main gloss	REALLY	225960	226160	ONCE-A-WHILE	226200	226880	BUT	226960	227200	FUN	227320	227480	THING	227560	227680	ABOUT	227760	227880	ns-LA	228000	228520	WHEN	228640	228800	RAIN	229120	229440	IN	229520	229720	ns-LA	229800	230240
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	225840	226680	start	226720	230080	front	230120	231113
+head pos: turn	slightly right	225840	226160	start	226200	227080	left	227120	227440	start	227480	228360	right	228400	230360	start	230400	230880	left	230920	231113
+head pos: tilt side	right	225840	226800	start	226840	230800	left	230840	231113
+head pos: jut	start	225840	226440	back	226480	227680	start	227720	230880	back/left	230920	231113
+eye brows	start	225840	226760	raised	226800	230240	end	230280	231113
+eye gaze	to addressee	225840	230560	left	230600	231113
+eye aperture	start	225840	225840	blink	225880	226120	start	226160	226320	lowered lid	226360	226600	start	226640	226840	wide	226880	231113
+POS	Discourse Marker	225960	226160	Conjunction	226960	227200	Adjective	227320	227480	Noun	227560	227680	Adverb	227760	227880	Proper Noun	228000	228520	Wh-word	228640	228800	Noun	229120	229440	Preposition	229520	229720	Proper Noun	229800	230240
+English translation	Well, there is rain once a while but funny thing, when there is rain in LA.
+Notes - number of character bytes:	25
+- pos for "once a while"?
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	231113
+End frame:	239960
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	012
+main gloss	REALLY	231640	231760	IX-3p:i	231840	231880	AFTER	231960	232360	EXTEND	232520	233320	IX-loc:i	233400	233600	FUTURE	233680	234040	USE	234200	234880	COAT	235000	235200	RAIN	235280	235520	COAT	235640	236240	USE	236440	236600	UMBRELLA	236680	237400	|>		238080	BOOT	238280	239000	PANT	239240	239960
+non-dominant hand gloss	EXTEND	232520	233320	|>		233920
+head pos: tilt fr/bk	front	231113	233320	start	233360	234040	front	234080	237360	start	237400	237760	slightly back	237800	238160	start	238200	238360	front	238400	239960
+head pos: turn	left	231113	231480	start	231520	232120	right	232160	233880	start	233920	235520	slightly right	235560	236320	start	236360	237040	slightly left	237080	237760	start	237800	239200	slightly left	239240	239960
+head pos: tilt side	left	231113	231520	start	231560	231960	right	232000	232760	start	232800	233880	left	233920	235120	start	235160	235920	right	235960	236400	start	236440	236920	left	236960	237800	start	237840	238400	right	238440	238840	start	238880	239200	left	239240	239960
+head pos: jut	back/left	231113	231160	start	231200	231880	back/right	231920	232440	start	232480	235920	forward	235960	236320	start	236360	237400	forward	237440	237600	start	237640	238440	forward	238480	238880	end	238920	239960
+body lean	start	231113	232880	slightly forward	232920	233440	start	233480	235800	forward	235840	236440	start	236480	237120	forward	237160	237680	start	237720	238480	slightly forward	238520	239960
+eye gaze	up/left	231113	231320	to addressee	231360	239960
+eye aperture	wide	231113	231920	start	231960	233680	blink	233720	234000	start	234040	234320	slightly lowered	234360	235200	end	235240	236240
+POS	Discourse Marker	231640	231760	Pronoun	231840	231880	Preposition	231960	232360	Verb	232520	233320	Pronoun	233400	233600	Tense Marker	233680	234040	Verb	234200	234880	Noun	235000	235200	Noun	235280	235520	Noun	235640	236240	Verb	236440	236600	Noun	236680	237400	Noun	238280	239000	Noun	239240	239960
+Non-dominant POS	Verb	232520	233320
+English translation	People would use umbrella and wear rain coat, boots and pants on.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	239960
+End frame:	243120
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	PANT	239960	240000	REALLY	240080	240160	IF	240280	240520	LITTLE-BIT	240640	240800	DROP++	240880	241680	IX-1p	241720	241840	REMEMBER	241920	242320	ONE	242440	242480	fs-DAY	242520	242920
+non-dominant hand gloss	PANT	239960	240000	|>		240640	REMEMBER	241920	242320	|>		243120
+head pos: tilt fr/bk	front	239960	240160	start	240200	241680	slightly front	241720	242760	end	242800	243120
+head pos: turn	slightly left	239960	240120	start	240160	241560	right	241600	242760	end	242800	243120
+head pos: tilt side	left	239960	240160	start	240200	241560	left	241600	242760	end	242800	243120
+head pos: jut	start	239960	241920	back/right	241960	242240	end	242280	243120
+head mvmt: nod	start	241720	241880	single	241920	242320	end	242360	242920
+eye brows	start	239960	240160	raised	240200	241400	start	241440	241640	lowered	241680	243120
+eye gaze	to addressee	239960	243120
+eye aperture	start	239960	240160	squint	240200	243120
+nose	start	239960	240720	tensed	240760	241760	end	241800	242480
+POS	Noun	239960	240000	Discourse Marker	240080	240160	Preposition	240280	240520	Adjective	240640	240800	Verb	240880	241680	Pronoun	241720	241840	Verb	241920	242320	Number	242440	242480	Noun	242520	242920
+Non-dominant POS	Noun	239960	240000	Verb	241920	242320
+English translation	Even if there is a little of rain, like a drop.  I remember one day, 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	243120
+End frame:	250240
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	IX-1p	243120	243280	GO	243400	243760	CLASS	243880	244400	ON	244520	244640	POSS-1p	244760	244880	SWIM++	245000	246160	IX-1p	246200	246320	SHORT	246600	246960	TANK	247320	248360	KNOW	248480	248600	BASKETBALL	248720	248920	TANK	249080	249440	SAME	249920	250240
+non-dominant hand gloss
+head pos: tilt fr/bk	start	243120	246360	front	246400	246920	start	246960	247560	front	247600	248160	start	248200	249280	front	249320	249920	end	249960	250240
+head pos: turn	start	243120	243680	left	243720	248200	start	248240	248680	right	248720	250240
+head pos: tilt side	start	243120	243760	slightly right	243800	246920	start	246960	247680	left	247720	250240
+head pos: jut	start	243120	246320	slightly forward	246360	249400	end	249440	250240
+head mvmt: side to side	start	243120	246320	slow	246360	248480	end	248520	248920
+eye brows	slightly lowered	243120	243840	start	243880	244440	lowered	244480	248360	start	248400	248520	slightly lowered	248560	248840	start	248880	248920	lowered	248960	250240
+eye gaze	to addressee	243120	250240
+eye aperture	squint	243120	249400	closed	249440	250240
+nose	start	243120	244200	wrinkle	244240	250240
+POS	Pronoun	243120	243280	Verb	243400	243760	Noun	243880	244400	Preposition	244520	244640	Pronoun	244760	244880	Verb	245000	246160	Pronoun	246200	246320	Noun	246600	246960	Noun	247320	248360	Verb	248480	248600	Noun	248720	248920	Noun	249080	249440	Adjective	249920	250240
+English translation	I went to the class, I swam with short and tank top on, you know, basketball tank top, its same idea.
+Notes - number of character bytes:	22
+-TANK, could it be cl?
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	250240
+End frame:	253520
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	IX-1p	250400	250600	part:indef	250760	250840	IN	250920	251120	RAIN	251280	251640	LITTLE-BIT	251760	251960	RAIN	252080	252400	IX-1p	252480	252640	SWIM	252840	253520
+non-dominant hand gloss	RAIN	251280	251640	|>		252040	RAIN	252080	252400	|>		252560
+head pos: tilt fr/bk	start	250240	250560	front	250600	253520
+head pos: turn	right	250240	252680	start	252720	253360	slightly left	253400	253520
+head pos: tilt side	slightly left	250240	250840	start	250880	251680	left	251720	252640	start	252680	252880	slightly right	252920	253240	end	253280	253520
+head pos: jut	start	250240	250680	back/right	250720	252400	end	252440	253520
+body lean	start	250240	250720	slightly back	250760	252560	end	252600	253520
+eye brows	lowered	250240	253520
+eye gaze	to addressee	250680	252720	left	252760	253280	to addressee	253360	253520
+eye aperture	closed	250240	250520	squint	250560	253120	blink	253160	253360	closed	253400	253520
+nose	wrinkle	250240	253520
+POS	Pronoun	250400	250600	Particle	250760	250840	Preposition	250920	251120	Noun	251280	251640	Adjective	251760	251960	Noun	252080	252400	Determiner	252480	252640	Verb	252840	253520
+Non-dominant POS	Noun	251280	251640	Noun	252080	252400
+English translation	When there is a little of rain and I was swimming..
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	253520
+End frame:	259840
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	SWIM	253520	253720	IX-1p	253840	253960	LOOK	254080	254320	MANY	254480	254520	PEOPLE	254560	254760	cl:4"look at me"	254880	255440	#AT	255560	255800	IX-1p	255920	256040	SAME	256160	256280	IX-1p	256360	256440	REALLY	256520	256840	COMPLETE	256920	257280	IDIOT	257400	257880	BUT	258000	258280	REALLY	258480	258600	IX-1p	258840	259000	part:indef	259320	259840
+non-dominant hand gloss	SWIM	253520	253720	|>		254360
+head pos: tilt fr/bk	slightly front	253520	254000	start	254040	255320	slightly back	255360	255680	start	255720	256160	front	256200	259440	end	259480	259840
+head pos: turn	left	253520	254200	start	254240	255040	right	255080	258640	end	258680	259840
+head pos: tilt side	start	253520	253840	slightly left	253880	254080	start	254120	255200	right	255240	255560	start	255600	256400	left	256440	259840
+body lean	start	253520	253720	slightly forward	253760	254000	start	254040	255080	back	255120	255920	start	255960	257480	slightly forward	257520	258560	end	258600	259840
+eye brows	slightly lowered	253520	253640	end	253680	253960
+eye gaze	left	253640	254120	to addressee	254160	258800	left	258840	259760	to addressee	259800	259840
+eye aperture	closed	253520	253600	start	253640	253800	blink	253840	253920	end	253960	254520
+nose	wrinkle	253520	254080	end	254120	254440
+POS	Verb	253520	253720	Pronoun	253840	253960	Verb	254080	254320	Adjective	254480	254520	Noun	254560	254760	Classifier	254880	255440	Preposition	255560	255800	Pronoun	255920	256040	Adjective	256160	256280	Pronoun	256360	256440	Adverb	256520	256840	Adjective	256920	257280	Verb	257400	257880	Conjunction	258000	258280	Discourse Marker	258480	258600	Pronoun	258840	259000	Particle	259320	259840
+Non-dominant POS	Verb	253520	253720
+English translation	I noticed many people were looking at me like I am completely idiot to swim while its raining.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	41
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	259840
+End frame:	264680
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	IX-1p	260000	260080	THINK	260160	260240	WEATHER	260320	260640	NICE	260720	260960	LITTLE-BIT	261040	261280	RAIN	261560	261880	REALLY	261960	262120	NOTHING	262160	262720	IX-3p	262840	263080	WEAR	263200	263400	LONG-SLEEVE	263520	264480
+non-dominant hand gloss	NICE	260720	260960	|>		261280	RAIN	261560	261880	|>		262080	NOTHING	262160	262720	|>		263120
+head pos: tilt fr/bk	start	259840	260120	front	260160	262120	start	262160	262880	front	262920	263880	end	263920	264680
+head pos: turn	start	259840	260200	left	260240	262840	start	262880	263680	slightly right	263720	264680
+head pos: tilt side	slightly left	259840	260720	start	260760	263320	left	263360	264200	end	264240	264680
+head pos: jut	back	259840	260080	start	260120	260640	back/left	260680	261160	start	261200	261360	forward/left	261400	262320	start	262360	263600	forward/right	263640	264160	end	264200	264680
+body lean	start	261040	261760	slightly forward	261800	262320	start	262360	263520	slightly forward	263560	264200	end	264240	264680
+eye brows	start	261040	261720	lowered	261760	262920	start	262960	263600	slightly raised	263640	263920	end	263960	264680
+eye gaze	to addressee	259840	264680
+eye aperture	start	261040	261760	squint	261800	264600	closed	264640	264680
+nose	start	261040	261800	wrinkle	261840	264680
+POS	Pronoun	260000	260080	Verb	260160	260240	Noun	260320	260640	Adjective	260720	260960	Adjective	261040	261280	Noun	261560	261880	Discourse Marker	261960	262120	Negation	262160	262720	Pronoun	262840	263080	Verb	263200	263400	Noun	263520	264480
+Non-dominant POS	Adjective	260720	260960	Noun	261560	261880	Negation	262160	262720
+English translation	I thought the weather was nice, a little rain but its nothing.  People wore long sleeves.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	42
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	264680
+End frame:	270920
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	IX-1p	264800	265000	part:indef	265120	265240	THAT	265360	265680	ONE	265800	266120	"wow"	266280	267040	NEGATIVE	267160	267360	BUT	267440	267640	ns-LA	267720	268000	IX-loc:i	268120	268200	NONE	268280	268680	fs-SEWER	268840	269720	|>		270000	SYSTEM	270120	270920
+non-dominant hand gloss	BUT	267440	267640	|>		268200	NONE	268280	268680	|>		269720
+head pos: tilt fr/bk	start	264680	265160	front	265200	265560	start	265600	266000	back	266040	266480	start	266520	266800	front	266840	268480	start	268520	270000	front	270040	270920
+head pos: turn	slightly right	264680	264680	start	264720	265520	left	265560	266520	start	266560	267320	right	267360	270920
+head pos: tilt side	start	264680	265040	right	265080	265600	start	265640	266040	left	266080	266440	end	266480	268200
+head pos: jut	start	264680	265720	back	265760	270040	end	270080	270920
+body lean	start	264680	265080	slightly forward	265120	265600	start	265640	266120	back	266160	266760	end	266800	267360
+eye brows	start	264680	264880	raised	264920	265600	start	265640	270320	slightly lowered	270360	270920
+eye gaze	left	265040	265240	to addressee	265280	265840	up/left	265880	266280	up	266320	266600	to addressee	266640	270920
+eye aperture	closed	264680	265000	start	265040	265200	blink	265240	265560	start	265600	270200	squint	270240	270920
+nose	wrinkle	264680	264840	start	264880	268240	tensed	268280	269720	end	269760	270920
+POS	Pronoun	264800	265000	Particle	265120	265240	Pronoun	265360	265680	Number	265800	266120	Verb	266280	267040	Adjective	267160	267360	Conjunction	267440	267640	Proper Noun	267720	268000	Determiner	268120	268200	Negation	268280	268680	Noun	268840	269720	Noun	270120	270920
+Non-dominant POS	Conjunction	267440	267640	Negation	268280	268680
+English translation	That time I was like wow, its negative thing about LA.  In LA, they didn't have any sewer systems.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	43
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	270920
+End frame:	278800
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	#ALL	271800	271960	WATER	272080	272400	FUTURE	272520	272640	FLOOD	272840	273440	CAN	273480	273840	IF	273920	274120	TRUE-BITS	274280	274960	IX-1p-arc	275200	275480	RAIN	275600	275960	TOTAL	276080	276560	HERE	276680	276760	cl:1"all the year"	277000	277360	BRING	277640	277880	GIFT	278040	278360	TO	278400	278520	ns-LA	278600	278800
+non-dominant hand gloss	CAN	273480	273840	|>		274320	TO	278400	278520	|>		278800
+head pos: tilt fr/bk	front	270920	271360	start	271400	272120	back	272160	272480	start	272520	272920	front	272960	274840	end	274880	275960
+head pos: turn	right	270920	273680	start	273720	274080	left	274120	274960	start	275000	275400	slightly right	275440	275880	start	275920	276200	left	276240	277840	start	277880	278400	slightly right	278440	278800
+head pos: tilt side	start	270920	271880	left	271920	272640	start	272680	273480	right	273520	273840	start	273880	274120	left	274160	274920	start	274960	276120	slightly left	276160	277800	end	277840	278800
+head pos: jut	start	270920	273480	back/right	273520	273880	start	273920	274080	back/left	274120	274160	start	274200	274920	forward	274960	275000	start	275040	275280	slightly back	275320	277720	end	277760	278800
+eye brows	slightly lowered	270920	271400	start	271440	273120	raised	273160	278800
+eye gaze	to addressee	270920	278800
+eye aperture	squint	270920	273160	start	273200	273480	wide	273520	278800
+nose	start	278040	278720	wrinkle	278800	278800
+POS	Pronoun	271800	271960	Noun	272080	272400	Tense Marker	272520	272640	Noun	272840	273440	Verb	273480	273840	Conjunction	273920	274120	Pronoun	275200	275480	Noun	275600	275960	Noun	276080	276560	Pronoun	276680	276760	Classifier	277000	277360	Verb	277640	277880	Verb	278040	278360	Preposition	278400	278520	Proper Noun	278600	278800
+Non-dominant POS	Verb	273480	273840	Preposition	278400	278520
+English translation	If the total of Boston's rain all the year brings to LA area, they would get flood.
+Notes - number of character bytes:	78
+- POS for True-bits? Or even is it correct gloss? I know its ASL term but....?
+
+
+Utterance ID:	44
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	278800
+End frame:	281520
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	ns-LA	278800	278960	ns-LA	279040	279280	FINISH	279440	279600	FUTURE	279680	279800	FLOOD	279880	280360	FOR	280480	280640	SURE	280720	281400
+non-dominant hand gloss	FLOOD	279880	280360	|>		281520
+head pos: tilt fr/bk	start	278800	279040	front	279080	281520
+head pos: turn	slightly right	278800	278960	start	279000	279000	right	279040	281520
+head pos: tilt side	start	278800	279040	right	279080	281520
+head mvmt: shake	start	279600	279840	slight rapid headshake	279880	280400	end	280440	280720
+body lean	start	278800	279760	slightly forward	279800	281520
+eye brows	raised	278800	278800	start	278840	278920	lowered	278960	281520
+eye gaze	to addressee	278800	281520
+eye aperture	wide	278800	278800	start	278840	278880	squint	278920	281520
+nose	start	278800	278920	wrinkle	278960	281520
+POS	Proper Noun	278800	278960	Proper Noun	279040	279280	Aspect Marker	279440	279600	Tense Marker	279680	279800	Noun	279880	280360	Preposition	280480	280640	Adjective	280720	281400
+Non-dominant POS	Noun	279880	280360
+English translation	In LA, they would get flood out crazy for sure.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	45
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	281520
+End frame:	285880
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	012
+main gloss	WHY	281600	281640	IX-1p-arc	281720	281960	HAVE	282040	282280	BETTER	282360	282800	fs-SEWER	282880	283680	SYSTEM	283800	284400	WATER	284520	284720	CAN	284800	284880	THROUGH	284960	285880
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	281520	281880	start	281920	284400	front	284440	285880
+head pos: turn	right	281520	282880	end	282920	284400
+head pos: tilt side	slightly right	281520	281560	start	281600	281880	left	281920	282360	start	282400	284840	right	284880	285880
+head pos: jut	start	281520	281880	back/right	281920	282200	start	282240	285000	forward	285040	285880
+body lean	slightly forward	281520	282160	start	282200	284440	slightly forward	284480	285880
+eye brows	start	281520	281600	raised	281640	281800	start	281840	282320	lowered	282360	284920	start	284960	285840	slightly raised	285880	285880
+eye gaze	to addressee	281520	285880
+eye aperture	squint	281520	281520	start	281560	281680	wide	281720	281800	end	281840	282800
+POS	Wh-word	281600	281640	Pronoun	281720	281960	Adverb	282040	282280	Adjective	282360	282800	Noun	282880	283680	Noun	283800	284400	Noun	284520	284720	Verb	284800	284880	Preposition	284960	285880
+English translation	Why? Because we have better sewer system where water can get through.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	46
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	285880
+End frame:	290160
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	IX-3p-arc	286120	286320	CAN	286400	286520	RAIN	286600	286880	EVERYDAY	287000	287280	AND	287400	287520	STILL	287600	288280	LIVE	288360	288600	THROUGH	288760	288920	#IT	288960	289120	FINE	289240	289600
+non-dominant hand gloss	STILL	287360	287400	|>		288280	part:indef	289600	289920	|>		290160
+head pos: tilt fr/bk	front	285880	286400	start	286440	289760	front	289800	290160
+head pos: turn	start	285880	286200	left	286240	287000	start	287040	287520	right	287560	287920	start	287960	288280	left	288320	289240	start	289280	290080	right	290120	290160
+head pos: tilt side	slightly right	285880	285880	start	285920	286240	left	286280	287200	start	287240	287600	right	287640	287880	start	287920	288320	left	288360	289280	start	289320	290040	right	290080	290160
+head pos: jut	slightly forward	285880	286280	start	286320	287640	back/right	287680	287960	start	288000	288360	back/left	288400	289160	end	289200	290160
+body lean	forward	285880	286200	end	286240	286520
+eye brows	slightly raised	285880	285880	start	285920	286120	raised	286160	290160
+eye gaze	to addressee	285880	290120
+eye aperture	squint	285880	290080	closed	290120	290160
+nose	start	285880	286160	wrinkle	286200	290160
+POS	Pronoun	286120	286320	Verb	286400	286520	Noun	286600	286880	Noun	287000	287280	Conjunction	287400	287520	Adjective	287600	288280	Verb	288360	288600	Preposition	288760	288920	Noun	288960	289120	Verb	289240	289600
+Non-dominant POS	Adjective	287360	287400	Particle	289600	289920
+English translation	We will survive through rain so it can rain everyday.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	47
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	290160
+End frame:	296320
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	BUT	290360	290520	UNKNOWN	290560	290720	OF-COURSE	290840	291160	NOT	291200	291320	RAIN	291440	291640	EVERYDAY	291720	292080	IN	292160	292360	ns-BOSTON	292520	292800	UNKNOWN	292880	293200	STILL	293280	293400	HAVE	293520	293600	WONDERFUL	293720	293800	WEATHER	293920	294240	HERE	294400	294680	IN	294840	294960	fs-BOSTON	295080	296320
+non-dominant hand gloss	RAIN	291440	291640	|>		292120	STILL	293280	293400	|>		293560
+head pos: tilt fr/bk	slightly front	290160	290160	start	290200	290800	front	290840	295880	end	295920	296320
+head pos: turn	right	290160	290200	start	290240	290480	left	290520	291160	start	291200	291600	right	291640	293280	start	293320	293600	left	293640	294360	start	294400	295000	right	295040	295920	end	295960	296320
+head pos: tilt side	right	290160	290160	start	290200	290360	left	290400	291080	start	291120	291840	right	291880	293280	start	293320	293480	left	293520	294360	start	294400	295000	right	295040	295320	start	295360	296200	left	296240	296320
+head mvmt: shake	start	290840	292440	slight rapid headshake	292480	292920	end	292960	293400
+head pos: jut	start	290160	290400	back/left	290440	290840	start	290880	292480	back/right	292520	293200	start	293240	293520	slightly back	293560	295920	end	295960	296320
+body lean	start	290160	291000	slightly forward	291040	292440	start	292480	293040	forward	293080	294960	end	295000	296320
+eye brows	raised	290160	290400	end	290440	290720
+eye gaze	to addressee	290320	296320
+eye aperture	closed	290160	290280	end	290320	290520
+POS	Conjunction	290360	290520	Negation	291200	291320	Noun	291440	291640	Noun	291720	292080	Preposition	292160	292360	Proper Noun	292520	292800	Adjective	293280	293400	Adverb	293520	293600	Adjective	293720	293800	Noun	293920	294240	Noun	294400	294680	Preposition	294840	294960	Proper Noun	295080	296320
+Non-dominant POS	Noun	291440	291640	Adjective	293280	293400
+English translation	But of course, we didnt get rain everyday in Boston.  We do have wonderful weathers here.
+Notes - number of character bytes:	21
+- POS for "of course"
+
+
+Utterance ID:	48
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	296320
+End frame:	303240
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	NEXT	297000	297360	SAME	297480	297640	part:indef	297760	298160	START	298320	298560	SUMMER	298720	299800	|>		300280	part:indef	300400	300760	POSS-1p	300800	301000	fs-VERY	301080	301400	fs-HUMID	301480	302320	HERE	302440	303240
+non-dominant hand gloss
+head pos: tilt fr/bk	start	296320	296760	back	296800	298560	start	298600	302520	front	302560	303240
+head pos: turn	slightly left	296320	296440	start	296480	296800	right	296840	298120	start	298160	298680	slightly left	298720	300400	start	300440	301200	slightly right	301240	301440	start	301480	302360	left	302400	303240
+head pos: tilt side	left	296320	297040	start	297080	299320	right	299360	299680	start	299720	300120	left	300160	300720	start	300760	302400	left	302440	303240
+head pos: jut	start	296320	297080	forward/right	297120	298160	start	298200	299240	back	299280	299800	start	299840	301160	back	301200	302000	start	302040	302560	slightly forward	302600	303240
+head mvmt: nod	start	296320	296320	single	296360	296800	start	296840	300240	slight rapid headnod	300280	300960	end	301000	301400
+body lean	start	296320	300440	slightly forward	300480	303240
+eye brows	start	296320	296720	slightly lowered	296760	297360	start	297400	298560	raised	298600	299680	start	299720	300120	lowered	300160	303240
+eye gaze	to addressee	296320	296480	up/right	296520	296920	to addressee	296960	303240
+eye aperture	start	296320	296720	squint	296760	300320	closed	300360	301080	start	301120	301200	squint	301240	301440	end	301480	302320
+nose	start	296320	296720	wrinkle	296760	297400	start	297440	300240	wrinkle	300280	301400	start	301440	301800	tensed	301840	302320	end	302360	303240
+POS	Adverb	297000	297360	Adjective	297480	297640	Particle	297760	298160	Verb	298320	298560	Noun	298720	299800	Particle	300400	300760	Pronoun	300800	301000	Adjective	301080	301400	Noun	301480	302320	Noun	302440	303240
+English translation	Other thing, in summer, its very humidy here.
+Notes - number of character bytes:	58
+-for POSS-1p, he meant as TEND but he signed as POSS-1p...
+
+
+Utterance ID:	49
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	303240
+End frame:	312040
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	015
+main gloss	HERE	303240	303320	MORE	304000	304120	fs-SUN	304280	304520	MORE	304600	304880	STRONG	305040	305320	cl:5" ray into us"	305440	306040	WHILE	306160	306560	|>		306800	ns-LA	306840	307920	UNKNOWN	308160	308320	DRY	308520	309200	BUT	309560	309840	SARCASM	309920	310480	100	310840	311080	110	311160	311600	DEGREE	311840	312040
+non-dominant hand gloss	IX-loc:i	306680	306840	|>		308400
+head pos: tilt fr/bk	front	303240	303400	start	303440	304000	slightly back	304040	304280	start	304320	304880	front	304920	306040	start	306080	306760	back	306800	309160	start	309200	309640	front	309680	312040
+head pos: turn	left	303240	306040	start	306080	306800	right	306840	312040
+head pos: tilt side	slightly left	303240	303400	start	303440	304120	slightly right	304160	306040	start	306080	307640	left	307680	312040
+head pos: jut	start	303240	305520	forward	305560	306080	start	306120	309160	back/right	309200	312040
+head mvmt: nod	start	306160	307640	slight rapid headnod	307680	308400	end	308440	309200
+body lean	forward	303240	304000	start	304040	305000	forward	305040	306160	start	306200	309840	forward	309880	312040
+eye brows	lowered	303240	312040
+eye gaze	to addressee	303240	312040
+eye aperture	start	303240	304040	squint	304080	308320	start	308360	309680	wide	309720	310480	end	310520	312040
+nose	start	303240	304240	wrinkle	304280	306160	start	306200	308200	tensed	308240	309840	end	309880	312040
+POS	Noun	303240	303320	Adjective	304000	304120	Noun	304280	304520	Adjective	304600	304880	Adjective	305040	305320	Classifier	305440	306040	Noun	306160	306560	Proper Noun	306840	307920	Adjective	308520	309200	Conjunction	309560	309840	Adjective	309920	310480	Number	310840	311080	Number	311160	311600	Noun	311840	312040
+Non-dominant POS	Pronoun	306680	306840
+English translation	Its because of sun is stronger here than in LA where it is dry but, at same time, its 100 to 110 degrees.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	50
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	312040
+End frame:	317040
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	DEGREE	312040	312200	BECAUSE	312240	312480	WHERE	312560	312800	IX-1p	312880	313000	FROM	313080	313360	fs-NORTHRIDGE	313480	314480	TEND	314600	315000	|>		315120	TEN	315200	315400	FIFTEEN	315520	315760	DEGREE	315840	315960	MORE	316160	316400	THAN	316560	316720
+non-dominant hand gloss	FROM	313080	313360	|>		314520	ns-LA	316800	317040
+head pos: tilt fr/bk	front	312040	312680	start	312720	314640	front	314680	315760	start	315800	316040	back	316080	316360	end	316400	317040
+head pos: turn	right	312040	312200	start	312240	314600	left	314640	316400	end	316440	317040
+head pos: tilt side	left	312040	312200	start	312240	313400	right	313440	314200	start	314240	314600	left	314640	316600	end	316640	317040
+head pos: jut	back	312040	314520	start	314560	315040	back/left	315080	315960	end	316000	317040
+body lean	slightly forward	312040	312480	start	312520	316640	forward	316680	317040
+eye brows	lowered	312040	313360	start	313400	313600	slightly raised	313640	314480	start	314520	317000	raised	317040	317040
+eye gaze	to addressee	312040	317040
+eye aperture	squint	312040	312320	start	312360	312520	wide	312560	314400	start	314440	317000	wide	317040	317040
+POS	Noun	312040	312200	Conjunction	312240	312480	Wh-word	312560	312800	Pronoun	312880	313000	Preposition	313080	313360	Proper Noun	313480	314480	Verb	314600	315000	Number	315200	315400	Number	315520	315760	Noun	315840	315960	Adjective	316160	316400	Conjunction	316560	316720
+Non-dominant POS	Preposition	313080	313360	Proper Noun	316800	317040
+English translation	In Northridge tends to have ten to fifteen degrees more than LA.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	51
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	317040
+End frame:	325920
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	SAME	317400	317480	IX-2p	317560	317600	IF	317680	317840	IX-2p	318000	318080	SEE	318160	318320	ON	318480	318560	WEATHER	318640	318920	CHANNEL	319000	319280	IX-3p	319360	319480	ns-LA	319560	320000	85	320120	320560	DEGREE	320640	320920	MEAN	321040	321120	|>		321880	IN	322120	322360	ns-NORTHRIDGE	322480	323920	REALLY	324200	324400	"wow"	324560	325920
+non-dominant hand gloss	ns-ALA	317040	317320	|>		318280	WEATHER	318640	318920	|>		320680	100	321200	321720	DEGREE	321840	321960
+head pos: tilt fr/bk	start	317040	318120	back	318160	320600	start	320640	321080	front	321120	324720	start	324760	325720	front	325760	325920
+head pos: turn	start	317040	317600	right	317640	318120	start	318160	319360	right	319400	325920
+head pos: tilt side	start	317040	317680	right	317720	318040	start	318080	321120	left	321160	325920
+head pos: jut	start	317040	318040	forward	318080	320640	start	320680	322760	slightly back	322800	325920
+body lean	slightly forward	317040	321600	start	321640	324400	slightly back	324440	325760	end	325800	325920
+eye brows	raised	317040	320640	start	320680	321040	lowered	321080	325920
+eye gaze	to addressee	317040	325920
+eye aperture	wide	317040	320640	start	320680	321800	squint	321840	324200	blink	324240	324440	squint	324480	325920
+nose	start	319560	321000	wrinkle	321040	325920
+POS	Adjective	317400	317480	Pronoun	317560	317600	Conjunction	317680	317840	Pronoun	318000	318080	Verb	318160	318320	Preposition	318480	318560	Noun	318640	318920	Noun	319000	319280	Pronoun	319360	319480	Proper Noun	319560	320000	Number	320120	320560	Noun	320640	320920	Verb	321040	321120	Preposition	322120	322360	Proper Noun	322480	323920	Discourse Marker	324200	324400	Verb	324560	325920
+Non-dominant POS	Proper Noun	317040	317320	Noun	318640	318920	Number	321200	321720	Noun	321840	321960
+English translation	If you see on weather channel, you will notice that if its 85 degrees in LA, that means 100 degrees in Northridge.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	52
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	325920
+End frame:	328160
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	012
+main gloss	REALLY	326000	326160	part:indef	326280	326920	BIG	326960	327120	DIFFERENT	327200	327480	FROM	327560	327760	HERE	327840	328160
+non-dominant hand gloss
+head pos: tilt fr/bk	front	325920	326280	start	326320	326640	back	326680	327480	start	327520	327600	front	327640	328160
+head pos: turn	right	325920	326000	start	326040	326360	left	326400	328160
+head pos: tilt side	left	325920	326160	start	326200	326440	right	326480	327400	end	327440	327840
+head pos: jut	slightly back	325920	326400	start	326440	326440	back/left	326480	328160
+eye brows	lowered	325920	326280	start	326320	326520	slightly lowered	326560	327840	start	327880	328120	raised	328160	328160
+eye gaze	to addressee	325920	328160
+eye aperture	squint	325920	327200	start	327240	328040	wide	328080	328160
+nose	wrinkle	325920	327200	end	327240	327760
+POS	Discourse Marker	326000	326160	Particle	326280	326920	Adjective	326960	327120	Adjective	327200	327480	Preposition	327560	327760	Pronoun	327840	328160
+English translation	Really, its big different from here.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	53
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	328160
+End frame:	333440
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	WHY	328280	328440	HERE	328560	328760	80	328920	329280	|>		329360	CAN	329440	329520	REALLY++	329640	330160	HOT	330240	330640	|>		330880	fs-BUT	330920	331080	IN	331120	331280	ns-LA	331400	331800	80	331840	332120	REALLY	332360	332520	FEEL	332600	332800	NOTHING	332880	333440
+non-dominant hand gloss	CAN	329440	329520	|>		330960	IX-loc:i	331480	331600	|>		333440
+head pos: tilt fr/bk	front	328160	328560	start	328600	329560	front	329600	330640	end	330680	331800
+head pos: turn	left	328160	328360	start	328400	329080	right	329120	333440
+head pos: tilt side	start	328160	329480	left	329520	333440
+head pos: jut	start	328160	328280	slightly back	328320	328480	start	328520	329920	forward	329960	330520	start	330560	331400	back/right	331440	332160	end	332200	333440
+body lean	slightly forward	328160	328520	start	328560	329920	forward	329960	331120	end	331160	331800
+eye brows	raised	328160	329120	start	329160	330960	raised	331000	331800	start	331840	332360	lowered	332400	333440
+eye gaze	to addressee	328160	328160	down	328200	328480	to addressee	328520	333440
+eye aperture	wide	328160	329080	start	329120	330880	wide	330920	331600	start	331640	332160	squint	332200	333440
+nose	start	331840	332160	wrinkle	332200	333280	end	333320	333440
+POS	Wh-word	328280	328440	Pronoun	328560	328760	Number	328920	329280	Verb	329440	329520	Adjective	329640	330160	Adjective	330240	330640	Conjunction	330920	331080	Preposition	331120	331280	Proper Noun	331400	331800	Number	331840	332120	Discourse Marker	332360	332520	Verb	332600	332800	Negation	332880	333440
+Non-dominant POS	Verb	329440	329520	Pronoun	331480	331600
+English translation	If theres 80 degrees here in Boston, it can be really hot.  But in LA, 80 degrees feel nothing.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	54
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	333440
+End frame:	341440
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	fs-SUN	333600	334000	fs-VERY	334080	334360	cl:5"distance of sun to person"	334520	334880	HERE	335280	335400	MORE	335640	335800	cl:5"distance of sun to person"	335920	337320	BECAUSE	337480	337600	#OF	337680	337800	HERE	338320	338600	fs-SUN	339160	339760	CHANGE	339880	340600	UNKNOWN	340760	341160
+non-dominant hand gloss	IX-loc:i	333440	333520	|>		334400	cl:5"distance of sun to person"	335920	337320	|>		337800	G: "focus"	339120	339640
+head pos: tilt fr/bk	start	334880	335680	further front	335720	337000	start	337040	340280	front	340320	341440
+head pos: turn	right	333440	334840	start	334880	335920	slightly left	335960	337200	start	337240	337560	right	337600	341440
+head pos: tilt side	slightly left	333440	341440
+head pos: jut	start	333440	334680	back/right	334720	335320	start	335360	336040	forward	336080	337600	start	337640	339080	slightly back	339120	340520	end	340560	341440
+body lean	start	333440	334840	slightly back	334880	335360	start	335400	335920	forward	335960	337680	start	337720	340840	slightly forward	340880	341440
+eye brows	slightly lowered	333440	334400	end	334440	334840
+eye gaze	to addressee	333440	341440
+eye aperture	squint	333440	334800	start	334840	337840	slightly lowered	337880	341440
+POS	Noun	333600	334000	Adjective	334080	334360	Classifier	334520	334880	Pronoun	335280	335400	Adjective	335640	335800	Classifier	335920	337320	Conjunction	337480	337600	Preposition	337680	337800	Pronoun	338320	338600	Noun	339160	339760	Verb	339880	340600
+Non-dominant POS	Determiner	333440	333520	Classifier	335920	337320
+English translation
+Notes - number of character bytes:	43
+-Not sure how to put down the english part.
+
+
+Utterance ID:	55
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	341440
+End frame:	347640
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	011
+main gloss	REALLY	341880	342000	OTHER	342240	342320	THAN	342440	342600	WEATHER	342640	342880	cl:5"list"	343040	343240	IX-1p	343320	343400	CAN	343480	343560	TALK	343600	343760	ABOUT	343840	344080	cl:5"that area"	344160	344600	fs-BOSTON	344680	345440	CULTURE	345520	345960	AND	346040	346120	ns-LA	346240	346520	CULTURE	346640	347640
+non-dominant hand gloss	CAN	343480	343560	|>		343720	cl:5"that area"	344160	344600	|>		345320	IX-loc:i	346240	346680
+head pos: tilt fr/bk	slightly front	341440	341440	start	341480	342080	slightly back	342120	342760	start	342800	343160	slightly front	343200	343560	start	343600	346520	front	346560	347640
+head pos: turn	right	341440	347640
+head pos: tilt side	slightly left	341440	343400	end	343440	344080
+body lean	slightly forward	341440	341480	start	341520	343040	slightly forward	343080	343480	start	343520	344920	slightly forward	344960	347640
+eye brows	start	341440	341960	raised	342000	347640
+eye gaze	to addressee	341440	347640
+POS	Discourse Marker	341880	342000	Adjective	342240	342320	Conjunction	342440	342600	Noun	342640	342880	Classifier	343040	343240	Pronoun	343320	343400	Verb	343480	343560	Verb	343600	343760	Adverb	343840	344080	Classifier	344160	344600	Proper Noun	344680	345440	Noun	345520	345960	Conjunction	346040	346120	Proper Noun	346240	346520	Noun	346640	347640
+Non-dominant POS	Verb	343480	343560	Classifier	344160	344600	Pronoun	346240	346680
+English translation	Other than weather, we can also talk about cultures in Boston and LA.
+Notes - number of character bytes:	24
+-CL for list is correct?
+
+
+Utterance ID:	56
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	347640
+End frame:	357720
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	REALLY	347760	348160	"wow"	348720	348920	BIG	349000	349280	DIFFERENT	349440	349840	IX-loc:i	350000	350160	fs-BOSTON	350320	351000	CULTURE	351120	351520	TOGETHER	351640	352360	DEAF	352520	353000	TEND	353200	353680	SOCIAL	353920	354360	fs-VERY	354440	354720	TOGETHER	354920	355480	CLOSE	355960	356160	SAME	356280	356320	FAMILY	356480	356960	TOGETHER	357040	357720
+non-dominant hand gloss	DIFFERENT	349440	349840	|>		350920	TOGETHER	351640	352360	|>		353600	SOCIAL	353920	354360	|>		354760
+head pos: tilt fr/bk	slightly front	347640	350000	start	350040	350240	slightly back	350280	352560	start	352600	356720	front	356760	357720
+head pos: turn	right	347640	348160	start	348200	348800	left	348840	348960	start	349000	349480	right	349520	351240	start	351280	352760	left	352800	353040	start	353080	353600	slightly right	353640	354360	start	354400	355040	slightly right	355080	356320	start	356360	357000	left	357040	357720
+head pos: tilt side	start	347640	348560	slightly left	348600	349080	start	349120	352000	right	352040	352440	start	352480	352680	left	352720	353680	start	353720	355720	slightly left	355760	357720
+head pos: jut	start	351120	351600	forward	351640	352760	start	352800	353480	back/right	353520	356440	end	356480	357720
+body lean	slightly forward	347640	353080	start	353120	355120	slightly forward	355160	357720
+eye brows	slightly raised	347640	347640	start	347680	347960	lowered	348000	350160	start	350200	350920	raised	350960	352840	start	352880	353160	lowered	353200	357720
+eye gaze	to addressee	347640	357720
+eye aperture	start	347640	348040	closed	348080	348880	squint	348920	350320	start	350360	350920	wide	350960	352840	start	352880	353080	squint	353120	357720
+nose	start	352520	353160	wrinkle	353200	357720
+POS	Discourse Marker	347760	348160	Verb	348720	348920	Adjective	349000	349280	Adjective	349440	349840	Pronoun	350000	350160	Proper Noun	350320	351000	Noun	351120	351520	Adverb	351640	352360	Adjective	352520	353000	Verb	353200	353680	Verb	353920	354360	Adjective	354440	354720	Adverb	354920	355480	Adjective	355960	356160	Adjective	356280	356320	Noun	356480	356960	Adverb	357040	357720
+Non-dominant POS	Adjective	349440	349840	Adverb	351640	352360	Verb	353920	354360
+English translation	Wow, its really big difference, Boston culture, Deaf social are close to each other like family.  
+Notes - number of character bytes:	0
+
+
+Utterance ID:	57
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	357720
+End frame:	365000
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	015
+main gloss	TOGETHER	357720	357800	MAKE	357960	358000	SURE	358080	358440	CONTACT-arc	358520	359480	KNOW	359600	359800	IF	359920	360080	|>		360320	NOT	360440	360480	LIKE	360680	360760	SOMEONE	360840	361240	FORGET-IT	361440	362120	STILL+	362280	363240	FEEL	363840	364080	BAD	364160	364520	TOGETHER	364600	365000
+non-dominant hand gloss	CONTACT-arc	358520	359480	|>		360040	IX-2p	360240	360560	|>		361720	WELCOME	363200	363680	|>		364520
+head pos: tilt fr/bk	slightly front	357720	357840	start	357880	358520	slightly back	358560	360760	start	360800	361520	slightly back	361560	362080	start	362120	362480	front	362520	363840	end	363880	365000
+head pos: turn	left	357720	357760	start	357800	358520	right	358560	358800	start	358840	360040	left	360080	360240	start	360280	361400	right	361440	362080	start	362120	362360	left	362400	362880	start	362920	363280	slightly left	363320	363680	end	363720	365000
+head pos: tilt side	slightly left	357720	357800	start	357840	359920	right	359960	360440	start	360480	361520	right	361560	362920	start	362960	363240	left	363280	363840	start	363880	364120	right	364160	364680	end	364720	365000
+head pos: jut	start	357720	358520	forward	358560	359520	start	359560	361520	slightly forward	361560	361880	start	361920	362360	forward	362400	363840	end	363880	365000
+head mvmt: side to side	start	361440	362400	rapid	362440	364200	end	364240	365000
+body lean	start	357720	358600	slightly forward	358640	365000
+eye brows	slightly lowered	357720	358800	start	358840	359560	raised	359600	360760	start	360800	361040	lowered	361080	361840	start	361880	364960	raised	365000	365000
+eye gaze	to addressee	357720	360080	right	360120	360560	to addressee	360600	365000
+eye aperture	squint	357720	361040	closed	361080	362000	start	362040	362600	closed	362640	363360	start	363400	363560	slightly lowered	363600	364960	end	365000	365000
+nose	start	357720	359920	wrinkle	359960	362040	end	362080	363240
+POS	Adverb	357720	357800	Verb	357960	358000	Adjective	358080	358440	Verb	358520	359480	Verb	359600	359800	Preposition	359920	360080	Negation	360440	360480	Verb	360680	360760	Pronoun	360840	361240	Verb	361440	362120	Adverb	362280	363240	Verb	363840	364080	Adjective	364160	364520	Adverb	364600	365000
+Non-dominant POS	Verb	358520	359480	Pronoun	360240	360560	Verb	363200	363680
+English translation	They would keep in touch, its like there is no one who we could ignore because we would feel bad. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	58
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	365000
+End frame:	372160
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	BUT	365160	365320	IN	365400	365600	IX-loc:i	365720	365920	|>		366360	ns-LA	366600	366920	AREA	367080	367640	#OR	367720	367960	NORTH	368040	368400	part:indef	368480	368520	REALLY	368600	368960	MOST	369080	369320	IN	369400	369480	ns-LA	369560	369880	AREA	369960	370400	fs-VERY	370440	370600	CLIQUE++	370800	372160
+non-dominant hand gloss	AREA	367080	367640	|>		368360	AREA	369960	370400	|>		370640
+head pos: tilt fr/bk	start	365000	365600	back	365640	368960	start	369000	371000	slightly front	371040	371840	end	371880	372160
+head pos: turn	start	365000	365360	right	365400	368520	start	368560	370480	right	370520	370760	start	370800	371680	left	371720	372160
+head pos: tilt side	start	365000	365600	slightly left	365640	367200	start	367240	367800	right	367840	368400	start	368440	368640	left	368680	369080	start	369120	371600	left	371640	372160
+head pos: jut	start	366600	367680	back/right	367720	368320	start	368360	368640	forward	368680	369080	end	369120	369480
+body lean	slightly forward	365000	365520	end	365560	365920
+eye brows	raised	365000	368320	start	368360	368480	lowered	368520	372160
+eye gaze	to addressee	365000	372160
+eye aperture	start	365000	365320	wide	365360	365920	start	365960	367760	lowered lid	367800	368040	start	368080	368360	closed	368400	369960	start	370000	370360	squint	370400	370520	end	370560	372160
+nose	start	367720	368480	wrinkle	368520	370600	end	370640	372160
+POS	Conjunction	365160	365320	Preposition	365400	365600	Pronoun	365720	365920	Proper Noun	366600	366920	Noun	367080	367640	Preposition	367720	367960	Noun	368040	368400	Particle	368480	368520	Discourse Marker	368600	368960	Adjective	369080	369320	Preposition	369400	369480	Proper Noun	369560	369880	Noun	369960	370400	Adjective	370440	370600	Noun	370800	372160
+Non-dominant POS	Noun	367080	367640	Noun	369960	370400
+English translation	But in LA area, North, well really most in LA area, there are many clique.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	59
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	372160
+End frame:	380760
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	015
+main gloss	CLIQUE-arc	372160	372520	IX-2p	372600	372680	MUST	372760	372920	MAKE	373000	373080	POSS-2p	373160	373240	NAME	373320	374000	BEFORE	374200	374520	JOIN	374720	375400	fs-CLUB	375560	376080	TOGETHER	376320	376800	fs-E	377000	377160	cl:3"quotation"	377280	377760	CALL	377840	378000	fs-ELITE	378080	378880	fs-CLUB	379240	379840	AREA	380040	380760
+non-dominant hand gloss	MAKE	373000	373080	|>		373240	1: "focus"	378160	379120	|>		379600
+head pos: tilt fr/bk	start	376320	377440	slightly front	377480	377720	start	377760	380000	front	380040	380760
+head pos: turn	left	372160	372280	start	372320	373160	right	373200	374960	start	375000	377040	slightly right	377080	380760
+head pos: tilt side	left	372160	374040	start	374080	374760	right	374800	375160	start	375200	375840	left	375880	376640	start	376680	377120	right	377160	377880	end	377920	380760
+head pos: jut	start	372160	373080	slightly back	373120	374400	start	374440	377000	back/right	377040	379640	end	379680	380760
+body lean	start	374200	374680	slightly forward	374720	380760
+shoulders	start	374200	374720	up	374760	375400	start	375440	375720	left up	375760	376040	start	376080	376480	left up	376520	376680	end	376720	377280
+eye brows	lowered	372160	374000	start	374040	377120	slightly lowered	377160	377640	end	377680	378000
+eye gaze	to addressee	372160	380760
+eye aperture	start	376320	377080	closed	377120	377680	end	377720	377840
+nose	start	372160	377120	wrinkle	377160	377760	end	377800	378880
+POS	Noun	372160	372520	Determiner	372600	372680	Adverb	372760	372920	Verb	373000	373080	Pronoun	373160	373240	Noun	373320	374000	Preposition	374200	374520	Verb	374720	375400	Noun	375560	376080	Noun	376320	376800	Classifier	377280	377760	Verb	377840	378000	Adjective	378080	378880	Noun	379240	379840	Noun	380040	380760
+Non-dominant POS	Verb	373000	373080
+English translation	It is like, you must be a well known person before join the "elite club".
+Notes - number of character bytes:	0
+
+
+Utterance ID:	60
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	380760
+End frame:	388360
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	012
+main gloss	CLIQUE++	381000	381960	STILL	382160	382240	IX-1p	382320	382440	part:indef	382560	383280	SAME	383400	383440	IX-1p	383480	383640	HOPE	383720	384320	IX-1p-arc	384480	384680	ns-BOSTON	384800	385200	CAN	385320	385440	GIFT	385560	385840	GOOD	385960	386160	KIND	386200	386400	SHOW	386800	387320	THAT	387440	387560	IX-1p-arc	387720	387840	TOGETHER	388000	388360
+non-dominant hand gloss	part:indef	382560	383280	|>		383640	HOPE	383720	384320	|>		385040	GIFT	385560	385840	|>		386160
+head pos: tilt fr/bk	front	380760	381040	start	381080	381520	back	381560	382040	start	382080	382480	front	382520	383040	start	383080	385880	front	385920	388360
+head pos: turn	start	380760	381200	left	381240	383200	start	383240	383720	right	383760	384360	start	384400	385400	left	385440	385760	start	385800	386880	right	386920	387800	start	387840	388240	left	388280	388360
+head pos: tilt side	right	380760	381200	start	381240	383200	left	383240	384360	start	384400	386920	left	386960	388360
+head pos: jut	start	380760	383680	back	383720	385240	start	385280	387400	back/right	387440	387560	end	387600	388360
+body lean	start	380760	381320	slightly forward	381360	382080	start	382120	382520	slightly forward	382560	383200	start	383240	385920	forward	385960	388360
+eye gaze	to addressee	380760	382080	left	382120	382600	to addressee	382640	387520	down	387560	387800	left	387840	388120	to addressee	388160	388360
+eye aperture	start	380760	381920	squint	381960	384320	end	384360	385200
+POS	Noun	381000	381960	Adjective	382160	382240	Pronoun	382320	382440	Particle	382560	383280	Adjective	383400	383440	Pronoun	383480	383640	Verb	383720	384320	Pronoun	384480	384680	Proper Noun	384800	385200	Verb	385320	385440	Noun	385560	385840	Adjective	385960	386160	Noun	386200	386400	Verb	386800	387320	Pronoun	387440	387560	Pronoun	387720	387840	Adverb	388000	388360
+Non-dominant POS	Particle	382560	383280	Verb	383720	384320	Noun	385560	385840
+English translation
+Notes - number of character bytes:	18
+-English sentence?
+
+
+Utterance ID:	61
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	388360
+End frame:	391520
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	012
+main gloss	TOGETHER	388360	388520	NO	388560	388680	MATTER	388720	389240	WHO	389280	389640	IX-3p-arc	389720	390200	IMPORTANT	390280	390480	IN	390520	390560	VARY	390600	391520
+non-dominant hand gloss	MATTER	388720	389240	|>		390200
+head pos: tilt fr/bk	front	388360	388680	start	388720	390800	slightly front	390840	391520
+head pos: turn	left	388360	389280	start	389320	390240	right	390280	391520
+head pos: tilt side	left	388360	388720	end	388760	389640
+head pos: jut	start	388360	389240	slightly back	389280	389800	start	389840	390760	back/right	390800	391520
+body lean	forward	388360	388640	end	388680	389240
+eye gaze	to addressee	388360	389480	right	389520	389720	to addressee	389760	391520
+eye aperture	start	389280	389560	squint	389600	391520
+POS	Noun	388360	388520	Negation	388560	388680	Noun	388720	389240	Wh-word	389280	389640	Pronoun	389720	390200	Adjective	390280	390480	Preposition	390520	390560	Adjective	390600	391520
+Non-dominant POS	Noun	388720	389240
+English translation	No matter who we are, it is important to have diversity in the group.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	62
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	391520
+End frame:	399320
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	012
+main gloss	VARY	391520	391680	SAME	391800	392200	IF	392360	392560	fs-SEBRIAN	392640	394040	TIGER	394160	394880	IX-3p:i	395000	395240	ONE	395320	395440	THING	395520	395600	ABOUT	395720	395840	POSS-3p	395920	396000	STRIPE	396080	396880	VARY	396960	398080	SAME	398200	398440	IDEA	398520	398840	IX-3p-arc	398920	399320
+non-dominant hand gloss	VARY	391520	391680	|>		393560	TIGER	394160	394880	|>		395440	VARY	396960	398080	|>		399320
+head pos: tilt fr/bk	slightly front	391520	391720	start	391760	393000	back	393040	394040	start	394080	394960	slightly front	395000	396000	start	396040	398080	front	398120	399320
+head pos: turn	right	391520	399320
+head pos: tilt side	start	391520	392360	left	392400	399320
+head pos: jut	start	391520	392640	forward	392680	393440	start	393480	396000	back/right	396040	396960	start	397000	398480	back/right	398520	399240	end	399280	399320
+eye brows	start	391520	391760	raised	391800	393960	end	394000	394880
+eye gaze	to addressee	391520	399160	left	399200	399320
+eye aperture	squint	391520	395240	end	395280	395600
+POS	Adjective	391520	391680	Adjective	391800	392200	Preposition	392360	392560	Proper Noun	392640	394040	Noun	394160	394880	Determiner	395000	395240	Number	395320	395440	Noun	395520	395600	Adverb	395720	395840	Pronoun	395920	396000	Adjective	396080	396880	Adjective	396960	398080	Adjective	398200	398440	Verb	398520	398840	Pronoun	398920	399320
+Non-dominant POS	Adjective	391520	391680	Noun	394160	394880	Adjective	396960	398080
+English translation	It is same idea as for Sebrian tiger, some have stripes or vary kind.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	63
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	399320
+End frame:	403360
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	016
+main gloss	BUT	399400	399640	IN	400280	400480	ns-LA	400600	400920	AREA	401120	401480	part:indef	401600	402200	IX-3p:i	402280	402400	NOT	402480	402560	SEE	402600	402800	THAT	402880	403000	fs-WAY	403080	403360
+non-dominant hand gloss	IX-3p:i	399720	400200	part:indef	401600	402200	|>		403360
+head pos: tilt fr/bk	front	399320	401880	end	401920	402400
+head pos: turn	right	399320	402480	start	402520	402840	left	402880	402920	start	402960	403160	right	403200	403200	end	403360	403360
+head pos: tilt side	left	399320	403360
+head pos: jut	slightly back	399320	399440	start	399480	400200	forward	400240	400920	end	400960	401480
+head mvmt: shake	start	400240	401360	rapid	401400	403080	end	403120	403360
+body lean	start	399320	399840	forward	399880	403360
+eye brows	start	399320	400440	raised	400480	400920	start	400960	401520	lowered	401560	403360
+eye gaze	to addressee	399320	403360
+eye aperture	start	399320	400240	squint	400280	403360
+nose	start	399320	401480	wrinkle	401520	403360
+negative	neg	401400	403080
+POS	Conjunction	399400	399640	Preposition	400280	400480	Proper Noun	400600	400920	Noun	401120	401480	Particle	401600	402200	Pronoun	402280	402400	Negation	402480	402560	Verb	402600	402800	Pronoun	402880	403000	Noun	403080	403360
+Non-dominant POS	Pronoun	399720	400200	Particle	401600	402200
+English translation	But in LA area, they didn't see that way.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	64
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	403360
+End frame:	411000
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	IX-3p:i	403600	403840	|>		404280	PERFECT	404600	404840	IX-3p:i	404960	405080	POSS-1p	405200	405360	KIND	405480	405800	FINE	405960	406200	|>		406520	IX-3p:j	406640	406680	NOT	406760	406840	POSS-1p	406920	407040	KIND	407160	407440	GO-AWAY	407600	407960	VERY	408400	408680	SELECTIVE	408840	409120	cl:5"picking objects"	409480	410800	part:indef	410960	411000
+non-dominant hand gloss	IX-2p:i	403800	404480	PERFECT	404600	404840	|>		405200	COME-OVER	406240	406600	|>		407040
+head pos: tilt fr/bk	start	403360	403880	front	403920	404120	start	404160	404960	front	405000	411000
+head pos: turn	start	403360	403760	slightly right	403800	404280	start	404320	406320	right	406360	408320	start	408360	409160	left	409200	411000
+head pos: tilt side	left	403360	404320	start	404360	405040	right	405080	405920	start	405960	406480	left	406520	408240	start	408280	408640	right	408680	409160	end	409200	411000
+head pos: jut	start	403360	404080	forward	404120	404320	start	404360	405040	forward	405080	406560	end	406600	407040
+body lean	forward	403360	406760	start	406800	410960	forward	411000	411000
+eye brows	slightly lowered	403360	403360	start	403400	403760	raised	403800	405480	start	405520	406600	raised	406640	407320	start	407360	407560	lowered	407600	407720	start	407760	410640	lowered	410680	411000
+eye gaze	to addressee	403360	404360	left	404400	405720	to addressee	405760	406360	right	406400	407400	to addressee	407440	411000
+eye aperture	squint	403360	404120	start	404160	404680	wide	404720	407160	start	407200	408240	squint	408280	411000
+nose	wrinkle	403360	404280	start	404320	404480	tensed	404520	405360	start	405400	407600	wrinkle	407640	407960	start	408000	410680	wrinkle	410720	411000
+POS	Pronoun	403600	403840	Adjective	404600	404840	Pronoun	404960	405080	Pronoun	405200	405360	Noun	405480	405800	Verb	405960	406200	Pronoun	406640	406680	Negation	406760	406840	Pronoun	406920	407040	Noun	407160	407440	Verb	407600	407960	Adjective	408400	408720	Verb	408840	409120	Classifier	409480	410800	Particle	410960	411000
+Non-dominant POS	Determiner	403800	404480	Adjective	404600	404840	Verb	406240	406600
+English translation	They are very selective, pick who they want to be friends with.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	65
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	411000
+End frame:	416720
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	part:indef	411000	411040	SAME	411160	411200	IX-1p	411240	411400	part:indef	411520	411960	AND	412240	412720	IX-3p:i	412840	412960	fs-VERY	413080	413480	SAME	413760	414200	HIGH	414440	414880	FANCY++	414960	415840	fs-CLASS	415920	416720
+non-dominant hand gloss	part:indef	411000	411040	|>		411480	FANCY++	414960	415840	|>		416720
+head pos: tilt fr/bk	front	411000	411720	start	411760	412760	back	412800	416120	end	416160	416720
+head pos: turn	left	411000	411680	start	411720	412400	right	412440	413120	start	413160	413680	left	413720	414400	start	414440	414840	right	414880	415040	end	415080	416720
+head pos: tilt side	start	411000	411120	left	411160	411520	start	411560	412800	right	412840	413120	start	413160	413600	left	413640	414440	start	414480	414920	right	414960	415040	end	415080	416720
+head pos: jut	start	411000	411400	forward	411440	411960	start	412000	412560	back/right	412600	413240	start	413280	413720	back/left	413760	414240	start	414280	414440	back	414480	416440	end	416480	416720
+body lean	forward	411000	411960	start	412000	412720	back	412760	416160	end	416200	416720
+eye brows	lowered	411000	411760	start	411800	412240	raised	412280	412760	start	412800	412920	lowered	412960	413080	end	413120	414200
+eye gaze	to addressee	411000	413520	left	413560	414160	to addressee	414200	416720
+eye aperture	squint	411000	411080	closed	411120	411640	start	411680	411800	squint	411840	412160	start	412200	412440	wide	412480	412800	end	412840	412960
+nose	wrinkle	411000	411960	start	412000	412960	wrinkle	413000	413080	end	413120	413480
+POS	Particle	411000	411040	Adjective	411160	411200	Pronoun	411240	411400	Particle	411520	411960	Conjunction	412240	412720	Pronoun	412840	412960	Adjective	413080	413480	Adjective	413760	414200	Adjective	414440	414880	Adjective	414960	415840	Noun	415920	416720
+Non-dominant POS	Particle	411000	411040	Adjective	414960	415840
+English translation	They are like very high elite class.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	66
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	416720
+End frame:	420840
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	IX-3p:i	416840	417360	SAME	417480	417560	FOR	417600	417840	EXAMPLE	417920	418120	IX-1p	418200	418240	GO	418320	418480	fs-BEVERLY	418560	419520	fs-HILLS	419640	420800
+non-dominant hand gloss	EXAMPLE	417920	418120	|>		420840
+head pos: tilt fr/bk	start	416720	417360	back	417400	417560	start	417600	420560	front	420600	420840
+head pos: turn	start	416720	417360	right	417400	420840
+head pos: tilt side	start	418320	419000	slightly left	419040	420480	end	420520	420840
+head pos: jut	start	416720	417280	forward	417320	417560	end	417600	418240
+body lean	start	416720	418840	forward	418880	420560	end	420600	420840
+eye brows	start	416720	417240	raised	417280	420280	end	420320	420840
+eye gaze	to addressee	416720	420840
+eye aperture	start	416720	417480	slightly lowered	417520	420840
+POS	Pronoun	416840	417360	Adjective	417480	417560	Preposition	417600	417840	Noun	417920	418120	Pronoun	418200	418240	Verb	418320	418480	Proper Noun	418560	419520	Proper Noun	419640	420800
+Non-dominant POS	Noun	417920	418120
+English translation	Like for an example, when I went to Beverly Hills.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	67
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	420840
+End frame:	426960
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	016
+main gloss	IX-1p	420920	421040	IN	421160	421320	ONE	421440	421480	STORE	421600	421960	IX-1p	422080	422320	cl:5"holding the object"	422440	423080	fs-SILK	423480	424160	REALLY	425040	425160	NICE	425200	425760	IX-1p	425880	426120	cl:5"holding the object"	426240	426720
+non-dominant hand gloss	SHIRT	424280	425040
+head pos: tilt fr/bk	front	420840	422880	start	422920	423640	slightly back	423680	424480	start	424520	425160	front	425200	426960
+head pos: turn	slightly right	420840	421000	start	421040	421560	slightly left	421600	422440	start	422480	422920	slightly right	422960	423200	start	423240	423640	right	423680	425840	start	425880	426720	slightly left	426760	426960
+head pos: tilt side	start	420840	421480	slightly right	421520	422200	start	422240	422560	left	422600	425840	start	425880	426720	left	426760	426960
+head pos: jut	start	420840	421800	slightly back	421840	422960	end	423000	423080
+head mvmt: nod	start	423480	425080	slight rapid headnod	425120	425760	end	425800	426120
+head mvmt: side to side	start	425200	425800	rapid	425840	426720	end	426760	426960
+body lean	start	420840	422320	forward	422360	423240	end	423320	424160
+eye brows	start	420840	422440	raised	422480	426960
+eye gaze	to addressee	420840	421640	down	421680	422840	to addressee	422880	425720	down/left	425760	426440	down	426480	426960
+eye aperture	lowered lid	420840	422800	start	422840	423040	wide	423080	426760	lowered lid	426800	426960
+nose	start	420840	422200	tensed	422240	426960
+POS	Pronoun	420920	421040	Preposition	421160	421320	Number	421440	421480	Noun	421600	421960	Determiner	422080	422320	Classifier	422440	423080	Adjective	423480	424160	Adjective	425040	425160	Adjective	425200	425760	Pronoun	425880	426120	Classifier	426240	426720
+Non-dominant POS	Noun	424280	425040
+English translation	In one store, I was looking at this really nice silk shirt.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	68
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	426960
+End frame:	434640
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	015
+main gloss	part:indef	427120	427480	IX-1p	427640	427920	SEE	428200	428320	PRICE	428400	428520	fs-TAG	428640	428880	IX-1p	429000	429120	350	429840	430440	DOLLAR	430560	430880	|>		431840	350	431960	432360	DOLLAR	432520	432640	FOR	432720	432920	|>		433520	REALLY	433640	433920	part:indef	434080	434480
+non-dominant hand gloss	cl:5"pulling the object"	429160	429440	|>		430360	SHIRT	432840	433560	|>		433720
+head pos: tilt fr/bk	slightly front	426960	427880	start	427920	429000	front	429040	429560	start	429600	433200	front	433240	433920	end	433960	434600
+head pos: turn	left	426960	427120	start	427160	427440	slightly right	427480	427520	start	427560	427720	slightly left	427760	427960	start	428000	429080	slightly left	429120	429440	start	429480	429680	right	429720	432680	start	432720	434320	right	434360	434600
+head pos: tilt side	left	426960	427160	start	427200	427760	left	427800	429120	start	429160	429680	slightly right	429720	429960	start	430000	430480	left	430520	432680	start	432720	433520	right	433560	434600
+head pos: jut	slightly back	426960	428960	start	429000	429160	back	429200	429520	start	429560	434320	back/right	434360	434600
+head mvmt: side to side	rapid	426960	427920	start	427960	429600	rapid	429640	432640	start	432680	432960	rapid	433000	433960	end	434000	434600
+body lean	start	426960	428360	left	428400	429320	start	429360	430240	forward/left	430280	432360	start	432400	433240	forward	433280	434320	end	434360	434600
+eye brows	raised	426960	434600
+eye gaze	down	426960	427880	to addressee	427920	428880	down/left	428920	429440	to addressee	429480	433760	left	433800	434040	to addressee	434080	434600
+eye aperture	lowered lid	426960	427800	blink	427840	428040	start	428080	428920	lowered lid	428960	429480	blink	429520	429680	end	429720	430880
+nose	tensed	426960	428480	end	428520	428880
+POS	Particle	427120	427480	Pronoun	427640	427920	Verb	428200	428320	Noun	428400	428520	Noun	428640	428880	Determiner	429000	429120	Number	429840	430440	Noun	430560	430880	Number	431960	432360	Noun	432520	432640	Preposition	432720	432920	Discourse Marker	433640	433920	Particle	434080	434480
+Non-dominant POS	Classifier	429160	429440	Noun	432840	433560
+English translation	I decided to check the price, its 350 dollars.  Really, 350 dollars for a shirt!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	69
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	434640
+End frame:	443440
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	HALF	434920	435080	MOST	435480	435880	EXPENSIVE	435960	436480	SHIRT	436560	436920	HERE	437000	437080	IN	437120	437240	fs-BOSTON	437320	438000	MAYBE	438160	438600	100	438760	439120	150	439240	439720	DOLLAR	439800	440120	IX-1p	440200	440320	NOT-KNOW	440520	440880	IX-1p	441080	441320	NOT	441440	441520	BUY	441640	441880	EXPENSIVE	442200	442320	SHIRT	442400	442600	POSS-1p	442680	443080	fs-BUT	443160	443440
+non-dominant hand gloss	MAYBE	438160	438600	|>		439440
+head pos: tilt fr/bk	start	434640	435640	back	435680	436600	start	436640	437920	front	437960	441480	start	441520	441920	front	441960	443440
+head pos: turn	right	434640	435000	start	435040	435400	slightly right	435440	438000	start	438040	438040	right	438080	439440	start	439480	440360	left	440400	441120	start	441160	441520	right	441560	442560	start	442600	443360	slightly left	443400	443440
+head pos: tilt side	right	434640	434960	start	435000	435440	left	435480	438000	start	438040	438760	right	438800	439200	start	439240	439920	left	439960	441160	start	441200	441600	right	441640	442600	start	442640	443120	left	443160	443440
+head pos: jut	back	434640	437080	start	437120	440280	back/right	440320	441120	start	441160	441280	back/left	441320	442760	start	442800	442800	back	442840	443440
+body lean	start	434640	435960	left	436000	438520	start	438560	438840	right	438880	439120	start	439160	439560	left	439600	440360	start	440400	442600	forward	442640	443440
+eye brows	raised	434640	441880	start	441920	442200	slightly raised	442240	443440
+eye gaze	to addressee	434640	436120	left	436160	436440	to addressee	436480	443440
+eye aperture	start	434640	434800	wide	434840	438000	start	438040	440240	closed	440280	440960	start	441000	441160	lowered lid	441200	443240	start	443280	443360	closed	443400	443440
+POS	Adjective	435480	435880	Adjective	435960	436480	Noun	436560	436920	Noun	437000	437080	Preposition	437120	437240	Proper Noun	437320	438000	Adverb	438160	438600	Number	438760	439120	Number	439240	439720	Noun	439800	440120	Determiner	440200	440320	Negation	440520	440880	Pronoun	441080	441320	Negation	441440	441520	Verb	441640	441880	Adjective	442200	442320	Noun	442400	442600	Determiner	442680	443080	Conjunction	443160	443440
+Non-dominant POS	Adverb	438160	438600
+English translation	I would say the most expensive shirt here in boston is up to maybe 100 to 150 dollars.  But, I dont know because I dont buy expensive shirts.
+Notes - number of character bytes:	125
+- at first word, "half" not sure if thats correct, it appears he said "HALF" but it doesnt make any sense in this sentence???
+
+
+Utterance ID:	70
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	443440
+End frame:	447400
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	016
+main gloss	SAME	443760	443800	part:indef	443880	444160	REALLY	444240	444560	"wow"	444640	445120	fs-VERY	445320	445600	EXPENSIVE	445680	446120	IN	446200	446360	ns-LA	446880	447400
+non-dominant hand gloss	part:indef	443880	444160	|>		444600	IX-loc:i	446400	446760	|>		447400
+head pos: tilt fr/bk	front	443440	444560	start	444600	444960	slightly front	445000	445080	start	445120	445200	slightly front	445240	446520	start	446560	446720	front	446760	447400
+head pos: turn	left	443440	443920	start	443960	444200	right	444240	444960	start	445000	445360	slightly left	445400	446400	start	446440	446680	left	446720	447400
+head pos: tilt side	left	443440	445040	start	445080	445320	slightly right	445360	446560	start	446600	446920	slightly left	446960	447400
+head pos: jut	back	443440	444720	start	444760	446920	slightly back	446960	447200	end	447240	447400
+head mvmt: nod	start	444240	444800	slight rapid headnod	444840	445480	end	445520	446120
+head mvmt: shake	start	443440	443760	slow	443800	445200	end	445240	445600
+body lean	slightly forward	443440	444320	start	444360	447200	slightly forward	447240	447400
+eye brows	raised	443440	443640	start	443680	443800	lowered	443840	447400
+eye gaze	left	443560	443680	to addressee	443720	447400
+eye aperture	closed	443440	443480	start	443520	443720	squint	443760	444240	start	444280	444320	closed	444360	445160	start	445200	445360	squint	445400	447400
+nose	start	443440	443800	wrinkle	443840	447400
+POS	Adjective	443760	443800	Particle	443880	444160	Discourse Marker	444240	444560	Verb	444640	445120	Adjective	445320	445600	Adjective	445680	446120	Preposition	446200	446360	Proper Noun	446880	447400
+Non-dominant POS	Particle	443880	444160	Pronoun	446400	446760
+English translation	But, wow, it is very expensive in LA.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	71
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	447400
+End frame:	457880
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	SAME	447440	447560	FOOD	447720	447840	SHOPPING	447960	448560	BREAD	448760	449400	cl:5"size of the object"	449640	450120	REALLY	450360	450520	THREE	450680	451120	FOUR	451200	451360	THREE	451480	451720	FOUR	451760	451920	WHILE	452080	452200	HERE	452360	452480	1.50	452880	453440	TWO	453520	454000	part:indef	454080	454440	AND	454520	454840	BIGGER	455040	455320	SIZE	455480	455720	THAN	455760	455920	THREE	456560	456840	FOUR	456880	457120	cl:5"size of the object"	457200	457880
+non-dominant hand gloss	IX-loc:i	447400	447600	POSS-3p	456000	456240	|>		457080
+head pos: tilt fr/bk	slightly front	447400	447560	start	447600	448280	slightly back	448320	450320	start	450360	451960	front	452000	454520	start	454560	455200	back	455240	455680	start	455720	455920	front	455960	457880
+head pos: turn	left	447400	447480	start	447520	447760	slightly right	447800	449240	start	449280	449440	right	449480	454840	start	454880	455320	left	455360	457120	start	457160	457600	slightly right	457640	457880
+head pos: tilt side	slightly left	447400	449720	start	449760	450120	right	450160	450640	start	450680	451960	slightly left	452000	452360	start	452400	453320	left	453360	454440	start	454480	455240	right	455280	455720	start	455760	456080	further left	456120	457160	start	457200	457640	left	457680	457880
+head pos: jut	slightly back	447400	447440	start	447480	452000	slightly back	452040	454520	start	454560	454920	back	454960	456560	end	456600	457880
+body lean	start	449640	451160	left	451200	454520	start	454560	455360	right	455400	455800	start	455840	456240	forward/left	456280	457880
+eye brows	lowered	447400	447600	start	447640	448480	slightly raised	448520	450120	start	450160	450480	lowered	450520	454080	start	454120	454480	raised	454520	455800	end	455840	457880
+eye gaze	to addressee	447400	457120	right	457160	457320	to addressee	457360	457880
+eye aperture	squint	447400	447720	start	447760	450520	squint	450560	454360	start	454400	454520	wide	454560	455920	end	455960	457880
+nose	wrinkle	447400	448000	start	448040	450520	wrinkle	450560	454400	start	454440	454840	tensed	454880	455320	end	455360	455920
+POS	Adjective	447440	447560	Noun	447720	447840	Verb	447960	448560	Noun	448760	449400	Classifier	449640	450120	Discourse Marker	450360	450520	Number	450680	451120	Number	451200	451360	Number	451480	451720	Number	451760	451920	Noun	452080	452200	Noun	452360	452480	Number	452880	453440	Number	453520	454000	Particle	454080	454440	Conjunction	454520	454840	Adjective	455040	455320	Noun	455480	455720	Conjunction	455760	455920	Number	456560	456840	Number	456880	457120	Classifier	457200	457880
+Non-dominant POS	Pronoun	447400	447600	Pronoun	456000	456240
+English translation	Same idea for food shopping, a bread cost 3 or 4 bucks while here in Boston its only 1.50 to two dollars and it is even bigger size than in LA.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	72
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	457880
+End frame:	463440
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	015
+main gloss	REALLY	458160	458520	part:indef	458560	458840	cl:1"area of objects"	459040	459680	IX-1p	459760	459840	TALK	459920	460000	ABOUT	460040	460240	ECONOMIC	460360	460600	cl:1"field"	460720	461000	NO	461080	461400	BUT	461440	461640	TALK	461720	461800	DIFFERENT	461920	462080	CULTURE	462200	462800
+non-dominant hand gloss	cl:1"area of objects"	459040	459680	|>		459920	cl:1"field"	460720	461000	|>		461360	BUT	461440	461640	|>		461920
+head pos: tilt fr/bk	front	457880	459320	start	459360	460320	slightly back	460360	460880	start	460920	461600	front	461640	463440
+head pos: turn	slightly right	457880	457920	start	457960	458240	right	458280	459680	start	459720	460080	slightly left	460120	460960	start	461000	461600	right	461640	462680	start	462720	463320	left	463360	463440
+head pos: tilt side	left	457880	459680	start	459720	460080	slightly right	460120	461240	start	461280	461600	left	461640	462800	end	462840	463440
+head pos: jut	slightly back	457880	458400	start	458440	458800	forward	458840	459840	end	459880	460000
+head mvmt: side to side	start	460720	461000	slow	461040	462800	end	462840	463440
+body lean	forward/left	457880	458280	start	458320	460280	left	460320	461880	end	461920	463440
+eye brows	start	457880	458520	slightly lowered	458560	459720	start	459760	459760	lowered	459800	460240	start	460280	460320	slightly lowered	460360	463440
+eye gaze	to addressee	457880	463360	left	463400	463440
+eye aperture	start	457880	458160	closed	458200	462800	squint	462840	463440
+nose	start	457880	458360	wrinkle	458400	458840	start	458880	459760	wrinkle	459800	459960	start	460000	462080	wrinkle	462120	462920	end	462960	463440
+POS	Discourse Marker	458160	458520	Particle	458560	458840	Classifier	459040	459680	Pronoun	459760	459840	Verb	459920	460000	Adverb	460040	460240	Noun	460360	460600	Classifier	460720	461000	Negation	461080	461400	Conjunction	461440	461640	Verb	461720	461800	Adjective	461920	462080	Noun	462200	462800
+Non-dominant POS	Classifier	459040	459680	Classifier	460720	461000	Conjunction	461440	461640
+English translation	Really, we dont only just talk about economic but the culture too.
+Notes - number of character bytes:	33
+-not sure if second CL is correct
+
+
+Utterance ID:	73
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	463440
+End frame:	467960
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	REALLY	463640	463720	PEOPLE	463800	464160	IX-3p-arc	464200	464840	part:indef	464960	465400	MORE	465520	465720	FRIENDLY	465840	466240	HERE	466320	466480	IN	466560	466680	GENERAL	466720	467200	MORE	467280	467520	FRIENDLY	467600	467960
+non-dominant hand gloss	PEOPLE	463800	464160	|>		464720
+head pos: tilt fr/bk	front	463440	463720	start	463760	466520	front	466560	467840	end	467880	467960
+head pos: turn	left	463440	463720	start	463760	464560	right	464600	465480	start	465520	466320	left	466360	467480	end	467520	467960
+head pos: tilt side	slightly left	463440	463560	start	463600	464920	slightly left	464960	466400	start	466440	466520	left	466560	467560	end	467600	467960
+head pos: jut	start	463440	465960	back/left	466000	466600	end	466640	467280
+body lean	start	463440	465960	back right	466000	466880	end	466920	467960
+eye brows	slightly lowered	463440	466400	start	466440	466520	lowered	466560	467960
+eye gaze	left	463440	463600	to addressee	463640	467960
+eye aperture	squint	463440	464960	closed	465000	465600	start	465640	465880	squint	465920	467960
+nose	start	465520	466520	wrinkle	466560	467960
+POS	Discourse Marker	463640	463720	Noun	463800	464160	Determiner	464200	464840	Particle	464960	465400	Adjective	465520	465720	Adjective	465840	466240	Pronoun	466320	466480	Preposition	466560	466680	Adjective	466720	467200	Adjective	467280	467520	Adjective	467600	467960
+Non-dominant POS	Noun	463800	464160
+English translation	Boston people in Boston is more friendly in general.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	74
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	467960
+End frame:	473640
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	015
+main gloss	SAME	468000	468040	FOR	468160	468320	EXAMPLE	468440	468640	FINE	468800	469080	DRIVE	469160	470080	IX-1p	470440	470920	part:indef	471200	471280	SAME	471360	471560	cl:3"cars toward to each other"	471640	472320	HERE	472480	472880	SITUATION	473000	473640
+non-dominant hand gloss	DRIVE	469160	470080	|>		471360
+head pos: tilt fr/bk	start	467960	468200	front	468240	468560	start	468600	468640	back	468680	472880	end	472920	473640
+head pos: turn	start	467960	468160	right	468200	468800	start	468840	470280	left	470320	472880	start	472920	473560	right	473600	473640
+head pos: tilt side	start	467960	468360	slightly right	468400	469240	start	469280	470400	slightly right	470440	471280	end	471320	471640
+head pos: jut	start	467960	469000	slightly forward	469040	471360	start	471400	471560	back/left	471600	472360	start	472400	473120	back	473160	473480	end	473520	473640
+head mvmt: nod	start	472480	472960	single	473000	473600	end	473640	473640
+body lean	start	467960	469320	slightly forward	469360	470880	start	470920	472240	slightly forward	472280	473000	end	473040	473640
+eye brows	lowered	467960	469320	start	469360	473520	lowered	473560	473640
+eye gaze	to addressee	467960	473640
+eye aperture	squint	467960	469080	end	469120	470920
+nose	wrinkle	467960	469080	end	469120	470080
+POS	Adjective	468000	468040	Preposition	468160	468320	Noun	468440	468640	Adjective	468800	469080	Verb	469160	470080	Pronoun	470440	470920	Particle	471200	471280	Adjective	471360	471560	Classifier	471640	472320	Noun	472480	472880	Noun	473000	473640
+Non-dominant POS	Verb	469160	470080
+English translation	Like for an example, for driving part, in Boston, when two cars toward to each other situation.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	75
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	473640
+End frame:	478240
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	015
+main gloss	cl:3"cars toward to each other"	474000	474400	IX-1p	474520	474680	SAME	474760	474840	part:indef	474920	475240	cl:5"go ahead"	475320	476320
+non-dominant hand gloss	DRIVE	474640	474760	|>		476320	"wave"	476640	476880	THANK	477000	477520	"wave"	477680	478240
+head pos: tilt fr/bk	start	473640	474520	front	474560	476160	start	476200	476840	front	476880	476920	start	476960	477640	front	477680	478240
+head pos: turn	right	473640	474600	start	474640	476520	left	476560	478240
+head pos: tilt side	start	473640	474880	right	474920	475160	start	475200	475440	left	475480	476080	start	476120	476520	left	476560	478240
+head pos: jut	start	474920	475480	forward	475520	476120	end	476160	478240
+head mvmt: nod	start	476280	476440	single	476480	476880	start	476920	477200	single	477240	477800	end	477840	478240
+head mvmt: side to side	start	473640	474880	slow	474920	477680	end	477720	478240
+body lean	start	473640	474680	slightly forward	474720	477240	start	477280	477520	forward	477560	478240
+eye brows	lowered	473640	474600	start	474640	478040	raised	478080	478240
+eye gaze	to addressee	473640	474480	left	474520	474880	down	474920	475240	to addressee	475280	478240
+eye aperture	start	473640	474000	squint	474040	474480	start	474520	476280	squint	476320	477840	start	477920	478200	wide	478240	478240
+POS	Classifier	474000	474400	Pronoun	474520	474680	Adjective	474760	474840	Particle	474920	475240	Classifier	475320	476320
+Non-dominant POS	Verb	474640	474760	Verb	476640	476880	Verb	477680	478240
+English translation	Driver would say go ahead, let another car pass by, say thank you and wave at each other.
+Notes - number of character bytes:	24
+- Whats POS for "thank"?
+
+
+Utterance ID:	76
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	478240
+End frame:	483480
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	016
+main gloss	part:indef	478520	478600	IN	478760	478840	ns-LA	478920	479240	DO	479440	479560	THAT	479680	479840	NO	479920	480720	NOT-CARE	480920	481600	FUTURE	481680	481760	cl:3"car driving pass by another car"	481880	483480
+non-dominant hand gloss	IX-loc:i	479000	479400
+head pos: tilt fr/bk	front	478240	478440	start	478480	478760	slightly back	478800	479200	start	479240	479480	front	479520	479880	start	479920	481160	slightly back	481200	483360	start	483400	483480
+head pos: turn	left	478240	478240	start	478280	478600	right	478640	479800	start	479840	480160	slightly left	480200	480320	start	480360	480720	right	480760	483480
+head pos: tilt side	slightly left	478240	478360	start	478400	478640	left	478680	480440	start	480480	481280	right	481320	483480
+head pos: jut	start	478240	478640	slightly back	478680	479000	start	479040	479320	back/right	479360	479800	end	479840	483480
+head mvmt: shake	start	479840	479960	slow	480000	481160	end	481200	481600
+body lean	slightly forward	478240	478560	start	478600	483400	forward	483440	483480
+eye brows	slightly raised	478240	478360	start	478400	478400	raised	478440	478960	start	479000	479200	lowered	479240	479320	start	479360	479480	raised	479520	479600	start	479640	479840	lowered	479880	481880	start	481960	483440	raised	483480	483480
+eye gaze	to addressee	478600	483480
+eye aperture	wide	478240	478920	start	478960	479240	squint	479280	480440	start	480480	480720	closed	480760	482800	start	482840	483440	squint	483480	483480
+nose	start	478240	479000	wrinkle	479040	483480
+negative	neg	480000	481160
+POS	Particle	478520	478600	Preposition	478760	478840	Proper Noun	478920	479240	Verb	479440	479560	Pronoun	479680	479840	Negation	479920	480720	Negation	480920	481600	Tense Marker	481680	481760	Classifier	481880	483480
+Non-dominant POS	Pronoun	479000	479400
+English translation	But in LA, they didnt do that, they dont care and would just drive pass by.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	77
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	483480
+End frame:	494960
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	IX-1p	483600	483840	part:indef	483960	484080	FEW	484280	484400	TIME	484520	484640	IN	484760	484840	ns-LA	484960	485280	IX-1p	485360	485680	cl:5"go ahead"	485960	486640	IX-1p	486800	486960	NOT-KNOW	487040	487280	IX-3p:i	487440	487520	cl:3"car passing by"	489520	490200	IX-1p	490320	491200	"wave"	491560	492160	IX-2p:i	492240	492360	WELCOME	492400	492800	TOO	492840	493120	DRIVE	494000	494680	part:indef	494840	494960
+non-dominant hand gloss	DRIVE	484000	484040	|>		484440	DRIVE	486040	486080	|>		486680	THANK	487600	487960	fs-BACK	488040	488320	STILL	488440	488520	IGNORE	488640	489040	DRIVE	490200	490480	|>		493040	FORGET-IT	493360	493760
+head pos: tilt fr/bk	start	483480	484080	slightly back	484120	485480	start	485520	489680	slightly back	489720	490080	start	490120	493120	slightly front	493160	494120	end	494160	494960
+head pos: turn	right	483480	485360	start	485400	486400	left	486440	488560	start	488600	489520	right	489560	490160	start	490200	490640	left	490680	491000	start	491040	493400	right	493440	494960
+head pos: tilt side	right	483480	483720	start	483760	484000	left	484040	485320	start	485360	485880	right	485920	488560	start	488600	489320	slightly left	489360	489880	start	489920	494800	left	494840	494960
+head pos: jut	start	483480	484000	forward	484040	485360	start	485400	486040	forward	486080	487280	start	487320	491000	slightly back	491040	494960
+body lean	slightly forward	483480	486040	start	486080	486480	forward	486520	488120	start	488160	494040	slightly forward	494080	494960
+eye brows	raised	483480	485880	start	485920	488400	lowered	488440	489680	start	489720	494920	lowered	494960	494960
+eye gaze	to addressee	483480	487400	down/left	487440	488440	to addressee	488480	490120	left	490160	492960	to addressee	493000	494960
+eye aperture	squint	483480	483520	start	483560	483800	wide	483840	485680	start	485720	487040	lowered lid	487080	488040	start	488080	488360	squint	488400	490120	start	490160	490640	wide	490680	491640	start	491680	494320	squint	494360	494960
+nose	wrinkle	483480	483560	start	483600	488320	wrinkle	488360	490160	start	490200	494800	wrinkle	494840	494960
+POS	Pronoun	483600	483840	Particle	483960	484080	Adjective	484280	484400	Noun	484520	484640	Preposition	484760	484840	Proper Noun	484960	485280	Pronoun	485360	485680	Classifier	485960	486640	Pronoun	486800	486960	Negation	487040	487280	Pronoun	487440	487520	Classifier	489520	490200	Pronoun	490320	491200	Verb	491560	492160	Pronoun	492240	492360	Adjective	492400	492800	Adverb	492840	493120	Verb	494000	494680	Particle	494840	494960
+Non-dominant POS	Verb	484000	484040	Verb	486040	486080	Verb	487600	487960	Noun	488040	488320	Adverb	488440	488520	Verb	488640	489040	Verb	490200	490480	Verb	493360	493760
+English translation	Happened to me few times in LA, while I was driving, I said go ahead since I didnt know what they are like.  I expected them to say thank you but they ignored instead, I thought you are welcome but forget it.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	78
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	494960
+End frame:	502920
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	part:indef	494960	495720	REALLY	496080	496200	SAME	496520	496720	IN	496800	497000	FOOD	497160	497320	STORE	497440	498360	#OR	498440	498640	RESTAURANT	498720	499720	fs-BANKS	499960	501000	REALLY	501160	501400	VARY	501560	501960	MANY	502040	502160	DIFFERENT	502240	502560	PLACE	502680	502920
+non-dominant hand gloss	part:indef	494960	495720	|>		496280	STORE	497440	498360	|>		499760
+head pos: tilt fr/bk	start	494960	495200	slightly front	495240	496560	start	496600	496840	back	496880	501240	start	501280	502000	slightly front	502040	502920
+head pos: turn	right	494960	496200	start	496240	496760	left	496800	497480	start	497520	498680	slightly right	498720	500840	start	500880	501760	left	501800	502000	start	502040	502480	slightly right	502520	502920
+head pos: tilt side	left	494960	496240	start	496280	496760	right	496800	497520	start	497560	498640	left	498680	499320	start	499360	499960	right	500000	500520	start	500560	501120	left	501160	501960	start	502000	502400	end	502440	502920
+head pos: jut	slightly back	494960	496080	start	496120	498760	forward	498800	501960	end	502000	502920
+body lean	slightly forward	494960	496280	start	496320	498720	left	498760	499360	start	499400	500240	right	500280	500600	start	500640	501320	left	501360	502680	end	502720	502920
+eye brows	lowered	494960	496200	start	496240	496600	raised	496640	501080	end	501120	501960
+eye gaze	to addressee	494960	502920
+eye aperture	squint	494960	495440	blink	495480	495840	squint	495880	496360	start	496400	496560	wide	496600	500000	start	500040	500280	squint	500320	500960	closed	501000	502080	start	502120	502160	lowered lid	502200	502920
+nose	wrinkle	494960	496360	start	496400	496720	tensed	496760	502080	end	502120	502920
+POS	Particle	494960	495720	Discourse Marker	496080	496200	Adjective	496520	496720	Preposition	496800	497000	Noun	497160	497320	Noun	497440	498360	Conjunction	498440	498640	Noun	498720	499720	Noun	499960	501000	Discourse Marker	501160	501400	Adjective	501560	501960	Adjective	502040	502160	Adjective	502240	502560	Noun	502680	502920
+Non-dominant POS	Particle	494960	495720	Noun	497440	498360
+English translation	Its same kind of situation in food shopping, banks, and many different places.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	79
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	502920
+End frame:	511600
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	HERE	503160	503400	ONLY	503640	503960	GET	504040	504200	GOOD	504360	504560	SERVICE	504640	505600	NOT	505760	505840	100	505960	506160	PERCENT	506200	506400	#OF	506440	506600	TIME	506680	506880	NO	506960	507200	BUT	507280	507520	TEND	507640	507800	GOOD	507960	508200	SERVICE	508320	508800	FUTURE	508920	509080	MAKE	509280	509520	SURE	509560	509840	FEEL	510160	510280	COMFORTABLE	510520	510880	"gesture"	511000	511480	PERFECT	511560	511600
+non-dominant hand gloss	HERE	503160	503400	|>		504000	GET	504040	504200	|>		504560	SERVICE	504640	505600	|>		506240
+head pos: tilt fr/bk	front	502920	503200	start	503240	504480	back	504520	505120	start	505160	505280	front	505320	505560	start	505600	506000	back	506040	506640	start	506680	507000	front	507040	511600
+head pos: turn	slightly right	502920	503400	start	503440	504080	slightly left	504120	504200	start	504240	504600	slightly right	504640	505560	start	505600	506760	left	506800	507400	start	507440	508120	right	508160	508800	start	508840	509800	slightly right	509840	511600
+head pos: tilt side	start	502920	504360	left	504400	505880	start	505920	506160	right	506200	506640	start	506680	507000	left	507040	508760	start	508800	509960	left	510000	510200	end	510240	511600
+head pos: jut	start	502920	503680	slightly back	503720	505120	start	505160	505960	back	506000	507120	start	507160	507760	forward	507800	508760	end	508800	509080
+body lean	slightly forward	502920	503320	start	503360	505160	back left	505200	506280	start	506320	507560	slightly forward	507600	508800	start	508840	509000	right	509040	509320	start	509360	509560	slightly forward	509600	509800	start	509840	509960	back left	510000	510320	start	510360	510520	slightly forward	510560	511600
+eye brows	start	502920	505600	raised	505640	506680	start	506720	507120	lowered	507160	511600
+eye gaze	to addressee	502920	511600
+eye aperture	lowered lid	502920	504120	start	504160	505720	wide	505760	506840	start	506880	507280	squint	507320	511600
+nose	start	502920	505760	tensed	505800	506760	start	506800	508880	wrinkle	508920	511600
+POS	Noun	503160	503400	Adjective	503640	503960	Verb	504040	504200	Adjective	504360	504560	Noun	504640	505600	Negation	505760	505840	Number	505960	506160	Noun	506200	506400	Preposition	506440	506600	Noun	506680	506880	Negation	506960	507200	Conjunction	507280	507520	Verb	507640	507800	Adjective	507960	508200	Noun	508320	508800	Tense Marker	508920	509080	Verb	509280	509520	Adjective	509560	509840	Verb	510160	510280	Adjective	510520	510880	Verb	511000	511480	Adjective	511560	511600
+Non-dominant POS	Noun	503160	503400	Verb	504040	504200	Noun	504640	505600
+English translation	In Boston, they have good service, well not 100 percent of time but normally did good which is perfect. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	80
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	511560
+End frame:	517320
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	014
+main gloss	IN	511800	512160	ns-LA	512280	512840	REALLY	513600	513720	SERVICE	513800	514160	REALLY	514200	514280	AWFUL	514360	514760	SOMETIME	514880	515080	SOME	515120	515320	PEOPLE	515400	515680	CAN-NOT	515840	515960	SPEAK	516000	516320	ENGLISH	516560	516720	part:indef	517200	517320
+non-dominant hand gloss	IX-loc:i	512920	513240	|>		513680	CAN-NOT	515840	515960	|>		516320
+head pos: tilt fr/bk	front	511560	512080	start	512120	513080	front	513120	517320
+head pos: turn	slightly right	511560	512040	start	512080	512080	right	512120	517320
+head pos: tilt side	start	511560	513680	left	513720	517320
+head pos: jut	start	511560	512160	back	512200	513200	start	513240	515440	forward	515480	517200	end	517240	517320
+body lean	slightly forward	511560	512040	start	512080	515400	slightly forward	515440	516920	end	516960	517320
+eye brows	lowered	511560	511640	start	511680	512040	raised	512080	513120	start	513160	513240	lowered	513320	514960	start	515000	515880	slightly lowered	515920	517200	end	517240	517320
+eye gaze	to addressee	511560	517320
+eye aperture	squint	511560	517320
+nose	wrinkle	511560	511600	start	511640	513200	wrinkle	513240	515320	end	515360	515840
+POS	Preposition	511800	512160	Proper Noun	512280	512840	Discourse Marker	513600	513720	Noun	513800	514160	Discourse Marker	514200	514280	Adjective	514360	514760	Noun	514880	515080	Adjective	515120	515320	Noun	515400	515680	Negation	515840	515960	Verb	516000	516320	Adjective	516560	516720	Particle	517200	517320
+Non-dominant POS	Pronoun	512920	513240	Negation	515840	515960
+English translation	In LA, they have awful service, some people couldn't speak english.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	81
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	517320
+End frame:	523960
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	016
+main gloss	IX-1p	517520	517600	fs-PEN	517680	517920	PAPER	518040	518200	WRITE	518320	518600	STILL	518720	518760	NOT	518880	518920	UNDERSTAND	519040	519440	part:indef	519560	519920	SAME	520000	520120	part:indef	520240	520800	SAME	520960	521080	IN	521120	521160	HOW	521200	521360	BAD	521480	521760	IN	521920	522040	IX-loc:i	522120	522560	part:indef	522680	522840	ns-LA	522920	523320	part:indef	523840	523960
+non-dominant hand gloss	STILL	518720	518760	|>		519240
+head pos: tilt fr/bk	front	517320	517520	start	517560	517680	further front	517720	518720	start	518760	519640	back	519680	519840	start	519880	520400	back	520440	520840	start	520880	521280	front	521320	523600	end	523640	523960
+head pos: turn	right	517320	523960
+head pos: tilt side	left	517320	518880	start	518920	522720	left	522760	523960
+head pos: jut	start	517320	517680	back	517720	521160	start	521200	523160	forward	523200	523360	end	523400	523960
+head mvmt: shake	start	519560	519960	slight rapid headshake	520000	520880	end	520920	521080
+body lean	start	517320	518040	forward	518080	518880	start	518920	522080	slightly forward	522120	523480	end	523520	523960
+eye brows	slightly lowered	517320	517360	start	517400	517600	raised	517640	518520	start	518560	522080	lowered	522120	523960
+eye gaze	to addressee	517320	523960
+eye aperture	squint	517320	517360	start	517400	517640	wide	517680	519920	start	519960	520040	blink	520080	520320	start	520360	522000	squint	522040	523960
+nose	wrinkle	517320	517360	start	517400	522200	wrinkle	522240	523960
+negative	neg	520000	520880
+POS	Pronoun	517520	517600	Noun	517680	517920	Noun	518040	518200	Verb	518320	518600	Adverb	518720	518760	Negation	518880	518920	Verb	519040	519440	Particle	519560	519920	Adjective	520000	520120	Particle	520240	520800	Adjective	520960	521080	Preposition	521120	521160	Wh-word	521200	521360	Adjective	521480	521760	Preposition	521920	522040	Pronoun	522120	522560	Particle	522680	522840	Proper Noun	522920	523320	Particle	523840	523960
+Non-dominant POS	Adverb	518720	518760
+English translation	I asked for pen and paper to write, but they still don't understand me.  Thats how bad service it is in LA!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	82
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	523960
+End frame:	529840
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	015
+main gloss	PEOPLE	524320	524600	NOT	524760	525120	part:indef	525560	525640	fs-OUTGOING	525760	526880	VERY	527040	527280	UNKNOWN	527320	527640	FRIENDLY	527840	528240	WANT	528360	528480	IN	528960	529080	COMMUNITY	529160	529840
+non-dominant hand gloss	PEOPLE	524320	524600	|>		525360	part:indef	525560	525640	|>		526880	WELCOME	528680	528840
+head pos: tilt fr/bk	start	523960	524760	back	524800	527240	end	527280	528160
+head pos: turn	right	523960	524080	start	524120	525040	left	525080	527240	start	527280	528240	slightly right	528280	529120	start	529160	529800	slightly left	529840	529840
+head pos: tilt side	slightly left	523960	524080	end	524120	524600
+head pos: jut	start	523960	525560	back	525600	528240	end	528280	529840
+body lean	start	523960	525400	right	525440	527280	start	527320	528440	right	528480	529080	end	529120	529840
+shoulders	start	523960	525400	left up	525440	527080	start	527120	527320	up	527360	528440	start	528480	528800	left up	528840	529160	end	529200	529840
+eye brows	slightly lowered	523960	525080	end	525120	525640
+eye gaze	to addressee	523960	529840
+eye aperture	squint	523960	529840
+nose	wrinkle	523960	525080	end	525120	525640
+POS	Noun	524320	524600	Negation	524760	525120	Particle	525560	525640	Adjective	525760	526880	Adjective	527040	527280	Adjective	527840	528240	Verb	528360	528480	Preposition	528960	529080	Noun	529160	529840
+Non-dominant POS	Noun	524320	524600	Particle	525560	525640	Adjective	528680	528840
+English translation	People were not very outgoing, friendly that welcome us in the community.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	83
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_0.mov
+Video	NCSLGRv4:movies:boston-la:boston-la_1088_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	529840
+End frame:	536120
+Number of participant panes:	1
+Participant:	Michael Eric Schlang
+Number of fields:	013
+main gloss	IX-1p	530040	530120	THINK	530240	530400	BECAUSE	530520	530800	ns-LA	530840	531120	#SO	531240	531480	BIG	531520	532640	SAME	532720	532880	IX-loc:i	532960	533200	MAYBE	533280	533520	NOT-CARE	533600	533920	ABOUT	534000	534160	POSS-3p:i	534280	534360	COMMUNITY	534440	534800	MORE	535040	535160	SAME	535240	535360	IX-1p-arc	535520	535640	fs-DO	535720	535880
+non-dominant hand gloss	BIG	531520	532640	|>		533120	MORE	535040	535160	|>		535760
+head pos: tilt fr/bk	start	529840	530280	back	530320	530520	start	530560	531320	back	531360	531600	start	531640	534720	front	534760	535880	end	535920	536120
+head pos: turn	left	529840	530360	start	530400	532680	right	532720	533560	start	533600	533600	slightly right	533640	535880	start	535920	536080	slightly left	536120	536120
+head pos: jut	start	534280	534800	back	534840	536120
+body lean	forward	529840	535360	end	535400	536120
+eye brows	start	529840	529920	raised	529960	532640	end	532680	533200
+eye gaze	to addressee	529840	534920	left	534960	535360	to addressee	535400	535880	left	535920	536120
+eye aperture	start	529840	530040	squint	530080	535040	end	535080	535360
+nose	start	529840	530200	tensed	530240	531560	end	531600	533200
+POS	Pronoun	530040	530120	Verb	530240	530400	Preposition	530520	530800	Proper Noun	530840	531120	Preposition	531240	531480	Adjective	531520	532640	Adjective	532720	532880	Pronoun	532960	533200	Adverb	533280	533520	Negation	533600	533920	Adverb	534000	534160	Pronoun	534280	534360	Noun	534440	534800	Adjective	535040	535160	Adjective	535240	535360	Pronoun	535520	535640	Verb	535720	535880
+Non-dominant POS	Adjective	531520	532640	Adjective	535040	535160
+English translation	I think its probably because LA is big so they didnt really care about the community as much as we do.
+Notes - number of character bytes:	0

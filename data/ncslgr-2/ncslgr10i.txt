@@ -1,0 +1,179 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	ncslgr10i	Firewire 38200:NCSLGRv2:ncslgr10i
+Number of utterances:	6
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:640_master_small.mov
+Video	NCSLGRv2:video files:slave1:640_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:640_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1460
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	fs-JOHN	220	400	IX-3p:i	440	580	HOUSE	660	800	NOW	840	1000	READ+	1060	1240	BOOK+	1300	1440
+non-dominant hand gloss
+head pos: tilt fr/bk	start	0	300	slightly back	340	340	start	360	740	slightly front	760	1460
+head pos: tilt side	start	820	1020	slightly right	1040	1460
+head pos: turn	start	680	1000	slightly right	1020	1460
+head pos: jut	start	340	580	back	600	1460
+eye brows	start	120	200	slightly raised	220	340	start	360	480	lowered	500	820	lowered further	840	1000	lowered	1020	1140	start	1160	1360	raised	1380	1460
+eye aperture	blink	0	0	blink	60	100	start	120	320	wide	340	560	start	580	880	squint	900	980	start	1000	1120	wide	1140	1340	start	1360	1360	blink	1380	1380	start	1400	1440	wide	1460	1460
+eye gaze	right	420	520	down/right	1000	1140
+mouth	start	360	420	intense	440	960	start	980	1060	lips pursed: mm	1080	1240	end	1260	1460
+nose	start	340	500	tense	520	800	wrinkle	820	980	tense	1000	1380	end	1400	1460
+POS	Proper Noun	220	400	Determiner	440	580	Noun	660	800	Adverb	840	1000	Verb	1060	1240	Noun	1300	1440
+English translation	John is in the house right now reading a book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:640_master_small.mov
+Video	NCSLGRv2:video files:slave1:640_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:640_slave2_small.mov
+Video	
+Audio	
+Start frame:	1460
+End frame:	3020
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	IX-3p:i	1520	1620	KISS-FIST	1760	1800	READ+	1840	2020	ABOUT	2040	2120	#CAR	2200	2460	READ+++	2500	2920
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	1460	1460	start	1480	1720	slightly back	1740	1980	start	2000	2380	slightly front	2400	2420	start	2440	2940	slightly back	2960	3020
+head pos: tilt side	slightly right	1460	2100	right	2120	2940	slightly right	2960	3020
+head pos: turn	slightly right	1460	3020
+head pos: jut	back	1460	1460	end	1480	1700	start	2080	2280	back	2300	2440	end	2460	2580
+eye brows	raised	1460	1580	start	1600	1800	lowered	1820	1900	end	1920	1960
+eye aperture	wide	1460	1580	start	1600	1640	further lowered	1660	1780	squint	1800	1860	start	1880	2100	wide	2120	2460	start	2480	2540	lowered lid	2560	2820	blink	2860	2860	start	2880	2960	wide	2980	2980	blink	3020	3020
+eye gaze	up/right	1500	1600	down	2500	2580
+mouth	start	2480	2500	lips pursed: mm	2520	2820	end	2840	2880
+POS	Pronoun	1520	1620	Verb	1760	1800	Verb	1840	2020	Preposition	2040	2120	Noun	2200	2460	Verb	2500	2920
+English translation	He loves to read about cars.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:640_master_small.mov
+Video	NCSLGRv2:video files:slave1:640_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:640_slave2_small.mov
+Video	
+Audio	
+Start frame:	3020
+End frame:	5700
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	IX-3p:i	3380	3460	CAN'T	3500	3580	END	3620	3840	READ	3900	4000	BOOK	4040	4220	i:GIFT:j	4320	4580	#BACK	4700	4780	IX-3p:j	4800	5060	TEACHER	5140	5380	IX-loc:j	5560	5620
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	3020	3380	start	3400	3720	slightly front	3760	4180	end	4200	4320	start	4680	4780	slightly front	4800	4880	end	4900	5080	start	5180	5340	front	5360	5360	start	5380	5680	slightly back	5700	5700
+head pos: tilt side	slightly right	3020	4180	end	4200	4440
+head pos: turn	slightly right	3020	3820	end	3840	4200	start	4420	4740	slightly left	4760	4800	end	4820	4880	start	5120	5280	slightly left	5300	5700
+head pos: jut	start	3440	3620	back	3640	4500	end	4520	5360
+head mvmt: nod	single	5480	5700
+eye brows	start	3300	3400	raised	3420	4240	start	4260	4380	lowered	4400	4440	slightly lowered	4460	5360	start	5400	5660	raised	5680	5700
+eye aperture	blink	3020	3040	start	3060	3440	wide	3460	4180	start	4200	4200	blink	4220	4240	start	4400	4440	squint	4460	4460	end	4480	4520	blink	4840	4880	blink	5400	5460	start	5620	5640	blink	5660	5680
+eye gaze	right	3200	3340	right	3480	3800	up/left	4720	4820	up/right	5600	5640
+mouth	lips spread:crnrs down	4660	4980
+POS	Pronoun	3380	3460	Modal + Negative	3500	3580	Verb	3620	3840	Verb	3900	4000	Noun	4040	4220	Verb	4320	4580	Particle	4700	4780	Determiner	4800	5060	Noun	5140	5380	Adverb	5560	5620
+English translation	If he can't finish reading the book, then he will give it back to the teacher.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:640_master_small.mov
+Video	NCSLGRv2:video files:slave1:640_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:640_slave2_small.mov
+Video	
+Audio	
+Start frame:	5700
+End frame:	7000
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	011
+main gloss	FINISH	5820	6040	FUTURE	6120	6220	BUY	6360	6460	OTHER	6520	6600	BOOK	6680	6920
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	5700	5760	end	5780	5940	start	6020	6160	slightly back	6180	6600	start	6620	6800	slightly front	6840	6840	end	6860	6940
+head pos: tilt side	start	5980	6100	slightly right	6120	7000
+head pos: turn	slightly left	5700	6280	end	6300	6540
+head mvmt: nod	single	5760	5960	rapid	6080	6740
+eye brows	raised	5700	5960	end	5980	6080
+eye aperture	start	5700	5840	wide	5860	6000	end	6020	6060	blink	6780	6800
+eye gaze	left	5760	5880
+POS	Discourse Marker	5820	6040	Tense Marker	6120	6220	Verb	6360	6460	Adjective	6520	6600	Noun	6680	6920
+English translation	After finishing the book, (he) will buy another book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:640_master_small.mov
+Video	NCSLGRv2:video files:slave1:640_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:640_slave2_small.mov
+Video	
+Audio	
+Start frame:	7000
+End frame:	9400
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	010
+main gloss	MOTHER-FATHER	7200	7320	(2h)alt:GIVE++:i	7400	7660	MANY	7740	7880	BOOK	7960	8080	(2h)alt:GIVE++:i	8120	8320	READ+	8420	8600	EVERYDAY++	8680	9260
+non-dominant hand gloss
+head pos: tilt fr/bk	start	7000	7220	slightly back	7240	7640	end	7660	7860	start	8400	8620	slightly back	8640	9400
+head pos: tilt side	slightly right	7000	7080	end	7100	7220	start	7320	7440	slightly left	7460	7680	start	7700	7940	slightly right	7960	7960	end	8000	8100	start	8320	8500	slightly right	8520	9020	start	9040	9280	slightly left	9300	9400
+head pos: turn	start	7040	7260	slightly right	7280	7420	start	7440	7660	left	7680	7820	start	7840	8140	right	8160	8200	start	8220	8620	left	8640	8700	start	8720	9120	right	9140	9400
+head mvmt: side to side	start	7040	7260	slow	7280	9120	end	9140	9400
+eye brows	start	7000	7160	raised	7180	7280	end	7300	7320	start	7340	7480	lowered	7500	7800	end	7820	7880	start	8040	8160	lowered	8180	8560	slightly lowered	8580	9140	start	9160	9340	raised	9360	9400
+eye aperture	start	7020	7100	wide	7120	7280	start	7300	7360	blink	7380	7680	squint	7700	7800	end	7820	7880	start	8000	8040	closed	8060	8300	start	8320	8400	squint	8420	8560	start	8580	8620	closed	8640	8960	start	8980	9080	squint	9100	9160	end	9200	9340
+POS	Noun	7200	7320	Verb	7400	7660	Quantifier	7740	7880	Noun	7960	8080	Verb	8120	8320	Verb	8420	8600	Adverb	8680	9260
+English translation	His parents give him many books and he reads them everyday.
+Notes - number of character bytes:	20
+needs topic marking
+
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:640_master_small.mov
+Video	NCSLGRv2:video files:slave1:640_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:640_slave2_small.mov
+Video	
+Audio	
+Start frame:	9400
+End frame:	11040
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	TEACHER	9660	9720	WANT	9780	9900	IX-3p:i	9920	9960	READ	10020	10100	A-LOT	10180	10340	BOOK+	10460	10640
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	9400	9620	end	9640	9800	start	9980	10100	slightly front	10120	10300	end	10320	10400
+head pos: tilt side	slightly left	9400	9420	start	9440	9780	further right	9800	10320	end	10340	10740
+head pos: turn	right	9400	9400	end	9420	9700
+head mvmt: nod	single	9720	9900
+eye brows	start	9400	9540	raised	9560	9700	end	9720	9760	start	9780	9960	lowered	9980	10060	end	10080	10360
+topic	top1	9560	9760
+eye aperture	start	9520	9540	blink	9560	9560	start	9580	9700	squint	9720	9840	end	9860	9880	start	9920	9960	squint	9980	10120	closed	10140	10280	end	10300	10340	start	10560	10580	blink	10600	10620	end	10640	10740
+eye gaze	right	9840	9960
+POS	Noun	9660	9720	Verb	9780	9900	Pronoun	9920	9960	Verb	10020	10100	Quantifier	10180	10340	Noun	10460	10640
+English translation	The teacher wants him to read a lot of books.
+Notes - number of character bytes:	0

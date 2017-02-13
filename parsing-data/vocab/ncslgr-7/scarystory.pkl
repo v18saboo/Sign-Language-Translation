@@ -1,0 +1,102 @@
+(lp0
+S'ICL:removing the nail'
+p1
+aS'ICL:throwing heart away'
+p2
+aS'ICLopening the knob'
+p3
+aS'NAH'
+p4
+aS'fs:COFFIN'
+p5
+aS'ICL:putting cover on the coffin'
+p6
+aS"BCL:tapping someone's shoulder"
+p7
+aS'part:indef'
+p8
+aS'ICL:pulling heart out of the body'
+p9
+aS'PATH'
+p10
+aS'BCL:putting person in the coffin'
+p11
+aS'FINE'
+p12
+aS'ICL:removing the cover'
+p13
+aS'CL:eating heart'
+p14
+aS'IX-1p'
+p15
+aS'ICL:heart beating in the hand'
+p16
+aS'SCL:1person walking downstair'
+p17
+aS'BCL:picking person up'
+p18
+aS'DCL:shape of the wood'
+p19
+aS'RAIN++'
+p20
+aS'whew'
+p21
+aS"BCL:tapping person's shoulder"
+p22
+aS'AWAKE'
+p23
+aS'BCL:dead person'
+p24
+aS'SCL:5house shaking'
+p25
+aS'SCL:house shaking'
+p26
+aS'ICL:getting object'
+p27
+aS'LOUD+'
+p28
+aS'ICL:nailing'
+p29
+aS'WHAT'
+p30
+aS'BPCL:kicking'
+p31
+aS'BCL:looking back'
+p32
+aS'LIGHTING'
+p33
+aS'BCL:putting the cover on'
+p34
+aS'LOUD++'
+p35
+aS'SCL:1person walking upstair'
+p36
+aS'(2h)CL:5walking by the forest'
+p37
+aS'FALL-ASLEEP'
+p38
+aS'yawn'
+p39
+aS"ICL:grabbing someone's heart"
+p40
+aS'CL:5walking by the tree'
+p41
+aS'BCL:uncovering the blanket'
+p42
+aS'BCL:looking at dead person'
+p43
+aS'WOOD'
+p44
+aS'SUNSET'
+p45
+aS'THAT'
+p46
+aS'BCL:covering the blanket'
+p47
+aS'(2h)CL:5walking into a house'
+p48
+aS'SUNRISE'
+p49
+aS'BCL:Sperson walking'
+p50
+a.

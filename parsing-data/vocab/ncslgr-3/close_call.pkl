@@ -1,0 +1,172 @@
+(lp0
+S'DRY'
+p1
+aS'CL:5person looking at'
+p2
+aS'fs-US'
+p3
+aS'EIGHTY'
+p4
+aS'CL:3vehicle'
+p5
+aS'DARK'
+p6
+aS'HILL'
+p7
+aS'IX-loc-i'
+p8
+aS'part:indef'
+p9
+aS'BORE'
+p10
+aS'CL:5noise from the vehicle'
+p11
+aS'DELICIOUS'
+p12
+aS'ROAD'
+p13
+aS'DRIVE+'
+p14
+aS'SAFE'
+p15
+aS'CURVE'
+p16
+aS'SIGN'
+p17
+aS'WHICH'
+p18
+aS'CL:3vehicle fall'
+p19
+aS'BEAUTIFUL'
+p20
+aS'ON'
+p21
+aS'LOOK'
+p22
+aS'CL:2four legs walking'
+p23
+aS'HOUSE'
+p24
+aS'CL:Bcrossing the road'
+p25
+aS'COUNTRY'
+p26
+aS'CL:5size of the object'
+p27
+aS'REALLY'
+p28
+aS'BPCL:Feyes moving'
+p29
+aS'BUT'
+p30
+aS'THUMB-IX-3p:j'
+p31
+aS'IX-loc:i'
+p32
+aS'BRAKE'
+p33
+aS'SOMETHING'
+p34
+aS'AHEAD'
+p35
+aS'WOW'
+p36
+aS'MIDDLE'
+p37
+aS'CL:1passing by'
+p38
+aS'IX-3p:i'
+p39
+aS'(2h)CL:5head lights on'
+p40
+aS'SCARE'
+p41
+aS'HIGHWAY'
+p42
+aS'DRIVE++'
+p43
+aS'NOT'
+p44
+aS'SPIN++'
+p45
+aS'SHOCK'
+p46
+aS'DEER'
+p47
+aS'CL:5eating'
+p48
+aS'CL:3vehicle moving'
+p49
+aS'DECIDE'
+p50
+aS'CL:5chewing'
+p51
+aS'GRASS'
+p52
+aS'ENJOY'
+p53
+aS'HEART'
+p54
+aS'IX-1p'
+p55
+aS'SLOW'
+p56
+aS'REMEMBER'
+p57
+aS'LOOK-UP'
+p58
+aS'FAST'
+p59
+aS'SEE'
+p60
+aS'WHY'
+p61
+aS'AGAIN'
+p62
+aS'CL:3vehicle moving turn'
+p63
+aS'HAPPEN'
+p64
+aS'TRIP'
+p65
+aS'CL:Sturning the wheel'
+p66
+aS'CL:5person shocking'
+p67
+aS'CL:5plain on the road++'
+p68
+aS'ACROSS'
+p69
+aS'DO'
+p70
+aS'NOTICE'
+p71
+aS'DRIVE'
+p72
+aS'fs-BRAKE'
+p73
+aS'CL:Sheart beating++'
+p74
+aS'CL:5plain'
+p75
+aS"CL:5deer's looking to me"
+p76
+aS'CL:Bdriving curve'
+p77
+aS'CL:3vehicle turning'
+p78
+aS'PAST+'
+p79
+aS'fs-OR'
+p80
+aS'THINK'
+p81
+aS'TURN-OFF'
+p82
+aS'CL:Sholding the wheel'
+p83
+aS'CL:3vehicle move over'
+p84
+aS'ANIMAL'
+p85
+a.

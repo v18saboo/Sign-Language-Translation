@@ -1,0 +1,595 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	ncslgr10k	Firewire 38200:NCSLGRv2:ncslgr10k
+Number of utterances:	20
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:b-881_698_master_small.mov
+Video	NCSLGRv2:video files:slave1:b-881_698_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:b-881_698_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1440
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	120	280	KNOW	400	440	IX-3p:i	520	560	MAN	640	780	IX-loc:i	880	1020
+non-dominant hand gloss
+head pos: tilt fr/bk	start	240	460	slightly front	480	900	end	920	1100
+head pos: tilt side	start	180	360	slightly right	380	900	end	920	1100
+head pos: turn	start	140	400	slightly right	420	840	end	860	1100
+head pos: jut	start	300	460	back	480	920	end	940	1080
+eye brows	start	180	360	slightly lowered	380	920	end	940	1100
+eye aperture	start	280	360	squint	380	540	slightly lowered	560	880	end	900	1060
+nose	start	220	360	tense	380	840	end	860	1100
+mouth	lips spread:crnrs down	520	620
+POS	Proper Noun	120	280	Verb	400	440	Determiner	520	560	Noun	640	780	Adverb	880	1020
+English translation	John knows that man over there.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:b-882_699_master_small.mov
+Video	NCSLGRv2:video files:slave1:b-882_699_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:b-882_699_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1318
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	fs-JOHN	0	260	KNOW	320	420	IX-3p:i	500	540	MAN	620	780	IX-loc:i	840	1000
+non-dominant hand gloss
+head pos: tilt fr/bk	start	280	520	slightly front	540	860	end	880	1080
+head pos: tilt side	start	260	400	slightly right	420	560	end	580	1000
+head pos: turn	start	280	580	slightly right	600	620	end	660	880
+head pos: jut	start	320	520	back	540	820	end	840	1060
+eye brows	start	240	360	slightly lowered	380	780	end	800	1120
+eye aperture	blink	0	40	start	240	360	squint	380	380	slightly lowered	400	600	blink	620	620	lowered lid	640	880	end	900	1080
+eye gaze	right	440	580
+nose	start	60	260	tense	280	860	end	880	1040
+mouth	lips spread:crnrs down	520	620
+POS	Proper Noun	0	260	Verb	320	420	Determiner	500	540	Noun	620	780	Adverb	840	1000
+English translation	John knows the man over there.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:b-883_700_master_small.mov
+Video	NCSLGRv2:video files:slave1:b-883_700_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:b-883_700_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1454
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	260	400	KNOW	520	560	IX-3p:i	660	720	MAN	840	960	IX-loc:i	1080	1140
+non-dominant hand gloss
+head pos: tilt fr/bk	start	160	240	slightly back	260	440	start	700	920	slightly front	940	980	end	1000	1160
+head pos: tilt side	start	440	740	slightly right	760	1000	end	1020	1260
+head pos: jut	start	200	300	forward	320	380	end	400	500
+eye brows	start	240	500	slightly lowered	520	1020	end	1040	1160
+eye aperture	start	300	460	squint	480	760	blink	780	840	end	880	1100
+eye gaze	right	620	780
+nose	start	160	300	tense	320	1040	end	1060	1340
+mouth	lips spread:crnrs down	660	840
+POS	Proper Noun	260	400	Verb	520	560	Determiner	660	720	Noun	840	960	Adverb	1080	1140
+English translation	John knows the man over there.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:b-884_701_master_small.mov
+Video	NCSLGRv2:video files:slave1:b-884_701_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:b-884_701_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1814
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	010
+main gloss	fs-JOHN	300	440	KNOW	580	600	IX-3p:i	700	760	MAN	860	960	IX-loc:i	1100	1200
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	0	420	end	440	580	start	740	900	slightly front	940	1240	end	1260	1460
+eye brows	start	420	560	lowered	580	1200	end	1220	1460
+eye aperture	start	380	500	squint	520	1180	blink	1200	1280	end	1300	1460
+eye gaze	right	1000	1180
+nose	start	140	520	wrinkle	540	980	end	1000	1200
+mouth	lips spread:crnrs down	720	920
+POS	Proper Noun	300	440	Verb	580	600	Determiner	700	760	Noun	860	960	Adverb	1100	1200
+English translation	John knows the man over there.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:b-885_702_master_small.mov
+Video	NCSLGRv2:video files:slave1:b-885_702_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:b-885_702_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1538
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	fs-JOHN	440	540	KNOW	680	700	IX-3p:i	760	840	MAN	880	960	IX-loc:i	1040	1240
+non-dominant hand gloss
+head pos: tilt fr/bk	start	460	660	slightly front	680	1120	end	1140	1400
+head pos: tilt side	start	480	700	slightly right	720	1080	end	1100	1320
+head pos: jut	start	460	640	back	660	1140	end	1180	1360
+eye brows	start	300	460	slightly raised	480	480	start	500	600	lowered	620	940	end	960	1280
+eye gaze	right	700	1100
+eye aperture	start	380	500	wide	520	520	start	540	640	squint	660	1100	blink	1120	1180	end	1200	1300
+nose	start	260	440	tense	460	680	end	700	940
+mouth	lips spread:crnrs down	780	880
+POS	Proper Noun	440	540	Verb	680	700	Determiner	760	840	Noun	880	960	Adverb	1040	1240
+English translation	John knows the man over there.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:b-886_703_master_small.mov
+Video	NCSLGRv2:video files:slave1:b-886_703_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:b-886_703_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	2095
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	fs-JOHN	300	460	|>		980	fs-MARY	1060	1160	LOVE	1300	1380	IX-3p:j	1420	1660
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	0	220	start	240	640	front	680	680	start	740	1040	slightly back	1060	2095
+head pos: tilt side	start	720	1100	slightly right	1120	1140	start	1160	1340	slightly left	1360	1580	end	1600	1760
+head mvmt: nod	slight rapid head nod	300	980
+shoulders	start	760	1040	back	1060	1140	start	1160	1300	forward	1320	1580	end	1600	1800
+topic	top3	300	980	top1	1040	1160
+eye brows	start	220	280	raised	300	1160	end	1180	1380
+eye aperture	start	300	420	squint	440	620	blink	640	640	start	660	720	wide	740	820	blink	840	880	start	900	1040	wide	1060	1180	start	1200	1280	closed	1300	1380	end	1400	1540
+eye gaze	right	980	1080
+POS	Proper Noun	300	980	Proper Noun	1060	1160	Verb	1300	1380	Pronoun	1420	1660
+mouth
+English translation	John, Mary loves him.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:b-887_704_master_small.mov
+Video	NCSLGRv2:video files:slave1:b-887_704_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:b-887_704_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	2178
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	015
+main gloss	fs-JOHN	400	660	|>		920	fs-MARY	1140	1420	IX-3p:i	1480	1560	LOVE	1660	1720	IX-3p:j	1780	1940
+non-dominant hand gloss
+head pos: tilt fr/bk	start	0	100	back	120	360	start	380	800	front	820	860	end	880	1020
+head pos: tilt side	start	760	1060	slightly right	1080	1440	end	1460	1680
+head pos: turn	start	1340	1600	right	1620	1780	end	1800	2178
+head pos: jut	start	1100	1360	back	1380	1680	end	1700	1780
+head mvmt: nod	start	0	380	slight rapid head nod	400	920	end	940	1020
+body lean	start	1500	1720	back left	1740	1820	end	1840	2178
+topic	top3	400	920	top2	1080	1460
+eye brows	start	280	400	raised	420	1460	start	1480	1600	slightly lowered	1620	2020	end	2040	2178
+eye aperture	blink	280	320	start	340	520	squint	540	780	blink	800	820	start	840	860	wide	880	920	start	940	940	blink	960	980	start	1000	1040	wide	1060	1540	start	1560	1580	closed	1600	1620	end	1640	1860
+eye gaze	right	1120	1180	right	1300	1400
+POS	Proper Noun	400	660	Proper Noun	1140	1420	Pronoun	1480	1560	Verb	1660	1720	Pronoun	1780	1940
+mouth
+English translation	You know John, he loves Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:b-888_705_master_small.mov
+Video	NCSLGRv2:video files:slave1:b-888_705_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:b-888_705_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1940
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	016
+main gloss	fs-JOHN	240	420	|>		820	fs-MARY	900	1140	IX-3p:i	1220	1240	LOVE	1340	1380	|>		1620
+non-dominant hand gloss
+head pos: tilt fr/bk	start	160	680	slightly front	700	1340	end	1360	1640
+head pos: tilt side	start	700	880	slightly right	900	1720	end	1740	1940
+head pos: turn	start	680	1020	slightly right	1060	1240	right	1260	1520	end	1540	1720
+head mvmt: nod	slight rapid head nod	240	680	end	700	760
+head pos: jut	start	240	420	back	440	1340	end	1360	1580
+subject agreement	start	1240	1320	agr-S	1340	1440	end	1460	1620
+body lean	start	860	1220	right	1240	1640	end	1660	1920
+topic	top3	180	680	top2	800	1140
+eye brows	start	40	160	raised	180	1140	start	1200	1360	slightly lowered	1380	1400	end	1420	1680
+object agreement
+eye aperture	blink	60	100	start	180	280	wide	300	300	start	320	420	squint	440	580	blink	600	620	start	640	680	wide	700	1180	start	1200	1240	closed	1260	1400	end	1420	1500	blink	1620	1640
+eye gaze	right	780	1040	left	1340	1580	further left	1640	1940
+POS	Proper Noun	240	420	Proper Noun	900	1140	Pronoun	1220	1240	Verb	1340	1640
+English translation	You know John? He loves Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	FireWire 39000:NCSLGRv2:video files:master:b-889_706_master_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave1:b-889_706_slave1_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave2:b-889_706_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1946
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	017
+main gloss	fs-JOHN	240	360	|>		780	fs-MARY	860	1180	IX-3p:i	1220	1260	LOVE	1400	1420	|>		1640
+non-dominant hand gloss
+head pos: tilt fr/bk	start	240	640	slightly front	680	680	end	700	760	start	1320	1440	front	1460	1460	end	1520	1720
+head pos: tilt side	start	840	1120	slightly right	1140	1180	start	1200	1400	right	1420	1440	end	1460	1840
+head pos: turn	start	700	1040	slightly right	1060	1220	right	1240	1500	end	1520	1840
+head pos: jut	start	700	1020	back	1040	1420	end	1440	1620
+head mvmt: nod	slight rapid head nod	240	780
+subject agreement	start	1280	1380	agr-S	1400	1460	end	1480	1480
+body lean	start	1420	1680	forward right	1700	1700	end	1720	1946
+eye brows	start	100	200	raised	220	1180	end	1200	1320
+object agreement	agr-O	1400	1580	end	1600	1680
+eye aperture	blink	60	100	start	240	280	wide	300	360	start	380	480	squint	500	580	blink	600	640	start	660	680	wide	700	1280	blink	1300	1420	end	1440	1660	blink	1700	1740
+eye gaze	down/right	920	1100	left	1760	1946
+topic	top3	220	700	top1	800	1180
+mouth
+POS	Proper Noun	240	360	Proper Noun	860	1180	Pronoun	1220	1260	Verb	1360	1660
+English translation	It is Mary whom John loves.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	FireWire 39000:NCSLGRv2:video files:master:b-890_707_master_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave1:b-890_707_slave1_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave2:b-890_707_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1789
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	014
+main gloss	fs-JOHN	80	260	|>		480	fs-MARY	600	700	IX-loc:j	800	840	IX-3p:i	1060	1080	LOVE	1160	1340	IX-3p:j	1520	1520
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	0	0	start	20	340	slightly front	360	820
+head pos: tilt side	start	0	20	slightly left	40	40	end	60	260	start	560	660	slightly right	680	1080	start	1100	1180	right	1200	1240	end	1260	1520
+head pos: turn	start	1080	1180	right	1200	1340	end	1360	1600
+head pos: jut	start	120	320	back	340	1220	end	1240	1420
+head mvmt: nod	start	20	40	slight rapid head nod	60	540
+shoulders	start	1220	1320	forward/right	1340	1480	end	1500	1700
+topic	top3	80	480	top2	520	840
+eye brows	start	0	60	raised	80	840	end	860	1080
+eye aperture	blink	0	20	start	40	200	squint	220	420	start	440	480	wide	500	860	end	900	1020	blink	1100	1220	blink	1520	1560
+eye gaze	right	560	720
+POS	Proper Noun	80	260	Proper Noun	600	700	Adverb	800	840	Pronoun	1060	1080	Verb	1160	1340	Pronoun	1520	1520
+English translation	It is Mary whom John loves.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	FireWire 39000:NCSLGRv2:video files:master:b-891_708_master_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave1:b-891_708_slave1_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave2:b-891_708_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	2334
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	CHINA	320	660	VEGETABLE	880	1120	PEOPLE	1200	1320	PREFER	1380	1520	BROCCOLI	1600	2100
+non-dominant hand gloss
+head pos: tilt fr/bk	start	0	240	back	260	440	end	500	760	start	1380	1700	slightly front	1720	2140	end	2160	2280
+head pos: tilt side	start	0	340	slightly right	360	1120	start	1140	1440	slightly left	1460	2320
+head pos: turn	start	1200	1440	slightly right	1460	2100	end	2120	2334
+head pos: jut	start	60	300	forward	320	400	start	420	820	back	840	1040	end	1060	1140	start	1560	1960	forward	1980	2080	end	2100	2200
+head mvmt: nod	start	0	360	slight rapid head nod	380	600	rapid	1360	1560
+topic	top2	180	720	top2	760	1160
+eye brows	start	0	160	raised	180	1160	end	1180	1480
+eye aperture	blink	0	20	blink	80	140	start	160	300	wide	320	540	blink	560	600	start	640	920	wide	940	1040	blink	1060	1080	start	1100	1160	wide	1180	1260	start	1280	1300	closed	1320	1400	end	1420	1560	blink	2100	2160
+eye gaze	down/right	740	920	left	2280	2334
+POS	Proper Noun	320	660	Noun	880	1120	Noun	1200	1320	Verb	1380	1520	Noun	1600	2100
+English translation	In China, people prefer broccoli over other vegetables.
+Notes - number of character bytes:	57
+check headtilt
+
+Is there really a headnod over PREFER ???
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	FireWire 39000:NCSLGRv2:video files:master:b-892_709_master_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave1:b-892_709_slave1_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave2:b-892_709_slave2_small.mov
+Video	
+Audio	
+Start frame:	160
+End frame:	971
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	008
+main gloss	POSS-3p:i	280	380	NEW	460	580	CAR	640	820
+non-dominant hand gloss
+head pos: turn	start	180	300	left	320	460	end	480	880
+body lean	start	260	340	slightly back	360	440
+eye aperture
+mouth	lips spread:crnrs down	820	971
+POS	Possessive	280	380	Adjective	460	580	Noun	640	820
+English translation	His/her new car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	FireWire 39000:NCSLGRv2:video files:master:b-957_774_master_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave1:b-957_774_slave1_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave2:b-957_774_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1202
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	IX-3p:i	160	360	POSS-3p:j	420	540	fs-JOHN	600	700	CAR	780	1020
+non-dominant hand gloss
+head pos: tilt side	start	140	360	slightly right	380	800	end	840	1060
+head pos: turn	start	340	540	slightly right	560	780	end	800	1040
+head pos: jut	start	180	380	back	400	620	end	640	740
+head mvmt: nod	single	140	340
+cheeks	start	240	440	tensed right	460	540	end	560	640
+eye brows	start	80	160	raised	180	320	start	340	460	lowered	480	780	end	800	1040
+eye aperture	blink	0	0	start	60	160	lowered lid	180	200	start	220	280	wide	300	360	end	380	460
+eye gaze	down/right	120	220
+POS	Pronoun	160	360	Pronoun	420	540	Proper Noun	600	700	Noun	780	1020
+English translation	That is John's car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	FireWire 39000:NCSLGRv2:video files:master:b-958_775_master_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave1:b-958_775_slave1_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave2:b-958_775_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1530
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	013
+main gloss	IX-3p:i	240	440	THAT	480	580	fs-JOHN	600	720	POSS-3p:j	800	900	FATHER	1000	1060	CAR	1140	1300
+non-dominant hand gloss
+head pos: tilt fr/bk	start	0	180	slightly back	200	240	start	620	780	slightly front	800	1140	end	1160	1340
+head pos: tilt side	start	200	460	slightly right	480	580
+head pos: turn	start	520	740	right	760	1340	end	1360	1480
+head pos: jut	start	600	740	back	760	1060	end	1080	1320
+topic	top2	200	440
+eye brows	start	40	180	raised	200	440	end	460	540
+eye aperture	start	100	200	lowered lid	220	280	start	300	340	squint	360	400	start	420	480	wide	500	520	end	540	600
+eye gaze	down	200	360	right	740	840
+cheeks	start	220	360	tensed	380	400	end	420	480
+POS	Determiner	240	440	Demonstrative	480	580	Proper Noun	600	720	Pronoun	800	900	Noun	1000	1060	Noun	1140	1300
+English translation	That is John's father's car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	FireWire 39000:NCSLGRv2:video files:master:b-959_776_master_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave1:b-959_776_slave1_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave2:b-959_776_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1215
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	IX-3p:i	200	320	POSS-3p:j	400	440	FATHER	580	620	CAR	680	760	QMwg	780	880
+non-dominant hand gloss
+head pos: tilt fr/bk	start	140	420	front	440	840	end	860	1080
+topic	top2	100	340
+eye brows	start	0	80	raised	100	800	end	820	1000
+eye aperture	blink	0	20	start	60	160	wide	180	860	end	900	1000
+eye gaze	down/right	100	280	left	1160	1215
+mouth	start	120	180	intense	200	320	end	340	380
+cheeks	start	140	220	tensed	240	320	end	340	400
+yes/no question	y/n	380	880	end	900	1020
+POS	Determiner	200	320	Possessive	400	440	Noun	580	620	Noun	680	760	Particle	780	880
+English translation	Is that John's father's car?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	FireWire 39000:NCSLGRv2:video files:master:b-960_777_master_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave1:b-960_777_slave1_small.mov
+Video	FireWire 39000:NCSLGRv2:video files:slave2:b-960_777_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1261
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	010
+main gloss	IX-3p:i	280	360	POSS-3p:j	400	520	JOHN	580	660	FATHER	780	840	CAR	900	1040
+non-dominant hand gloss
+head pos: tilt fr/bk	start	200	480	slightly front	500	980	end	1000	1180
+head pos: turn	start	360	540	slightly left	560	1080	end	1100	1220
+eye brows	start	60	160	raised	180	960	end	980	1160
+eye aperture	squint	80	100	start	120	240	wide	260	1060	end	1080	1160
+eye gaze	down/right	160	340
+yes/no question	start	140	240	y/n	260	1020	end	1040	1160
+POS	Determiner	280	360	Possessive	400	520	Proper Noun	580	660	Noun	780	840	Noun	900	1040
+English translation	Is that John's father's car?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:b-961_778_master_small.mov
+Video	NCSLGRv2:video files:slave1:b-961_778_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:b-961_778_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1220
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	IX-3p:i	200	340	WHO	440	520	POSS-3p:j	560	680	CAR	760	900
+non-dominant hand gloss
+head pos: tilt fr/bk	start	40	300	front	340	740	end	760	980
+head pos: turn	slightly left	0	120	end	140	420
+head pos: jut	start	120	280	back	300	740	end	760	960
+eye brows	start	0	100	lowered	120	920	end	940	1220
+eye aperture	start	20	160	squint	180	1140	blink	1160	1200	end	1220	1220
+eye gaze	down	180	340	left	1220	1220
+nose	start	140	180	wrinkle	200	760	end	780	1020
+wh question	start	0	180	wh	200	980	end	1000	1220
+POS	Determiner	200	340	Wh-word	440	520	Possessive	560	680	Noun	760	900
+English translation	Who does that car belong to?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:b-962_779_master_small.mov
+Video	NCSLGRv2:video files:slave1:b-962_779_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:b-962_779_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1156
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	IX-3p:i	260	320	WHO	440	480	POSS-3p:j	520	580	CAR	640	760	part:indef	800	920
+non-dominant hand gloss
+head pos: tilt fr/bk	start	140	240	front	260	340	slightly front	360	780	end	800	980
+head mvmt: shake	rapid	360	540
+head pos: jut	start	160	220	back	240	860	end	880	1000
+eye brows	slightly lowered	0	100	start	120	200	lowered	220	920	end	940	1100
+eye aperture	start	100	220	squint	240	860	end	880	900	blink	940	980
+eye gaze	down/right	140	340	left	1000	1156
+nose	start	140	220	wrinkle	240	760	end	780	860
+wh question	start	80	200	wh	220	920	end	940	1060
+POS	Pronoun	260	320	Wh-word	440	480	Possessive	520	580	Noun	640	760	Particle	800	920
+English translation	Who's car is that?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:b-963_780_master_small.mov
+Video	NCSLGRv2:video files:slave1:b-963_780_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:b-963_780_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1113
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	012
+main gloss	IX-3p:i	140	180	PAST	220	400	POSS-3p:j	460	540	fs-JOHN	580	660	CAR	720	880
+non-dominant hand gloss
+head pos: tilt fr/bk	start	180	420	slightly back	440	560	start	880	960	slightly back	980	1113
+head pos: tilt side	slightly right	0	780	end	820	980
+head pos: turn	slightly right	0	220	start	240	400	right	420	780	end	800	1060
+head pos: jut	start	60	180	back	200	320	end	340	480
+eye brows	raised	0	160	start	180	280	lowered	300	360	end	380	420
+eye aperture	wide	0	0	start	20	60	lowered lid	80	160	blink	180	200	squint	220	360	end	380	460	blink	880	920
+eye gaze	down/right	40	160
+nose	start	20	140	tense	160	340	end	360	440
+POS	Pronoun	140	180	Tense Marker	220	400	Possessive	460	540	Proper Noun	580	660	Noun	720	880
+English translation	That used to be John's car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:b-965_782_master_small.mov
+Video	NCSLGRv2:video files:slave1:b-965_782_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:b-965_782_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	940
+Number of participant panes:	1
+Participant:	Norma Tourangeau
+Number of fields:	010
+main gloss	POSS-3p:i	240	320	#EX	380	440	CAR	580	780
+non-dominant hand gloss
+head pos: tilt side	start	340	420	slightly left	440	540	end	560	800
+head pos: turn	slightly left	0	40	end	60	240	start	360	440	slightly left	460	800	end	820	920
+eye brows	start	260	360	slightly lowered	380	460	end	480	780
+eye aperture	blink	0	0	start	140	200	lowered lid	220	260	squint	280	440	end	460	580
+eye gaze	down/right	160	260
+nose	start	220	360	tense	380	480	end	500	560
+POS	Possessive	240	320	Adjective	380	440	Noun	580	780
+English translation	That is his/her old car.
+Notes - number of character bytes:	0

@@ -1,0 +1,517 @@
+teacher now ix-3p:i movie ; the teacher in the movie theatre.
+movie end future buy book j:gift:k student read ; after the movie ends, the teacher will buy a book to give to the student to read.
+woman arrive punct ; some woman arrived.
+sue buy ix-3p:i car blue ; sue bought/is buying the blue car.
+something/one student have videotape punct ; some student has the videotape.
+john buy yesterday what punct book punct ; what did john buy yesterday? a book.
+who tell:i bill:i punct part:indef punct mary punct ; who told bill? mary did.
+tell:i bill yesterday who punct mary punct ; who told bill yesterday? mary did.
+john buy yesterday what book punct ; what did john buy yesterday? a book.
+who john see what punct mary punct ; who did john see? mary.
+who john see what punct mary punct ; who did john see? mary.
+john see:i throw ix-3p:j apple who punct mary punct ; who did john see throw the apple? mary.
+john buy yesterday what ; what did john buy yesterday?
+john go should ; john should go.
+john go should ; john should go.
+john should go should ; john should go, he should.
+like chocolate who ; who likes chocolate?
+like chocolate who ; who likes chocolate?
+love john who ; who loves john?
+john see throw apple who mary ; who did john see throw the apple? mary.
+student have videotape ; the student has the videotape.
+john ix-3p:i house now read book ; john is in the house right now reading a book.
+ix-3p:i kiss-fist read about car read ; he loves to read about cars.
+ix-3p:i can't end read book i:gift:j back ix-3p:j teacher ix-loc:j ; if he can't finish reading the book, then he will give it back to the teacher.
+finish future buy other book ; after finishing the book, (he) will buy another book.
+mother-father alt:give:i many book alt:give:i read everyday ; his parents give him many books and he reads them everyday.
+teacher want ix-3p:i read a-lot book ; the teacher wants him to read a lot of books.
+john know ix-3p:i man ix-loc:i ; john knows that man over there.
+john know ix-3p:i man ix-loc:i ; john knows the man over there.
+john know ix-3p:i man ix-loc:i ; john knows the man over there.
+john know ix-3p:i man ix-loc:i ; john knows the man over there.
+john know ix-3p:i man ix-loc:i ; john knows the man over there.
+john punct mary love ix-3p:j ; john, mary loves him.
+john punct mary ix-3p:i love ix-3p:j ; you know john, he loves mary.
+john punct mary ix-3p:i love punct ; you know john? he loves mary.
+john punct mary ix-3p:i love punct ; it is mary whom john loves.
+john punct mary ix-loc:j ix-3p:i love ix-3p:j ; it is mary whom john loves.
+china vegetable people prefer broccoli ; in china, people prefer broccoli over other vegetables.
+poss-3p:i new car ; his/her new car.
+ix-3p:i poss-3p:j john car ; that is john's car.
+ix-3p:i that john poss-3p:j father car ; that is john's father's car.
+ix-3p:i poss-3p:j father car qm ; is that john's father's car?
+ix-3p:i poss-3p:j john father car ; is that john's father's car?
+ix-3p:i who poss-3p:j car ; who does that car belong to?
+ix-3p:i who poss-3p:j car part:indef ; who's car is that?
+ix-3p:i past poss-3p:j john car ; that used to be john's car.
+poss-3p:i ex car ; that is his/her old car.
+john arrive punct ; john is arriving there.
+shoot frank ; (he/she) shoots frank.
+john punct ix-3p:i say love mary ; as for john, he says (he/john) loves mary.
+john punct ix-3p:i say love mary ; as for john, he says (he/john) loves mary.
+john i:blame:j punct ; john blames (him/her).
+mary punct bill say john love:j punct ; as for mary, bill says john loves her.
+john punct mary i:blame:j punct ; it is john mary blames.
+john punct mary i:blame:j ; as for john, mary blames (him).
+mary self-3p:i prefer corn ; mary herself prefers corn.
+mary self-3p:i prefer corn ; mary herself prefers corn.
+people class:i alt.i:gift:j jana toy ; people are giving jana toys.
+people class:i alt.i:gift:j jana toy ; people are giving jana toys.
+many people alt.gift:j jana:j toy ; many people are giving jana toys.
+john love mary ; john loves mary.
+john arrive punct ; john is arriving.
+john arrive ; john is arriving.
+john arrive ; john is arriving.
+all boy class:i alt.i:give:j teacher apple ; all the boys in the class each gave the teacher an apple.
+all boy alt.gift:j teacher apple ; all the boys each give the teacher an apple.
+all boy alt.gift:j teacher apple ; all the boys each give the teacher an apple.
+ix-3p:i girl i:gift:j john box ; the girl is giving john boxes.
+teacher i:gift:j boy book ; the teacher gives the boy a book repeatedly.
+teacher punct gift-pl-arc:j boy book ; the teacher gives the boys each a book.
+john neu:gift:j girl box ; john is giving the girl a box.
+ix-3p-pl-arc:i girl neu:give:j john:j box ; the girls are giving john boxes.
+ix-3p-pl-arc:i girl neu:gift:j john box ; the girls are giving john boxes.
+john neu:gift-pl-arc girl box ; john is giving the girls boxes.
+john neu:gift:i/j/k girl box ; john is giving the girls boxes.
+john neu:gift:j girl box ; john is giving the girl boxes.
+john tell:j mary ix-1p:i buy house ;" john told mary, ""i am buying a house."""
+john i:tell:j mary ix-1p buy house ;" john told mary, ""i am buying a house."""
+mary punct vegetable punct know ix-3p:i like corn ; as for mary and vegetables, (he) knows she likes corn.
+mary:i punct vegetable punct ix-1p know ix-3p:i like corn punct ; as for mary and vegetables, i know she likes corn.
+mary:i punct vegetable punct know ix-3p:i like corn punct ; as for mary and vegetables, (i) know she likes corn.
+mary:i punct vegetable punct know ix-3p:i like corn ; as for mary, as for vegetables, (i) knows she likes corn.
+john:i ix-3p:i think mary love punct ; john thinks mary loves (him).
+john:i punct ix-3p:i think mary:j j:love:i ; john thinks mary loves (him).
+john:i ix-3p:i think mary:j j:love:i punct ; john thinks mary loves (him).
+john can buy house ; john can buy a house.
+john ex not like chocolate ; john used to not like chocolate.
+john must buy house ; john must buy a house.
+john future buy house ; john will buy a house.
+john future not buy house punct ; john won't buy a house.
+john past live chicago ; john lived in chicago.
+john buy car future ; john will buy a car.
+john should not buy house ; john should not buy a house.
+john should not buy house ; john should not buy a house.
+john should not buy house ; john shouldn't buy a house.
+john not have-to buy house ; john doesn't have to buy a house.
+john future finish see mary ; john will have seen mary.
+john decide visit mary ; john decided to visit mary.
+john future finish see mary ; john will have seen mary.
+john future not buy house ; john will not buy a house.
+john prefer go movie ; john prefers to go to a movie
+john want sell car ; john wants to sell (his/a) car.
+john want sell car future ; john wants to sell his car in the future.
+future john go future ; in the future, john will go, (he) will.
+john prefer go movie tomorrow punct ; john prefers to go to a movie tomorrow.
+next-week john go new-york ; next week, john is going to new york.
+john future not buy house ; john, in the future, is not buying a house.
+john future future not buy house ; john, in the future, won't buy a house.
+john buy car future ; john will buy a car.
+john buy car should ; john should buy a car.
+future john buy car should ; in the future, john should buy a car.
+john buy car future not ; john won't buy a car.
+john can go can ; john can go, he can.
+last-week john go new-york ; last week, john went to new york.
+john future visit mary ; john will visit mary.
+john future visit mary ; john will visit mary.
+john future visit mary ; john will visit mary.
+john not visit mary visit mother ix-3p ; john is not visiting mary. he is visiting his mother.
+john not visit mary punct ; john is not visiting mary.
+john not visit mary ; john is not visiting mary.
+john finish visit mary ; john has visited mary.
+ann blame mary ; ann blames mary.
+ann blame mary ; ann blames mary.
+john future finish see mary ; john will have seen mary.
+john future finish see mary ; john will have seen mary.
+john should finish read book ; john should have read the book.
+john future finish read book ; john will have read the book.
+john like chocolate ; john likes chocolate.
+john in ix-3p:i house ix-loc:i now ix-3p:i read book ix-3p:i ; john is in the house right now reading a book.
+ix-3p:i like crazy read about car ; he is crazy about reading about cars.
+finish book read finish future teacher:k ; after he finishes reading the book, he will give it to the teacher.
+go buy other book ; then he will go and buy another book.
+mother-father alt.give:i buy book alt.give:i up-to-now ; his parents have been giving and buying him books for a while now.
+teacher expect john read a-lot ; the teacher expects john to read a lot.
+watch come-on read part:indef ; (the teacher) is continuously watching and encouraging him to read.
+ix-1p:i find something/one:j poss-3p:j book ; i found someone's book.
+john brother arrive punct ; john's brother arrives.
+something/one arrive here ; someone arrives here.
+john:i i:gift:j ix-3p:j man new coat ; john gave that man a new coat.
+john ix-3p:i i:gift:j ix-3p:j man ix-loc:j new coat ; john, he gave the man over there a new coat.
+john neu:gift:j ix-3p:j man ix-loc:j new coat ; john gave the man way over there a new coat.
+john ix-3p:i i:gift:j ix-3p:j man ix-loc:j book ; john, he, gave a man over there a book.
+john neu:give-indef:j ix-loc:j something/one woman book ; john gave a woman over there a book.
+john neu:give-indef:j ix-loc:j something/one woman book ; john gave some woman over there a book.
+john neu:give-indef:j ix-loc:j something/one woman book ; john gave some woman over there a book.
+john neu:give-indef:j ix-loc:j something/one woman book ; john gave some woman over there a book.
+ix-3p:i woman have book ; that woman way over there has a book.
+ix-3p:i have book ; he/she over there has a book.
+frank poss-3p:i new car break-down ; frank's new car broke down.
+poss-3p:i frank new car break-down ; frank's new car broke down.
+frank poss-3p:i car break-down ; frank's car broke down.
+poss-3p:i new car break-down ; his/her new car broke down.
+ix:i book poss:j ; that book is his.
+ix-1p find something/one book ; i found someone's book.
+frank search-for who poss-3p:i book what ; frank is looking for whose book?
+john poss-3p:i brother arrive ; john's brother arrives.
+john poss-3p:i leg hurt ; john's leg hurts.
+john leg hurt ; john's leg hurts.
+john:i poss-3p:i friend:j have candy ; john's friend has candy.
+john:i poss-3p:i friend:j have candy ; john's friend has candy.
+part:indef something/one part:indef woman arrive here ; i don't know.  some woman arrived here.
+part:indef woman part:indef arrive here ; well, some woman arrived.
+woman arrive here ; some woman arrived here.
+ix-3p:i car blue sue buy ; sue bought that blue car.
+ix-3p:i car blue sue buy:i ; sue bought that blue car.
+something/one car stole ; someone's car was stolen.
+something/one poss-3p:i car stole punct ; someone's car was stolen.
+john poss-3p:i old house sold yesterday ; john's old house was sold yesterday.
+sue buy ix-3p:i car blue ; sue bought that blue car.
+sue buy ix-3p:i car blue ; sueis buying that blue car.
+sue buy ix-3p:i car blue ; sue is buying that blue car.
+sue buy car blue ; sue is buying the blue car.
+john read book ; john read the book.
+john read book ; john read the book.
+one student punct something/one borrow videotape punct ; a student, someone, borrowed a videotape.
+john poss-3p:i mother arrive who mother arrive ; john's mother arrived.  whose mother arrived?
+poss-3p:i new car break-down ; his new car broke down.
+john buy what yesterday book ; what did john buy yesterday?  some books.
+john see who what ; who did john see, who?
+ix-3p:i john see who ix-3p:i who punct ; who did john see, him, who?
+what mary refuse eat what ; what won't mary eat?
+john:i mary love ix-3p:i ; as for john, mary loves him.
+john ix-3p:i like mary ; as for john, he likes mary.
+who vegetable prefer potato what punct ; who, as for vegetables, prefers potatoes?
+what john love what punct ; what, what does john love?
+what john love what punct ; what, what does john love?
+what john love what punct ; what, what does john love?
+who tell bill mary punct ; who told bill?  mary.
+john buy what yesterday book ; what did john buy yesterday?  books.
+john buy yesterday what book ; what did john buy yesterday?  books.
+john buy what yesterday book ; what did john buy yesterday?  books.
+john buy what book ; what did john buy?  books.
+tell bill yesterday who mary ; who told bill yesterday?  Mary. 
+tell bill yesterday who punct mary ; who told bill yesterday?  Mary.
+john see punct throw apple who mary ; who did john see throw the apple?  mary.
+arrive who punct ; who arrived?
+love john who ; who loves john?
+love john who punct ; who loves john?
+john see who what punct ; who did john see, who?
+who john love who punct ; who, who does john love?
+what john like punct ; what is it that john likes?
+who arrive punct ; who arrived?
+arrive who punct ; who arrived?
+name punct ; name?
+teacher now ix-loc:i in movie ; the teacher is in the movie theatre.
+ix-3p:i end watch movie buy book ; after the teacher watches the movie he/she will buy a book.
+book future gift:j student ; the teacher will give the book to a student.
+john finish read book ; john finished reading the book.
+john finish read book when punct ; when did john finish reading the book?
+john finish read book when punct ; when did john finish reading the book?
+john not-yet finish read book ; john has not yet finished reading the book.
+john future finish read book when punct ; when will john finish reading the book?
+john future finish read book when punct ; when will john finish reading the book?
+john finish read book punct ; has john finished reading the book?
+john finish read book qm punct ; did john finish reading the book?
+that:i book ix-loc:i punct john finish read yesterday punct ; that book there, john read it yesterday.
+after class john finish read book punct ; after class, john read the book.
+suppose teacher require punct john future read book part:indef ; if the teacher requires it, john will read the book.
+john read book punct finish ; did john read the book?  yes, he already did.
+john read book about what punct ; what is john reading a book about?
+john read book about what punct ; what is john reading a book about?
+john read book about what punct ; what is john reading a book about?
+john need more information punct future read book thumb-ix-3p:i ; if john needs more information, he will read the book.
+john read book punct future know more about ns-lincoln poss-3p:i life punct ; if john reads the book, he will know more about lincoln's life.
+john read book punct future know more about ns-lincoln poss-3p:j life ; if john reads the book, he will know more about lincoln's life.
+john find/find-out future exam future dcl:bhair on head raising proceed read book ; when john finds out there will be a test, he will panic and be compelled to read the book.
+teacher give-indef exam ix-3p:i john future read book ix-loc:j ; when the teacher gives out the test, john will read the book.
+student poss-3p:i father buy house punct ; the student's father bought a house.
+student poss-3p:i mother buy car ; the student's mother bought a car.
+student future buy poss-3p:i mother car ; the student will buy his/her mother's car.
+student poss-3p:i father future buy which house part:indef ; which house will the student's father buy?
+mother read book ; mother is reading a book.
+mother read book punct ; mother was reading a book.
+mother plan read that:i book ix-3p:i ; mother plans to read that book.
+mother future read that:i book ix-3p:i punct qm punct ; will mother read that book?
+mother finish read ix-3p:i book ix-3p:j qm punct ; has mother already read that book?
+mother should buy car ; mother should buy a car.
+father should buy book ; father should buy a book.
+father should buy that book (y)why punct ; why should father buy that book?
+mother should not buy car part:indef ; mother should not have bought a car.
+mother should buy car (y)why punct part:indef punct ; why should mother buy a car?
+ix-1p never see john poss-3p:j car part:indef ; i've never seen john's car.
+john poss-3p:i car ix-1p never see:j punct ; i've never seen john's car.
+john poss-3p:i car ix-1p never see:j ; as for john's car, i've never seen it.
+ix-3p:i john poss-3p:j car punct ; that right over there is john's car.
+ix-3p:i john poss-3p:j father car ; that right over there is john's father's car.
+ix-3p:i john poss-3p:j father car qm punct ; is that john's father's car?
+who car ix-3p:i poss-3p:j who part:indef punct ; whose car is that?
+ix-3p:i formerly poss-3p:j john car ; that was john's car.
+father !must! gift:j car john part:indef ; father must give the car to john.
+john poss-3p:i father must gift:j car mary part:indef ; john's father must give a car to mary.
+john should gift:j father car part:indef ; john should give his father a car.
+john future gift:j father car ; john will give his father a car.
+mother future buy house ; mother will buy a house.
+mother future not buy house ; mother will not buy a house.
+really wow/awful ix-3p:i john punct car steal ; wow.   as for john's car, it was stolen.
+ix-loc:i that:i car ix-loc:i john father ix-loc:i ; it--that car there--is john's father's.
+ix-3p:i car ix-loc:i punct john father ; is that car there john's father's?
+ix-3p:i car who ; whose car is that?
+ix-3p:i john formerly car ix-loc:j punct ; is that john's former car?
+ix-3p:i punct father must buy car john ix-loc:i 5attitude-marker ; he, father, must buy a car for john i'm telling you.
+ix-3p:i john father ix-loc:i must buy punct ix-3p:j mary ix-loc:k ; he, john's father there, must buy this for mary there.
+john father ix-loc:i punct neu:gift:j car john punct ; john's father there is giving a car to john.
+ix-3p:i car john future father ; will john give his father that car?
+ix-3p:i punct john mother ix-loc:j house buy punct ix-3p:i ; it's john's mother? she's buying a house?
+ix-3p:i house buy no john mother not-want punct ; no, will she buy a house?  no,  john's mother doesn't want to buy a house.
+mother not-want buy house ix-3p:i ; mother doesn't want to buy a house.
+ix-3p:i john buy many book ; john bought many books.
+ix-3p:i john punct many book buy how-many punct part:indef ; did john buy many books? how many did he buy?
+ix-3p:i really teacher movie really like ; teacher really liked the movie.
+ix-3p:i teacher enjoy but ix-3p:j kid not like movie part:indef ; the teacher enjoyed the movie but the kids did not like the movie.
+ix-3p:i punct teacher vomit movie ; the teacher doesn't like the movie.
+ix-3p:i not-know teacher like movie not-know part:indef ; i don't know if the teacher likes the movie, i just don't know.
+ix-3p:i mother ix-loc:i buy car for john punct ; mother isn't buying a car for john.
+chocolate really student like punct ; the student likes chocolate.
+chocolate teacher ix-3p:i like punct ; the teacher likes chocolate.
+john chocolate not like why part:indef ; why doesn't john like chocolate?
+john read how-many book up-to-now punct ; how many books has john read so far?
+student read how-many book punct ; how many books did the student read?
+ix-3p:i student ix-3p:i read book up-to-now part:indef ; for how long has that student been reading the book?
+ix-3p:i mother neu:give:j john chocolate yesterday punct ; mother gave john chocolate yesterday.
+john punct chocolate punct mother ; he, john, gave his mother chocolate.
+john punct ix-3p:i now punct chocolate mother ; john, he is giving chocolate to his mother now.
+john give:j mother chocolate future soon ; about john giving mother chocolate, will he do it soon?
+mother give:j punct chocolate john punct ; did mother give chocolate to john?
+ix-3p:i teacher ix-loc:i car buy up-to-now ; the teacher has been car shopping for a while now.
+ix-3p:i teacher car buy up-to-now punct ; has the teacher been car shopping lately all this time?
+student ix-loc:i pay how-many car punct ; how many cars did the student buy pay for?
+ix-3p:i student ix-loc:i kiss-fist chocolate vomit punct read punct ; the student there loves chocolate but doesn't like reading.
+student read vomit punct kiss-fist chocolate part:indef ; the student doesn't like to read but loves chocolate.
+teacher enjoy read but movie not punct ; the teacher enjoys reading but not movies.
+yesterday student buy car ; the student bought a car yesterday.
+yesterday ix-3p:i student finish buy car qm punct ; did the student already buy a car yesterday?
+yesterday teacher buy house finish ; did the teacher already buy a house yesterday?
+yesterday mother buy book finish ; mother already bought a book yesterday.
+book mother buy yesterday finish punct ; it's a book that mother bought yesterday.
+um book teacher neu:give:j punct student ; it's a book the teacher gave the student.
+um teacher neu:give:j book neu:give-3p-pl-arc all student ; the teacher gave a book to all the students.
+teacher book gift-3p-pl-arc ; the teacher gave out the books.
+student ix-3p-pl-arc>i i:gift:j book ix-3p:j teacher punct ; the students gave a book to the teacher.
+student ix-loc-arc book gift-distributive:j teacher ix-loc:j ; as for the students, they gave a book to the teacher.
+book student ix-loc:arc alt.neu:gift:j ix-3p:j teacher ix-loc:j ; the students gave their books to the teacher.
+student book now alt.give-recip ; as for the students and their books, they are exchanging them now.
+finish teacher neu:give:j book student ix-loc-arc ; has the teacher already given books to the students?
+which book student finish gift:j teacher what ; which book has the student given to the teacher?
+john finish read book ; john finished reading the book.
+ix-2p:i see something/one ; did you see something/one?
+ix-2p:i see something/one part:indef ; did you see someone?
+something/one find/find-out book part:indef ; did someone find a book?
+ix-2p:i want tea coffee part:indef ; do you want tea or coffee?
+something/one strange part:indef arrive part:indef ; some strange thing/person arrived.
+something/one part:indef strange arrive punct ; some strange thing/person arrived.
+something/one strange arrive part:indef ; some strange thing/person arrived.
+something/one strange arrive part:indef ; some strange thing/person arrived.
+something/one strange arrive part:indef ; some strange thing/person arrived.
+something/one part:indef strange arrive part:indef ; some strange thing/person arrived.
+something/one part:indef boat scl:3vehicle-sink ns-cape-cod ix-loc:i ; some kind of boat sank off cape cod.
+part:indef something/one punct boat scl:3vehicle-sink ns-cape-cod ix-loc:i ; some boat sank off cape cod i think.
+something/one boat scl:bboat-sink part:indef ; some boat sank i think.
+something/one boat scl:3vehicle-sink ns-cape-cod part:indef ; some boat sank off cape cod i think.
+something/one boat scl:3vehicle-sink ns-cape-cod part:indef ; some boat sank off cape cod i think.
+something/one boat scl:3vehicle-sink near ns-cape-cod part:indef ; some boat sank near cape cod i think.
+something/one part:indef boat scl:3vehicle-sink near ns-cape-cod part:indef ; some kind of boat sank near cape cod.
+something/one part:indef boat scl:3vehicle-sink near ns-cape-cod part:indef ; some kind of boat sank near cape cod.
+mother not-want buy house ; mother does not want to buy a house.
+john future buy how-many book part:indef ; how many books will john buy?
+john finish buy how-many book part:indef ; how many books has john bought?
+john punct want buy how-many book part:indef ; how many books does john want to buy?
+teacher like movie punct ; the teacher likes movies.
+teacher like movie punct but student ix-3p-pl-arc not ; the teacher likes movies, but the students don't.
+teacher not like movie punct ; the teacher does not like movies.
+teacher like book punct but not movie punct ; the teacher likes books but not movies.
+teacher like movie qm ; does the teacher like movies?
+teacher like movie qm ; does the teacher like movies?
+mother buy car punct gift:j john punct ; mother bought a car and gave it to john.
+john buy car yesterday punct gift:j mother punct ; john bought a car yesterday and gave it to his mother.
+mary buy mother poss-3p:i car gift:k john ; mary bought her mother's car to give to john.
+john not buy mother poss-3p:i car ; no, john did not buy his mother's car.
+mother not buy car for ix-3p:i john punct not ; mother did not buy the car for john.
+student like chocolate ; the student likes chocolate.
+teacher like chocolate ; the teacher likes chocolate.
+student ix-3p-pl-arc not like chocolate ; the students do not like chocolate.
+student ix-3p-pl-arc (y)not-like chocolate ; the students don't like chocolate.
+teacher like chocolate qm ; does the teacher like chocolate?
+john not-like chocolate (y)why punct ; why doesn't john like chocolate?
+student should read how-many book part:indef ; how many books should the students read?
+student future read how-many book part:indef ; how many books will the students read?
+student up-to-now finish read how-many book part:indef ; how many books have the students finished reading so far?
+yesterday mother neu:give:j john chocolate ; mother gave john chocolate yesterday.
+john neu:give:j mother chocolate ; john gave his mother chocolate.
+john now neu:give:j mother chocolate ; john has just given his mother chocolate.
+john future neu:give:j mother chocolate ; will john give his mother chocolate?
+mother finish neu:give:j john chocolate qm ; did mother already give john chocolate?
+teacher buy how-many car up-to-now part:indef ; how many cars has the teacher bought so far?
+student buy how-many car up-to-now part:indef ; how many cars has the student bought so far?
+teacher buy many car qm ; has the teacher bought many cars?
+student future buy how-many car punct ; how many cars will the student buy?
+ix-3p:i student like eat chocolate but ix-3p:i (y)not-like read ; the student likes to eat chocolate but he/she doesn't like to read.
+student ix-3p:i punct (y)not-like read but ix-3p:i like eat chocolate ; the student doesn't like to read but he/she likes to eat chocolate.
+teacher like read ix-3p:i (y)not-like movie ; the teacher likes to read but he/she doesn't like movies.
+father like john poss-3p:i house punct not like poss-3p:i car punct ; father likes john's house but doesn't like his car.
+father like book punct and movie punct ; father likes books and movies.
+john like father poss-3p:i car punct and house punct ; john likes his father's car and house.
+john like car and book punct part:indef ; john likes cars and books.
+teacher finish read magazine now switch read book ; the teacher finished reading the magazine so now she is going to read a book.
+teacher finish read magazine punct future switch read book ; when the teacher finishes reading the magazine, she will read a book.
+student finish read book now look-at movie ; the student has finished reading a book and is now watching a movie.
+john should not buy house punct ; john should not buy a house.
+john should not buy house (y)why punct ; why shouldn't john buy a house?
+student like chocolate ; the student likes chocolate.
+teacher like chocolate ; the teacher likes chocolate.
+student not like chocolate punct ; the student does not like chocolate.
+teacher like chocolate ; does the teacher like chocolate?
+why john not like chocolate part:indef punct ; why doesn't john like chocolate?
+mother gift:i chocolate ix-3p:i john yesterday punct ; mother gave chocolate to john yesterday.
+chocolate john punct gift:i mother punct ix-3p:i ; john is giving mother chocolate.
+john now i:give:j chocolate mother ix-3p:j ; john is right now giving chocolate to mother.
+john future neu:give:j chocolate mother ix-3p:j ; john will give chocolate to mother.
+john ix-loc:i future neu:give:j chocolate ix-loc:j mother ix-3p:j ; will john give chocolate to mother?
+finish mother finish gift:i john chocolate ; did mother already give john chocolate?
+ix-3p:i student !like! chocolate not like read book ; the student likes chocolate but doesn't like to read books.
+teacher like read punct like movie no not ; the teacher likes reading, but does she like movies? no, she doesn't.
+father like john house punct like poss-3p:j car no not ; father likes john's house, but does he like john's car? no, he doesn't.
+father punct like both book and movie punct ; father likes both books and movies.
+um john like poss-3p:j father house car punct ; john likes his father's house and car.
+john like car book ; john likes cars and books.
+teacher finish read magazine punct !now! read book ; the teacher finished reading the magazine and is now reading a book.
+ix-2p:i punct finish read magazine punct future read book punct ; when you finish reading the magazine, you will read a book.
+teacher finish read magazine future read book punct ; when the teacher finishes reading the magazine, she will read a book.
+john should not buy house ; john should not buy a house.
+mother like movie punct ; mother likes movies.
+mother like ix-3p:i book ; mother likes this book.
+mother not like movie ix-3p:i punct ; mother does not like the movie.
+john future not like movie ix-3p:i punct ; john won't like the movie.
+father future like ix-3p:i that:i book future punct ; father will really like that book!
+how-many book john father gift:i john part:indef punct ; how many books did john's father give john?
+car john punct gift:i teacher how-many car punct ; as for john giving the teacher cars, how many did he give him/her?
+teacher now ix-3p:i house ix-loc:i punct ; the teacher now is at the house there.
+ix-3p:i teacher in ix-3p:j house ix-loc:j punct ; is the teacher in the house there?
+teacher finish in house ix-loc:i punct ; is the teacher already in the house?
+teacher not in house ix-loc:i punct ; the teacher is not in that house there.
+teacher in ix-3p:i car ; the teacher is in the car.
+5so, all set understand 5so, all set understand clear ; do you understand? am i clear?
+yes better suppose ix-1p stand better more clear but 5doesn't matter ; yes it will be better if i stand up so it's more clear but whatever.
+ix-3p:i john read finish ix-3p:i ; john finished reading.
+ix-3p:i john read book when ix-3p:i ; did john read the book?  when?
+ix-3p:i john read not-yet ; hah! john hasn't read it yet.
+ix-3p:i john read ix-3p:i finish future soon ix-3p:i ; will john finish reading soon?
+john book read finish ix-3p:i ; as for john reading the book, he already did.
+ix-3p:i see:i punct book ix-loc:i john finish read yesterday punct ; you see the book over there, john finished reading it yesterday.
+ix-3p:i john read book ix-3p:i say ix-3p:j what about ix-3p:i ; john was reading that book, what did he say it is about?
+ix-3p:i student mother car buy finish ix-3p:i ; did the student's mother buy a car already?
+student ix-loc:i punct mother future buy car ; the student's mother will buy him a car, i'm sure.
+ix-3p:i student poss-3p:i father house which buy ix-loc-arc ; which house did the student's father buy?
+ix-3p:i mother book read ; mother is reading the book.
+ix-3p:i mother plan read book later ; mother is planning to read the book later.
+ix-3p:i mother book future read later ; will mother read a book later?
+ix-3p:i mother read book ix-3p:i ; is mother reading the book?
+ix-3p:i mother ix-3p:i car buy ix-3p:j ; mother bought a car.
+ix-3p:i father ix-loc:i punct buy book ix-3p:i ; father bought a book.
+ix-3p:i mother ix-3p:i car buy should not ; mother should not buy that car.
+ix-3p:i mother buy car really why part:indef ; why did mother buy a car?
+ix-3p:i john car ix-1p never see:neu ix-3p:i part:indef ; i have never seen john's car.
+ix-3p:i john car ix-1p never see:i punct ; i have never seen john's car.
+student buy many book part:indef ; did the student buy many books?
+student buy many book part:indef ; did the student buy many books?
+john finish read book ; john finished reading the book.
+john finish read book when punct ; when did john finish reading the book?
+john finish read book when punct ; when did john finish reading the book?
+john finish read book when punct ; when did john finish reading the book?
+john not-yet finish read book punct ; john hasn't finished reading the book yet.
+john future finish read book punct when punct ; when will john finish reading the book?
+john finish read book finish punct ; has john already read the book, has he?
+john finish read book punct ; has john already read the book?
+john finish read book qm punct ; did john finish reading the book?
+that book john finish read yesterday ; that book, john finished reading it yesterday.
+that book john finish read book yesterday ; that book, john finished reading it yesterday.
+that book john finish read yesterday ; that book, john finished reading it yesterday.
+over/after class now john finish read book punct ; after class, john has finished reading the book.
+if teacher require punct john future read book ; if the teacher requires it, then john will read a book.
+john read book punct finish punct ; as for john reading a book, he already did!
+john read book about what punct ; what is john reading a book about?
+john read book about what punct ; what is john reading a book about?
+john need more information punct ix-3p:i future read book punct ; if john needs more information, he will read the book.
+john read book punct future know more about ns-lincoln poss-3p:i life punct ; when john reads the book, he will know more about lincoln's life.
+john find out punct test dcl:bhair on head raising need read book ; when john finds out about the test, he will freak out and need to read the book.
+john find out punct test punct dcl:bhair on head raising need read book ; when john finds out about the test, he will freak out and need to read the book.
+j find out punct test finish punct read book punct ; once john had found out that there is a test, he read the book.
+student ix-loc:i punct poss-3p:i father buy house ; it's that student's father that is buying a house.
+student poss-3p:i father future buy house ; that student's father will buy a house.
+student poss-3p:i mother punct buy car ; it's that student's mother that is buying a car.
+student ix-loc:i poss-3p:j father buy house which ; which house did the student's father buy?
+mother (v)future read book qm punct ; will mother read the book?
+father buy that:i book why punct ; why did father buy that book?
+father must buy book ix-loc:i why punct ; why does father have to buy that book there?
+mother should not buy that:i car part:indef punct ; mother should not buy that car!
+mother should buy car punct ; should mother buy a car?
+mother should buy car why punct part:indef punct ; why should mother buy a car?
+ix-1p never see john poss-3p:i car never ; i've never seen john's car.
+john poss-3p:i car punct never see ix-1p punct ; it's john's car i've never seen.
+john punct poss-3p:i car punct never see ix-1p ; it's john's car i've never seen.
+john punct poss-3p:i car punct never see ix-1p ; as for john's car, i've never seen it.
+must father neu:give:j car ix-3p:j john ix-loc:j ; father must give a car to john.
+father ix-3p:i !must! gift:k john car punct ; his father must give john a car.
+john father ix-3p:i !must! neu:gift:j car ix-3p:j mary punct ; john's father must give the car to mary.
+john poss-3p:i father ix-3p:i must neu:gift:j car ix-3p:j mary punct ; it's john's father, him, who must give a car to mary.
+ix-3p:i mary ix-loc:i punct john father must j:gift:i car ; it's mary there to whom john's father must give a car.
+john should neu:gift:i car ix-3p:i father ; john should give car to the father.
+john ix-3p:i future gift:j car ix-3p:j father ; it's john who will give a car to his father.
+mother future buy house ; mother will buy a house.
+mother future buy house punct ; will mother buy a house?  no.
+mother not buy house ; mother is not buying a house.
+mother future buy house ; will mother buy a house?  no.
+mother not-want buy house ; mother doesn't want to buy a house.
+mother future buy house ; will mother buy a house?
+how-many book john future buy punct ; how many books will john buy?
+student gift:j teacher which book ix-3p:k ix-3p:m ix-3p:k ix-3p:m ; which of those two books did the student give the teacher?
+mother like ix-3p:i movie ; mother likes the movie.
+mother like ix-3p:i book ; mother likes that book.
+mother ix-3p:j not like ix-3p:i movie ix-3p:j ; mother does not like the movie.
+john future not like ix-3p:i movie ix-3p:i ; john will not like the movie.
+father future like that:i book ix-loc:i ; father will like that book there.
+father future like that:i book ix-loc:i qm ; will father like that book?
+father future like that:i book ix-loc:i ; father will like that book.
+father like that book future qm ; as for father liking that book, will he?
+father gift:j john how-many book ; how many books did father give to john?
+john gift:j teacher how-many car punct ; how many cars did john give the teacher?
+teacher gift:j john how-many book part:indef ; how many books did the teacher give john?
+teacher now in ix-3p:i house ix-loc:i ; the teacher is in the house there right now.
+teacher in house ix-loc:i qm ; is the teacher in that house?
+teacher finish past in house ix-loc:i qm ; has the teacher been in the house before?
+teacher not in house ix-loc:i ; the teacher is not in the house.
+student buy car yesterday punct ; the student bought a car yesterday.
+student buy car yesterday qm ; did the student buy a car yesterday?
+teacher buy house yesterday qm ; did the teacher buy a house yesterday?
+mother buy book yesterday ; mother bought a book yesterday.
+mother buy one book yesterday ; mother bought one book yesterday.
+mother buy one book yesterday ; mother bought one book yesterday.
+teacher neu:give:i student one book ; the teacher gave the student one book.
+teacher gift-3p-pl-arc student book one-distributive-3p-pl-arc ; the teacher gave each of the students one book.
+student ix-loc-arc pcl:crvd-5group-together pitch-in gift:j teacher book ; the students contributed money to buy the teacher a book.
+student each ix-loc-arc gift-distributive:i teacher book ; each of the students gave the teacher a book.
+teacher gift-distributive-3p-pl-arc book student ; the teacher gave each student a book.
+student book alt.give-recip ; the students exchanged books.
+john buy book how-many ; how many books did john buy?
+john want buy book how-many ; how many books does john want to buy?
+teacher like movie ; the teacher likes movies.
+teacher like movie ix-3p:i student not like ; the teacher liked the movie but the student didn't.
+teacher not like movie ix-loc:i ; the teacher doesn't like the movie.
+teacher like book punct movie punct not ; the teacher likes books, but doesn't like movies.
+teacher ix-3p:i like movie ix-3p:i ; the teacher, does she like movies?
+teacher watch movie like part:indef punct ; did the teacher like the movie that she saw?
+mother buy car gift:j john punct ; mother bought a car and gave it to john.
+john buy car yesterday gift:j mother; john bought a car yesterday and gave it to mother.
+mary buy poss:i mother car gift:k john ; mary bought her mother's car and gave it to john.
+john buy mother car not ; did john buy mother's car? no, he did not.
+mother buy car for john no punct ; did mother buy a car for john? no, she did not.

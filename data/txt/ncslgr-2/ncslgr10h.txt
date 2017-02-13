@@ -1,0 +1,63 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	ncslgr10h	Firewire 38200:NCSLGRv2:ncslgr10h
+Number of utterances:	2
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:549_master_small.mov
+Video	NCSLGRv2:video files:slave1:549_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:549_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1500
+Number of participant panes:	1
+Participant:	Ben Bahan
+Number of fields:	013
+main gloss	TEACHER	420	580	NOW	660	760	IX-3p:i	880	960	MOVIE	1080	1460
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	0	0	end	20	140	start	960	1240	slightly front	1260	1500
+head pos: tilt side	slightly right	0	800	start	820	1060	slightly left	1080	1220	end	1240	1460
+head pos: turn	start	360	780	slightly right	800	1020	end	1040	1140
+head mvmt: nod	single	800	1000
+head pos: jut	start	380	640	back	660	1500
+eye brows	start	140	400	lowered	420	560	lowered further	580	820	lowered	840	1400	start	1420	1480	raised	1500	1500
+eye gaze	right	620	720
+eye aperture	lowered lid	0	500	squint	520	760	start	780	820	slightly lowered	840	1260	blink	1280	1300	lowered lid	1320	1500
+nose
+POS	Noun	420	580	Adverb	660	760	Determiner	880	960	Noun	1080	1460
+English translation	The teacher in the movie theatre.
+Notes - number of character bytes:	5
+nose?
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:549_master_small.mov
+Video	NCSLGRv2:video files:slave1:549_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:549_slave2_small.mov
+Video	
+Audio	
+Start frame:	1500
+End frame:	4280
+Number of participant panes:	1
+Participant:	Ben Bahan
+Number of fields:	011
+main gloss	MOVIE	1720	2060	END	2180	2760	FUTURE	2860	2880	BUY	3000	3120	BOOK	3160	3240	j:GIFT:k	3340	3500	STUDENT	3620	3800	READ	3840	4040
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	1500	1500	start	1520	2020	slightly back	2040	2100	start	2120	2760	slightly front	2780	3180	start	3200	3560	slightly back	3580	3800	end	3820	4060
+head pos: tilt side	start	1720	1920	slightly left	1940	2840	left	2860	3280	start	3300	3620	slightly right	3640	3920	end	3940	4280
+head pos: turn	start	1500	1820	right	1840	2700	start	2720	3040	slightly left	3060	3440	start	3460	3820	slightly right	3840	4060	end	4080	4280
+head pos: jut	start	2840	3000	back	3020	3180	end	3200	3380	start	3820	3960	back	4000	4280
+eye brows	raised	1500	2620	start	2640	2860	slightly lowered	2880	4280
+eye aperture	lowered lid	1500	1520	blink	1540	1600	start	1620	2040	wide	2060	2700	blink	2720	2760	start	2780	2860	slightly lowered	2880	4020	lowered lid	4040	4280
+eye gaze	right	1620	2700	left	3240	3400
+POS	Noun	1720	2060	Verb	2180	2760	Tense Marker	2860	2880	Verb	3000	3120	Noun	3160	3240	Verb	3340	3500	Noun	3620	3800	Verb	3840	4040
+English translation	After the movie ends, the teacher will buy a book to give to the student to read.
+Notes - number of character bytes:	0

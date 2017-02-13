@@ -1,0 +1,552 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	ncslgr10n	Firewire 38200:NCSLGRv2:ncslgr10n
+Number of utterances:	19
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-551_354_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-551_354_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-551_354_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1225
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	012
+main gloss	WOMAN	660	700	ARRIVE	780	920	|>		1000
+non-dominant hand gloss
+eye brows	start	20	140	raised	160	200	end	220	340
+eye aperture	start	0	40	lowered lid	60	60	start	80	180	wide	200	260	end	280	340	end	1060	1200
+eye gaze	left	380	400	left	600	700
+mouth	start	40	140	lips spread:crnrs down	160	400	end	420	420	lips spread:crnrs down	960	980	end	1000	1100
+head pos: turn	start	120	220	slightly left	240	320	start	340	560	slightly right	580	1080	end	1100	1225
+head pos: jut	start	40	240	slightly back	260	400	start	420	500	back	520	1000	end	1020	1220
+head mvmt: shake	slight rapid head shake	720	1000
+shoulders	start	140	220	raised	240	280	end	300	380	start	740	800	raised	820	940	end	960	1100
+POS	Noun	660	700	Verb	780	920
+English translation	Some woman arrived.
+Notes - number of character bytes:	3
+SAF
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-559_173_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-559_173_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-559_173_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1555
+Number of participant panes:	1
+Participant:	Ben
+Number of fields:	012
+main gloss	fs-SUE	280	480	BUY	680	820	IX-3p:i	920	960	CAR	1100	1260	BLUE	1320	1380
+non-dominant hand gloss
+eye brows	start	480	600	slightly lowered	620	1555
+eye aperture	slightly lowered	0	860	end	900	960
+eye gaze	right	840	1040
+head pos: tilt fr/bk	start	0	140	back	160	420	start	440	520	slightly back	540	780	end	800	920	start	1060	1180	slightly back	1200	1380	end	1400	1460
+head pos: turn	start	820	880	slightly right	900	960	end	980	1100
+head pos: tilt side	start	180	240	slightly right	260	480	end	500	620	start	740	820	slightly right	840	1120	end	1140	1220
+head pos: jut	start	800	900	back	920	960	end	980	1100
+body lean	start	180	300	back	320	900	start	920	980	back left	1000	1160	end	1180	1300
+POS	Proper Noun	280	480	Verb	680	820	Determiner	920	960	Noun	1100	1260	Adjective	1320	1380
+English translation	Sue bought/is buying the blue car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-565_72_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-565_72_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-565_72_small_2.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1200
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	012
+main gloss	SOMETHING/ONE	200	260	STUDENT	400	500	HAVE	580	620	VIDEOTAPE	720	940	|>		1100
+non-dominant hand gloss	VIDEOTAPE	720	940	|>		1040
+eye brows	raised	60	80	end	100	200	start	300	340	slightly lowered	360	540	end	560	640
+eye aperture	lowered lid	60	100	start	120	200	squint	220	340	end	360	440
+eye gaze	right	100	200
+nose	start	60	140	tensed	160	540	end	560	780
+mouth	start	60	140	raised upper lip	160	220
+head pos: turn	start	260	400	slightly left	420	1060	end	1080	1200
+head pos: tilt side	start	300	580	slightly left	600	1020	end	1040	1180
+head mvmt: nod	single	140	240	slow	260	1180
+POS	Determiner	200	260	Noun	400	500	Verb	580	620	Noun	720	940
+English translation	Some student has the videotape.
+Notes - number of character bytes:	104
+did twoholds vor videotape, as the dom hand holds it longer than the other -- but is this neccesary? saf
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	
+Video	NCSLGRv2:video files:slave1:ch7-584_58_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-584_58_small_2.mov
+Video	NCSLGRv2:video files:slave3:ch7-584_58_small_3.mov
+Audio	
+Start frame:	40
+End frame:	1580
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	011
+main gloss	fs-JOHN	160	240	BUY	360	440	YESTERDAY	580	700	"WHAT"	820	1000	|>		1060	BOOK+	1200	1380	|>		1420
+non-dominant hand gloss	BUY	360	440	|>		700
+rhetorical question	wh rhq	140	1000
+eye brows	start	40	120	raised	140	240	start	260	300	further raised	320	1000	end	1020	1120
+eye aperture	lowered lid	40	40	end	60	100	start	260	400	wide	420	960	start	980	1040	lowered lid	1060	1100	end	1120	1380
+head pos: tilt fr/bk	start	40	180	slightly back	200	260	start	280	320	back	340	1100	end	1120	1240
+head pos: jut	start	40	160	forward	180	440	start	460	700	further forward	720	1040	end	1060	1240
+head pos: turn	slightly right	40	180	end	200	220	start	720	740	right	760	1580
+head mvmt: shake	slight rapid head shake	780	940
+POS	Proper Noun	160	240	Verb	360	440	Adverb	580	700	Wh-word	820	1000	Noun	1200	1380
+English translation	What did John buy yesterday? A book. (books?)
+Notes - number of character bytes:	77
+how should we treat rhq for eng trans? literal? saf
+
+is it book or books? saf
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-589_59_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-589_59_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-589_59_small_2.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	1600
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	013
+main gloss	WHO	240	280	TELL:i	360	400	fs-BILL:i	460	520	|>		560	part:indef	680	780	|>		900	fs-MARY	1040	1240	|>		1380
+non-dominant hand gloss
+rhetorical question	wh rhq	140	900
+eye brows	start	80	120	raised	140	900	end	920	980
+eye aperture	lowered lid	80	80	end	100	140	start	220	260	wide	280	840	start	860	940	slightly lowered	960	1040	end	1060	1160
+eye gaze	left	240	540
+head pos: tilt fr/bk	start	80	120	slightly back	140	300	start	320	320	back	340	940	end	960	1240
+head pos: turn	start	240	320	slightly left	340	1360	end	1380	1520
+head pos: jut	start	80	300	forward	320	960	end	980	1240
+head mvmt: shake	slight rapid head shake	480	900
+body lean	start	480	780	forward	800	1080	end	1100	1380
+POS	Wh-word	240	280	Verb	360	400	Proper Noun	460	520	Particle	680	780	Proper Noun	1020	1240
+English translation	Who told Bill? Mary did.
+Notes - number of character bytes:	134
+again, same question about eng trans and rhq. saf
+
+I'm not convinced that the past:indef is actually one, bec there's a head shake saf
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-590_55_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-590_55_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-590_55_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1836
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	012
+main gloss	TELL:i	280	320	fs-BILL	420	540	YESTERDAY	700	860	WHO	1000	1060	|>		1180	fs-MARY	1360	1540	|>		1620
+non-dominant hand gloss
+rhetorical question	wh rhq	260	1140
+eye brows	start	20	240	raised	260	1140	end	1160	1280
+eye aperture	start	540	580	wide	600	1100	start	1120	1180	blink	1200	1220	lowered lid	1240	1320	end	1340	1460	blink	1800	1836
+eye gaze	left	240	500
+head pos: tilt fr/bk	start	20	260	back	280	1280	end	1300	1460
+head pos: turn	start	220	280	slightly left	300	640	start	660	800	left	820	900	end	920	1060	start	1220	1340	slightly right	1360	1700	end	1720	1836
+head pos: jut	start	40	300	forward	320	1240	end	1260	1560
+head mvmt: nod	single	1260	1480
+POS	Verb	280	320	Proper Noun	420	540	Adverb	700	860	Wh-word	1000	1060	Proper Noun	1360	1540
+English translation	Who told Bill yesterday? Mary did.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-591_191_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-591_191_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-591_191_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1440
+Number of participant panes:	1
+Participant:	Ben
+Number of fields:	013
+main gloss	fs-JOHN	160	340	BUY	420	500	YESTERDAY	660	700	"WHAT"	800	920	BOOK	1060	1140	|>		1200
+non-dominant hand gloss	 			BUY	420	500	|>		700
+rhetorical question	wh rhq	260	920
+eye brows	start	180	240	slightly raised	260	560	start	580	720	raised	740	920	start	940	1060	slightly lowered	1080	1440
+eye aperture	start	700	780	wide	800	920	end	940	1040	blink	1260	1300
+head pos: tilt fr/bk	start	0	160	slightly back	180	1160	start	1180	1420	front	1440	1440
+head pos: turn	slightly left	0	1200	end	1220	1320
+head pos: tilt side	slightly right	0	80	start	100	180	right	200	760	start	780	840	slightly right	860	980	end	1000	1160
+head pos: jut	start	580	620	forward	640	760	end	780	800	start	980	1140	back	1160	1440
+head mvmt: shake	rapid	700	920
+body lean	start	140	340	slightly back	360	540	end	560	620
+POS	Proper Noun	160	340	Verb	420	500	Adverb	660	700	Wh-word	800	920	Noun	1060	1140
+English translation	What did John buy yesterday? A book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-592_192_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-592_192_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-592_192_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1520
+Number of participant panes:	1
+Participant:	Ben
+Number of fields:	011
+main gloss	WHO	260	300	fs-JOHN	360	560	SEE	680	740	"WHAT"	780	920	|>		980	fs-MARY	1140	1340	|>		1380
+non-dominant hand gloss
+rhetorical question	wh rhq	160	940
+eye brows	start	0	140	raised	160	940	end	960	1180
+eye aperture	lowered lid	0	0	start	20	120	wide	140	560	start	580	640	wider	660	920	start	940	1000	blink	1020	1040	start	1060	1120	squint	1140	1240	end	1260	1380	blink	1460	1520
+head pos: tilt fr/bk	start	140	160	slightly back	180	980	end	1000	1060	start	1240	1500	front	1520	1520
+head pos: tilt side	start	1080	1180	slightly left	1200	1520
+head pos: jut	start	980	1100	slightly back	1120	1520
+head mvmt: shake	slow	160	680	rapid	700	920
+POS	Wh-word	260	300	Proper Noun	360	560	Verb	680	740	Wh-word	780	900	Proper Noun	1140	1340
+English translation	Who did John see? Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	
+Video	NCSLGRv2:video files:slave1:ch7-593_62_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-593_62_small_2.mov
+Video	NCSLGRv2:video files:slave3:ch7-593_62_small_3.mov
+Audio	
+Start frame:	40
+End frame:	1500
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	013
+main gloss	WHO	220	240	fs-JOHN	300	400	SEE	540	600	"WHAT"	680	820	|>		900	fs-MARY	980	1180	|>		1300
+non-dominant hand gloss	"WHAT"	680	820	|>		920
+rhetorical question	wh rhq	220	840
+eye brows	start	160	280	slightly raised	300	360	start	380	540	raised	560	840	end	860	960
+eye aperture	start	100	120	wide	140	260	end	280	320	start	500	580	wide	600	780	end	800	900	blink	1340	1360
+eye gaze	left	500	600	up/right	1360	1500
+head pos: tilt fr/bk	start	40	180	slightly back	200	920	end	940	1100
+head pos: jut	start	80	240	forward	260	460	start	480	540	further forward	560	900	end	920	1100
+head mvmt: shake	rapid	200	820
+head mvmt: nod	single	900	1180
+body lean	start	660	800	forward	820	940	end	960	1140
+POS	Wh-word	220	240	Proper Noun	300	400	Verb	540	600	Wh-word	680	820	Proper Noun	980	1180
+English translation	Who did John see? Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	
+Video	NCSLGRv2:video files:slave1:ch7-598_74_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-598_74_small_2.mov
+Video	NCSLGRv2:video files:slave3:ch7-598_74_small_3.mov
+Audio	
+Start frame:	0
+End frame:	1580
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	011
+main gloss	fs-JOHN	120	200	SEE:i	400	480	THROW	620	720	IX-3p:j	740	740	APPLE	920	980	WHO	1080	1140	|>		1220	fs-MARY	1340	1520	|>		1580
+non-dominant hand gloss
+rhetorical question	wh rhq	220	1220
+eye brows	start	60	200	raised	220	440	start	460	580	slightly raised	600	720	start	740	760	raised	780	1020	start	1040	1080	further raised	1100	1220	end	1240	1360
+eye aperture	start	80	280	wide	300	1220	end	1240	1280
+eye gaze	down/right	240	340	down/right	520	680
+head pos: tilt fr/bk	start	320	420	back	440	620	end	640	720
+head pos: jut	start	160	380	back	400	560	start	580	700	slightly back	720	820	start	840	1140	forward	1160	1300	end	1320	1440
+head mvmt: shake	rapid	1100	1220
+POS	Proper Noun	120	200	Verb	400	480	Verb	620	720	Determiner	740	740	Noun	920	980	Wh-word	1080	1140	Proper Noun	1340	1520
+English translation	Who did John see throw the apple? Mary.
+Notes - number of character bytes:	58
+added IX after THROW (saf)
+
+this ends quite abruptly (saf)
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-600_205_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-600_205_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-600_205_small_2.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	1080
+Number of participant panes:	1
+Participant:	Ben
+Number of fields:	011
+main gloss	fs-JOHN	180	300	BUY	420	520	YESTERDAY	640	680	"WHAT"	760	920
+non-dominant hand gloss	BUY	420	520	|>		680
+wh question	wh	680	1080
+eye brows	start	160	240	slightly lowered	260	600	start	620	660	lowered	680	1080
+eye aperture	start	620	680	squint	700	1060	blink	1080	1080
+head pos: tilt fr/bk	slightly back	100	680	start	700	780	back	800	880	end	900	1080
+head pos: turn	start	340	340	slightly left	360	700	start	720	760	left	780	1080
+head pos: tilt side	slightly right	100	320	end	340	440	start	660	760	right	780	1080
+head mvmt: shake	rapid	700	940
+POS	Proper Noun	180	300	Verb	420	520	Adverb	640	680	Wh-word	760	920
+English translation	What did John buy yesterday?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-601_194_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-601_194_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-601_194_small_2.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	1340
+Number of participant panes:	1
+Participant:	Ben
+Number of fields:	010
+main gloss	fs-JOHN	320	560	GO	620	720	SHOULD+	840	1200
+non-dominant hand gloss
+eye brows	start	180	340	slightly lowered	360	700	start	720	740	lowered	760	1340
+eye aperture	start	740	800	squint	820	1320	end	1340	1340
+head pos: tilt fr/bk	start	180	260	back	280	520	slightly back	540	600	end	620	720
+head pos: turn	slightly left	180	580	start	600	780	right	800	920	start	940	1080	slightly left	1120	1340
+head pos: tilt side	slightly right	180	500	end	520	680	start	780	980	slightly left	1000	1340
+head mvmt: nod	single	1000	1280
+POS	Proper Noun	320	560	Verb	620	720	Modal	840	1200
+English translation	John should go.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	
+Video	NCSLGRv2:video files:slave1:ch7-602_77_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-602_77_small_2.mov
+Video	NCSLGRv2:video files:slave3:ch7-602_77_small_3.mov
+Audio	
+Start frame:	80
+End frame:	960
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	011
+main gloss	fs-JOHN	120	240	GO	360	480	SHOULD+	560	740
+non-dominant hand gloss
+eye brows	start	80	120	raised	140	440	start	460	600	lowered	620	780	end	800	900
+eye aperture	lowered lid	80	100	end	120	200	start	280	340	wide	360	400	start	420	440	further lowered	460	480	lowered lid	500	540	squint	560	760	end	780	860
+eye gaze	right	280	400
+head pos: tilt fr/bk	back	80	140	end	160	300
+head pos: turn	slightly right	80	960
+head pos: tilt side	start	240	340	slightly right	360	480	start	500	600	slightly left	620	960
+nose	start	480	520	wrinkle	540	780	end	800	880
+POS	Proper Noun	120	240	Verb	360	480	Modal	560	740
+English translation	John should go.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-603_195_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-603_195_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-603_195_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1380
+Number of participant panes:	1
+Participant:	Ben
+Number of fields:	010
+main gloss	fs-JOHN	100	340	SHOULD	380	480	GO	520	640	SHOULD++	700	1080
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	0	340
+head pos: tilt side	start	500	880	left	940	1160	end	1180	1340
+head pos: turn	start	780	1080	left	1100	1160	end	1180	1380
+head mvmt: nod	slow	360	1180	end	1200	1380
+eye brows	slightly lowered	0	220	lowered	240	1380
+eye aperture	start	540	660	closed	680	880	squint	900	1080	end	1100	1320	blink	1340	1380
+POS	Proper Noun	100	340	Modal	380	480	Verb	520	640	Modal	700	1080
+English translation	John should go, he should.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-605_196_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-605_196_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-605_196_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1166
+Number of participant panes:	1
+Participant:	Ben
+Number of fields:	011
+main gloss	LIKE	160	300	CHOCOLATE	360	600	WHO	700	920
+non-dominant hand gloss
+head pos: tilt fr/bk	back	0	820	end	840	1120
+head pos: tilt side	slightly right	0	600	right	620	900	end	920	1160
+head pos: turn	start	480	620	slightly left	640	920	end	940	1160
+head mvmt: shake	rapid	660	920
+eye brows	slightly lowered	0	560	lowered	580	920	slightly lowered	940	1166
+eye aperture	slightly lowered	0	480	start	500	600	squint	620	1000	start	1020	1040	blink	1060	1060	end	1080	1166
+wh question	wh	160	920	end	940	1140
+POS	Verb	160	300	Noun	360	600	Wh-word	700	920
+English translation	Who likes chocolate?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	
+Video	NCSLGRv2:video files:slave1:ch7-606_79_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-606_79_small_2.mov
+Video	NCSLGRv2:video files:slave3:ch7-606_79_small_3.mov
+Audio	
+Start frame:	0
+End frame:	1460
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	010
+main gloss	LIKE	300	440	CHOCOLATE	500	600	WHO	740	1160
+non-dominant hand gloss
+head pos: tilt fr/bk	start	360	520	slightly front	540	560	end	580	720
+head pos: jut	start	320	740	forward	760	1220	end	1240	1460
+head mvmt: nod	single	260	560
+eye brows	start	140	400	raised	420	560	start	580	700	lowered	720	1240	end	1260	1420
+eye aperture	start	240	420	wide	440	580	start	600	680	squint	700	1160	blink	1180	1180	end	1200	1420
+wh question	wh	620	1220	end	1240	1460
+POS	Verb	300	440	Noun	500	600	Wh-word	740	1160
+English translation	Who likes chocolate?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-607_197_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-607_197_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-607_197_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1140
+Number of participant panes:	1
+Participant:	Ben
+Number of fields:	012
+main gloss	LOVE	260	360	fs-JOHN	420	580	WHO	680	860
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	0	620	back	640	740	end	780	1020
+head pos: tilt side	start	380	560	slightly right	580	880	end	900	1060
+head pos: turn	start	220	380	slightly left	400	960	end	980	1120
+head mvmt: shake	rapid	620	880
+body lean	start	160	300	forward	320	320	end	340	440
+eye brows	lowered	0	1140
+eye aperture	start	0	80	squint	100	860	blink	880	900	end	920	1140
+wh question	start	40	240	wh	260	860	end	880	1080
+POS	Verb	260	360	Proper Noun	420	580	Wh-word	680	860
+English translation	Who loves John?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch7-596_75_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch7-596_75_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch7-596_75_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1520
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	012
+main gloss	fs-JOHN	0	160	SEE	280	360	THROW	420	700	APPLE	800	820	WHO	920	1080	fs-MARY	1160	1520
+non-dominant hand gloss
+eye brows	start	0	180	slightly raised	200	860	raised	880	1040	end	1060	1120
+head pos: tilt side	left	0	0	end	20	240	start	1080	1280	slightly right	1300	1520
+head pos: turn	start	460	560	slightly left	620	920	end	940	1000	start	1160	1300	slightly right	1320	1520
+head pos: jut	start	160	360	back	380	800	end	820	1140
+head mvmt: shake	rapid	820	1100
+eye aperture	start	0	180	wide	200	980	end	1000	1120
+eye gaze	right	140	340	left	460	560
+rhetorical question	rhq	0	1080
+POS	Proper Noun	0	160	Verb	280	360	Verb	420	700	Noun	800	820	Wh-word	920	1080	Proper Noun	1160	1520
+English translation	Who did John see throw the apple? Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch6-567_73_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch6-567_73_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch6-567_73_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1160
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	007
+main gloss	STUDENT	100	220	HAVE	420	480	VIDEOTAPE	600	880
+non-dominant hand gloss
+eye brows	start	0	140	slightly raised	160	360	end	380	500
+head pos: tilt fr/bk	start	0	200	back	220	340	start	360	640	front	660	660	end	680	900
+head mvmt: nod	start	0	200	single	220	660	end	680	900
+POS	Noun	100	220	Verb	420	480	Noun	600	880
+English translation	The student has the videotape.
+Notes - number of character bytes:	0

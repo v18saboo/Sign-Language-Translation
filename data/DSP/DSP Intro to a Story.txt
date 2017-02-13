@@ -1,0 +1,445 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	DSP Intro to a Story	SignStream Databases v.2:DSP Intro to a Story
+Number of utterances:	15
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	360
+End frame:	2460
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	013
+main gloss	NOW	380	420	(2h)LOOK-AT	560	660	GROUP	820	900	fs-DRAMA	1040	1580	THAT	1660	1740	DIFFERENT	1920	2040	|>		2420
+non-dominant hand gloss	1:"focus"	1040	1740
+topic/focus	sentence-initial adverb	360	480	focus/top1	740	920
+eye brows	raised	360	460	slightly raised	480	660	start	680	720	raised	740	920	end	940	980	start	1500	1560	raised	1580	2460
+eye aperture	wide	360	920
+eye gaze	right	480	640
+head pos: turn	start	440	500	right	520	640	end	660	800	start	920	1080	right	1100	1580	start	1600	1740	further right	1760	2380	start	2400	2460
+head pos: tilt side	slightly right	360	440	end	460	620	start	700	740	slightly right	760	1600	start	1620	1840	slightly left	1860	2400	end	2420	2460
+nose	start	1620	1620	tensed	1640	2360	end	2380	2460
+mouth	start	1560	1620	raised upper lip	1640	2040	end	2060	2200
+shoulders	start	480	620	right	640	2160	end	2180	2460
+POS	Discourse Marker	380	420	Verb	560	660	Noun	820	900	Noun	1040	1580	Pronoun	1660	1740	Adjective	1920	2040
+English translation	Now, let's watch some dramas that are somewhat different.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	2460
+End frame:	3640
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	009
+main gloss	INVOLVE	2520	2660	MANY+	2820	3020	CHARACTER+	3180	3620
+non-dominant hand gloss
+eye brows	raised	2460	2680	end	2700	2780	start	3600	3640
+eye aperture	wide	2520	2680	wide	3620	3640
+head pos: turn	start	2460	2500	right	2520	3580	end	3600	3640
+head pos: tilt side	end	2460	2520
+body lean	start	3340	3360	left	3380	3640
+POS	Verb	2520	2660	Quantifier	2820	3020	Noun	3180	3620
+English translation	They involve many characters, ...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	3640
+End frame:	4540
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	011
+main gloss	PEOPLE	3720	3820	ACTION	3960	4540
+non-dominant hand gloss
+topic/focus	focus/top1	3720	3820
+eye brows	start	3640	3660	further raised	3680	3780	start	3800	3960	slightly lowered	3980	4480	start	4500	4540
+eye aperture	wide	3640	3660	wider	3680	3840	end	3860	3960	start	4520	4520	lowered lid	4540	4540
+head pos: turn	end	3640	3760
+head pos: jut	start	3940	3980	slightly forward	4000	4540
+mouth	lips spread & crnrs down	4020	4500
+body lean	left	3640	3660	end	3680	3760	start	3900	4000	forward	4020	4540
+POS	Noun	3720	3820	Noun	3960	4540
+English translation	... people, and action.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	4540
+End frame:	6200
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	016
+main gloss	THAT	4620	4700	DEAF	4840	4980	PEOPLE	5040	5100	IX-3p-arc	5120	5300	HAVE	5380	5520	DIFFERENT++	5680	6080
+non-dominant hand gloss
+topic/focus	focus/top1	4540	4740	top2	4800	5120
+eye brows	start	4540	4580	raised	4600	4640	end	4660	4680	start	4740	4780	slightly raised	4800	5200	start	5220	5300	further lowered	5320	5980	start	6000	6080	raised	6100	6180	start	6200	6200
+eye aperture	lowered lid	4540	4580	start	4600	4600	wide	4620	5160	start	5180	5260	squint	5280	6000	start	6020	6020	blink	6040	6040	start	6060	6060	lowered lid	6080	6200
+eye gaze	left	6120	6200
+head pos: tilt fr/bk	start	4540	4620	slightly back	4640	4660	slightly back	4760	5220	end	5240	5260	start	5600	5700	slightly back	5720	6100	start	6120	6200
+head pos: turn	start	4600	4780	left	4800	5460	start	5480	5740	slightly right	5760	5860	start	5880	6180	left	6200	6200
+head pos: jut	slightly forward	4540	4580
+head mvmt: nod	single	4640	4740	single	5240	5620
+mouth	blow	5660	6020	open & corners down	6080	6200
+cheeks	start	5700	5740	puffed	5760	6000	end	6020	6040
+shoulders	start	5660	5700	slightly right	5720	5880	start	5900	6200
+body lean	forward	4540	4640	start	4660	4960	slightly back	4980	5240	start	5260	5460	forward	5480	5560	start	5580	5680	slightly back	5700	6120	start	6140	6200
+POS	Pronoun	4620	4700	Adjective	4840	4980	Noun	5040	5100	Pronoun	5120	5300	Verb	5380	5520	Adjective	5680	6080
+English translation	The deaf community has a wide variety of performance genres, ...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	6200
+End frame:	8240
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	015
+main gloss	SHORT	6240	6300	fs-SKITS	6400	6920	WHICH	7020	7140	REAL	7280	7360	FULL	7460	7560	DRAMA	7660	8120
+non-dominant hand gloss	H:"focus"	6500	6920
+eye brows	start	6200	6200	slightly raised	6220	6300	end	6320	6360	start	6440	6480	slightly lowered	6500	6940	start	6960	7020	slightly raised	7040	7680	end	7700	7800	start	8120	8240
+eye aperture	lowered lid	6200	6400	start	6420	6420	slightly squinted	6440	6940	start	6960	6960	blink	6980	6980	end	7000	7020	wide	8180	8240
+eye gaze	left	6200	6960	right	7160	7520
+mouth	open & corners down	6200	6400
+head pos: tilt fr/bk	start	6200	6280	slightly front	6300	6980	end	7000	7140
+head pos: turn	left	6200	6940	start	6960	7320	right	7340	7520	start	7540	7760	slightly left	7780	8180	start	8200	8240
+head pos: tilt side	left	6200	6980	end	7000	7300	start	7700	7780	slightly right	7800	8180	end	8200	8240
+head mvmt: nod	single	7640	8200
+head pos: jut	start	6220	6300	slightly forward	6320	6940	end	6960	7100
+shoulders	start	6200	6280	slightly left	6300	7020	start	7040	7340	right	7360	8160	end	8180	8240
+body lean	start	6200	6400	left	6420	7060	end	7080	7260	start	7640	7780	forward/right	7800	8160	end	8180	8240
+POS	Adjective	6240	6300	Noun	6400	6920	Conjunction	7020	7140	Adjective	7280	7360	Adjective	7460	7560	Noun	7660	8120
+English translation	...everything from short skits to full length plays.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	8240
+End frame:	10400
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	012
+main gloss	ONE	8320	8460	TITLE	8640	8780	fs-SEEING-PLACE	8980	10220	|>		10380
+non-dominant hand gloss	1:"focus"	8980	10400
+topic/focus	focus/top1	8260	8480
+eye brows	further raised	8240	8440	end	8460	8540	start	9620	9680	slightly raised	9700	10380	start	10400	10400
+eye aperture	wide	8240	8460	end	8480	8540	start	8860	8920	squint	8940	9600	end	9620	9700	start	10400	10400
+eye gaze	watch hands	8860	9540
+head pos: turn	start	8240	8300	slightly right	8320	8460	end	8480	8640	start	8840	8900	slightly right	8920	9040	end	9060	9220	start	9560	9740	left	9760	10400
+head mvmt: nod	single	10220	10400
+shoulders	end	8240	8380
+body lean	end	8240	8380	start	8940	9060	left	9080	10060	start	10100	10260	slightly forward	10280	10400
+POS	Number	8320	8460	Noun	8640	8780	Proper Noun	8980	10220
+English translation	One of these pieces, called "Seeing Place", ...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	10400
+End frame:	12480
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	012
+main gloss	WHO	10520	10580	WRITE+	10640	10900	fs-RICO-PETERSON	11000	12460
+non-dominant hand gloss	1:"focus"	10400	10480	B-L:"focus"	11120	12480
+rhetorical question	wh rhq	10440	10900
+eye brows	start	10400	10420	raised	10440	10840	end	10860	11000	start	12180	12300	slightly raised	12320	12400	start	12420	12480
+eye aperture	start	10400	10420	wide	10440	10840	end	10860	10920	start	12440	12480
+eye gaze	watch hands	11460	11800
+head pos: tilt fr/bk	start	10940	11000	slightly front	11020	11200	end	11220	11280	start	12120	12300	slightly back	12320	12480
+head pos: turn	left	10400	10420	end	10440	10520	start	10580	10660	left	10680	11440	end	11460	11560	start	11820	11960	slightly left	11980	12480
+head mvmt: nod	single	10400	10480
+body lean	slightly forward	10400	10960	start	10980	11080	left	11100	12480
+POS	Wh-word	10520	10580	Verb	10640	10900	Proper Noun	11000	12460
+English translation	...written by Rico Peterson,...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	12480
+End frame:	15120
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	013
+main gloss	THAT	12560	12620	DRAMA	12700	12860	INVOLVE	12940	13200	BOTH	13300	13480	DEAF	13640	13800	HEARING	13860	14060	CHARACTER+	14160	14660	|>		15060
+non-dominant hand gloss	B:"focus"	12480	12620
+topic/focus	focus/top1	12500	12860
+eye brows	start	12480	12480	further raised	12500	12860	raised	12880	13200	end	13220	13380	start	15060	15100	raised	15120	15120
+eye aperture	start	12480	12480	wide	12500	12840	end	12860	12960	start	15080	15100	wide	15120	15120
+eye gaze	left	15080	15120
+head pos: tilt fr/bk	slightly back	12480	12800	end	12820	12900	start	14180	14240	front	14260	15060	end	15080	15120
+head pos: turn	slightly left	12480	12480	end	12500	12560	start	12760	13020	further right	13040	13760	start	13780	13880	slightly right	13900	14080	start	14100	14140	right	14160	15040	start	15060	15120
+head pos: jut	start	12920	13060	forward	13080	13800	end	13820	13880
+shoulders	start	13000	13020	slightly right	13040	13740	end	13760	14040
+body lean	left	12480	12660	end	12680	12860	start	13040	13220	slightly forward	13240	15120
+POS	Determiner	12560	12620	Noun	12700	12860	Verb	12940	13200	Quantifier	13300	13480	Adjective	13640	13800	Adjective	13860	14060	Noun	14160	14660
+English translation	...involves both Deaf and hearing characters.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	15120
+End frame:	16880
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	013
+main gloss	IX+-3p:i	15260	15400	fs-FREDA	15540	15880	|>		15960	fs-NORMAN	16060	16660	|>		16840
+non-dominant hand gloss
+topic/focus	focus/top1	15260	16880
+eye brows	raised	15120	15700	slightly raised	15720	16880
+eye aperture	wide	15120	15640
+eye gaze	left	15120	15320
+head pos: tilt fr/bk	start	15460	15520	slightly back	15540	15880	end	15900	15920
+head pos: turn	start	15120	15220	left	15240	15320	start	15340	15520	right	15540	16880
+head mvmt: nod	single	15880	16100
+shoulders	start	15520	15660	slightly right	15680	16880
+body lean	slightly forward	15120	15160	end	15180	15320	start	15580	15680	slightly back	15700	16880
+POS	Pronoun	15260	15400	Proper Noun	15540	15880	Proper Noun	16060	16660
+English translation	Freda Norman, ...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	16880
+End frame:	19160
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	012
+main gloss	SELF+-3p:i	16940	17120	ACTOR	17220	17540	UP-TO-NOW	17600	18000	INVOLVE+	18060	18380	MANY+	18500	18660	DRAMA	18740	18940
+non-dominant hand gloss
+eye brows	slightly raised	16880	16880	end	16900	17060	start	17580	17620	lowered	17640	19040	start	19060	19140	raised	19160	19160
+eye aperture	start	17600	17640	squint	17660	19040	start	19060	19100	wide	19120	19160
+eye gaze	watch hands	18060	18380
+head pos: tilt fr/bk	start	16900	16980	front	17000	17600	end	17620	17680	start	19080	19160
+head pos: turn	right	16880	17600	end	17620	17880
+mouth	lips spread & crnrs down	17660	18020
+shoulders	slightly right	16880	17020	end	17040	17160	start	18080	18080	slightly right	18100	18220	start	18240	18480	slightly left	18500	18700	end	18720	18960
+body lean	slightly back	16880	17160	end	17180	17440
+POS	Pronoun	16940	17120	Noun	17220	17540	Adverb	17600	18000	Verb	18060	18380	Quantifier	18500	18660	Noun	18740	18940
+English translation	... a long-time actress, has been in numerous dramatic works.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	19120
+End frame:	21000
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	014
+main gloss	ALSO	19200	19400	THAT	19500	19560	DRAMA++	19660	20080	IX-3p:i	20120	20200	FUTURE	20340	20360	EXTRACT-FROM"up-right-to-center"	20560	20920
+non-dominant hand gloss	EXTRACT-FROM"up-right-to-center"	20560	20920	|>		21000
+eye brows	raised	19120	19200	end	19220	19440	start	20160	20160	slightly lowered	20180	20220	end	20240	20280	start	20500	20500	slightly lowered	20520	20700	end	20720	20860
+eye aperture	wide	19120	19360	end	19380	19500
+eye gaze	right	19360	19480	right	20360	20680
+head pos: tilt fr/bk	start	19120	19160	slightly back	19180	19320	start	19340	19500	front	19520	19640
+head pos: turn	start	19140	19260	slightly left	19280	20180	start	20200	20440	right	20460	20600	end	20620	20820
+head pos: tilt side	start	19140	19240	slightly right	19260	20220	end	20240	20360
+head pos: jut	start	19440	19500	forward	19520	20160	end	20180	20300	start	20500	20560	slightly back	20580	20920	end	20940	21000
+mouth	start	20500	20560	lips spread	20580	20880	end	20900	20920
+shoulders	start	20360	20540	right	20560	20720	end	20740	21000
+body lean	start	19540	19600	forward	19620	20140	end	20160	20340	back/left	20560	20740
+POS	Conjunction	19200	19400	Determiner	19500	19560	Noun	19660	20080	Pronoun	20120	20200	Tense	20340	20360	Verb	20560	20920
+English translation	So, she will perform an excerpt from that (Rico's) play.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	21000
+End frame:	21540
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	008
+main gloss	ONE	21040	21140	PART	21280	21400
+non-dominant hand gloss	EXTRACT-FROM"up-right-to-center"	21000	21000	|>		21080	H:"focus"	21100	21160	PART	21280	21400	|>		21540
+eye aperture	start	21080	21080	squint	21100	21540
+eye gaze	right	21500	21540
+head pos: turn	start	21140	21180	left	21200	21460	start	21480	21540
+body lean	start	21340	21400	forward	21420	21540
+POS	Quantifier	21040	21140	Noun	21280	21400
+English translation	She'll select one section...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	21540
+End frame:	23140
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	011
+main gloss	REAL	21600	21700	BPCL:2"stand on stage"	21980	22220	LECTURE	22480	22600	TO	22720	22780	AUDIENCE	22920	23120
+non-dominant hand gloss	PART	21540	21540	|>		21720	LCL:B-L"platform"	21980	22220	|>		22560
+eye brows	start	22760	22780	slightly raised	22800	23080	end	23100	23120
+eye aperture	squint	21540	22600	end	22620	22640	start	22840	22840	wide	22860	23100	start	23120	23120	squint	23140	23140
+eye gaze	right	21540	22080	right	22320	22680
+head pos: turn	start	21540	21620	right	21640	22060	end	22080	22200	start	22260	22360	right	22380	22660	end	22680	22840
+mouth	lips spread & crnrs down	21960	22600
+shoulders	start	21580	21640	slightly right	21660	23140
+body lean	forward	21540	21540	start	21560	21820	left	21840	22880	end	22900	23120
+POS	Adjective	21600	21700	Classifier	21980	22220	Verb	22480	22600	Preposition	22720	22780	Noun	22920	23120
+English translation	...that's actually a stage presentation which is...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	23140
+End frame:	25040
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	014
+main gloss	THAT	23260	23480	fs-MONOLOGUE	23720	24740	|>		24960
+non-dominant hand gloss	1:"focus"	23340	23480	1:"focus"	23800	24960
+topic/focus	focus	23260	23480
+eye brows	start	23180	23200	further lowered	23220	23460	start	23480	23560	raised	23580	23600	end	23620	23720	start	24460	24500	slightly lowered	24520	24920	start	24960	25040
+eye aperture	squint	23140	23160	start	23180	23180	further squinted	23200	23480	start	23500	23500	blink	23520	23540	end	23560	23580
+head pos: tilt fr/bk	start	23540	23600	back	23620	24480	start	24500	24740	front	24760	24980	end	25000	25040
+head pos: turn	start	23620	23700	right	23720	25040
+head mvmt: nod	single	23220	23560	single	24540	24940
+nose	start	23160	23180	wrinkle	23200	23440	end	23460	23480
+mouth	intense	23220	23440
+shoulders	slightly right	23140	23220	end	23240	23420
+body lean	start	23260	23340	slightly forward	23360	23580	start	23600	23740	slightly back	23760	24660	start	24680	24780	slightly forward	24800	25040
+POS	Determiner	23260	23480	Noun	23720	24740
+English translation	...a monologue.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Introduction.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	25040
+End frame:	26186
+Number of participant panes:	1
+Participant:	Sam Supalla
+Number of fields:	013
+main gloss	GO-AHEAD	25140	25340	(2h)(B-L)IX-loc"Freda"	25680	25860	|>		26186
+non-dominant hand gloss
+eye brows	start	25040	25040	raised	25060	25300	end	25320	25440
+eye aperture	start	25040	25080	wide	25100	25360	start	25380	25440	further squinted	25460	25600	end	25620	25660
+eye gaze	left	25600	26186
+head pos: tilt fr/bk	end	25040	25060	start	25120	25200	front	25220	25560	end	25580	25740
+head pos: turn	right	25040	25360	end	25380	25540
+head mvmt: nod	single	25080	25340
+shoulders	start	25440	25680	left	25700	26186
+body lean	slightly forward	25040	25460	start	25480	25860	back/right	25880	26186
+POS	Verb	25140	25340	Adverb	25680	25860
+literal translation	Let's go on.  
+English translation	Now, here she is!
+Notes - number of character bytes:	0

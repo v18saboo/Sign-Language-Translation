@@ -1,0 +1,1020 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	ncslgr10e 3/6/03	BACK TO THE FUTURE:Users:carolneidle:Desktop: Fran - Sarah 3-7:ncslgr10e 3/6/03
+Number of utterances:	33
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:864_681_master_small.mov
+Video	NCSLGR:video files:slave1:864_681_slave1_small.mov
+Video	NCSLGR:video files:slave2:864_681_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1020
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	YESTERDAY	120	220	STUDENT	360	400	BUY	500	560	CAR	620	840
+non-dominant hand gloss
+topic/focus	sentence-initial adverb	120	220	focus/top1	360	400
+eye brows	start	0	60	raised	80	320	start	340	340	slightly raised	360	400	start	420	540	slightly lowered	560	1020
+eye aperture	start	0	120	wide	140	340	end	360	460	blink	980	1000
+head pos: tilt fr/bk	slightly back	0	40	end	60	120
+head pos: tilt side	slightly left	0	20	start	40	180	slightly right	200	380	end	400	520
+head pos: turn	start	420	580	slightly right	600	1020
+head pos:jut	start	340	540	back	560	780	end	800	980
+body lean	slightly back	0	760	end	780	920
+POS	Adverb	120	220	Noun	360	400	Verb	500	560	Noun	620	840
+English translation	The student bought a car yesterday.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:865_682_master_small.mov
+Video	NCSLGR:video files:slave1:865_682_slave1_small.mov
+Video	NCSLGR:video files:slave2:865_682_slave2_small.mov
+Video	
+Audio	
+Start frame:	280
+End frame:	1740
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	YESTERDAY	360	420	IX-3p:i	600	620	STUDENT	720	760	FINISH	840	900	BUY	1020	1060	CAR	1140	1240	QMwg	1340	1440	|>		1460
+non-dominant hand gloss	CAR	1140	1240
+yes-no question	yes-no question	280	1520
+eye brows	raised	280	1580	end	1600	1740
+eye aperture	start	280	360	wide	380	1520	start	1540	1560	blink	1580	1620	end	1640	1680
+eye gaze	left	440	520
+head pos: tilt fr/bk	slightly back	280	300	start	320	540	slightly front	560	1740
+head pos: turn	right	560	1420	end	1440	1740
+head pos: tilt side	left	580	1400	end	1420	1740
+head pos:jut	start	300	600	back	620	1060	end	1080	1620
+POS	Adverb	360	420	Determiner	600	620	Noun	720	760	Aspect	840	900	Verb	1020	1060	Noun	1140	1240	Particle	1340	1440
+English translation	Did the student already buy a car yesterday?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:866_683_master_small.mov
+Video	NCSLGR:video files:slave1:866_683_slave1_small.mov
+Video	NCSLGR:video files:slave2:866_683_slave2_small.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1160
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	011
+main gloss	YESTERDAY	160	300	(1h)TEACHER	360	420	BUY	540	560	HOUSE	640	720	FINISH	780	1020
+non-dominant hand gloss
+yes-no question	yes-no question	40	1020
+eye brows	raised	40	1080	end	1100	1160
+eye aperture	start	40	60	blink	80	120	start	140	220	wide	240	1020	start	1040	1040	blink	1060	1100	lowered lid	1120	1160
+head pos: tilt fr/bk	start	280	540	slightly front	560	1160
+head pos: turn	slightly right	40	1080	end	1100	1160
+head pos: tilt side	left	40	1040	end	1060	1160
+head pos:jut	start	40	460	back	480	960	end	980	1160
+POS	Adverb	160	300	Noun	360	420	Verb	540	560	Noun	640	720	Adverb	780	1020
+English translation	Did the teacher already buy a house yesterday?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:867_684_master_small.mov
+Video	NCSLGR:video files:slave1:867_684_slave1_small.mov
+Video	NCSLGR:video files:slave2:867_684_slave2_small.mov
+Video	
+Audio	
+Start frame:	440
+End frame:	1580
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	YESTERDAY	440	500	MOTHER	680	700	BUY	900	920	BOOK	1140	1180	FINISH	1240	1340
+non-dominant hand gloss
+topic/focus	sentence-initial adverb	440	500
+eye brows	raised	440	500	end	520	580	end	700	860
+eye aperture	start	440	540	wide	560	680	end	700	780	start	1320	1380	blink	1400	1440	lowered lid	1460	1580
+head pos: turn	start	780	1060	slightly left	1080	1400	end	1420	1580
+head pos: tilt side	slightly left	440	680	end	700	920
+head pos:jut	start	440	680	back	700	740	end	760	1060
+head mvmt: nod	start	720	780	rapid	800	1280
+POS	Adverb	440	500	Noun	680	700	Verb	900	920	Noun	1140	1180	Adverb	1240	1340
+eye gaze	down/left	460	520
+English translation	Mother already bought a book yesterday.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:868_685_master_small.mov
+Video	NCSLGR:video files:slave1:868_685_slave1_small.mov
+Video	NCSLGR:video files:slave2:868_685_slave2_small.mov
+Video	
+Audio	
+Start frame:	120
+End frame:	1260
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	010
+main gloss	BOOK+	180	380	MOTHER	420	480	BUY	560	600	YESTERDAY	720	820	FINISH	860	960	|>		1100
+non-dominant hand gloss	BUY	560	600	|>		780
+topic/focus	focus/top1	180	380
+eye brows	start	120	140	raised	160	420	end	440	540
+eye aperture	start	120	160	wide	180	420	end	440	480	start	1180	1200	blink	1220	1240
+head pos: tilt fr/bk	back	120	180
+head pos: turn	start	560	800	left	820	1180	end	1200	1260
+head mvmt: nod	rapid	440	1100
+POS	Noun	180	380	Noun	420	480	Verb	560	600	Adverb	720	820	Adverb	860	960
+English translation	It's a *book* that mother already bought yesterday.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:869_686_master_small.mov
+Video	NCSLGR:video files:slave1:869_686_slave1_small.mov
+Video	NCSLGR:video files:slave2:869_686_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1200
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	015
+main gloss	"um"	0	20	BOOK	160	260	TEACHER	320	360	neu:GIVE:j	440	600	|>		700	STUDENT	780	1080
+non-dominant hand gloss	TEACHER	320	360	|>		380
+topic/focus	focus/top1	0	260
+eye brows	raised	0	0	start	20	340	slightly lowered	360	580	start	600	900	lowered	920	1200
+eye aperture	start	0	40	blink	60	80	start	1140	1160	blink	1180	1200
+eye gaze	down/left	420	460
+head pos: tilt fr/bk	start	740	900	front	920	1200
+head pos: turn	start	260	480	slightly left	500	900	end	920	1100
+head pos: tilt side	start	260	480	slightly left	500	520	end	540	660
+head pos:jut	start	220	420	back	440	580	end	600	720
+body lean	start	100	200	back	220	660	end	680	900
+cheeks	tensed	320	560
+nose	start	240	300	tensed	320	560	end	580	640
+POS	Discourse Marker	0	20	Noun	160	260	Noun	320	360	Verb	440	600	Noun	780	1080
+English translation	It's a book the teacher gave the student.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:871_688_master_small.mov
+Video	NCSLGR:video files:slave1:871_688_slave1_small.mov
+Video	NCSLGR:video files:slave2:871_688_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1900
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	013
+main gloss	"um"	0	200	TEACHER	340	400	neu:GIVE:j	480	580	BOOK	740	880	neu:GIVE-3p-pl-arc	980	1140	#ALL	1280	1400	STUDENT	1460	1640
+non-dominant hand gloss	TEACHER	340	400	|>		420	BOOK	740	880
+head pos: tilt fr/bk	back	0	260	end	280	420	start	680	860	slightly front	900	1360	end	1380	1620
+head pos: turn	start	660	1020	right	1040	1340	end	1360	1820
+head pos: tilt side	start	0	360	slightly right	380	1380	end	1400	1480
+head pos:jut	start	300	500	back	520	1340	end	1360	1560
+eye brows	slightly raised	0	220	start	240	320	raised	340	420	end	440	500
+eye aperture	blink	0	0	blink	280	320	lowered lid	340	440	end	460	520	blink	1640	1700
+eye gaze	arc	900	1100	left	1720	1900
+mouth	intense	400	520	lips pursed: mm	900	1100	open & round	1220	1660
+cheeks	tensed	360	520	puffed	900	1100
+POS	Discourse Marker	0	200	Noun	340	400	Verb	480	580	Noun	740	880	Verb	980	1140	Quantifier	1280	1400	Noun	1460	1640
+English translation	The teacher gave a book to all the students.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:872_689_master_small.mov
+Video	NCSLGR:video files:slave1:872_689_slave1_small.mov
+Video	NCSLGR:video files:slave2:872_689_slave2_small.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1160
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	013
+main gloss	TEACHER	120	240	BOOK+	340	480	GIFT-3p-pl-arc	560	980
+non-dominant hand gloss
+topic/focus	top2	120	240	focus/top1	340	480
+eye brows	raised	60	480	end	500	580
+eye aperture	start	60	100	wide	120	440	end	460	520	start	980	1000	blink	1020	1060	end	1080	1120
+eye gaze	right	300	380	left	560	660
+head pos: tilt fr/bk
+head pos: tilt side	start	640	760	slightly right	780	820	start	840	900	slightly left	920	1020	end	1040	1080
+head pos:jut	start	500	640	back	660	880	end	900	1080
+nose	start	60	100	tensed	120	180	end	200	240
+cheeks	start	60	100	tensed	120	200	end	220	240
+POS	Noun	120	240	Noun	340	480	Verb	560	980
+English translation	The teacher gave out the BOOKS.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:873_690_master_small.mov
+Video	NCSLGR:video files:slave1:873_690_slave1_small.mov
+Video	NCSLGR:video files:slave2:873_690_slave2_small.mov
+Video	
+Audio	
+Start frame:	340
+End frame:	1720
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	015
+main gloss	STUDENT	380	480	IX-3p-pl-arc>i	540	720	i:GIFT:j	760	880	BOOK	980	1060	IX-3p:j	1100	1140	TEACHER	1220	1380	|>		1480
+non-dominant hand gloss
+topic/focus	focus/top1	340	680
+eye brows	raised	340	680	end	700	780
+eye aperture	start	380	520	wide	540	660	start	680	700	squint	720	840	blink	860	920	end	940	980	blink	1640	1720
+eye gaze	left	400	480	right	760	880
+head pos: tilt fr/bk	start	340	380	slightly back	400	640	end	660	740	start	1000	1280	slightly front	1320	1720
+head pos: turn	start	340	460	slightly left	480	740	end	760	860
+head pos: tilt side	start	340	420	slightly left	440	1020	end	1040	1240
+head pos:jut	start	340	520	back	540	1260	end	1280	1620
+body lean	back	340	1160	end	1180	1620
+cheeks	start	620	720	tensed	740	820	end	840	900
+nose	start	660	720	tensed	740	820	end	840	900
+POS	Noun	380	480	Adverb	540	720	Verb	760	880	Noun	980	1060	Determiner	1100	1140	Noun	1220	1380
+English translation	The students gave a book to the teacher.
+Notes - number of character bytes:	178
+It is unclear how to annotate the first IX.  Although the articulation is clearly plural (an arc), the final point seems to serve as the basis for subject-verb agreement of GIFT.
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:874_691_master_small.mov
+Video	NCSLGR:video files:slave1:874_691_slave1_small.mov
+Video	NCSLGR:video files:slave2:874_691_slave2_small.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	1720
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	STUDENT	200	300	IX-loc-arc	360	500	BOOK	580	680	GIFT-distributive:j	800	1040	TEACHER	1160	1300	IX-loc:j	1460	1460
+non-dominant hand gloss	TEACHER	1160	1300	|>		1320
+topic/focus	top2	200	500	top2	580	680
+eye brows	start	140	160	raised	180	680	end	700	800
+eye aperture	start	160	460	wide	480	680	end	700	780	blink	1020	1040	blink	1520	1560
+eye gaze	down/left	280	440	up/right	760	1000
+head pos: tilt fr/bk	start	1080	1340	slightly front	1360	1420	end	1440	1640
+head pos: turn	start	720	840	slightly right	860	1500	end	1520	1640
+head pos: tilt side	start	140	760	right	780	1040	start	1060	1140	slightly right	1160	1460	end	1480	1680
+head pos:jut	start	680	880	back	900	1360	end	1380	1600
+body lean	start	700	780	left	800	1200	end	1220	1600
+mouth	start	760	780	raised upper lip	800	980	end	1000	1040
+POS	Noun	200	300	Adverb	360	500	Noun	580	680	Verb	800	1040	Noun	1160	1300	Adverb	1460	1460
+English translation	As for the students, they gave a book to the teacher.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:875_692_master_small.mov
+Video	NCSLGR:video files:slave1:875_692_slave1_small.mov
+Video	NCSLGR:video files:slave2:875_692_slave2_small.mov
+Video	
+Audio	
+Start frame:	420
+End frame:	2040
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	013
+main gloss	BOOK	540	700	STUDENT	720	840	IX-loc:arc	900	1060	(2h)alt.neu:GIFT++:j	1120	1380	IX-3p:j	1400	1420	TEACHER	1520	1640	IX-loc:j	1760	1760
+non-dominant hand gloss	TEACHER	1520	1640
+topic/focus	top2	540	700	top2	720	1060
+eye brows	start	420	520	slightly raised	540	620	start	640	700	raised	720	960	start	980	1100	lowered	1120	1340	end	1360	1440
+eye aperture	start	620	720	wide	740	940	start	960	1040	squint	1060	1360	blink	1380	1400	blink	1740	1780	lowered lid	1800	2040
+eye gaze	left	760	820	right	1120	1340
+head pos: tilt fr/bk	start	420	500	back	520	1080	slightly back	1100	1460	start	1480	1580	slightly front	1600	2040
+head pos: turn	start	1100	1120	slightly right	1140	2040
+head pos: tilt side	start	420	560	right	580	740	start	760	860	further right	880	1760	end	1780	2040
+nose	start	940	1020	wrinkle	1040	1360	end	1380	1440
+mouth	bite lower lip	1160	1360
+POS	Noun	540	700	Noun	720	840	Adverb	900	1060	Verb	1120	1380	Determiner	1400	1420	Noun	1520	1640	Adverb	1760	1760
+English translation	The students gave their books to the teacher.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:876_693_master_small.mov
+Video	NCSLGR:video files:slave1:876_693_slave1_small.mov
+Video	NCSLGR:video files:slave2:876_693_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1340
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	STUDENT	100	260	BOOK	340	480	NOW	520	540	(2h)alt.GIVE-recip+	640	1180
+non-dominant hand gloss
+topic/focus	top2	100	260	top2	340	480
+eye brows	raised	0	480	start	500	600	slightly lowered	620	980	end	1000	1280
+eye aperture	start	0	40	wide	60	440	start	460	480	squint	500	520	start	540	580	slightly lowered	600	680	end	700	720	blink	1200	1240	end	1260	1280
+eye gaze	down/right	320	400	down/right	560	680
+head pos: tilt fr/bk	start	160	240	slightly back	260	480	end	500	580
+head pos: tilt side	start	0	280	slightly right	300	1200	end	1220	1340
+body lean	start	0	280	back	300	1000	end	1020	1340
+nose	start	500	500	tensed	520	520	end	540	540
+cheeks	start	600	660	puffed	680	1020	end	1040	1100
+mouth	lips spread & crnrs down	640	1040	end	1060	1100
+POS	Noun	100	260	Noun	340	480	Adverb	520	540	Verb	640	1180
+English translation	As for the students and (their) books, they are exchanging them now.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:877_694_master_small.mov
+Video	NCSLGR:video files:slave1:877_694_slave1_small.mov
+Video	NCSLGR:video files:slave2:877_694_slave2_small.mov
+Video	
+Audio	
+Start frame:	160
+End frame:	1720
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	013
+main gloss	FINISH	200	300	TEACHER	380	440	neu:GIVE:j	540	660	BOOK	800	880	STUDENT	1000	1140	IX-loc-arc	1180	1480
+non-dominant hand gloss
+yes-no question	yes-no question	160	1480
+eye brows	raised	160	1600	end	1620	1720
+eye aperture	wide	160	1480	start	1500	1500	blink	1520	1580	start	1600	1620	lowered lid	1640	1720
+eye gaze	left	420	540
+head pos: tilt fr/bk	start	160	280	front	300	1720
+head pos: turn	start	160	300	slightly left	320	1540	end	1560	1660
+head pos: tilt side	start	160	280	slightly right	300	1500	end	1520	1660
+head pos:jut	start	440	440	back	460	640	end	660	700
+body lean	start	160	340	back	360	1160	end	1180	1480
+POS	Aspect	200	300	Noun	380	440	Verb	540	660	Noun	800	880	Noun	1000	1140	Adverb	1180	1480
+English translation	Has the teacher already given books to the students?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:878_695_master_small.mov
+Video	NCSLGR:video files:slave1:878_695_slave1_small.mov
+Video	NCSLGR:video files:slave2:878_695_slave2_small.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1620
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	WHICH	240	280	BOOK+	340	540	STUDENT	580	640	FINISH	680	740	GIFT:j	840	940	TEACHER	1080	1180	"WHAT"	1220	1400
+non-dominant hand gloss
+wh question	whq	240	1500
+eye brows	start	60	220	lowered	240	1500	end	1540	1620
+eye aperture	start	60	220	squint	240	960	blink	980	1040	lowered lid	1060	1500	blink	1520	1560	end	1580	1620
+eye gaze	up/right	740	960
+head pos: tilt fr/bk	start	60	140	slightly back	160	1200	end	1220	1620
+head pos: turn	start	140	700	slightly left	720	720	end	740	840	start	1140	1200	slightly left	1220	1520	end	1540	1620
+head pos: tilt side	start	60	260	slightly right	280	1520	end	1540	1620
+head pos:jut	start	60	240	forward	260	1440	end	1460	1620
+head mvmt: shake	rapid	1220	1400
+nose	tensed	680	700
+POS	Wh-word	240	280	Noun	340	540	Noun	580	640	Aspect	680	740	Verb	840	940	Noun	1080	1180	Wh-word	1220	1400
+English translation	Which book has the student given to the teacher?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:880_697_master_small.mov
+Video	NCSLGR:video files:slave1:880_697_slave1_small.mov
+Video	NCSLGR:video files:slave2:880_697_slave2_small.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	1460
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	010
+main gloss	fs-JOHN	260	480	FINISH	560	640	READ+	800	1000	BOOK	1140	1320
+non-dominant hand gloss
+eye brows	slightly lowered	140	1460
+eye aperture	start	140	160	squint	180	840	slightly lowered	860	1460
+head pos: tilt fr/bk	start	140	300	slightly back	320	500	end	520	640
+head pos: turn	start	240	480	slightly right	500	640	right	660	1140	end	1160	1460
+head pos: tilt side	start	140	260	right	280	1140	end	1160	1460
+head mvmt: nod	single	520	740
+POS	Proper Noun	260	480	Aspect	560	640	Verb	800	1000	Noun	1140	1320
+English translation	John finished reading the book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:893_710_master_small.mov
+Video	NCSLGR:video files:slave1:893_710_slave1_small.mov
+Video	NCSLGR:video files:slave2:893_710_slave2_small.mov
+Video	
+Audio	
+Start frame:	280
+End frame:	1200
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	011
+main gloss	IX-2p:i	460	460	SEE	580	640	SOMETHING/ONE	680	1040
+non-dominant hand gloss
+yes-no question	start	280	340	yes-no question	360	1040
+eye brows	start	280	340	raised	360	1200
+eye aperture	start	280	340	wide	360	1200
+head pos: turn	start	540	720	slightly left	740	920	end	940	1140
+head pos:jut	start	540	600	forward	620	980	end	1000	1200
+head mvmt: shake	rapid	640	900
+body lean	start	540	760	forward	780	980	end	1000	1160
+POS	Pronoun	460	460	Verb	580	640	Pronoun	680	1040
+English translation	Did you see something/one?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:894_711_master_small.mov
+Video	NCSLGR:video files:slave1:894_711_slave1_small.mov
+Video	NCSLGR:video files:slave2:894_711_slave2_small.mov
+Video	
+Audio	
+Start frame:	380
+End frame:	1280
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	013
+main gloss	IX-2p:i	460	460	SEE	640	640	SOMETHING/ONE	700	800	(1h)part:indef	840	1080
+non-dominant hand gloss
+yes-no question	yes-no question	440	1080
+eye brows	start	380	420	raised	440	960	end	980	1180
+eye aperture	start	380	440	wide	460	1060	start	1080	1100	blink	1120	1140	end	1160	1200
+head pos: tilt fr/bk	start	540	880	slightly front	900	1080	end	1100	1160
+head pos: turn	start	500	700	slightly left	720	900	end	920	1200
+head pos: tilt side	start	380	440	slightly right	460	580	end	600	760
+head pos:jut	start	580	880	forward	900	1080	end	1100	1280
+head mvmt: shake	rapid	700	800
+body lean	start	680	860	forward	880	1040	end	1060	1280
+POS	Pronoun	460	460	Verb	640	640	Pronoun	700	800	Particle	840	1080
+English translation	Did you see someone?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:895_712_master_small.mov
+Video	NCSLGR:video files:slave1:895_712_slave1_small.mov
+Video	NCSLGR:video files:slave2:895_712_slave2_small.mov
+Video	
+Audio	
+Start frame:	200
+End frame:	1240
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	SOMETHING/ONE	300	400	FIND/FIND-OUT	460	500	BOOK	620	700	part:indef	760	1040
+non-dominant hand gloss
+yes-no question	yes-no question	300	1040
+eye brows	start	200	280	raised	300	1040	end	1060	1220
+eye aperture	start	200	200	wide	220	1020	start	1040	1060	blink	1080	1100
+eye gaze	down/right	220	400
+head pos: tilt fr/bk	start	380	820	slightly front	840	900	end	920	1240
+head pos: turn	start	340	600	slightly left	620	900	end	920	1140
+head pos:jut	start	380	820	forward	840	1000	end	1020	1220
+head mvmt: shake	rapid	240	400	slight rapid head shake	500	960
+POS	Pronoun	300	400	Verb	460	500	Noun	620	700	Particle	760	1040
+English translation	Did someone find a book?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:896_713_master_small.mov
+Video	NCSLGR:video files:slave1:896_713_slave1_small.mov
+Video	NCSLGR:video files:slave2:896_713_slave2_small.mov
+Video	
+Audio	
+Start frame:	260
+End frame:	1460
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	014
+main gloss	IX-2p:i	380	460	WANT	500	580	TEA	640	760	COFFEE	900	1020	part:indef	1100	1280
+non-dominant hand gloss
+yes-no question	yes-no question	320	1280
+eye brows	start	260	300	raised	320	1280	end	1300	1460
+eye aperture	start	260	320	wide	340	1260	start	1280	1340	closed	1360	1460
+eye gaze	down/right	640	760	down	780	960
+head pos: tilt fr/bk	back	260	280	start	300	700	slightly front	720	1320	end	1340	1460
+head pos: turn	slightly left	260	760	end	780	860	start	1000	1060	slightly left	1080	1320	left	1340	1460
+head pos:jut	start	480	780	forward	800	1320	end	1340	1460
+body lean	start	500	660	right	680	800	end	820	860	start	880	1040	left	1060	1120	end	1140	1400
+shoulders	start	500	640	right	660	780	start	800	1040	forward left	1060	1240	end	1260	1460
+mouth	lips spread & crnrs down	1060	1260
+POS	Pronoun	380	460	Verb	500	580	Noun	640	760	Noun	900	1020	Particle	1100	1280
+English translation	Do you want tea or coffee?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:898_715_master_small.mov
+Video	NCSLGR:video files:slave1:898_715_slave1_small.mov
+Video	NCSLGR:video files:slave2:898_715_slave2_small.mov
+Video	
+Audio	
+Start frame:	220
+End frame:	1260
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	015
+main gloss	SOMETHING/ONE	320	380	STRANGE	480	540	part:indef	620	800	ARRIVE	860	1000	part:indef	1060	1140
+non-dominant hand gloss
+topic/focus	focus	600	760
+eye brows	start	380	580	slightly raised	600	760	end	780	860
+eye aperture	start	220	320	squint	340	740	start	760	820	wide	840	1120	start	1140	1160	blink	1180	1200	end	1220	1260
+eye gaze	up/right	520	740
+head pos: tilt fr/bk	start	800	900	slightly front	920	1020	end	1040	1220
+head pos: turn	start	840	1000	slightly right	1020	1200	end	1220	1260
+head pos:jut	start	220	400	back	420	1060	end	1080	1260
+head mvmt: shake	slow	460	1000
+shoulders-movement	shrug	640	840
+shoulders	start	320	580	raised	600	760	end	780	1020
+nose	start	220	320	tensed	340	740	end	760	820
+POS	Pronoun	320	380	Adjective	480	540	Particle	620	800	Verb	860	1000	Particle	1060	1140
+English translation	Some strange thing/person arrived.
+Notes - number of character bytes:	55
+Should the final part:indef be glossed as 'HERE'? -Fran
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:899_716_master_small.mov
+Video	NCSLGR:video files:slave1:899_716_slave1_small.mov
+Video	NCSLGR:video files:slave2:899_716_slave2_small.mov
+Video	
+Audio	
+Start frame:	360
+End frame:	1380
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	012
+main gloss	SOMETHING/ONE	500	580	part:indef	640	760	STRANGE	840	1000	ARRIVE	1040	1160	|>		1260
+non-dominant hand gloss
+eye brows	start	380	460	slightly raised	480	1160	end	1180	1360
+eye aperture	start	360	560	squint	580	880	start	900	920	wide	940	1180	end	1200	1380
+eye gaze	up/right	580	840
+head pos: turn	start	420	600	slightly left	620	700	start	720	900	right	920	1240	end	1260	1380
+shoulders	start	500	660	raised	680	1160	end	1180	1360
+shoulders-movement	shrug	640	760
+nose	start	360	560	wrinkle	580	860	end	880	920
+mouth	lips spread & crnrs down	540	720
+POS	Pronoun	500	580	Particle	640	760	Adjective	840	1000	Verb	1040	1160
+English translation	Some strange thing/person arrived.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:900_717_master_small.mov
+Video	NCSLGR:video files:slave1:900_717_slave1_small.mov
+Video	NCSLGR:video files:slave2:900_717_slave2_small.mov
+Video	
+Audio	
+Start frame:	380
+End frame:	1520
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	013
+main gloss	SOMETHING/ONE	500	640	STRANGE	760	900	ARRIVE	980	1120	part:indef	1160	1360
+non-dominant hand gloss
+eye brows	start	380	540	slightly raised	560	1000	end	1020	1220
+eye aperture	start	380	380	squint	400	1000	start	1020	1060	wide	1080	1340	start	1360	1360	blink	1380	1420	end	1440	1520
+eye gaze	up/right	680	900
+head pos: turn	start	380	580	left	600	640	start	660	900	right	920	1400	end	1420	1520
+head pos:jut	start	480	800	back	820	1400	end	1420	1520
+shoulders	start	380	640	raised	660	1300	end	1320	1460
+shoulders-movement	shrug	1160	1340
+nose	start	380	420	wrinkle	440	1020	tensed	1040	1320	end	1340	1500
+mouth	lips pursed: mm	600	900	lips spread & crnrs down	1080	1520
+POS	Pronoun	500	640	Adjective	760	900	Verb	980	1120	Particle	1160	1360
+English translation	Some strange thing/person arrived.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:901_718_master_small.mov
+Video	NCSLGR:video files:slave1:901_718_slave1_small.mov
+Video	NCSLGR:video files:slave2:901_718_slave2_small.mov
+Video	
+Audio	
+Start frame:	120
+End frame:	1340
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	015
+main gloss	SOMETHING/ONE	240	580	STRANGE	740	860	ARRIVE	920	1020	part:indef	1060	1220
+non-dominant hand gloss
+eye brows	start	120	200	raised	220	340	start	360	560	slightly lowered	580	1180	end	1200	1340
+eye aperture	blink	120	140	start	160	220	wide	240	480	start	880	920	wide	940	1260	end	1280	1340
+eye gaze	up/right	680	860
+head pos: tilt fr/bk	slightly back	120	140	end	160	320
+head pos: turn	start	200	460	left	480	480	start	500	820	right	840	920	slightly right	940	1300	end	1320	1340
+head pos:jut	start	400	720	back	740	1180	end	1200	1340
+head mvmt: shake	slow	240	1060
+shoulders	start	700	840	raised	860	1180	end	1200	1340
+shoulders-movement	shrug	1080	1280
+mouth	lips spread & crnrs down	1080	1180	end	1200	1280
+nose	start	460	640	tensed	660	820	slightly tensed	840	1240	end	1260	1340
+POS	Pronoun	240	580	Adjective	740	860	Verb	900	1020	Particle	1060	1220
+English translation	Some strange thing/person arrived.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:902_719_master_small.mov
+Video	NCSLGR:video files:slave1:902_719_slave1_small.mov
+Video	NCSLGR:video files:slave2:902_719_slave2_small.mov
+Video	
+Audio	
+Start frame:	240
+End frame:	1260
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	015
+main gloss	SOMETHING/ONE	400	520	STRANGE	620	740	ARRIVE	820	960	part:indef	980	1140
+non-dominant hand gloss
+eye brows	start	340	400	slightly lowered	420	920	start	940	1040	slightly raised	1060	1080	end	1100	1240
+eye aperture	blink	240	260	start	940	960	wide	980	1140	end	1160	1220
+eye gaze	up/right	720	820
+head pos: tilt fr/bk	slightly back	240	300	end	320	480
+head pos: turn	start	380	640	right	660	740	end	760	900	start	1020	1080	slightly right	1100	1260
+head pos:jut	start	320	620	back	640	1140	end	1160	1260
+head mvmt: shake	single	840	1140
+shoulders	start	800	820	raised	840	1080	end	1100	1200
+shoulders-movement	shrug	860	1120
+nose	start	240	520	tensed	540	900	tensed	920	1140	end	1160	1260
+mouth	start	500	520	lips spread & crnrs down	540	720	lips spread & crnrs down	940	1200	end	1220	1260
+POS	Pronoun	400	520	Adjective	620	740	Verb	820	960	Particle	980	1140
+English translation	Some strange thing/person arrived.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:903_720_master_small.mov
+Video	NCSLGR:video files:slave1:903_720_slave1_small.mov
+Video	NCSLGR:video files:slave2:903_720_slave2_small.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	1360
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	015
+main gloss	SOMETHING/ONE	200	340	part:indef	420	520	STRANGE	600	720	ARRIVE	800	1020	part:indef	1080	1200
+non-dominant hand gloss	part:indef	420	520	|>		640
+topic/focus	focus	420	720	focus	1080	1200
+eye brows	slightly lowered	140	700	start	720	960	slightly raised	980	1200	end	1220	1260
+eye aperture	squint	140	720	start	740	820	wide	840	1180	start	1200	1200	blink	1220	1240	end	1260	1360
+eye gaze	up/right	400	700
+head pos: tilt side	start	700	800	slightly right	820	1280	end	1300	1360
+head pos: turn	start	140	280	slightly left	300	300	start	320	620	right	640	800	slightly right	820	1020	right	1040	1300	end	1320	1360
+head mvmt: shake	slow	380	1360
+body lean	start	760	940	back	960	1040	end	1060	1320
+shoulders	start	140	260	raised	280	1260	end	1280	1360
+nose	tensed	140	1220	end	1240	1360
+mouth	lips spread & crnrs down	320	520	lips spread & crnrs down	1020	1360
+POS	Pronoun	200	340	Particle	420	520	Adjective	600	720	Verb	800	1020	Particle	1080	1200
+English translation	Some strange thing/person arrived.
+Notes - number of character bytes:	68
+The focus marking is over an odd  area (should it include STRANGE?) 
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:904_721_master_small.mov
+Video	NCSLGR:video files:slave1:904_721_slave1_small.mov
+Video	NCSLGR:video files:slave2:904_721_slave2_small.mov
+Video	
+Audio	
+Start frame:	160
+End frame:	2080
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	015
+main gloss	SOMETHING/ONE	360	520	part:indef	700	800	BOAT	940	1080	SCL:3"vehicle-sink"	1260	1400	ns-CAPE-COD	1580	1720	IX-loc:i	1760	1820
+non-dominant hand gloss
+topic/focus	focus/top1	320	1080
+eye brows	start	160	300	slightly raised	320	800	start	820	880	raised	900	1080	end	1100	1140
+eye aperture	squint	160	800	start	820	860	wide	880	1680	blink	1700	1760	end	1780	1960
+eye gaze	right	500	820
+head pos: turn	start	320	480	slightly left	500	520	start	540	720	slightly right	740	740	start	760	1100	slightly left	1120	1800	end	1820	2080
+head mvmt: side to side	slow	320	1160
+shoulders	start	240	440	raised	460	1660	end	1680	2080
+shoulders-movement	shrug	680	800
+body lean	start	1260	1360	back left	1380	1400	end	1420	1540
+nose	start	160	300	wrinkle	320	1100	tensed	1120	1360	end	1380	1460
+mouth	lips pursed: mm	520	960	brr	1200	1380
+POS	Determiner	360	520	Particle	700	800	Noun	940	1080	Classifier	1260	1400	Proper Noun	1580	1720	Adverb	1760	1820
+English translation	Some (kind of) boat sank off Cape Cod. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:905_722_master_small.mov
+Video	NCSLGR:video files:slave1:905_722_slave1_small.mov
+Video	NCSLGR:video files:slave2:905_722_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	2060
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	016
+main gloss	part:indef	280	420	SOMETHING/ONE	500	680	|>		880	BOAT	1020	1140	SCL:3"vehicle-sink"	1260	1420	ns-CAPE-COD	1580	1760	IX-loc:i	1820	1860
+non-dominant hand gloss
+topic/focus	focus/top1	280	720
+eye brows	start	180	260	raised	280	720	end	740	900
+eye aperture	start	180	260	wide	280	860	start	880	900	blink	920	920	start	940	1040	wide	1060	1200	end	1220	1340	start	1740	1760	blink	1780	1820	end	1840	1880
+eye gaze	up/right	600	900
+head pos: tilt fr/bk	start	1200	1540	slightly front	1560	1760	end	1780	2060
+head pos: turn	start	280	380	slightly left	400	460	start	480	640	slightly right	660	680	end	700	740	start	880	940	slightly right	960	1040	end	1060	1140	start	1280	1420	slightly left	1440	1740	end	1760	2060
+head pos: tilt side	start	280	420	slightly left	440	440	start	460	760	slightly right	780	1160	start	1180	1500	slightly left	1520	1760	end	1780	2060
+head mvmt: side to side	slow	280	1740
+shoulders	start	180	420	raised	440	720	end	740	1060
+shoulders-movement	shrug	300	420
+cheeks	puffed	1260	1380
+nose	start	180	300	tensed	320	660	end	680	880
+POS	Particle	280	420	Determiner	500	680	Noun	1020	1140	Classifier	1260	1420	Proper Noun	1580	1760	Adverb	1820	1860
+English translation	Some boat sank off Cape Cod (I think).
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:906_723_master_small.mov
+Video	NCSLGR:video files:slave1:906_723_slave1_small.mov
+Video	NCSLGR:video files:slave2:906_723_slave2_small.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	1660
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	017
+main gloss	SOMETHING/ONE	260	500	BOAT	880	900	SCL:B"boat-sink"	1080	1200	part:indef	1260	1340
+non-dominant hand gloss
+topic/focus	focus	1260	1340	end	1360	1460
+eye brows	start	100	200	slightly lowered	220	320	end	340	480	start	760	800	slightly lowered	820	1100	end	1120	1240	slightly raised	1260	1340
+eye aperture	start	100	220	wide	240	660	start	680	840	wide	860	1320	start	1340	1340	blink	1360	1380	end	1400	1580
+eye gaze	watch hands	720	820	up/right	840	960	right	1540	1660
+head pos: tilt fr/bk	start	860	1220	slightly front	1240	1340	end	1360	1660
+head pos: turn	start	100	380	slightly left	400	480	start	500	820	slightly right	840	920	start	940	1200	left	1220	1380	end	1400	1660
+head pos: tilt side	start	1180	1240	slightly left	1260	1380	end	1400	1660
+head pos:jut	start	1080	1160	back	1180	1380	end	1400	1660
+head mvmt: side to side	slow	100	1660
+shoulders	start	1100	1240	raised	1260	1340	end	1360	1540
+shoulders-movement	shrug-left	1280	1340
+mouth	lips spread & crnrs down	360	760	blow	1020	1080	lips spread & crnrs down	1100	1660
+nose	start	100	200	tensed	220	800	tensed	820	1140	tensed	1160	1340	end	1360	1660
+POS	Determiner	260	500	Noun	880	900	Verb	1080	1200	Particle	1260	1340
+English translation	Some boat sank (I think).
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:907_724_master_small.mov
+Video	NCSLGR:video files:slave1:907_724_slave1_small.mov
+Video	NCSLGR:video files:slave2:907_724_slave2_small.mov
+Video	
+Audio	
+Start frame:	300
+End frame:	1960
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	017
+main gloss	SOMETHING/ONE	400	560	BOAT	860	940	SCL:3"vehicle-sink"	1080	1260	ns-CAPE-COD	1360	1500	part:indef	1560	1680
+non-dominant hand gloss
+eye brows	start	300	400	slightly lowered	420	1640	end	1660	1960
+eye aperture	start	300	400	wide	420	1660	start	1680	1700	blink	1720	1740	start	1820	1840	blink	1860	1920
+eye gaze	up/right	300	520	right	1000	1240
+head pos: tilt fr/bk	slightly back	300	700	end	720	1000
+head pos: turn	start	300	420	slightly right	440	460	start	480	1040	slightly left	1060	1060	start	1080	1420	right	1440	1700	end	1720	1960
+head pos: tilt side	start	300	460	slightly right	480	680	end	700	880	start	1020	1120	slightly right	1140	1680	end	1700	1960
+head pos:jut	start	300	460	back	480	1620	end	1640	1960
+head mvmt: side to side	start	300	420
+head mvmt: shake	slow	300	1460
+body lean	back	300	1960
+shoulders	start	1260	1560	raised	1580	1720	end	1740	1880
+mouth	lips spread & crnrs down	460	860	lips spread & crnrs down	960	1080	brr	1100	1200	lips spread & crnrs down	1320	1720
+nose	start	300	340	tensed	360	1680	end	1700	1960
+POS	Determiner	400	560	Noun	860	940	Classifier	1080	1260	Proper Noun	1360	1500	Particle	1560	1680
+English translation	Some boat sank off Cape Cod (I think).
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:908_725_master_small.mov
+Video	NCSLGR:video files:slave1:908_725_slave1_small.mov
+Video	NCSLGR:video files:slave2:908_725_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	1260
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	016
+main gloss	SOMETHING/ONE	220	320	BOAT	440	500	SCL:3"vehicle-sink"	680	780	ns-CAPE-COD	880	980	part:indef	1020	1140
+non-dominant hand gloss	SCL:3"vehicle-sink"	680	780	|>		920
+eye brows	slightly lowered	180	1040	end	1060	1260
+eye aperture	start	180	200	wide	220	1140	start	1160	1180	blink	1200	1240	end	1260	1260
+eye gaze	up/right	360	700
+head pos: tilt fr/bk	slightly back	180	240	end	260	460
+head pos: turn	start	200	280	slightly left	300	500	start	520	800	slightly right	820	980	end	1000	1260
+head pos: tilt side	start	660	800	slightly right	820	1060	end	1080	1260
+head pos:jut	start	540	780	back	800	1180	end	1200	1260
+head mvmt: side to side	start	200	280	slow	300	980	end	1000	1260
+shoulders	start	360	620	forward	640	1200	end	1220	1260
+shoulders-movement	shrug	1040	1180
+mouth	brr	660	740	lips spread & crnrs down	980	1180	end	1200	1260
+nose	start	180	200	wrinkle	220	280	slightly tensed	300	1220	end	1240	1260
+POS	Determiner	220	320	Noun	440	500	Classifier	680	780	Proper Noun	880	980	Particle	1020	1140
+English translation	Some boat sank off Cape Cod (I think).
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:910_727_master_small.mov
+Video	NCSLGR:video files:slave1:910_727_slave1_small.mov
+Video	NCSLGR:video files:slave2:910_727_slave2_small.mov
+Video	
+Audio	
+Start frame:	220
+End frame:	1780
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	013
+main gloss	SOMETHING/ONE	280	540	BOAT	660	760	SCL:3"vehicle-sink"	940	1060	NEAR	1140	1180	ns-CAPE-COD	1300	1340	part:indef	1420	1560
+non-dominant hand gloss
+eye brows	start	1040	1120	slightly lowered	1140	1200	start	1220	1380	slightly raised	1400	1460	end	1480	1600
+eye aperture	start	420	560	wide	580	900	start	920	1140	slightly lowered	1160	1160	start	1180	1280	wide	1300	1500	start	1520	1600	blink	1620	1660	end	1680	1780
+eye gaze	right	220	320	right	800	1120	right	1660	1780
+head pos: turn	start	220	400	slightly left	420	1220	end	1240	1320	start	1400	1500	slightly right	1520	1700	end	1720	1780
+head pos:jut	start	1000	1120	back	1140	1480	end	1500	1780
+shoulders	start	1220	1420	raised	1440	1560	end	1580	1780
+shoulders-movement	shrug	1420	1560
+mouth	lips spread & crnrs down	820	980	cs	1140	1180	lips spread & crnrs down	1300	1520	end	1540	1640
+nose	start	780	1000	tensed	1020	1160	slightly tensed	1180	1520	end	1540	1680
+POS	Determiner	280	540	Noun	660	760	Classifier	940	1060	Adverb	1140	1180	Proper Noun	1300	1340	Particle	1420	1560
+English translation	Some boat sank near Cape Cod (I think).
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:911_728_master_small.mov
+Video	NCSLGR:video files:slave1:911_728_slave1_small.mov
+Video	NCSLGR:video files:slave2:911_728_slave2_small.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	1820
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	017
+main gloss	SOMETHING/ONE	220	320	part:indef	360	500	BOAT	620	740	SCL:3"vehicle-sink"	900	1040	NEAR	1080	1200	ns-CAPE-COD	1280	1420	part:indef	1460	1620
+non-dominant hand gloss
+topic/focus	focus/top1	160	740
+eye brows	slightly raised	160	720	start	740	840	slightly lowered	860	1240	end	1260	1600
+eye aperture	start	140	300	wide	320	780	start	800	900	squint	920	1120	start	1140	1280	wide	1300	1380	end	1400	1460	blink	1560	1580
+eye gaze	right	360	700
+head pos: tilt fr/bk	start	780	1040	slightly front	1060	1600	end	1620	1780
+head pos: turn	start	240	360	slightly left	380	400	start	420	540	slightly right	560	700	start	720	920	left	940	1480	end	1500	1780
+head pos: tilt side	start	840	1040	slightly left	1060	1600	end	1620	1780
+head pos:jut	start	360	640	back	660	1500	end	1520	1740
+head mvmt: side to side	slow	240	1100
+shoulders	start	240	440	forward	460	820	end	840	1060	start	1400	1460	raised	1480	1620	end	1640	1780
+shoulders-movement	shrug-left	1460	1660
+nose	start	140	140	tensed	160	220	slightly tensed	240	1600	end	1620	1800
+mouth	lips spread & crnrs down	300	480	brr	880	980	cs	1040	1160	lips spread & crnrs down	1440	1620
+POS	Determiner	220	320	Particle	360	500	Noun	620	740	Classifier	900	1040	Adverb	1080	1200	Proper Noun	1280	1420	Particle	1460	1620
+English translation	Some (kind of) boat sank near Cape Cod.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGR:video files:master:912_729_master_small.mov
+Video	NCSLGR:video files:slave1:912_729_slave1_small.mov
+Video	NCSLGR:video files:slave2:912_729_slave2_small.mov
+Video	
+Audio	
+Start frame:	180
+End frame:	2100
+Number of participant panes:	1
+Participant:	Norma Bowers Tourangeau
+Number of fields:	015
+main gloss	SOMETHING/ONE	260	340	part:indef	400	620	BOAT	740	820	SCL:3"vehicle-sink"	980	1160	NEAR	1280	1360	ns-CAPE-COD	1480	1660	part:indef	1700	1900
+non-dominant hand gloss
+eye brows	start	180	220	slightly lowered	240	800	end	820	1020
+eye aperture	squint	180	780	start	800	860	wide	880	1160	start	1180	1220	squint	1240	1320	start	1340	1420	wide	1440	1800	blink	1820	1860
+eye gaze	right	400	660
+head pos: turn	start	180	340	slightly left	360	360	start	380	600	slightly right	620	620	start	640	940	left	960	1220	start	1240	1800	slightly right	1820	1860	end	1880	2100
+head pos: tilt side	start	1000	1180	slightly left	1200	1320	end	1340	1580
+head pos:jut	start	380	500	back	520	800	end	820	1120	start	1680	1820	back	1840	1860	end	1880	2100
+head mvmt: side to side	slow	180	2100
+shoulders	start	280	520	forward	540	960	end	980	1140	start	1560	1760	raised	1800	1860	end	1880	2100
+shoulders-movement	shrug	400	620
+mouth	lips spread & crnrs down	280	740	blow	960	1120	cs	1280	1360	lips spread & crnrs down	1640	2100
+nose	tensed	180	820	end	840	900	start	1200	1260	tensed	1280	1320	start	1360	1620	tensed	1640	1840	end	1860	2100
+POS	Determiner	260	340	Particle	400	620	Noun	740	820	Classifier	980	1160	Adverb	1280	1360	Proper Noun	1480	1660	Particle	1700	1900
+English translation	Some (kind of) boat sank near Cape Cod.
+Notes - number of character bytes:	0

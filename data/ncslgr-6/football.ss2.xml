@@ -1,0 +1,2996 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SIGNSTREAM-DATABASE SIGNSTREAM-VERSION="2" SOURCE="C:\Documents and Settings\Jason\signstream\legacy\football" DATABASE-VERSION="1.0">
+ <DISTRIBUTOR>American Sign Language Linguistic Research Project, Boston University, Boston, MA.</DISTRIBUTOR>
+ <AUTHOR>Sarah Fish, Fran Conlin, Carol Neidle</AUTHOR>
+ <PARTICIPANTS>
+  <PARTICIPANT ID="0" NAME="Mike Schlang" LABEL="Mike" AGE="0" GENDER="male" LANGUAGE="ASL" />
+ </PARTICIPANTS>
+ <CODING-SCHEME>
+  <FIELD ID="16" NAME="negative" LABEL="neg" COLOR="ed181e">
+   <VALUE ID="2" NAME="negation" LABEL="neg" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="17" NAME="wh question" COLOR="ed181e">
+   <VALUE ID="2" NAME="whq" LABEL="q/wh" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="18" NAME="yes-no question" COLOR="ed181e">
+   <VALUE ID="2" NAME="yes-no question" LABEL="q/y-n" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="19" NAME="rhetorical question" LABEL="rhq" COLOR="ed181e">
+   <VALUE ID="2" NAME="rhq" />
+   <VALUE ID="3" NAME="wh rhq" LABEL="rhq/wh" />
+   <VALUE ID="4" NAME="yes/no rhq" LABEL="rhq/y-n" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="20" NAME="topic/focus" COLOR="ed181e">
+   <VALUE ID="2" NAME="focus/top1" LABEL="foc/top1" />
+   <VALUE ID="3" NAME="top2" />
+   <VALUE ID="4" NAME="top3" />
+   <VALUE ID="5" NAME="foc/prop-with-ref-to" LABEL="foc/ref" />
+   <VALUE ID="6" NAME="sentence-initial adverb" LABEL="foc/adv" />
+   <VALUE ID="7" NAME="focus" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="21" NAME="conditional/when" LABEL="cond/when" COLOR="ed181e">
+   <VALUE ID="2" NAME="conditional" LABEL="cond" />
+   <VALUE ID="3" NAME="when" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="34" NAME="relative clause" LABEL="rel. clause" COLOR="ed181e">
+   <VALUE ID="0" NAME="rel-cl" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="24" NAME="subject agreement" LABEL="subj agr" COLOR="ed181e">
+   <VALUE ID="2" NAME="agr-S" />
+   <VALUE ID="3" NAME="agr-dS" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="25" NAME="object agreement" LABEL="obj agr" COLOR="ed181e">
+   <VALUE ID="2" NAME="agr-O" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="0" NAME="head pos: tilt fr/bk" LABEL="hp: tilt fr/bk">
+   <VALUE ID="2" NAME="front" />
+   <VALUE ID="6" NAME="slightly front" LABEL="-front" />
+   <VALUE ID="8" NAME="further front" LABEL="+front" />
+   <VALUE ID="3" NAME="back" />
+   <VALUE ID="5" NAME="slightly back" LABEL="-back" />
+   <VALUE ID="11" NAME="further back" LABEL="+back" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="1" NAME="head pos: turn" LABEL="hp: turn">
+   <VALUE ID="2" NAME="left" />
+   <VALUE ID="5" NAME="slightly left" LABEL="-left" />
+   <VALUE ID="7" NAME="further left" LABEL="+left" />
+   <VALUE ID="3" NAME="right" />
+   <VALUE ID="4" NAME="slightly right" LABEL="-right" />
+   <VALUE ID="6" NAME="further right" LABEL="+right" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="2" NAME="head pos: tilt side" LABEL="hp: tilt side">
+   <VALUE ID="2" NAME="left" />
+   <VALUE ID="5" NAME="slightly left" LABEL="-left" />
+   <VALUE ID="7" NAME="further left" LABEL="+left" />
+   <VALUE ID="3" NAME="right" />
+   <VALUE ID="4" NAME="slightly right" LABEL="-right" />
+   <VALUE ID="6" NAME="further right" LABEL="+right" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="3" NAME="head pos: jut" LABEL="hp: jut">
+   <VALUE ID="2" NAME="forward" LABEL="for" />
+   <VALUE ID="8" NAME="slightly forward" LABEL="-for" />
+   <VALUE ID="7" NAME="further forward" LABEL="+for" />
+   <VALUE ID="6" NAME="back" />
+   <VALUE ID="10" NAME="slightly back" LABEL="-back" />
+   <VALUE ID="11" NAME="further back" LABEL="+back" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="4" NAME="head mvmt: nod" LABEL="hm: nod">
+   <VALUE ID="2" NAME="rapid" />
+   <VALUE ID="9" NAME="slight rapid head nod" LABEL="-rapid" />
+   <VALUE ID="3" NAME="slow" />
+   <VALUE ID="10" NAME="slight slow head nod" LABEL="-slow" />
+   <VALUE ID="4" NAME="single" />
+   <VALUE ID="11" NAME="slight single head nod" LABEL="-single" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="5" NAME="head mvmt: shake" LABEL="hm: shake">
+   <VALUE ID="2" NAME="rapid" />
+   <VALUE ID="5" NAME="slight rapid head shake" LABEL="-rapid" />
+   <VALUE ID="3" NAME="slow" />
+   <VALUE ID="6" NAME="slight slow head shake" LABEL="-slow" />
+   <VALUE ID="4" NAME="single" />
+   <VALUE ID="7" NAME="slight single head shake" LABEL="-single" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="6" NAME="head mvmt: side to side" LABEL="hm: side&lt;-&gt;side">
+   <VALUE ID="2" NAME="rapid" />
+   <VALUE ID="3" NAME="slow" />
+   <VALUE ID="4" NAME="single" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="7" NAME="head mvmt: jut" LABEL="hm: jut">
+   <VALUE ID="2" NAME="slow" />
+   <VALUE ID="3" NAME="forward" LABEL="for" />
+   <VALUE ID="6" NAME="back" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="8" NAME="body lean">
+   <VALUE ID="2" NAME="left" />
+   <VALUE ID="3" NAME="right" />
+   <VALUE ID="4" NAME="forward" LABEL="for" />
+   <VALUE ID="7" NAME="slightly forward" LABEL="-for" />
+   <VALUE ID="8" NAME="forward/left" LABEL="for/lf" />
+   <VALUE ID="6" NAME="forward/right" LABEL="for/rt" />
+   <VALUE ID="5" NAME="back" />
+   <VALUE ID="9" NAME="slightly back" LABEL="-back" />
+   <VALUE ID="10" NAME="back/left" LABEL="bk/lf" />
+   <VALUE ID="11" NAME="back/right" LABEL="bk/rt" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="32" NAME="body mvmt">
+   <VALUE ID="0" NAME="down" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="33" NAME="neck">
+   <VALUE ID="2" NAME="tensed" LABEL="tns" />
+   <VALUE ID="3" NAME="tensed/left" LABEL="tns/lf" />
+   <VALUE ID="4" NAME="tensed/right" LABEL="tns/rt" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="9" NAME="shoulders">
+   <VALUE ID="2" NAME="left" LABEL="lf" />
+   <VALUE ID="7" NAME="slightly left" LABEL="-left" />
+   <VALUE ID="12" NAME="left /down" LABEL="lf/dn" />
+   <VALUE ID="17" NAME="left/raised" LABEL="lf/raised" />
+   <VALUE ID="3" NAME="right" LABEL="rt" />
+   <VALUE ID="8" NAME="slightly right" LABEL="-right" />
+   <VALUE ID="13" NAME="right/down" LABEL="rt/dn" />
+   <VALUE ID="18" NAME="right/raised" LABEL="rt/raised" />
+   <VALUE ID="11" NAME="down" />
+   <VALUE ID="16" NAME="raised" />
+   <VALUE ID="19" NAME="further raised" LABEL="+raised" />
+   <VALUE ID="4" NAME="forward" LABEL="for" />
+   <VALUE ID="15" NAME="forward/left" LABEL="for/lf" />
+   <VALUE ID="9" NAME="forward/right" LABEL="for/rt" />
+   <VALUE ID="5" NAME="back" />
+   <VALUE ID="14" NAME="back/left" LABEL="bk/lf" />
+   <VALUE ID="10" NAME="back/right" LABEL="bk/rt" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="10" NAME="eye brows">
+   <VALUE ID="2" NAME="raised" />
+   <VALUE ID="5" NAME="slightly raised" LABEL="-raised" />
+   <VALUE ID="7" NAME="further raised" LABEL="+raised" />
+   <VALUE ID="3" NAME="lowered" LABEL="lwrd" />
+   <VALUE ID="4" NAME="slightly lowered" LABEL="-lwrd" />
+   <VALUE ID="6" NAME="further lowered" LABEL="+lwrd" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="11" NAME="eye gaze" PREFIX="eg">
+   <VALUE ID="7" NAME="left" />
+   <VALUE ID="1" NAME="right" />
+   <VALUE ID="3" NAME="up" />
+   <VALUE ID="10" NAME="up/left" LABEL="up/lf" />
+   <VALUE ID="4" NAME="up/right" LABEL="up/rt" />
+   <VALUE ID="6" NAME="down" />
+   <VALUE ID="5" NAME="down/left" LABEL="dn/lf" />
+   <VALUE ID="9" NAME="down/right" LABEL="dn/rt" />
+   <VALUE ID="8" NAME="watch hands" LABEL="track-hd" />
+   <VALUE ID="11" NAME="to addressee" LABEL="adrsee" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="12" NAME="eye aperture" LABEL="eye apert">
+   <VALUE ID="2" NAME="blink" LABEL="bl" />
+   <VALUE ID="3" NAME="squint" LABEL="sq" />
+   <VALUE ID="16" NAME="slightly squinted" LABEL="-sq" />
+   <VALUE ID="17" NAME="further squinted" LABEL="+sq" />
+   <VALUE ID="6" NAME="lowered lid" LABEL="low" />
+   <VALUE ID="13" NAME="slightly lowered" LABEL="-low" />
+   <VALUE ID="15" NAME="further lowered" LABEL="+low" />
+   <VALUE ID="4" NAME="wide" />
+   <VALUE ID="18" NAME="wider" LABEL="+wide" />
+   <VALUE ID="7" NAME="closed" LABEL="cl" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="13" NAME="nose">
+   <VALUE ID="2" NAME="wrinkle" LABEL="wr" />
+   <VALUE ID="3" NAME="tensed" LABEL="tns" />
+   <VALUE ID="4" NAME="slightly tensed" LABEL="-tns" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="14" NAME="mouth">
+   <VALUE ID="2" NAME="lips pursed: oo" LABEL="oo" />
+   <VALUE ID="3" NAME="lips pursed: oo-tight" LABEL="oo-tight" />
+   <VALUE ID="4" NAME="lips pursed: mm" LABEL="mm" />
+   <VALUE ID="15" NAME="tongue out" LABEL="th" />
+   <VALUE ID="6" NAME="tongue sucked in quickly" LABEL="thp" />
+   <VALUE ID="7" NAME="tongue mvmt lateral" LABEL="tml" />
+   <VALUE ID="8" NAME="cha" />
+   <VALUE ID="9" NAME="sta" />
+   <VALUE ID="10" NAME="puh" />
+   <VALUE ID="11" NAME="pow" />
+   <VALUE ID="18" NAME="sh" />
+   <VALUE ID="12" NAME="cs" />
+   <VALUE ID="13" NAME="intense" LABEL="int" />
+   <VALUE ID="14" NAME="open" />
+   <VALUE ID="24" NAME="open &amp; round" LABEL="open/rd" />
+   <VALUE ID="25" NAME="open &amp; tense" LABEL="open/tns" />
+   <VALUE ID="26" NAME="open &amp; corners down" LABEL="open/cd" />
+   <VALUE ID="5" NAME="raised upper lip" LABEL="rul" />
+   <VALUE ID="19" NAME="lips spread" LABEL="ls" />
+   <VALUE ID="20" NAME="lips spread &amp; crnrs up" LABEL="ls/cu" />
+   <VALUE ID="21" NAME="lips spread &amp; crnrs down" LABEL="ls/cd" />
+   <VALUE ID="17" NAME="blow" LABEL="bl" />
+   <VALUE ID="22" NAME="bite lower lip" LABEL="bll" />
+   <VALUE ID="23" NAME="tongue on lwr lip" LABEL="toll" />
+   <VALUE ID="27" NAME="open &amp; tongue visible" LABEL="otv" />
+   <VALUE ID="28" NAME="brr" />
+   <VALUE ID="29" NAME="smile mouth open" LABEL="open-smile" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="31" NAME="English mouthing">
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="15" NAME="cheeks">
+   <VALUE ID="2" NAME="puffed" LABEL="puf" />
+   <VALUE ID="5" NAME="puff left" LABEL="puf/lf" />
+   <VALUE ID="4" NAME="puff right" LABEL="puf/rt" />
+   <VALUE ID="3" NAME="tensed" LABEL="tns" />
+   <VALUE ID="6" NAME="less tensed" LABEL="-tns" />
+   <VALUE ID="8" NAME="tensed left" LABEL="tns/lf" />
+   <VALUE ID="7" NAME="tensed right" LABEL="tns/rt" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="22" NAME="role shift" LABEL="rs" PREFIX="rs">
+   <VALUE ID="1" NAME="John" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="26" NAME="adverbial" LABEL="adv">
+   <VALUE ID="2" NAME="far" />
+   <VALUE ID="3" NAME="cs" />
+   <VALUE ID="4" NAME="stress" />
+   <VALUE ID="5" NAME="mm" />
+   <VALUE ID="6" NAME="oo" />
+   <VALUE ID="7" NAME="cha" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="27" NAME="POS" COLOR="1822cd">
+   <VALUE ID="0" NAME="Noun" LABEL="N" />
+   <VALUE ID="1" NAME="Proper Noun" LABEL="PN" />
+   <VALUE ID="2" NAME="Pronoun" LABEL="Pro" />
+   <VALUE ID="3" NAME="Determiner" LABEL="Det" />
+   <VALUE ID="4" NAME="Quantifier" LABEL="Quant" />
+   <VALUE ID="5" NAME="Wh-word" LABEL="Wh" />
+   <VALUE ID="6" NAME="Number" LABEL="Num" />
+   <VALUE ID="7" NAME="Negation" LABEL="Neg" />
+   <VALUE ID="8" NAME="Verb" LABEL="V" />
+   <VALUE ID="9" NAME="Adjective" LABEL="Adj" />
+   <VALUE ID="10" NAME="Adverb" LABEL="Adv" />
+   <VALUE ID="11" NAME="Preposition" LABEL="Prep" />
+   <VALUE ID="20" NAME="Possessive" LABEL="Poss" />
+   <VALUE ID="12" NAME="Modal" />
+   <VALUE ID="13" NAME="Tense Marker" LABEL="Tense" />
+   <VALUE ID="14" NAME="Classifier" LABEL="CL" />
+   <VALUE ID="15" NAME="Conjunction" LABEL="Conj" />
+   <VALUE ID="16" NAME="Particle" LABEL="Prt" />
+   <VALUE ID="27" NAME="Reflexive" LABEL="Refl" />
+   <VALUE ID="28" NAME="Demonstrative" LABEL="Dem" />
+   <VALUE ID="17" NAME="Discourse Marker" LABEL="DM" />
+   <VALUE ID="19" NAME="Aspect Marker" LABEL="Asp" />
+   <VALUE ID="22" NAME="Modal+Negation" LABEL="Modal+Neg" />
+   <VALUE ID="26" NAME="Negation+Verb" LABEL="Neg+V" />
+   <VALUE ID="24" NAME="Quantifier+Wh-word" LABEL="Quant+Wh" />
+   <VALUE ID="23" NAME="Tense+Negation" LABEL="Tense+Neg" />
+   <VALUE ID="21" NAME="Verb+Aspect" LABEL="V+Asp" />
+   <VALUE ID="25" NAME="Wh+Particle" LABEL="Wh+Prt" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="29" NAME="Non-dominant POS" LABEL="POS2" COLOR="5b87f2">
+   <VALUE ID="0" NAME="Noun" LABEL="N" />
+   <VALUE ID="1" NAME="Proper Noun" LABEL="PN" />
+   <VALUE ID="2" NAME="Pronoun" LABEL="Pro" />
+   <VALUE ID="3" NAME="Determiner" LABEL="Det" />
+   <VALUE ID="4" NAME="Quantifier" LABEL="Quant" />
+   <VALUE ID="5" NAME="Wh-word" LABEL="Wh" />
+   <VALUE ID="6" NAME="Number" LABEL="Num" />
+   <VALUE ID="7" NAME="Negation" LABEL="Neg" />
+   <VALUE ID="8" NAME="Verb" LABEL="V" />
+   <VALUE ID="9" NAME="Adjective" LABEL="Adj" />
+   <VALUE ID="10" NAME="Adverb" LABEL="Adv" />
+   <VALUE ID="11" NAME="Preposition" LABEL="Prep" />
+   <VALUE ID="12" NAME="Possessive" LABEL="Poss" />
+   <VALUE ID="13" NAME="Modal" />
+   <VALUE ID="14" NAME="Tense Marker" LABEL="Tense" />
+   <VALUE ID="15" NAME="Classifier" LABEL="CL" />
+   <VALUE ID="16" NAME="Particle" LABEL="Prt" />
+   <VALUE ID="27" NAME="Demonstrative" LABEL="Dem" />
+   <VALUE ID="17" NAME="Discourse Marker" LABEL="DM" />
+   <VALUE ID="18" NAME="Conjunction" LABEL="Conj" />
+   <VALUE ID="19" NAME="Aspect Marker" LABEL="Asp" />
+   <VALUE ID="24" NAME="Neg+Verb" LABEL="Neg+V" />
+   <VALUE ID="21" NAME="Modal+Negative" LABEL="Modal+Neg" />
+   <VALUE ID="23" NAME="Quantifier+Wh-word" LABEL="Quant+Wh" />
+   <VALUE ID="22" NAME="Tense+Negative" LABEL="Tense+Neg" />
+   <VALUE ID="20" NAME="Verb+Aspect" LABEL="Verb+Asp" />
+   <VALUE ID="25" NAME="Wh+Particle" LABEL="Wh+Part" />
+   <VALUE ID="26" NAME="Reflexive" LABEL="Rfl" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="28" NAME="LDC POS">
+   <VALUE ID="0" NAME="Coord Conj" LABEL="CC" />
+   <VALUE ID="1" NAME="Cardinal Number" LABEL="CD" />
+   <VALUE ID="2" NAME="Determiner" LABEL="DT" />
+   <VALUE ID="3" NAME="Existential there" LABEL="EX" />
+   <VALUE ID="4" NAME="Foreign Word" LABEL="FW" />
+   <VALUE ID="5" NAME="Prep or Sub Conj" LABEL="IN" />
+   <VALUE ID="6" NAME="Adjective" LABEL="JJ" />
+   <VALUE ID="7" NAME="Adjective, comp" LABEL="JJR" />
+   <VALUE ID="8" NAME="Adjective, superl" LABEL="JJS" />
+   <VALUE ID="9" NAME="List item marker" LABEL="LS" />
+   <VALUE ID="10" NAME="Modal" LABEL="MD" />
+   <VALUE ID="11" NAME="Noun, sg/mass" LABEL="NN" />
+   <VALUE ID="12" NAME="Noun, plural" LABEL="NNS" />
+   <VALUE ID="13" NAME="Proper Noun, sg" LABEL="NNP" />
+   <VALUE ID="14" NAME="Proper Noun, pl" LABEL="NNPS" />
+   <VALUE ID="15" NAME="Predeterminer" LABEL="PDT" />
+   <VALUE ID="16" NAME="Possessive ending" LABEL="POS" />
+   <VALUE ID="17" NAME="Personal Pronoun" LABEL="PRP" />
+   <VALUE ID="18" NAME="Possessive Pronoun" LABEL="PRP$" />
+   <VALUE ID="19" NAME="Adverb" LABEL="RB" />
+   <VALUE ID="20" NAME="Adverb, comp" LABEL="RBR" />
+   <VALUE ID="21" NAME="Adverb, superl" LABEL="RBS" />
+   <VALUE ID="22" NAME="Particle" LABEL="RP" />
+   <VALUE ID="23" NAME="Symbol" LABEL="SYM" />
+   <VALUE ID="24" NAME="to" LABEL="TO" />
+   <VALUE ID="25" NAME="Interjection" LABEL="UH" />
+   <VALUE ID="26" NAME="Verb, base form" LABEL="VB" />
+   <VALUE ID="27" NAME="Verb, past tense" LABEL="VBD" />
+   <VALUE ID="28" NAME="Verb, gerund/pres part" LABEL="VBG" />
+   <VALUE ID="29" NAME="Verb, past part" LABEL="VBN" />
+   <VALUE ID="30" NAME="Verb, non-3p sg pres" LABEL="VBP" />
+   <VALUE ID="31" NAME="Verb, 3p sg pres" LABEL="VBZ" />
+   <VALUE ID="32" NAME="Wh-determiner" LABEL="WDT" />
+   <VALUE ID="33" NAME="Wh-pronoun" LABEL="WP" />
+   <VALUE ID="34" NAME="Possessive wh-pronoun" LABEL="WP$" />
+   <VALUE ID="35" NAME="Wh-adverb" LABEL="WRB" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="30" NAME="Non-manual LDC POS" LABEL="LDC POS2">
+   <VALUE ID="0" NAME="Coord Conj" LABEL="CC" />
+   <VALUE ID="1" NAME="Cardinal Number" LABEL="CD" />
+   <VALUE ID="2" NAME="Determiner" LABEL="DT" />
+   <VALUE ID="3" NAME="Existential there" LABEL="EX" />
+   <VALUE ID="4" NAME="Foreign Word" LABEL="FW" />
+   <VALUE ID="5" NAME="Prep or Sub Conj" LABEL="IN" />
+   <VALUE ID="6" NAME="Adjective" LABEL="JJ" />
+   <VALUE ID="7" NAME="Adjective, comp" LABEL="JJR" />
+   <VALUE ID="8" NAME="Adjective, superl" LABEL="JJS" />
+   <VALUE ID="9" NAME="List item marker" LABEL="LS" />
+   <VALUE ID="10" NAME="Modal" LABEL="MD" />
+   <VALUE ID="11" NAME="Noun, sg/mass" LABEL="NN" />
+   <VALUE ID="12" NAME="Noun, plural" LABEL="NNS" />
+   <VALUE ID="13" NAME="Proper Noun, sg" LABEL="NNP" />
+   <VALUE ID="14" NAME="Proper Noun, pl" LABEL="NNPS" />
+   <VALUE ID="15" NAME="Predeterminer" LABEL="PDT" />
+   <VALUE ID="16" NAME="Possessive ending" LABEL="POS" />
+   <VALUE ID="17" NAME="Personal Pronoun" LABEL="PRP" />
+   <VALUE ID="18" NAME="Possessive Pronoun" LABEL="PRP$" />
+   <VALUE ID="19" NAME="Adverb" LABEL="RB" />
+   <VALUE ID="20" NAME="Adverb, comp" LABEL="RBR" />
+   <VALUE ID="21" NAME="Adverb, superl" LABEL="RBS" />
+   <VALUE ID="22" NAME="Particle" LABEL="RP" />
+   <VALUE ID="23" NAME="Symbol" LABEL="SYM" />
+   <VALUE ID="24" NAME="to" LABEL="TO" />
+   <VALUE ID="25" NAME="Interjection" LABEL="UH" />
+   <VALUE ID="26" NAME="Verb" LABEL="VB" />
+   <VALUE ID="27" NAME="Verb, past tense" LABEL="VBD" />
+   <VALUE ID="28" NAME="Verb, gerund/pres part" LABEL="VBG" />
+   <VALUE ID="29" NAME="Verb, past part" LABEL="VBN" />
+   <VALUE ID="30" NAME="Verb, non-3p sg pres" LABEL="VBP" />
+   <VALUE ID="31" NAME="Verb, 3p sg pres" LABEL="VBZ" />
+   <VALUE ID="32" NAME="Wh-determiner" LABEL="WDT" />
+   <VALUE ID="33" NAME="Wh-pronoun" LABEL="WP" />
+   <VALUE ID="34" NAME="Possessive wh-pronoun" LABEL="WP$" />
+   <VALUE ID="35" NAME="Wh-adverb" LABEL="WRB" />
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="10000" NAME="main gloss" CONSTRAINT="free-text">
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="10001" NAME="non-dominant hand gloss" LABEL="nd hand gloss" CONSTRAINT="free-text">
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="20000" NAME="literal translation" LABEL="literal" CONSTRAINT="free-text" TIME-ALIGNMENT="none">
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+  <FIELD ID="20001" NAME="English translation" LABEL="english" CONSTRAINT="free-text" TIME-ALIGNMENT="none">
+   <VALUE ID="400000" NAME="HOLD" />
+   <VALUE ID="400001" NAME="ONSET" />
+   <VALUE ID="400002" NAME="OFFSET" />
+  </FIELD>
+ </CODING-SCHEME>
+ <MEDIA-FILES>
+  <MEDIA-FILE ID="476" LEGACY-PATH="NCSLGRv6:movies:football:football_1073_small_0.mov" />
+  <MEDIA-FILE ID="477" LEGACY-PATH="NCSLGRv6:movies:football:football_1073_small_2.mov" />
+ </MEDIA-FILES>
+ <UTTERANCES>
+  <UTTERANCE ID="0" EXCERPT="REALLY FOOTBALL fs-FOOT" S="0" E="4866">
+   <NOTES>-CD</NOTES>
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="0">
+     <A S="0" E="400" VID="400001" />
+     <A S="400" E="3800" VID="5" />
+     <A S="3800" E="4800" VID="400002" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="0" E="200" VID="4" />
+     <A S="266" E="866" VID="400001" />
+     <A S="866" E="4866" VID="3" />
+    </TRACK>
+    <TRACK FID="2">
+     <A S="0" E="333" VID="400001" />
+     <A S="333" E="4866" VID="5" />
+    </TRACK>
+    <TRACK FID="27">
+     <A S="866" E="1066" VID="17" />
+     <A S="1666" E="1933" VID="0" />
+     <A S="2200" E="4800" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="866" E="1066">REALLY</A>
+     <A S="1666" E="1933">FOOTBALL</A>
+     <A S="2200" E="4800">fs-FOOTBALL</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="1" EXCERPT="POSS-1p FAVORITE SPORT" S="4933" E="7066">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="0">
+     <A S="267" E="733" VID="400001" />
+     <A S="733" E="1800" VID="3" />
+     <A S="1800" E="2133" VID="400002" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="0" E="1800" VID="3" />
+     <A S="1800" E="2133" VID="400002" />
+    </TRACK>
+    <TRACK FID="2">
+     <A S="600" E="800" VID="400001" />
+     <A S="800" E="2133" VID="2" />
+    </TRACK>
+    <TRACK FID="10">
+     <A S="200" E="400" VID="400001" />
+     <A S="400" E="2133" VID="3" />
+    </TRACK>
+    <TRACK FID="12">
+     <A S="267" E="467" VID="400001" />
+     <A S="467" E="1867" VID="3" />
+     <A S="1933" E="2133" VID="400001" />
+     <A S="2133" E="2166" VID="7" />
+    </TRACK>
+    <TRACK FID="27">
+     <A S="267" E="400" VID="2" />
+     <A S="733" E="1000" VID="9" />
+     <A S="1333" E="2133" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="267" E="400">POSS-1p</A>
+     <A S="733" E="1000">FAVORITE</A>
+     <A S="1333" E="2133">SPORT</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="2" EXCERPT="REALLY INSPIRE REALLY I" S="7133" E="13133">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="0">
+     <A S="933" E="1400" VID="400001" />
+     <A S="1400" E="2400" VID="5" />
+     <A S="2467" E="3400" VID="400001" />
+     <A S="3400" E="6000" VID="2" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="1333" E="1800" VID="400001" />
+     <A S="1800" E="6000" VID="3" />
+    </TRACK>
+    <TRACK FID="2">
+     <A S="533" E="1067" VID="400001" />
+     <A S="1067" E="2533" VID="3" />
+     <A S="2600" E="3400" VID="400001" />
+     <A S="3400" E="6000" VID="5" />
+    </TRACK>
+    <TRACK FID="3">
+     <A S="1333" E="1667" VID="400001" />
+     <A S="1667" E="2600" VID="6" />
+     <A S="2600" E="3133" VID="400002" />
+    </TRACK>
+    <TRACK FID="10">
+     <A S="1667" E="2333" VID="400001" />
+     <A S="2333" E="6000" VID="3" />
+    </TRACK>
+    <TRACK FID="12">
+     <A S="0" E="1467" VID="7" />
+     <A S="1467" E="1667" VID="400002" />
+     <A S="2133" E="2800" VID="400001" />
+     <A S="2800" E="6000" VID="3" />
+    </TRACK>
+    <TRACK FID="13">
+     <A S="2467" E="3067" VID="400001" />
+     <A S="3067" E="3933" VID="2" />
+     <A S="3933" E="4467" VID="400002" />
+    </TRACK>
+    <TRACK FID="27">
+     <A S="333" E="467" VID="17" />
+     <A S="1733" E="2400" VID="8" />
+     <A S="2533" E="3000" VID="17" />
+     <A S="3600" E="3800" VID="8" />
+     <A S="4000" E="4200" VID="9" />
+     <A S="4467" E="6000" VID="0" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="1733" E="2400" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="333" E="467">REALLY</A>
+     <A S="1733" E="2400">INSPIRE</A>
+     <A S="2533" E="3000">REALLY</A>
+     <A S="3600" E="3800">INCLUDE</A>
+     <A S="4000" E="4200">MANY</A>
+     <A S="4467" E="6000">THING</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="1733" E="2400">INSPIRE</A>
+     <A S="2400" E="2933" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="3" EXCERPT="IX-3p ON ELEVEN #ALL EQ" S="13200" E="26133">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="0">
+     <A S="6000" E="6933" VID="400001" />
+     <A S="6933" E="8466" VID="2" />
+     <A S="8466" E="9200" VID="400002" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="0" E="8066" VID="3" />
+     <A S="8066" E="8933" VID="400002" />
+     <A S="10000" E="10866" VID="400001" />
+     <A S="10866" E="11266" VID="2" />
+     <A S="11333" E="12533" VID="400001" />
+     <A S="12533" E="12933" VID="3" />
+    </TRACK>
+    <TRACK FID="3">
+     <A S="6800" E="7600" VID="400001" />
+     <A S="7600" E="8733" VID="2" />
+     <A S="8733" E="9800" VID="400002" />
+    </TRACK>
+    <TRACK FID="10">
+     <A S="0" E="12933" VID="4" />
+    </TRACK>
+    <TRACK FID="12">
+     <A S="0" E="6000" VID="16" />
+     <A S="6066" E="7066" VID="400001" />
+     <A S="7066" E="11333" VID="3" />
+     <A S="11333" E="12933" VID="400002" />
+    </TRACK>
+    <TRACK FID="14">
+     <A S="333" E="733" VID="400001" />
+     <A S="733" E="1200" VID="21" />
+     <A S="1200" E="1466" VID="400002" />
+    </TRACK>
+    <TRACK FID="27">
+     <A S="400" E="1066" VID="2" />
+     <A S="3400" E="3533" VID="11" />
+     <A S="4200" E="5933" VID="6" />
+     <A S="7266" E="7933" VID="9" />
+     <A S="8133" E="8466" VID="11" />
+     <A S="8733" E="9800" VID="9" />
+     <A S="10066" E="10600" VID="8" />
+     <A S="10866" E="12666" VID="11" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="1333" E="2666" VID="6" />
+     <A S="10066" E="10600" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="400" E="1066">IX-3p</A>
+     <A S="1066" E="2600" VID="400000" />
+     <A S="3400" E="3533">ON</A>
+     <A S="4200" E="5933">ELEVEN</A>
+     <A S="6133" E="6800">#ALL</A>
+     <A S="7266" E="7933">EQUAL</A>
+     <A S="8133" E="8466">(2h)TO</A>
+     <A S="8733" E="9800">EQUAL</A>
+     <A S="10066" E="10600">VERSUS</A>
+     <A S="10866" E="12666">#UP</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="1333" E="2666">ELEVEN</A>
+     <A S="10066" E="10600">VERSUS</A>
+     <A S="10600" E="11933" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="4" EXCERPT="IX-3p:i HAVE OFFENSE (2" S="26200" E="30066">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="0">
+     <A S="2000" E="2333" VID="400001" />
+     <A S="2333" E="3866" VID="2" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="0" E="3866" VID="3" />
+    </TRACK>
+    <TRACK FID="3">
+     <A S="266" E="666" VID="400001" />
+     <A S="666" E="3866" VID="6" />
+    </TRACK>
+    <TRACK FID="10">
+     <A S="0" E="66" VID="4" />
+     <A S="133" E="400" VID="400001" />
+     <A S="400" E="3866" VID="3" />
+    </TRACK>
+    <TRACK FID="12">
+     <A S="266" E="800" VID="400001" />
+     <A S="800" E="3866" VID="3" />
+    </TRACK>
+    <TRACK FID="13">
+     <A S="333" E="733" VID="400001" />
+     <A S="733" E="3866" VID="4" />
+    </TRACK>
+    <TRACK FID="27">
+     <A S="266" E="333" VID="2" />
+     <A S="800" E="1066" VID="10" />
+     <A S="1466" E="1933" VID="0" />
+     <A S="2200" E="3866" VID="14" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="266" E="333">IX-3p:i</A>
+     <A S="800" E="1066">HAVE</A>
+     <A S="1466" E="1933">OFFENSE</A>
+     <A S="2200" E="3866">(2h)CL:4"line up"+</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="5" EXCERPT="CAN (2h)alt.GRAB PRETEN" S="30133" E="39000">
+   <NOTES>- Creative or pretend, which correct gloss, I know he meant to say CREATIVE- PROTECT, I know he signed as DEFENSE, but the sign itself is "PROTECT", so I glossed that.  is that correct?</NOTES>
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="0">
+     <A S="133" E="733" VID="400001" />
+     <A S="733" E="8867" VID="2" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="0" E="2533" VID="3" />
+     <A S="2533" E="4800" VID="400002" />
+    </TRACK>
+    <TRACK FID="2">
+     <A S="0" E="733" VID="400001" />
+     <A S="733" E="2400" VID="3" />
+     <A S="2467" E="3867" VID="400001" />
+     <A S="3867" E="4867" VID="2" />
+     <A S="4933" E="5667" VID="400001" />
+     <A S="5667" E="6267" VID="3" />
+     <A S="6333" E="7600" VID="400001" />
+     <A S="7600" E="8867" VID="5" />
+    </TRACK>
+    <TRACK FID="3">
+     <A S="200" E="1333" VID="400001" />
+     <A S="1333" E="2200" VID="2" />
+     <A S="2200" E="3533" VID="400002" />
+    </TRACK>
+    <TRACK FID="4">
+     <A S="7600" E="7867" VID="400001" />
+     <A S="7867" E="8733" VID="9" />
+     <A S="8733" E="8867" VID="400002" />
+    </TRACK>
+    <TRACK FID="10">
+     <A S="0" E="1533" VID="3" />
+     <A S="1600" E="2267" VID="400001" />
+     <A S="2267" E="8867" VID="4" />
+    </TRACK>
+    <TRACK FID="12">
+     <A S="0" E="8867" VID="3" />
+    </TRACK>
+    <TRACK FID="8">
+     <A S="0" E="1267" VID="2" />
+     <A S="1333" E="3400" VID="400001" />
+     <A S="3400" E="5200" VID="2" />
+     <A S="5267" E="5867" VID="400001" />
+     <A S="5867" E="6533" VID="3" />
+     <A S="6600" E="7733" VID="400001" />
+     <A S="7733" E="8867" VID="2" />
+    </TRACK>
+    <TRACK FID="13">
+     <A S="0" E="1933" VID="4" />
+     <A S="1933" E="2267" VID="400002" />
+     <A S="5600" E="6933" VID="400001" />
+     <A S="6933" E="7533" VID="4" />
+     <A S="7533" E="8533" VID="400002" />
+    </TRACK>
+    <TRACK FID="14">
+     <A S="5067" E="5467" VID="400001" />
+     <A S="5467" E="6467" VID="28" />
+     <A S="6467" E="7000" VID="400002" />
+    </TRACK>
+    <TRACK FID="15">
+     <A S="6267" E="7067" VID="400001" />
+     <A S="7067" E="7533" VID="5" />
+     <A S="7533" E="7933" VID="400002" />
+    </TRACK>
+    <TRACK FID="27">
+     <A S="600" E="733" VID="10" />
+     <A S="1000" E="1800" VID="8" />
+     <A S="2067" E="2267" VID="8" />
+     <A S="2533" E="3400" VID="6" />
+     <A S="3533" E="4200" VID="6" />
+     <A S="4533" E="5067" VID="0" />
+     <A S="5267" E="6533" VID="8" />
+     <A S="7267" E="8867" VID="8" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="0" E="200" VID="15" />
+     <A S="1000" E="1800" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="600" E="733">CAN</A>
+     <A S="1000" E="1800">(2h)alt.GRAB</A>
+     <A S="2067" E="2267">PRETEND</A>
+     <A S="2533" E="3400">300</A>
+     <A S="3533" E="4200">350</A>
+     <A S="4533" E="5067">POUND</A>
+     <A S="5267" E="6533">(2h)alt.GRAB</A>
+     <A S="7267" E="8867">PROTECT</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="0" E="200">(2h)CL:4"line up"+</A>
+     <A S="200" E="933" VID="400000" />
+     <A S="1000" E="1800">(2h)alt.GRAB</A>
+     <A S="1800" E="2400" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="6" EXCERPT="#QB fs-QUARTERBACK CL:1" S="39066" E="47266">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="0">
+     <A S="0" E="2400" VID="400001" />
+     <A S="2400" E="5067" VID="2" />
+     <A S="5067" E="5667" VID="400002" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="1867" E="2467" VID="400001" />
+     <A S="2467" E="5200" VID="2" />
+     <A S="5200" E="5667" VID="400002" />
+     <A S="6200" E="7067" VID="400001" />
+     <A S="7067" E="8200" VID="3" />
+    </TRACK>
+    <TRACK FID="2">
+     <A S="0" E="600" VID="400001" />
+     <A S="600" E="1734" VID="3" />
+     <A S="1800" E="3134" VID="400001" />
+     <A S="3134" E="4334" VID="2" />
+     <A S="4400" E="5200" VID="400001" />
+     <A S="5200" E="6200" VID="3" />
+     <A S="6200" E="7067" VID="400002" />
+    </TRACK>
+    <TRACK FID="3">
+     <A S="6267" E="7134" VID="400001" />
+     <A S="7134" E="8067" VID="6" />
+     <A S="8067" E="8200" VID="400002" />
+    </TRACK>
+    <TRACK FID="4">
+     <A S="2067" E="2600" VID="400001" />
+     <A S="2600" E="4600" VID="2" />
+     <A S="4600" E="5667" VID="400002" />
+    </TRACK>
+    <TRACK FID="27">
+     <A S="1000" E="2267" VID="0" />
+     <A S="2600" E="4600" VID="0" />
+     <A S="5467" E="5734" VID="14" />
+     <A S="6000" E="6200" VID="11" />
+     <A S="6600" E="7334" VID="0" />
+     <A S="7734" E="8200" VID="14" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="0" E="67" VID="8" />
+     <A S="7600" E="8200" VID="15" />
+    </TRACK>
+    <TRACK FID="8">
+     <A S="0" E="400" VID="2" />
+     <A S="400" E="1067" VID="400002" />
+     <A S="6600" E="7267" VID="400001" />
+     <A S="7267" E="8200" VID="10" />
+    </TRACK>
+    <TRACK FID="10">
+     <A S="0" E="1734" VID="4" />
+     <A S="1800" E="2334" VID="400001" />
+     <A S="2334" E="8200" VID="3" />
+    </TRACK>
+    <TRACK FID="12">
+     <A S="1067" E="2200" VID="400001" />
+     <A S="2200" E="8200" VID="3" />
+    </TRACK>
+    <TRACK FID="13">
+     <A S="1200" E="2200" VID="400001" />
+     <A S="2200" E="4600" VID="2" />
+     <A S="4600" E="5334" VID="400002" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="1000" E="2267">#QB</A>
+     <A S="2600" E="4600">fs-QUARTERBACK</A>
+     <A S="5467" E="5734">CL:1"person standing"</A>
+     <A S="6000" E="6200">WITH</A>
+     <A S="6600" E="7334">RUNNING-BACK</A>
+     <A S="7734" E="8200">THUMB-IX-loc"back"</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="0" E="67">PROTECT</A>
+     <A S="67" E="5667" VID="400000" />
+     <A S="7600" E="8200">CL:1"person standing in front"</A>
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="7" EXCERPT="HAVE MANY DIFFERENT CHO" S="47333" E="52800">
+   <NOTES>- CHOICE OR OPTION? He said "OPTION" but sign itself can be either, choice or option- As for Classifer, is it BCL or CL? person throwing ball</NOTES>
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="0">
+     <A S="933" E="1133" VID="400001" />
+     <A S="1133" E="2400" VID="2" />
+     <A S="2400" E="2733" VID="400002" />
+     <A S="4467" E="5067" VID="400001" />
+     <A S="5067" E="5467" VID="2" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="0" E="2667" VID="3" />
+     <A S="2667" E="3533" VID="400002" />
+    </TRACK>
+    <TRACK FID="2">
+     <A S="2467" E="2733" VID="400001" />
+     <A S="2733" E="2800" VID="3" />
+     <A S="2800" E="3333" VID="400002" />
+     <A S="4333" E="4867" VID="400001" />
+     <A S="4867" E="5467" VID="2" />
+    </TRACK>
+    <TRACK FID="3">
+     <A S="733" E="1067" VID="400001" />
+     <A S="1067" E="2333" VID="2" />
+     <A S="2333" E="2667" VID="400002" />
+     <A S="2867" E="3333" VID="400001" />
+     <A S="3333" E="4133" VID="6" />
+     <A S="4200" E="5000" VID="400001" />
+     <A S="5000" E="5467" VID="2" />
+    </TRACK>
+    <TRACK FID="8">
+     <A S="0" E="133" VID="10" />
+     <A S="200" E="1000" VID="400001" />
+     <A S="1000" E="2333" VID="2" />
+     <A S="2333" E="2600" VID="400002" />
+     <A S="2933" E="3267" VID="400001" />
+     <A S="3267" E="3600" VID="11" />
+     <A S="3600" E="4067" VID="400002" />
+     <A S="4267" E="4867" VID="400001" />
+     <A S="4867" E="5467" VID="8" />
+    </TRACK>
+    <TRACK FID="9">
+     <A S="733" E="1067" VID="400001" />
+     <A S="1067" E="2067" VID="18" />
+     <A S="2067" E="2333" VID="400002" />
+     <A S="4267" E="4800" VID="400001" />
+     <A S="4800" E="5467" VID="18" />
+    </TRACK>
+    <TRACK FID="10">
+     <A S="0" E="200" VID="4" />
+     <A S="200" E="600" VID="400002" />
+     <A S="2667" E="2867" VID="400001" />
+     <A S="2867" E="4000" VID="2" />
+     <A S="4000" E="4200" VID="400002" />
+    </TRACK>
+    <TRACK FID="12">
+     <A S="0" E="800" VID="3" />
+     <A S="800" E="1067" VID="400002" />
+    </TRACK>
+    <TRACK FID="27">
+     <A S="67" E="200" VID="8" />
+     <A S="467" E="600" VID="9" />
+     <A S="867" E="1067" VID="9" />
+     <A S="1467" E="2200" VID="0" />
+     <A S="2667" E="2733" VID="8" />
+     <A S="3200" E="3600" VID="14" />
+     <A S="4000" E="4067" VID="11" />
+     <A S="4133" E="4200" VID="2" />
+     <A S="4333" E="5467" VID="0" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="2667" E="2733" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="67" E="200">HAVE</A>
+     <A S="467" E="600">MANY</A>
+     <A S="867" E="1067">DIFFERENT</A>
+     <A S="1467" E="2200">CHOICE</A>
+     <A S="2667" E="2733">CAN</A>
+     <A S="3200" E="3600">BCL:C"throwing ball"</A>
+     <A S="4000" E="4067">TO</A>
+     <A S="4133" E="4200">IX-3p:i</A>
+     <A S="4333" E="5467">WIDE-RECEIVER</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="2667" E="2733">CAN</A>
+     <A S="2733" E="3467" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="8" EXCERPT="#OR BCL:C&quot;giving the ba" S="52866" E="57133">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="0">
+     <A S="0" E="134" VID="2" />
+     <A S="134" E="534" VID="400002" />
+     <A S="1400" E="1600" VID="400001" />
+     <A S="1600" E="3267" VID="2" />
+     <A S="3267" E="3734" VID="400002" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="1467" E="1734" VID="400001" />
+     <A S="1734" E="3534" VID="2" />
+     <A S="3534" E="4000" VID="400002" />
+    </TRACK>
+    <TRACK FID="2">
+     <A S="0" E="67" VID="4" />
+     <A S="134" E="600" VID="400001" />
+     <A S="600" E="1600" VID="3" />
+     <A S="1600" E="2400" VID="400002" />
+    </TRACK>
+    <TRACK FID="3">
+     <A S="0" E="200" VID="2" />
+     <A S="267" E="934" VID="400001" />
+     <A S="934" E="1400" VID="6" />
+     <A S="1400" E="1600" VID="400002" />
+     <A S="2734" E="2934" VID="400001" />
+     <A S="2934" E="3334" VID="2" />
+     <A S="3334" E="3600" VID="400002" />
+    </TRACK>
+    <TRACK FID="8">
+     <A S="0" E="334" VID="2" />
+     <A S="334" E="667" VID="400002" />
+     <A S="2600" E="2934" VID="400001" />
+     <A S="2934" E="3667" VID="4" />
+     <A S="3667" E="4267" VID="400002" />
+    </TRACK>
+    <TRACK FID="9">
+     <A S="0" E="400" VID="18" />
+     <A S="400" E="867" VID="400002" />
+    </TRACK>
+    <TRACK FID="10">
+     <A S="0" E="4267" VID="4" />
+    </TRACK>
+    <TRACK FID="27">
+     <A S="67" E="267" VID="15" />
+     <A S="534" E="1200" VID="14" />
+     <A S="1534" E="1600" VID="11" />
+     <A S="1934" E="2600" VID="0" />
+     <A S="3134" E="3667" VID="14" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="67" E="267">#OR</A>
+     <A S="534" E="1200">BCL:C"giving the ball"</A>
+     <A S="1534" E="1600">TO</A>
+     <A S="1934" E="2600">RUNNING-BACK</A>
+     <A S="3134" E="3667">BCL:C"giving the football"</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="9" EXCERPT="(1h)CAN TO #TE MAYBE fs" S="57200" E="61133">
+   <NOTES>- I think he was about to say "OR" but I glossed as "O" because he fingerspelled as "O" instead of OR.</NOTES>
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="0">
+     <A S="400" E="866" VID="400001" />
+     <A S="866" E="2266" VID="2" />
+     <A S="2333" E="3066" VID="400001" />
+     <A S="3066" E="3933" VID="3" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="0" E="400" VID="400001" />
+     <A S="400" E="2066" VID="3" />
+     <A S="2066" E="2333" VID="400002" />
+     <A S="3133" E="3400" VID="400001" />
+     <A S="3400" E="3933" VID="2" />
+    </TRACK>
+    <TRACK FID="2">
+     <A S="0" E="333" VID="400001" />
+     <A S="333" E="600" VID="4" />
+     <A S="600" E="866" VID="400002" />
+     <A S="2333" E="2533" VID="400001" />
+     <A S="2533" E="3933" VID="2" />
+    </TRACK>
+    <TRACK FID="3">
+     <A S="333" E="600" VID="400001" />
+     <A S="600" E="2133" VID="2" />
+     <A S="2133" E="2466" VID="400002" />
+    </TRACK>
+    <TRACK FID="8">
+     <A S="466" E="866" VID="400001" />
+     <A S="866" E="2400" VID="4" />
+     <A S="2400" E="2933" VID="400002" />
+    </TRACK>
+    <TRACK FID="10">
+     <A S="0" E="266" VID="400001" />
+     <A S="266" E="3933" VID="2" />
+    </TRACK>
+    <TRACK FID="14">
+     <A S="200" E="466" VID="400001" />
+     <A S="466" E="866" VID="21" />
+     <A S="866" E="1133" VID="400002" />
+    </TRACK>
+    <TRACK FID="27">
+     <A S="266" E="466" VID="8" />
+     <A S="1000" E="1133" VID="11" />
+     <A S="1333" E="2000" VID="0" />
+     <A S="2266" E="2866" VID="10" />
+     <A S="3533" E="3933" VID="16" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="600" E="866" VID="15" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="266" E="466">(1h)CAN</A>
+     <A S="466" E="800" VID="400000" />
+     <A S="1000" E="1133">TO</A>
+     <A S="1333" E="2000">#TE</A>
+     <A S="2266" E="2866">MAYBE</A>
+     <A S="3133" E="3266">fs-O</A>
+     <A S="3533" E="3933">part:indef</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="600" E="866">BCL:C"throwing ball"</A>
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="10" EXCERPT="PRETEND CAN (2h)CL:flat" S="61200" E="71533">
+   <NOTES>- PRETEND, he said CREATIVE, but it same sign as PRETEND/MAKE-UP, any suggestion?</NOTES>
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="0">
+     <A S="0" E="600" VID="400001" />
+     <A S="600" E="1266" VID="6" />
+     <A S="1266" E="1600" VID="400002" />
+     <A S="6733" E="7466" VID="400001" />
+     <A S="7466" E="10333" VID="6" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="0" E="66" VID="5" />
+     <A S="133" E="666" VID="400001" />
+     <A S="666" E="2200" VID="3" />
+     <A S="2200" E="2400" VID="400002" />
+     <A S="3933" E="4266" VID="400001" />
+     <A S="4266" E="6600" VID="3" />
+     <A S="6666" E="7866" VID="400001" />
+     <A S="7866" E="10333" VID="3" />
+    </TRACK>
+    <TRACK FID="2">
+     <A S="0" E="66" VID="5" />
+     <A S="66" E="533" VID="400002" />
+     <A S="3000" E="3866" VID="400001" />
+     <A S="3866" E="6333" VID="3" />
+     <A S="6333" E="6800" VID="400002" />
+    </TRACK>
+    <TRACK FID="3">
+     <A S="1333" E="2000" VID="400001" />
+     <A S="2000" E="6333" VID="6" />
+     <A S="6333" E="6600" VID="400002" />
+     <A S="7800" E="8266" VID="400001" />
+     <A S="8266" E="9733" VID="6" />
+     <A S="9733" E="10333" VID="400002" />
+    </TRACK>
+    <TRACK FID="9">
+     <A S="3000" E="3866" VID="400001" />
+     <A S="3866" E="10333" VID="12" />
+    </TRACK>
+    <TRACK FID="10">
+     <A S="0" E="66" VID="2" />
+     <A S="66" E="333" VID="400002" />
+     <A S="1133" E="1400" VID="400001" />
+     <A S="1400" E="2600" VID="4" />
+     <A S="2666" E="3933" VID="400001" />
+     <A S="3933" E="10333" VID="3" />
+    </TRACK>
+    <TRACK FID="12">
+     <A S="0" E="666" VID="400001" />
+     <A S="666" E="1000" VID="2" />
+     <A S="1066" E="1400" VID="400001" />
+     <A S="1400" E="2600" VID="17" />
+     <A S="2666" E="3933" VID="400001" />
+     <A S="3933" E="10333" VID="3" />
+    </TRACK>
+    <TRACK FID="13">
+     <A S="3200" E="3866" VID="400001" />
+     <A S="3866" E="5000" VID="2" />
+     <A S="5000" E="6066" VID="400002" />
+     <A S="7666" E="7933" VID="400001" />
+     <A S="7933" E="9800" VID="2" />
+     <A S="9800" E="10333" VID="400002" />
+    </TRACK>
+    <TRACK FID="27">
+     <A S="200" E="866" VID="8" />
+     <A S="1133" E="1400" VID="8" />
+     <A S="1600" E="2600" VID="14" />
+     <A S="2933" E="3000" VID="17" />
+     <A S="3400" E="3933" VID="10" />
+     <A S="4133" E="4933" VID="6" />
+     <A S="5133" E="6266" VID="0" />
+     <A S="6466" E="6600" VID="8" />
+     <A S="6733" E="6933" VID="8" />
+     <A S="7200" E="7733" VID="8" />
+     <A S="8133" E="8266" VID="11" />
+     <A S="8466" E="8800" VID="11" />
+     <A S="8933" E="9200" VID="6" />
+     <A S="9666" E="10333" VID="0" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="4133" E="4933" VID="6" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="200" E="866">PRETEND</A>
+     <A S="1133" E="1400">CAN</A>
+     <A S="1600" E="2600">(2h)CL:flat-o"switching"</A>
+     <A S="2933" E="3000">REALLY</A>
+     <A S="3400" E="3933">AFTER</A>
+     <A S="4133" E="4933">ONE-THOUSAND</A>
+     <A S="5133" E="6266">fs-PLAYS</A>
+     <A S="6466" E="6600">CAN</A>
+     <A S="6733" E="6933">BE</A>
+     <A S="7200" E="7733">PRETEND</A>
+     <A S="8133" E="8266">BETWEEN</A>
+     <A S="8466" E="8800">IN</A>
+     <A S="8933" E="9200">ONE</A>
+     <A S="9666" E="10333">GAME</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="4133" E="4933">ONE-THOUSAND</A>
+     <A S="4933" E="6066" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="11" EXCERPT="REALLY IX-1p FIND THAT " S="71600" E="77200">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="0">
+     <A S="0" E="333" VID="2" />
+     <A S="333" E="666" VID="400002" />
+     <A S="4333" E="4933" VID="400001" />
+     <A S="4933" E="5600" VID="2" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="0" E="266" VID="3" />
+     <A S="266" E="466" VID="400002" />
+     <A S="2400" E="2866" VID="400001" />
+     <A S="2866" E="3000" VID="3" />
+     <A S="3000" E="3266" VID="400002" />
+     <A S="4266" E="4733" VID="400001" />
+     <A S="4733" E="5600" VID="3" />
+    </TRACK>
+    <TRACK FID="3">
+     <A S="733" E="1133" VID="400001" />
+     <A S="1133" E="4666" VID="6" />
+     <A S="4666" E="5200" VID="400002" />
+    </TRACK>
+    <TRACK FID="9">
+     <A S="0" E="533" VID="12" />
+     <A S="533" E="1066" VID="400002" />
+    </TRACK>
+    <TRACK FID="10">
+     <A S="0" E="3933" VID="4" />
+     <A S="3933" E="4533" VID="400002" />
+    </TRACK>
+    <TRACK FID="12">
+     <A S="0" E="400" VID="16" />
+     <A S="466" E="600" VID="400001" />
+     <A S="600" E="1666" VID="7" />
+     <A S="1733" E="2200" VID="400001" />
+     <A S="2200" E="4266" VID="17" />
+     <A S="4266" E="4533" VID="400002" />
+     <A S="4933" E="5133" VID="400001" />
+     <A S="5133" E="5333" VID="2" />
+     <A S="5333" E="5600" VID="400002" />
+    </TRACK>
+    <TRACK FID="27">
+     <A S="333" E="600" VID="17" />
+     <A S="1000" E="1200" VID="2" />
+     <A S="1533" E="1600" VID="8" />
+     <A S="1733" E="2133" VID="2" />
+     <A S="2266" E="3000" VID="9" />
+     <A S="3133" E="3666" VID="9" />
+     <A S="4133" E="4866" VID="0" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="0" E="66" VID="0" />
+     <A S="4133" E="4866" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="333" E="600">REALLY</A>
+     <A S="1000" E="1200">IX-1p</A>
+     <A S="1533" E="1600">FIND</A>
+     <A S="1733" E="2133">THAT</A>
+     <A S="2266" E="3000">fs-VERY</A>
+     <A S="3133" E="3666">(2h)5wow</A>
+     <A S="4133" E="4866">CHALLENGE</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="0" E="66">GAME</A>
+     <A S="66" E="2933" VID="400000" />
+     <A S="4133" E="4866">CHALLENGE</A>
+     <A S="4866" E="5600" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="12" EXCERPT="SPECIAL+fs-LY WHEN IX-3" S="77266" E="89600">
+   <NOTES>- LEGAL or LAW, same sign</NOTES>
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="16">
+     <A S="9334" E="9867" VID="2" />
+    </TRACK>
+    <TRACK FID="0">
+     <A S="0" E="1534" VID="2" />
+     <A S="1534" E="1934" VID="400002" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="0" E="534" VID="400001" />
+     <A S="534" E="7867" VID="3" />
+     <A S="7934" E="9267" VID="400001" />
+     <A S="9267" E="10067" VID="2" />
+     <A S="10067" E="10800" VID="400002" />
+    </TRACK>
+    <TRACK FID="2">
+     <A S="0" E="33" VID="4" />
+     <A S="67" E="1667" VID="400001" />
+     <A S="1667" E="3000" VID="5" />
+     <A S="3000" E="3467" VID="400002" />
+     <A S="8200" E="8934" VID="400001" />
+     <A S="8934" E="10667" VID="2" />
+     <A S="10734" E="11200" VID="400001" />
+     <A S="11200" E="12334" VID="3" />
+    </TRACK>
+    <TRACK FID="3">
+     <A S="0" E="467" VID="400001" />
+     <A S="467" E="6067" VID="6" />
+     <A S="6067" E="6934" VID="400002" />
+     <A S="7734" E="8134" VID="400001" />
+     <A S="8134" E="12334" VID="6" />
+    </TRACK>
+    <TRACK FID="5">
+     <A S="9000" E="9334" VID="400001" />
+     <A S="9334" E="9867" VID="5" />
+     <A S="9867" E="10400" VID="400002" />
+    </TRACK>
+    <TRACK FID="9">
+     <A S="8934" E="9267" VID="400001" />
+     <A S="9267" E="10800" VID="17" />
+     <A S="10800" E="11134" VID="400002" />
+    </TRACK>
+    <TRACK FID="10">
+     <A S="0" E="934" VID="4" />
+     <A S="1000" E="1534" VID="400001" />
+     <A S="1534" E="12334" VID="2" />
+    </TRACK>
+    <TRACK FID="12">
+     <A S="1000" E="1600" VID="400001" />
+     <A S="1600" E="11467" VID="4" />
+     <A S="11467" E="12367" VID="400002" />
+    </TRACK>
+    <TRACK FID="27">
+     <A S="267" E="800" VID="10" />
+     <A S="1334" E="1534" VID="5" />
+     <A S="1667" E="1934" VID="2" />
+     <A S="2734" E="3000" VID="0" />
+     <A S="3267" E="3467" VID="8" />
+     <A S="3667" E="4000" VID="9" />
+     <A S="4267" E="5000" VID="9" />
+     <A S="5267" E="5467" VID="0" />
+     <A S="5600" E="5667" VID="2" />
+     <A S="5867" E="6134" VID="8" />
+     <A S="6800" E="7067" VID="8" />
+     <A S="7200" E="7334" VID="0" />
+     <A S="7467" E="7867" VID="9" />
+     <A S="8134" E="8600" VID="9" />
+     <A S="8934" E="9134" VID="11" />
+     <A S="9267" E="9467" VID="7" />
+     <A S="9734" E="9934" VID="8" />
+     <A S="10400" E="10800" VID="0" />
+     <A S="10934" E="11134" VID="11" />
+     <A S="11467" E="11500" VID="2" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="267" E="800">SPECIAL+fs-LY</A>
+     <A S="1334" E="1534">WHEN</A>
+     <A S="1667" E="1934">IX-3p:i</A>
+     <A S="2734" E="3000">FOOTBALL</A>
+     <A S="3267" E="3467">IS</A>
+     <A S="3667" E="4000">ONLY</A>
+     <A S="4267" E="5000">LEGAL</A>
+     <A S="5267" E="5467">SPORT</A>
+     <A S="5600" E="5667">IX-2p</A>
+     <A S="5867" E="6134">CAN</A>
+     <A S="6800" E="7067">HIT</A>
+     <A S="7200" E="7334">SOMETHING/ONE</A>
+     <A S="7467" E="7867">#SO</A>
+     <A S="8134" E="8600">HARD</A>
+     <A S="8934" E="9134">AND</A>
+     <A S="9267" E="9467">NOT</A>
+     <A S="9734" E="9934">GET</A>
+     <A S="10400" E="10800">FINE</A>
+     <A S="10934" E="11134">FOR</A>
+     <A S="11400" E="12334">#IT</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="13" EXCERPT="part:indef fs-UNLESS US" S="89666" E="97200">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="134" E="467" VID="16" />
+     <A S="734" E="1467" VID="15" />
+     <A S="1667" E="1934" VID="8" />
+     <A S="2400" E="3067" VID="9" />
+     <A S="3667" E="3934" VID="0" />
+     <A S="4400" E="4934" VID="8" />
+     <A S="5200" E="5467" VID="15" />
+     <A S="5667" E="6400" VID="16" />
+    </TRACK>
+    <TRACK FID="0">
+     <A S="0" E="33" VID="6" />
+     <A S="33" E="267" VID="400002" />
+     <A S="1667" E="2067" VID="400001" />
+     <A S="2067" E="6200" VID="2" />
+     <A S="6200" E="6734" VID="400002" />
+    </TRACK>
+    <TRACK FID="1">
+     <A S="0" E="33" VID="4" />
+     <A S="67" E="2200" VID="400001" />
+     <A S="2200" E="3267" VID="2" />
+     <A S="3334" E="4200" VID="400001" />
+     <A S="4200" E="6267" VID="3" />
+     <A S="6334" E="7467" VID="400001" />
+     <A S="7467" E="7534" VID="3" />
+    </TRACK>
+    <TRACK FID="2">
+     <A S="0" E="67" VID="3" />
+     <A S="134" E="400" VID="400001" />
+     <A S="400" E="2667" VID="2" />
+     <A S="2734" E="3734" VID="400001" />
+     <A S="3734" E="6334" VID="3" />
+     <A S="6400" E="7267" VID="400001" />
+     <A S="7267" E="7534" VID="2" />
+    </TRACK>
+    <TRACK FID="3">
+     <A S="0" E="334" VID="400001" />
+     <A S="334" E="2267" VID="6" />
+     <A S="2334" E="4667" VID="400001" />
+     <A S="4667" E="6000" VID="6" />
+     <A S="6000" E="6334" VID="400002" />
+    </TRACK>
+    <TRACK FID="4">
+     <A S="4400" E="5734" VID="400001" />
+     <A S="5734" E="6400" VID="11" />
+     <A S="6400" E="6734" VID="400002" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="134" E="467">part:indef</A>
+     <A S="734" E="1467">fs-UNLESS</A>
+     <A S="1667" E="1934">USE</A>
+     <A S="2400" E="3067">HEAD</A>
+     <A S="3667" E="3934">HELMET</A>
+     <A S="4400" E="4934">HIT</A>
+     <A S="5200" E="5467">BUT</A>
+     <A S="5667" E="6400">part:indef</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="14" EXCERPT="REALLY IX-1p WONDER IX-" S="97266" E="105933">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="334" E="800" VID="17" />
+     <A S="1134" E="1600" VID="2" />
+     <A S="1867" E="2200" VID="8" />
+     <A S="2400" E="2534" VID="2" />
+     <A S="2867" E="3134" VID="8" />
+     <A S="3267" E="3734" VID="11" />
+     <A S="4000" E="4600" VID="5" />
+     <A S="5134" E="5800" VID="17" />
+     <A S="6200" E="6400" VID="8" />
+     <A S="6600" E="6734" VID="2" />
+     <A S="7067" E="7267" VID="8" />
+     <A S="7467" E="7600" VID="11" />
+     <A S="7734" E="8667" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="334" E="800">REALLY</A>
+     <A S="1134" E="1600">IX-1p</A>
+     <A S="1867" E="2200">WONDER</A>
+     <A S="2400" E="2534">IX-1p</A>
+     <A S="2867" E="3134">REMIND</A>
+     <A S="3267" E="3734">#OF</A>
+     <A S="4000" E="4600">WHO</A>
+     <A S="5134" E="5800">REALLY</A>
+     <A S="6200" E="6400">MAKE</A>
+     <A S="6600" E="6734">IX-1p</A>
+     <A S="7067" E="7267">ATTRACT</A>
+     <A S="7467" E="7600">IN</A>
+     <A S="7734" E="8667">FOOTBALL</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="15" EXCERPT="POSS-1p MOTHER BUY IX-1" S="106000" E="118733">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="266" E="466" VID="20" />
+     <A S="733" E="866" VID="1" />
+     <A S="1133" E="1533" VID="8" />
+     <A S="2000" E="2066" VID="2" />
+     <A S="2466" E="3266" VID="0" />
+     <A S="4200" E="4466" VID="2" />
+     <A S="4800" E="4933" VID="8" />
+     <A S="5066" E="5400" VID="15" />
+     <A S="5600" E="7000" VID="0" />
+     <A S="7200" E="12266" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="266" E="466">POSS-1p</A>
+     <A S="733" E="866">MOTHER</A>
+     <A S="1133" E="1533">BUY</A>
+     <A S="2000" E="2066">IX-1p</A>
+     <A S="2466" E="3266">BOOK</A>
+     <A S="4200" E="4466">IX-3p:i</A>
+     <A S="4800" E="4933">WRITE</A>
+     <A S="5066" E="5400">#BY</A>
+     <A S="5600" E="7000">fs-VINCE</A>
+     <A S="7200" E="12266">fs-LOMBANDI</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="16" EXCERPT="part:indef REALLY UP-TO" S="118800" E="126666">
+   <NOTES>- is ADV as pos for UP-TO-NOW, correct?</NOTES>
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="400" E="1066" VID="16" />
+     <A S="1466" E="1733" VID="17" />
+     <A S="2000" E="2866" VID="10" />
+     <A S="3733" E="4466" VID="10" />
+     <A S="4666" E="5000" VID="2" />
+     <A S="6400" E="6533" VID="17" />
+     <A S="6733" E="7066" VID="2" />
+     <A S="7266" E="7866" VID="16" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="5000" E="6066" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="400" E="1066">part:indef</A>
+     <A S="1466" E="1733">REALLY</A>
+     <A S="2000" E="2866">UP-TO-NOW</A>
+     <A S="3733" E="4466">UP-TO-NOW</A>
+     <A S="4666" E="5000">IX-1p</A>
+     <A S="5000" E="5866" VID="400000" />
+     <A S="6400" E="6533">REALLY</A>
+     <A S="6733" E="7066">IX-1p</A>
+     <A S="7266" E="7866">part:indef</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="5000" E="6066">GREW-UP</A>
+     <A S="6066" E="6600" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="17" EXCERPT="NOT KNOW MUCH ABOUT FOO" S="126733" E="133000">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="133" E="200" VID="7" />
+     <A S="467" E="600" VID="8" />
+     <A S="800" E="933" VID="9" />
+     <A S="1067" E="1200" VID="10" />
+     <A S="1467" E="2467" VID="0" />
+     <A S="2933" E="3067" VID="11" />
+     <A S="3400" E="3667" VID="2" />
+     <A S="4000" E="4267" VID="1" />
+     <A S="5400" E="6267" VID="0" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="4467" E="5000" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="133" E="200">NOT</A>
+     <A S="467" E="600">KNOW</A>
+     <A S="800" E="933">MUCH</A>
+     <A S="1067" E="1200">ABOUT</A>
+     <A S="1467" E="2467">FOOTBALL</A>
+     <A S="2933" E="3067">UNTIL</A>
+     <A S="3400" E="3667">IX-1p</A>
+     <A S="4000" E="4267">MOTHER</A>
+     <A S="5400" E="6267">BOOK</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="4467" E="5000">3p:GIVE:1p</A>
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="18" EXCERPT="IX-1p REMEMBER IX-1p YO" S="133066" E="140266">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="134" E="200" VID="2" />
+     <A S="467" E="867" VID="8" />
+     <A S="1000" E="1067" VID="2" />
+     <A S="1267" E="1600" VID="9" />
+     <A S="1734" E="1934" VID="20" />
+     <A S="2467" E="2734" VID="9" />
+     <A S="3200" E="3534" VID="0" />
+     <A S="3800" E="3934" VID="2" />
+     <A S="4267" E="4467" VID="8" />
+     <A S="4667" E="4734" VID="2" />
+     <A S="5000" E="6134" VID="8" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="4267" E="4467" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="134" E="200">IX-1p</A>
+     <A S="467" E="867">REMEMBER</A>
+     <A S="1000" E="1067">IX-1p</A>
+     <A S="1267" E="1600">YOUNG</A>
+     <A S="1734" E="1934">POSS-1p</A>
+     <A S="2467" E="2734">FIRST</A>
+     <A S="3200" E="3534">BOOK</A>
+     <A S="3800" E="3934">IX-1p</A>
+     <A S="4267" E="4467">OPEN</A>
+     <A S="4667" E="4734">IX-1p</A>
+     <A S="5000" E="6134">READ++</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="4267" E="4467">OPEN</A>
+     <A S="4467" E="6000" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="19" EXCERPT="REALLY FALL-INTO-IT FOO" S="140333" E="144600">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="200" E="400" VID="17" />
+     <A S="867" E="2200" VID="8" />
+     <A S="2533" E="3400" VID="0" />
+     <A S="3667" E="4133" VID="16" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="200" E="400">REALLY</A>
+     <A S="867" E="2200">FALL-INTO-IT</A>
+     <A S="2533" E="3400">FOOTBALL</A>
+     <A S="3667" E="4133">part:indef</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="20" EXCERPT="fs-LVINCE fs-LOMBIDI IX" S="144666" E="153800">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="267" E="1600" VID="0" />
+     <A S="1800" E="3600" VID="0" />
+     <A S="3934" E="4534" VID="2" />
+     <A S="4934" E="5267" VID="2" />
+     <A S="5534" E="5800" VID="8" />
+     <A S="6067" E="7200" VID="9" />
+     <A S="7534" E="8934" VID="9" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="4467" E="5400" VID="15" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="267" E="1600">fs-LVINCE</A>
+     <A S="1800" E="3600">fs-LOMBIDI</A>
+     <A S="3934" E="4534">IX-3p:i</A>
+     <A S="4934" E="5267">IX-3p:i</A>
+     <A S="5534" E="5800">#WAS</A>
+     <A S="6067" E="7200">REALLY+</A>
+     <A S="7534" E="8934">WINNER</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="4467" E="5400">CL:1"person"</A>
+     <A S="5400" E="7134" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="21" EXCERPT="IX-3p:i MAKE SURE POSS-" S="153866" E="158866">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="334" E="400" VID="2" />
+     <A S="600" E="800" VID="8" />
+     <A S="1134" E="1200" VID="9" />
+     <A S="1400" E="1600" VID="20" />
+     <A S="1867" E="2267" VID="0" />
+     <A S="2467" E="2667" VID="8" />
+     <A S="2800" E="3067" VID="2" />
+     <A S="3200" E="5000" VID="9" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="334" E="400">IX-3p:i</A>
+     <A S="600" E="800">MAKE</A>
+     <A S="1134" E="1200">SURE</A>
+     <A S="1400" E="1600">POSS-3p:i</A>
+     <A S="1867" E="2267">PLAYER</A>
+     <A S="2467" E="2667">GIVE</A>
+     <A S="2800" E="3067">#IT</A>
+     <A S="3200" E="5000">#ALL</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="3000" E="3334">G"focus"</A>
+     <A S="3334" E="4000" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="22" EXCERPT="NOT-CARE ABOUT MONEY &quot;F" S="158933" E="165533">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="133" E="400" VID="26" />
+     <A S="533" E="667" VID="10" />
+     <A S="1000" E="1667" VID="0" />
+     <A S="2000" E="3000" VID="7" />
+     <A S="3333" E="3667" VID="13" />
+     <A S="4000" E="4200" VID="11" />
+     <A S="4333" E="5133" VID="6" />
+     <A S="5267" E="5867" VID="6" />
+     <A S="6200" E="6600" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="133" E="400">NOT-CARE</A>
+     <A S="533" E="667">ABOUT</A>
+     <A S="1000" E="1667">MONEY</A>
+     <A S="2000" E="3000">"FORGET-IT"</A>
+     <A S="3333" E="3667">PAST</A>
+     <A S="4000" E="4200">IN</A>
+     <A S="4333" E="5133">50s</A>
+     <A S="5267" E="5867">60s</A>
+     <A S="6200" E="6600">FOOTBALL</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="23" EXCERPT="REALLY PEOPLE IX-3p:i F" S="165600" E="171600">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="266" E="533" VID="17" />
+     <A S="800" E="933" VID="0" />
+     <A S="1133" E="1333" VID="2" />
+     <A S="1666" E="1733" VID="9" />
+     <A S="1933" E="2400" VID="0" />
+     <A S="2666" E="3533" VID="13" />
+     <A S="3800" E="4000" VID="8" />
+     <A S="4333" E="4733" VID="9" />
+     <A S="5266" E="6000" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="266" E="533">REALLY</A>
+     <A S="800" E="933">PEOPLE</A>
+     <A S="1133" E="1333">IX-3p:i</A>
+     <A S="1666" E="1733">FOOTBALL</A>
+     <A S="1933" E="2400">PLAYER</A>
+     <A S="2666" E="3533">TODAY</A>
+     <A S="3800" E="4000">MAKE</A>
+     <A S="4333" E="4733">MILLIONAIRE</A>
+     <A S="5266" E="6000">DOLLAR</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="24" EXCERPT="PAST PLAY FOR part:inde" S="171666" E="179200">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="334" E="800" VID="13" />
+     <A S="1200" E="2334" VID="8" />
+     <A S="2467" E="2534" VID="11" />
+     <A S="2867" E="3467" VID="16" />
+     <A S="3734" E="3867" VID="11" />
+     <A S="4134" E="4934" VID="0" />
+     <A S="5200" E="5600" VID="8" />
+     <A S="5800" E="6600" VID="11" />
+     <A S="6867" E="7534" VID="16" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="334" E="800">PAST</A>
+     <A S="1200" E="2334">PLAY</A>
+     <A S="2467" E="2534">FOR</A>
+     <A S="2867" E="3467">part:indef</A>
+     <A S="3734" E="3867">FOR</A>
+     <A S="4134" E="4934">FOOD</A>
+     <A S="5200" E="5600">PLAY</A>
+     <A S="5800" E="6600">FOR</A>
+     <A S="6867" E="7534">part:indef</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="25" EXCERPT="part:indef SAME ANYTHIN" S="179266" E="191133">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="0" E="734" VID="16" />
+     <A S="1067" E="1200" VID="9" />
+     <A S="1400" E="1800" VID="2" />
+     <A S="1934" E="2467" VID="9" />
+     <A S="2867" E="3200" VID="0" />
+     <A S="3467" E="3867" VID="2" />
+     <A S="4200" E="4734" VID="13" />
+     <A S="5334" E="5600" VID="9" />
+     <A S="5800" E="6000" VID="8" />
+     <A S="6200" E="6400" VID="11" />
+     <A S="6734" E="7067" VID="9" />
+     <A S="7400" E="7934" VID="0" />
+     <A S="8334" E="8867" VID="11" />
+     <A S="9400" E="11867" VID="16" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="3867" E="4200" VID="16" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="0" E="734">part:indef</A>
+     <A S="1067" E="1200">SAME</A>
+     <A S="1400" E="1800">ANYTHING</A>
+     <A S="1934" E="2467">REGULAR</A>
+     <A S="2867" E="3200">LIFE</A>
+     <A S="3467" E="3867">WE</A>
+     <A S="4200" E="4734">(L)FUTURE</A>
+     <A S="5334" E="5600">SAME</A>
+     <A S="5800" E="6000">WORK</A>
+     <A S="6200" E="6400">AT</A>
+     <A S="6734" E="7067">MAIL</A>
+     <A S="7400" E="7934">OFFICE</A>
+     <A S="8334" E="8867">#OR</A>
+     <A S="9400" E="11867">part:indef</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="3867" E="4200">part:indef</A>
+     <A S="4200" E="5400" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="26" EXCERPT="#SO THAT IX-3p:i fs-VIN" S="191200" E="201533">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="200" E="533" VID="17" />
+     <A S="733" E="1266" VID="2" />
+     <A S="1800" E="1933" VID="2" />
+     <A S="2200" E="3266" VID="1" />
+     <A S="3400" E="4733" VID="1" />
+     <A S="5733" E="6066" VID="2" />
+     <A S="6266" E="6933" VID="8" />
+     <A S="7133" E="7733" VID="6" />
+     <A S="7866" E="8333" VID="20" />
+     <A S="8600" E="9066" VID="9" />
+     <A S="9333" E="10333" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="200" E="533">#SO</A>
+     <A S="733" E="1266">THAT</A>
+     <A S="1800" E="1933">IX-3p:i</A>
+     <A S="2200" E="3266">fs-VINCE</A>
+     <A S="3400" E="4733">fs-LODI</A>
+     <A S="5733" E="6066">IX-1p</A>
+     <A S="6266" E="6933">REMEMBER</A>
+     <A S="7133" E="7733">ONE</A>
+     <A S="7866" E="8333">POSS-3p:i</A>
+     <A S="8600" E="9066">SPECIAL</A>
+     <A S="9333" E="10333">PRESENTATION</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="27" EXCERPT="PAST VERSUS fs-OAKLAND " S="201600" E="213266">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="333" E="533" VID="13" />
+     <A S="1200" E="2000" VID="8" />
+     <A S="2466" E="4200" VID="1" />
+     <A S="4400" E="6533" VID="1" />
+     <A S="6666" E="6933" VID="11" />
+     <A S="7466" E="8066" VID="9" />
+     <A S="8333" E="9333" VID="0" />
+     <A S="10133" E="11066" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="333" E="533">PAST</A>
+     <A S="1200" E="2000">VERSUS</A>
+     <A S="2466" E="4200">fs-OAKLAND</A>
+     <A S="4400" E="6533">fs-RAIDERS</A>
+     <A S="6666" E="6933">FOR</A>
+     <A S="7466" E="8066">FIRST</A>
+     <A S="8333" E="9333">#SB</A>
+     <A S="10133" E="11066">VERSUS</A>
+     <A S="11066" E="11666" VID="400000" />
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="28" EXCERPT="IX-3p:i TELL POSS-3p:i " S="213333" E="219400">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="133" E="200" VID="2" />
+     <A S="2133" E="2333" VID="8" />
+     <A S="2467" E="2733" VID="20" />
+     <A S="3000" E="3667" VID="0" />
+     <A S="4000" E="5000" VID="2" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="1133" E="1867" VID="15" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="133" E="200">IX-3p:i</A>
+     <A S="2133" E="2333">TELL</A>
+     <A S="2467" E="2733">POSS-3p:i</A>
+     <A S="3000" E="3667">MAN</A>
+     <A S="4000" E="5000">IX-3p-pl-arc</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="1133" E="1867">CL:1"person walking"</A>
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="29" EXCERPT="IX-1p NOT-WANT SEE ANY " S="219466" E="226133">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="134" E="334" VID="2" />
+     <A S="400" E="1334" VID="26" />
+     <A S="1800" E="1867" VID="8" />
+     <A S="2067" E="3067" VID="9" />
+     <A S="3534" E="4067" VID="9" />
+     <A S="4467" E="6667" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="134" E="334">IX-1p</A>
+     <A S="400" E="1334">NOT-WANT</A>
+     <A S="1800" E="1867">SEE</A>
+     <A S="2067" E="3067">ANY</A>
+     <A S="3534" E="4067">END</A>
+     <A S="4467" E="6667">fs-ZONE</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="4534" E="6667">G"focus"</A>
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="30" EXCERPT="FS-ZONE IX-3p:j TOUCHDO" S="226200" E="232200">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="0" E="466" VID="0" />
+     <A S="866" E="1000" VID="2" />
+     <A S="1533" E="1866" VID="0" />
+     <A S="2066" E="2666" VID="0" />
+     <A S="3000" E="3866" VID="14" />
+     <A S="4466" E="5866" VID="8" />
+     <A S="5933" E="6000" VID="8" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="333" E="733" VID="2" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="0" E="466">FS-ZONE</A>
+     <A S="866" E="1000">IX-3p:j</A>
+     <A S="1533" E="1866">TOUCHDOWN</A>
+     <A S="2066" E="2666">#TD</A>
+     <A S="3000" E="3866">CL:1"person running"</A>
+     <A S="4466" E="5866">CELEBRATE</A>
+     <A S="5933" E="6000">SAY</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="333" E="733">IX-2p</A>
+     <A S="733" E="1333" VID="400000" />
+     <A S="2133" E="2600">G"focus"</A>
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="31" EXCERPT="IX-1p WANT IX-3p:i SEE " S="232266" E="237866">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="134" E="400" VID="2" />
+     <A S="667" E="734" VID="8" />
+     <A S="867" E="1000" VID="2" />
+     <A S="1267" E="1600" VID="8" />
+     <A S="1734" E="2267" VID="2" />
+     <A S="2667" E="3067" VID="10" />
+     <A S="3267" E="3667" VID="11" />
+     <A S="3800" E="4067" VID="2" />
+     <A S="4400" E="4667" VID="9" />
+     <A S="4867" E="5600" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="134" E="400">IX-1p</A>
+     <A S="667" E="734">WANT</A>
+     <A S="867" E="1000">IX-3p:i</A>
+     <A S="1267" E="1600">SEE</A>
+     <A S="1734" E="2267">IX-3p:i</A>
+     <A S="2667" E="3067">ONCE</A>
+     <A S="3267" E="3667">IN</A>
+     <A S="3800" E="4067">THAT</A>
+     <A S="4400" E="4667">END</A>
+     <A S="4867" E="5600">#ZONE</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="5067" E="5600">B"focus"</A>
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="32" EXCERPT="IX-1p WANT SEE fs-BALL" S="237933" E="241800">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="200" E="333" VID="2" />
+     <A S="400" E="467" VID="8" />
+     <A S="733" E="1133" VID="8" />
+     <A S="2333" E="3867" VID="0" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="1933" E="2200" VID="15" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="200" E="333">IX-1p</A>
+     <A S="400" E="467">WANT</A>
+     <A S="733" E="1133">SEE</A>
+     <A S="2333" E="3867">fs-BALL</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="1933" E="2200">ICL"holding"</A>
+     <A S="2200" E="3867" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="33" EXCERPT="IX-1p NOT-WANT IX-3p:i " S="241866" E="244266">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="200" E="334" VID="2" />
+     <A S="467" E="667" VID="26" />
+     <A S="734" E="1134" VID="2" />
+     <A S="1467" E="2400" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="200" E="334">IX-1p</A>
+     <A S="467" E="667">NOT-WANT</A>
+     <A S="734" E="1134">IX-3p:i</A>
+     <A S="1467" E="2400">DANCE</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="34" EXCERPT="IX-1p NOT-WANT IX-3p:i " S="244333" E="246533">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="67" E="200" VID="2" />
+     <A S="267" E="400" VID="26" />
+     <A S="600" E="733" VID="2" />
+     <A S="867" E="1067" VID="11" />
+     <A S="1333" E="2067" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="67" E="200">IX-1p</A>
+     <A S="267" E="400">NOT-WANT</A>
+     <A S="600" E="733">IX-3p:i</A>
+     <A S="867" E="1067">#TO</A>
+     <A S="1333" E="2067">SCREAM</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="35" EXCERPT="IX-1p NOT-WANT IX-3p:i " S="246600" E="251066">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="66" E="133" VID="2" />
+     <A S="200" E="266" VID="26" />
+     <A S="333" E="400" VID="2" />
+     <A S="466" E="733" VID="11" />
+     <A S="1200" E="1333" VID="14" />
+     <A S="1666" E="2066" VID="8" />
+     <A S="2333" E="3133" VID="0" />
+     <A S="3266" E="3466" VID="15" />
+     <A S="3600" E="4466" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="66" E="133">IX-1p</A>
+     <A S="200" E="266">NOT-WANT</A>
+     <A S="333" E="400">IX-3p:i</A>
+     <A S="466" E="733">#TO</A>
+     <A S="1200" E="1333">CL:1"person running"</A>
+     <A S="1666" E="2066">RUN</A>
+     <A S="2333" E="3133">#FANS</A>
+     <A S="3266" E="3466">AND</A>
+     <A S="3600" E="4466">CHEER</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="36" EXCERPT="IX-1p WANT IX-3p:i #BAC" S="251133" E="255266">
+   <NOTES>-Bench or SIT-DOWN?</NOTES>
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="67" E="133" VID="2" />
+     <A S="267" E="333" VID="8" />
+     <A S="467" E="533" VID="2" />
+     <A S="733" E="1200" VID="0" />
+     <A S="1533" E="1667" VID="15" />
+     <A S="2000" E="2400" VID="0" />
+     <A S="2600" E="2667" VID="5" />
+     <A S="2733" E="2800" VID="2" />
+     <A S="3333" E="3667" VID="8" />
+     <A S="3867" E="4067" VID="11" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="67" E="133">IX-1p</A>
+     <A S="267" E="333">WANT</A>
+     <A S="467" E="533">IX-3p:i</A>
+     <A S="733" E="1200">#BACK</A>
+     <A S="1533" E="1667">THE</A>
+     <A S="2000" E="2400">BENCH</A>
+     <A S="2600" E="2667">WHERE</A>
+     <A S="2733" E="2800">IX-2p</A>
+     <A S="3333" E="3667">BELONG</A>
+     <A S="3867" E="4067">#TO</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="37" EXCERPT="WAIT UNTIL POSS-2p TURN" S="255333" E="261133">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="133" E="600" VID="8" />
+     <A S="1067" E="1267" VID="11" />
+     <A S="1467" E="1667" VID="20" />
+     <A S="1800" E="2133" VID="8" />
+     <A S="2333" E="2467" VID="11" />
+     <A S="2600" E="2867" VID="8" />
+     <A S="3533" E="4200" VID="10" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="133" E="600">WAIT</A>
+     <A S="1067" E="1267">UNTIL</A>
+     <A S="1467" E="1667">POSS-2p</A>
+     <A S="1800" E="2133">TURN</A>
+     <A S="2333" E="2467">TO</A>
+     <A S="2600" E="2867">PLAY</A>
+     <A S="3533" E="4200">AGAIN</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="38" EXCERPT="REALLY IX-1p LOOK MOTIV" S="261200" E="271400">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="600" E="733" VID="17" />
+     <A S="933" E="1000" VID="2" />
+     <A S="1466" E="2066" VID="8" />
+     <A S="2866" E="3933" VID="9" />
+     <A S="4333" E="4733" VID="0" />
+     <A S="5133" E="5266" VID="2" />
+     <A S="5466" E="6600" VID="1" />
+     <A S="6933" E="8466" VID="1" />
+     <A S="8866" E="10200" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="600" E="733">REALLY</A>
+     <A S="933" E="1000">IX-1p</A>
+     <A S="1466" E="2066">LOOK</A>
+     <A S="2866" E="3933">MOTIVATE</A>
+     <A S="4333" E="4733">WORD</A>
+     <A S="5133" E="5266">THAT</A>
+     <A S="5466" E="6600">fs-VINCE</A>
+     <A S="6933" E="8466">fs-LOMDI</A>
+     <A S="8866" E="10200">USE</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="39" EXCERPT="IX-1p part:indef LOOK T" S="271466" E="276266">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="200" E="734" VID="2" />
+     <A S="1067" E="2134" VID="16" />
+     <A S="2867" E="3400" VID="8" />
+     <A S="3600" E="4000" VID="2" />
+     <A S="4267" E="4534" VID="0" />
+     <A S="4734" E="4800" VID="16" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="200" E="734">IX-1p</A>
+     <A S="1067" E="2134">part:indef</A>
+     <A S="2867" E="3400">LOOK</A>
+     <A S="3600" E="4000">THAT</A>
+     <A S="4267" E="4534">KIND</A>
+     <A S="4734" E="4800">part:indef</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="3200" E="3467">UNKNOWN</A>
+     <A S="3467" E="3934" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="40" EXCERPT="IX-1p NEVER REALIZE THA" S="276333" E="283733">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="133" E="267" VID="2" />
+     <A S="667" E="800" VID="7" />
+     <A S="1133" E="1333" VID="8" />
+     <A S="1533" E="1600" VID="2" />
+     <A S="1867" E="2067" VID="0" />
+     <A S="2267" E="2867" VID="10" />
+     <A S="3533" E="3733" VID="8" />
+     <A S="4000" E="4200" VID="2" />
+     <A S="4400" E="4867" VID="9" />
+     <A S="5133" E="6067" VID="0" />
+     <A S="6467" E="7400" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="133" E="267">IX-1p</A>
+     <A S="667" E="800">NEVER</A>
+     <A S="1133" E="1333">REALIZE</A>
+     <A S="1533" E="1600">THAT</A>
+     <A S="1867" E="2067">FOOTBALL</A>
+     <A S="2267" E="2867">CAN</A>
+     <A S="3533" E="3733">HAVE</A>
+     <A S="4000" E="4200">THAT</A>
+     <A S="4400" E="4867">MUCH</A>
+     <A S="5133" E="6067">EMOTION</A>
+     <A S="6467" E="7400">INVOLVE</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="41" EXCERPT="IX-1p THINK #IT #WAS JU" S="283800" E="294000">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="133" E="266" VID="2" />
+     <A S="533" E="600" VID="8" />
+     <A S="866" E="1133" VID="2" />
+     <A S="1333" E="1933" VID="8" />
+     <A S="2400" E="2600" VID="9" />
+     <A S="2800" E="3266" VID="16" />
+     <A S="3600" E="3933" VID="6" />
+     <A S="4266" E="4466" VID="0" />
+     <A S="5000" E="5200" VID="8" />
+     <A S="5400" E="5600" VID="9" />
+     <A S="5866" E="6066" VID="6" />
+     <A S="6333" E="6800" VID="0" />
+     <A S="7333" E="8066" VID="8" />
+     <A S="8933" E="9533" VID="16" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="2266" E="2400" VID="16" />
+     <A S="5000" E="5200" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="133" E="266">IX-1p</A>
+     <A S="533" E="600">THINK</A>
+     <A S="866" E="1133">#IT</A>
+     <A S="1333" E="1933">#WAS</A>
+     <A S="2400" E="2600">JUST</A>
+     <A S="2800" E="3266">part:indef</A>
+     <A S="3600" E="3933">eleven</A>
+     <A S="4266" E="4466">MAN</A>
+     <A S="5000" E="5200">HIT</A>
+     <A S="5400" E="5600">ANOTHER</A>
+     <A S="5866" E="6066">eleven</A>
+     <A S="6333" E="6800">MAN</A>
+     <A S="7333" E="8066">HIT</A>
+     <A S="8933" E="9533">part:indef</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="2266" E="2400">part:indef</A>
+     <A S="2400" E="3266" VID="400000" />
+     <A S="5000" E="5200">HIT</A>
+     <A S="5200" E="6400" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="42" EXCERPT="#SO IX-1p DECIDE PLAY #" S="294066" E="299733">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="334" E="734" VID="17" />
+     <A S="1000" E="1067" VID="2" />
+     <A S="1400" E="1467" VID="8" />
+     <A S="1600" E="1734" VID="8" />
+     <A S="1867" E="2334" VID="0" />
+     <A S="2600" E="3267" VID="0" />
+     <A S="3734" E="3934" VID="2" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="1600" E="1734" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="334" E="734">#SO</A>
+     <A S="1000" E="1067">IX-1p</A>
+     <A S="1400" E="1467">DECIDE</A>
+     <A S="1600" E="1734">PLAY</A>
+     <A S="1867" E="2334">#HS</A>
+     <A S="2600" E="3267">FOOTBALL</A>
+     <A S="3734" E="3934">IX-1p</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="1600" E="1734">PLAY</A>
+     <A S="1734" E="2200" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="43" EXCERPT="POSS-1p IX-1p THINK IX-" S="299800" E="305933">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="266" E="933" VID="20" />
+     <A S="1066" E="1133" VID="2" />
+     <A S="1400" E="1600" VID="8" />
+     <A S="1866" E="2066" VID="2" />
+     <A S="2400" E="2666" VID="9" />
+     <A S="2866" E="3000" VID="11" />
+     <A S="3266" E="4200" VID="0" />
+     <A S="4466" E="4733" VID="15" />
+     <A S="5066" E="6000" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="266" E="933">POSS-1p</A>
+     <A S="1066" E="1133">IX-1p</A>
+     <A S="1400" E="1600">THINK</A>
+     <A S="1866" E="2066">IX-1p</A>
+     <A S="2400" E="2666">BETTER</A>
+     <A S="2866" E="3000">AT</A>
+     <A S="3266" E="4200">fs-COACH</A>
+     <A S="4466" E="4733">THAN</A>
+     <A S="5066" E="6000">PLAYER</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="44" EXCERPT="#BUT part:indef IX-1p K" S="306000" E="310666">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="200" E="666" VID="15" />
+     <A S="1400" E="1733" VID="16" />
+     <A S="1866" E="1933" VID="2" />
+     <A S="2200" E="2333" VID="8" />
+     <A S="2466" E="2666" VID="11" />
+     <A S="2866" E="3000" VID="8" />
+     <A S="3133" E="3533" VID="9" />
+     <A S="3733" E="4133" VID="0" />
+     <A S="4533" E="4666" VID="16" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="0" E="133" VID="16" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="200" E="666">#BUT</A>
+     <A S="1400" E="1733">part:indef</A>
+     <A S="1866" E="1933">IX-1p</A>
+     <A S="2200" E="2333">KISS</A>
+     <A S="2466" E="2666">TO</A>
+     <A S="2866" E="3000">PLAY</A>
+     <A S="3133" E="3533">SAME</A>
+     <A S="3733" E="4133">TIME</A>
+     <A S="4533" E="4666">part:indef</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="0" E="133">part:indef</A>
+     <A S="133" E="1933" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="45" EXCERPT="IX-1p ENJOY THE HIT IX-" S="310733" E="318133">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="200" E="333" VID="2" />
+     <A S="533" E="800" VID="8" />
+     <A S="1067" E="1133" VID="10" />
+     <A S="1667" E="2200" VID="8" />
+     <A S="2400" E="2533" VID="2" />
+     <A S="2800" E="3200" VID="8" />
+     <A S="3800" E="4000" VID="8" />
+     <A S="4333" E="4800" VID="10" />
+     <A S="5133" E="5600" VID="8" />
+     <A S="6000" E="6467" VID="15" />
+     <A S="6667" E="7400" VID="16" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="200" E="333">IX-1p</A>
+     <A S="533" E="800">ENJOY</A>
+     <A S="1067" E="1133">THE</A>
+     <A S="1667" E="2200">HIT</A>
+     <A S="2400" E="2533">IX-1p</A>
+     <A S="2800" E="3200">ENJOY</A>
+     <A S="3800" E="4000">HURT</A>
+     <A S="4333" E="4800">SOMETIME</A>
+     <A S="5133" E="5600">ADMIT</A>
+     <A S="6000" E="6467">#BUT</A>
+     <A S="6667" E="7400">part:indef</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="46" EXCERPT="NOT #ALL TIME SAME NO++" S="318200" E="325066">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="200" E="333" VID="7" />
+     <A S="466" E="866" VID="9" />
+     <A S="1066" E="1400" VID="0" />
+     <A S="1733" E="2066" VID="9" />
+     <A S="4000" E="4466" VID="7" />
+     <A S="4800" E="5266" VID="16" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="2200" E="3666" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="200" E="333">NOT</A>
+     <A S="466" E="866">#ALL</A>
+     <A S="1066" E="1400">TIME</A>
+     <A S="1733" E="2066">SAME</A>
+     <A S="2066" E="3200" VID="400000" />
+     <A S="4000" E="4466">NO++</A>
+     <A S="4800" E="5266">part:indef</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="2200" E="3666">HAND</A>
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="47" EXCERPT="REALLY IX-3p:i fs-VINCE" S="325133" E="331666">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="533" E="800" VID="17" />
+     <A S="1000" E="1333" VID="2" />
+     <A S="1667" E="2133" VID="1" />
+     <A S="2267" E="4267" VID="1" />
+     <A S="4667" E="4800" VID="8" />
+     <A S="4933" E="5067" VID="2" />
+     <A S="5267" E="6533" VID="0" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="1067" E="1733" VID="2" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="533" E="800">REALLY</A>
+     <A S="1000" E="1333">IX-3p:i</A>
+     <A S="1667" E="2133">fs-VINCE</A>
+     <A S="2267" E="4267">fs-LODI</A>
+     <A S="4667" E="4800">TELL</A>
+     <A S="4933" E="5067">POSS-3p:i</A>
+     <A S="5267" E="6533">MAN</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="1067" E="1733">IX-3p:i</A>
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="48" EXCERPT="REALLY POSS-1p FAVORITE" S="331733" E="339600">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="333" E="533" VID="17" />
+     <A S="667" E="1333" VID="2" />
+     <A S="1533" E="1600" VID="9" />
+     <A S="1867" E="3200" VID="0" />
+     <A S="4200" E="4400" VID="13" />
+     <A S="4600" E="4667" VID="2" />
+     <A S="4933" E="5400" VID="0" />
+     <A S="5933" E="7067" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="333" E="533">REALLY</A>
+     <A S="667" E="1333">POSS-1p</A>
+     <A S="1533" E="1600">FAVORITE</A>
+     <A S="1867" E="3200">QUOTE</A>
+     <A S="4200" E="4400">PAST</A>
+     <A S="4600" E="4667">THAT</A>
+     <A S="4933" E="5400">#SB</A>
+     <A S="5933" E="7067">VERSUS</A>
+     <A S="7067" E="7733" VID="400000" />
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="49" EXCERPT="SAY part:indef MAN IX-1" S="339666" E="348666">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="200" E="400" VID="8" />
+     <A S="667" E="1200" VID="16" />
+     <A S="1667" E="3000" VID="0" />
+     <A S="3400" E="3867" VID="2" />
+     <A S="4000" E="4267" VID="10" />
+     <A S="4467" E="4600" VID="11" />
+     <A S="4867" E="5600" VID="8" />
+     <A S="5867" E="6000" VID="11" />
+     <A S="6334" E="6400" VID="2" />
+     <A S="6800" E="7067" VID="9" />
+     <A S="7400" E="9000" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="200" E="400">SAY</A>
+     <A S="667" E="1200">part:indef</A>
+     <A S="1667" E="3000">MAN</A>
+     <A S="3400" E="3867">IX-1p-pl-arc</A>
+     <A S="4000" E="4267">MUST</A>
+     <A S="4467" E="4600">TO</A>
+     <A S="4867" E="5600">PARADE</A>
+     <A S="5867" E="6000">IN</A>
+     <A S="6334" E="6400">THAT</A>
+     <A S="6800" E="7067">END</A>
+     <A S="7400" E="9000">#ZONE</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="50" EXCERPT="AND WAIT UNTIL POSS-2p " S="348733" E="354933">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="133" E="400" VID="15" />
+     <A S="1667" E="2067" VID="8" />
+     <A S="2267" E="2400" VID="11" />
+     <A S="2600" E="2733" VID="2" />
+     <A S="2933" E="3467" VID="0" />
+     <A S="3667" E="3733" VID="9" />
+     <A S="4000" E="4133" VID="2" />
+     <A S="4267" E="4467" VID="8" />
+     <A S="4667" E="5400" VID="13" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="1000" E="1400" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="133" E="400">AND</A>
+     <A S="1667" E="2067">WAIT</A>
+     <A S="2267" E="2400">UNTIL</A>
+     <A S="2600" E="2733">POSS-2p</A>
+     <A S="2933" E="3467">TURN</A>
+     <A S="3667" E="3733">SAME</A>
+     <A S="4000" E="4133">IX-1p</A>
+     <A S="4267" E="4467">SAY</A>
+     <A S="4667" E="5400">PAST</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="1000" E="1400">#BACK</A>
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="51" EXCERPT="#THEN HIT AND HIT AND H" S="355000" E="364733">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="800" E="1466" VID="10" />
+     <A S="3933" E="4933" VID="8" />
+     <A S="5133" E="5266" VID="15" />
+     <A S="5866" E="6800" VID="8" />
+     <A S="6933" E="7200" VID="15" />
+     <A S="7600" E="8666" VID="8" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="800" E="1466">#THEN</A>
+     <A S="3933" E="4933">HIT</A>
+     <A S="5133" E="5266">AND</A>
+     <A S="5866" E="6800">HIT</A>
+     <A S="6933" E="7200">AND</A>
+     <A S="7600" E="8666">HIT</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="52" EXCERPT="part:indef IX-1p KNOW #" S="364800" E="374066">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="666" E="1200" VID="16" />
+     <A S="1466" E="1600" VID="2" />
+     <A S="1933" E="2066" VID="8" />
+     <A S="2200" E="2466" VID="2" />
+     <A S="2733" E="3066" VID="10" />
+     <A S="3333" E="4133" VID="8" />
+     <A S="5000" E="5466" VID="9" />
+     <A S="5933" E="6266" VID="0" />
+     <A S="6733" E="6933" VID="8" />
+     <A S="7133" E="7333" VID="15" />
+     <A S="7866" E="8066" VID="8" />
+     <A S="8266" E="8400" VID="15" />
+     <A S="9000" E="9266" VID="8" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="4533" E="4733" VID="6" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="666" E="1200">part:indef</A>
+     <A S="1466" E="1600">IX-1p</A>
+     <A S="1933" E="2066">KNOW</A>
+     <A S="2200" E="2466">#IT</A>
+     <A S="2733" E="3066">CAN</A>
+     <A S="3333" E="4133">SEEM</A>
+     <A S="5000" E="5466">SIMPLE</A>
+     <A S="5933" E="6266">WORD</A>
+     <A S="6733" E="6933">HIT</A>
+     <A S="7133" E="7333">AND</A>
+     <A S="7866" E="8066">HIT</A>
+     <A S="8266" E="8400">AND</A>
+     <A S="9000" E="9266">HIT</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="4533" E="4733">THREE</A>
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="53" EXCERPT="#BUT WHEN fs-HIT IS MAK" S="374133" E="379533">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="133" E="800" VID="15" />
+     <A S="1467" E="2000" VID="5" />
+     <A S="2133" E="3067" VID="8" />
+     <A S="3200" E="3400" VID="8" />
+     <A S="3600" E="3933" VID="8" />
+     <A S="4067" E="4267" VID="11" />
+     <A S="4867" E="5400" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="133" E="800">#BUT</A>
+     <A S="1467" E="2000">WHEN</A>
+     <A S="2133" E="3067">fs-HIT</A>
+     <A S="3200" E="3400">IS</A>
+     <A S="3600" E="3933">MAKE</A>
+     <A S="4067" E="4267">IN</A>
+     <A S="4867" E="5400">FOOTBALL</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="2533" E="3200">G"focus"</A>
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="54" EXCERPT="#IT CAN (2h)CREATE A-LO" S="379600" E="383466">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="133" E="400" VID="2" />
+     <A S="666" E="1600" VID="10" />
+     <A S="2066" E="2400" VID="8" />
+     <A S="2600" E="2866" VID="9" />
+     <A S="3200" E="3866" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="133" E="400">#IT</A>
+     <A S="666" E="1600">CAN</A>
+     <A S="2066" E="2400">(2h)CREATE</A>
+     <A S="2600" E="2866">A-LOT</A>
+     <A S="3200" E="3866">THING</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="55" EXCERPT="CAN CREATE OPPORTUNITY " S="383533" E="387600">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="267" E="467" VID="10" />
+     <A S="600" E="1200" VID="8" />
+     <A S="1400" E="2000" VID="0" />
+     <A S="2133" E="2333" VID="11" />
+     <A S="3000" E="3200" VID="0" />
+     <A S="3400" E="4067" VID="8" />
+    </TRACK>
+    <TRACK FID="29">
+     <A S="2533" E="2733" VID="9" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="267" E="467">CAN</A>
+     <A S="600" E="1200">CREATE</A>
+     <A S="1400" E="2000">OPPORTUNITY</A>
+     <A S="2133" E="2333">FOR</A>
+     <A S="3000" E="3200">TEAM</A>
+     <A S="3400" E="4067">WIN</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="2533" E="2733">ANOTHER</A>
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="56" EXCERPT="#IT CAN CREATE #A FUMBL" S="387666" E="391866">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="67" E="400" VID="2" />
+     <A S="600" E="1067" VID="10" />
+     <A S="1267" E="1667" VID="8" />
+     <A S="2400" E="2667" VID="0" />
+     <A S="2934" E="4200" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="67" E="400">#IT</A>
+     <A S="600" E="1067">CAN</A>
+     <A S="1267" E="1667">CREATE</A>
+     <A S="1800" E="2000">#A</A>
+     <A S="2400" E="2667">FUMBLE</A>
+     <A S="2934" E="4200">fs-FUMBLE</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="57" EXCERPT="#IT CAN #BE part:indef " S="391933" E="398400">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="200" E="467" VID="2" />
+     <A S="733" E="1200" VID="10" />
+     <A S="1467" E="1800" VID="8" />
+     <A S="2600" E="3067" VID="16" />
+     <A S="3267" E="4067" VID="0" />
+     <A S="4533" E="4867" VID="0" />
+     <A S="5000" E="6333" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="200" E="467">#IT</A>
+     <A S="733" E="1200">CAN</A>
+     <A S="1467" E="1800">#BE</A>
+     <A S="2600" E="3067">part:indef</A>
+     <A S="3267" E="4067">#QB</A>
+     <A S="4533" E="4867">SACK</A>
+     <A S="5000" E="6333">fs-SACK</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="58" EXCERPT="#OR part:indef REALLY M" S="398466" E="409400">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="134" E="467" VID="15" />
+     <A S="800" E="1000" VID="16" />
+     <A S="1267" E="1334" VID="17" />
+     <A S="1734" E="2467" VID="9" />
+     <A S="3067" E="3534" VID="9" />
+     <A S="4000" E="4334" VID="9" />
+     <A S="4734" E="4934" VID="0" />
+     <A S="5200" E="5334" VID="10" />
+     <A S="5667" E="5867" VID="2" />
+     <A S="6000" E="6267" VID="9" />
+     <A S="6667" E="6934" VID="0" />
+     <A S="7067" E="8800" VID="0" />
+     <A S="9134" E="9334" VID="8" />
+     <A S="9800" E="10800" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="134" E="467">#OR</A>
+     <A S="800" E="1000">part:indef</A>
+     <A S="1267" E="1334">REALLY</A>
+     <A S="1734" E="2467">MANY</A>
+     <A S="3067" E="3534">MANY+</A>
+     <A S="4000" E="4334">LIST</A>
+     <A S="4734" E="4934">THING</A>
+     <A S="5200" E="5334">ABOUT</A>
+     <A S="5667" E="5867">#IT</A>
+     <A S="6000" E="6267">SAME</A>
+     <A S="6667" E="6934">IDEA</A>
+     <A S="7067" E="8800">fs-CHESS</A>
+     <A S="9134" E="9334">THINK</A>
+     <A S="9800" E="10800">GAME</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="7200" E="8934">G"focus"</A>
+     <A S="8934" E="9134" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="59" EXCERPT="PAST POSS-3p:i MAN fs-V" S="409466" E="418200">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="867" E="1600" VID="13" />
+     <A S="1800" E="2134" VID="2" />
+     <A S="2334" E="2867" VID="0" />
+     <A S="3200" E="4134" VID="1" />
+     <A S="4267" E="5800" VID="1" />
+     <A S="6067" E="6534" VID="0" />
+     <A S="6667" E="7067" VID="8" />
+     <A S="7267" E="7467" VID="11" />
+     <A S="7667" E="8734" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="867" E="1600">PAST</A>
+     <A S="1800" E="2134">POSS-3p:i</A>
+     <A S="2334" E="2867">MAN</A>
+     <A S="3200" E="4134">fs-VINCE</A>
+     <A S="4267" E="5800">fs-LODI</A>
+     <A S="6067" E="6534">MAN</A>
+     <A S="6667" E="7067">PARADE</A>
+     <A S="7267" E="7467">ON</A>
+     <A S="7667" E="8734">#FIELD</A>
+    </TRACK>
+    <TRACK FID="10001">
+     <A S="3534" E="4000">G"focus"</A>
+     <A S="4000" E="5867" VID="400000" />
+    </TRACK>
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="60" EXCERPT="IX-3p:i TELL part:indef" S="418266" E="427733">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="267" E="467" VID="2" />
+     <A S="800" E="1134" VID="8" />
+     <A S="1467" E="1667" VID="16" />
+     <A S="2000" E="3334" VID="8" />
+     <A S="3667" E="5000" VID="8" />
+     <A S="5200" E="7067" VID="8" />
+     <A S="7334" E="7800" VID="7" />
+     <A S="8200" E="9467" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="267" E="467">IX-3p:i</A>
+     <A S="800" E="1134">TELL</A>
+     <A S="1467" E="1667">part:indef</A>
+     <A S="2000" E="3334">REMEMBER</A>
+     <A S="3667" E="5000">WIN</A>
+     <A S="5200" E="7067">fs-WINNING</A>
+     <A S="7334" E="7800">NOT</A>
+     <A S="8200" E="9467">EVERYTHING</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+  <UTTERANCE ID="61" EXCERPT="fs-ITS ONLY THING" S="427800" E="432000">
+   <MEDIA-REF ID="476" />
+   <MEDIA-REF ID="477" />
+   <SEGMENT PARTICIPANT-ID="0" PRIMARY="false">
+    <TRACK FID="27">
+     <A S="133" E="800" VID="2" />
+     <A S="1066" E="2266" VID="9" />
+     <A S="2466" E="3533" VID="0" />
+    </TRACK>
+    <TRACK FID="10000">
+     <A S="133" E="800">fs-ITS</A>
+     <A S="1066" E="2266">ONLY</A>
+     <A S="2466" E="3533">THING</A>
+    </TRACK>
+    <TRACK FID="10001" />
+    <TRACK FID="20001" />
+   </SEGMENT>
+  </UTTERANCE>
+ </UTTERANCES>
+</SIGNSTREAM-DATABASE>
+

@@ -1,0 +1,699 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	DSP Ski Trip Story	SignStream Databases v.2:DSP Ski Trip Story
+Number of utterances:	23
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	4270
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	011
+main gloss	IX-1p	476	552	WIN	799	970	fs-FREE	1312	1692	fs-TRIP	1825	2135	GO:i	2344	2477	fs-COLORADO	2629	3731	FINEwg	4023	4175
+non-dominant hand gloss	WIN	799	970	|>		2135
+topic/focus	focus/top1	210	514
+eye brows	start	115	191	raised	210	514	end	533	590	start	4080	4099	slightly raised	4118	4156	end	4175	4270
+eye aperture	start	134	153	blink	172	210	end	229	286	start	837	837	blink	856	875	end	894	932	start	2344	2344	blink	2363	2420	end	2439	2477	start	3655	3674	blink	3693	3731	end	3750	3864
+eye gaze	down/right	4099	4232
+head pos: turn	start	248	324	slightly right	343	3864	end	3884	4023
+head pos: tilt side	start	248	457	left	476	2173	further left	2192	2382	left	2401	3674	further left	3693	3845	end	3864	3964
+mouth	lips pursed: oo	324	837	lips spread & crnrs down	2173	2439	lips spread & crnrs down	4194	4270
+POS	Pronoun	476	552	Verb	799	970	Adjective	1312	1692	Noun	1825	2135	Verb	2344	2477	Proper Noun	2629	3731	Adjective	4023	4175
+English translation	I won a free trip to Colorado.  It was great!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	4270
+End frame:	7241
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	010
+main gloss	POSS-1p	4460	4479	FRIEND	4593	4859	IX-1p-pl-2:1p/k	5087	5391	TAKE-OFF	5600	5771	PAST	5906	6025	fs-WEEKEND	6272	7165
+non-dominant hand gloss
+eye aperture	start	4612	4612	blink	4631	4650	end	4669	4745	start	5926	5966	blink	5986	6044	end	6063	6177
+eye gaze	right	4688	4764	left	5391	5638
+head pos: turn	start	4612	4745	right	4764	4802	end	4821	4916
+head pos: tilt side	start	5315	5467	slightly left	5486	5695	left	5714	6937	end	6956	7070
+mouth	lips spread & crnrs down	4270	4384	lips spread & crnrs down	4897	5733
+shoulders	start	4327	4612	right	4631	5125	end	5144	5296
+POS	Possessive	4460	4479	Noun	4593	4859	Pronoun	5087	5391	Verb	5600	5771	Adjective	5906	6025	Noun	6272	7165
+English translation	My friend and I went last weekend.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	7241
+End frame:	8844
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	009
+main gloss	(2h)alt.FANCY++	7678	8502	(5)WOW	8578	8825
+non-dominant hand gloss
+eye brows	start	8749	8844
+eye aperture	start	7393	7431	closed	7450	7830	end	7849	7928	start	8217	8217	blink	8236	8293	start	8312	8312	lowered lid	8350	8407	start	8426	8426	blink	8445	8483	end	8502	8559	start	8711	8711	blink	8730	8787	start	8806	8844
+head pos: turn	start	7393	7621	left	7640	7773	end	7792	8065
+mouth	lips pursed: oo-tight	7488	8217	lips spread & crnrs down	8825	8844
+body lean	start	7298	7450	right	7469	7621	end	7640	7773	start	7830	8046	left	8065	8255	end	8274	8521
+POS	Adjective	7678	8502	Particle	8578	8825
+English translation	It was really something!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	8844
+End frame:	14394
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	018
+main gloss	FRIDAY	8958	9338	SCL:I-L-Y"airplane take-off^fly"	9509	10257	SCL:I-L-Y"airplane lands"	10276	10884	|>		11036	(5)WOW	11359	11549	fs-LIMO	11758	12259	|>		12411	(2h)LCL:C"limo arriving"	12601	13019	PICK	13342	13665	fs-UP	13760	13874	(5)WOW	14128	14318
+non-dominant hand gloss	LCL:B-L"platform"	9509	10884	|>		12278
+topic/focus	focus/top1	8863	9224	focus/top1	11587	12297
+eye brows	start	8844	8844	raised	8863	9205	end	9224	9338	start	10884	10941	raised	10960	10979	end	10998	11112	start	11530	11568	raised	11587	12297	start	12316	12411	lowered	12430	13399	end	13437	13456
+eye aperture	start	8844	8863	wide	8882	9224	start	9243	9319	blink	9338	9433	start	9452	9452	further lowered	9471	10029	start	10048	10067	blink	10086	10257	start	10276	10295	lowered lid	10314	10808	start	10827	10827	blink	10846	10884	end	10903	10941	start	11283	11283	blink	11302	11321	end	11340	11378	start	12354	12411	squint	12430	12696	end	12715	12734
+eye gaze	left	9452	10086	watch hands	10485	10637	right	10922	11264	watch hands	12430	12639	watch hands	13019	13190	down	13855	14166	down	14356	14394
+head pos: tilt fr/bk	start	9661	9794	back	9813	10143	start	10162	10542	front	10561	10599	end	10618	10865	start	13019	13190	front	13209	13437	end	13456	13532	start	13798	13914	front	13934	14394
+head pos: turn	start	9376	9528	slightly left	9547	10637	start	10656	10884	slightly right	10903	11283	end	11302	11454	start	12449	12582	slightly right	12601	12639	end	12658	12696	start	13076	13266	slightly left	13304	13779	start	13798	14128	right	14147	14204	end	14223	14318
+head pos: tilt side	start	10143	10390	left	10409	10580	end	10599	10751	start	13114	13190	right	13209	13798	end	13817	13954
+head pos: jut	start	8844	8939	back	8958	9319	start	9338	9623	forward	9642	10656	end	10675	10884	start	12753	12829	back	12848	13209	end	13228	13437
+head mvmt: nod	single	12202	12297
+head mvmt: jut	start	10903	10979	forward	10998	11150	end	11169	11435
+cheeks	puffed	9775	10865	tensed left	12449	14394
+mouth	lips spread & crnrs down	9528	10865	open	10941	11454
+body lean	start	8958	9167	back	9186	9338	end	9357	9471	start	10409	10599	forward/left	10618	10770	end	10789	10884	start	14375	14394
+POS	Noun	8958	9338	Classifier	9509	10257	Classifier	10276	10884	Particle	11359	11549	Noun	11758	12259	Classifier	12601	13019	Verb	13342	13665	Preposition	13760	13874	Particle	14128	14318
+nondominant POS	Classifier	9509	10884
+English translation	We flew there Friday.  Wow!  A limo arrived to pick us up.  Wow!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	14394
+End frame:	19367
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	014
+main gloss	GET-INTO+	14451	14717	(2h)LCL:C"limo going up mountain"	14850	15192	ARRIVE	15439	15610	SKI++	15781	16263	fs-RESORT	16472	17004	BEAUTIFUL	17308	17403	PLACE	17650	17898	FAMOUS	18094	18132	PEOPLE	18189	18227	PCL:bent-B-Lwg"people flocking to there++"	18360	19215
+non-dominant hand gloss
+eye brows	start	15534	15591	raised	15610	15743	slightly raised	15762	15976	end	15996	16035
+eye aperture	start	15477	15515	blink	15534	15591	end	15610	15629	start	16909	16909	blink	16928	16947	end	16966	17004	start	17308	17327	blink	17346	17346	end	17365	17403	start	17840	17878	further squinted	17898	18664	start	18683	18683	blink	18702	18721	end	18740	18816	start	18892	18892	blink	18911	18949	end	18968	19006	start	19120	19139	closed	19158	19367
+eye gaze	down	14394	14565	up	14869	15458	up/right	16985	17289	left	17555	17898
+head pos: tilt fr/bk	front	14394	14508	end	14527	14603	start	14793	14812	back	14831	16282	end	16301	16776	start	18151	18303	back	18322	18664	end	18683	18987	start	19082	19367
+head pos: turn	start	16966	17251	right	17270	17346	end	17365	17612	start	18075	18132	slightly right	18151	18474	end	18493	18778	start	19025	19063	slightly right	19082	19158	end	19177	19367
+head mvmt: nod	rapid	15956	16282
+head mvmt: jut	start	14432	14508	forward	14527	14603	end	14622	14736
+cheeks	tensed left	14394	15173	end	15192	15610
+mouth	lips spread & crnrs down	14850	15572	lips spread & crnrs down	18132	19367
+body lean	start	14394	14546	forward	14565	14584	end	14603	14736	start	15344	15534	forward	15553	15629	end	15648	15800
+POS	Verb	14451	14717	Classifier	14850	15192	Verb	15439	15610	Noun	15781	16263	Noun	16472	17004	Adjective	17308	17403	Noun	17650	17898	Adjective	18094	18132	Noun	18189	18227	Classifier	18360	19215
+English translation	It drove up the mountain and arrived at the ski resort. It was a beautiful place where many famous people go.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	19367
+End frame:	23256
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	014
+main gloss	EVENING	19842	19940	|>		20077	(P)PARTY	20419	21027	DRESS-UP	21312	21806	(2h)alt.FANCY+++	21825	22876	part:indef	22971	23066
+non-dominant hand gloss
+topic/focus	focus/top1	19462	19940
+eye brows	start	19367	19443	raised	19462	19940	end	19960	20077
+eye aperture	closed	19367	19367	start	19386	19443	wide	19462	20020	start	20039	20058	blink	20077	20096	end	20115	20153	start	20875	20894	blink	20913	20951	start	20970	21027	further lowered	21046	21825	end	21844	21882	start	22382	22401	blink	22420	22553	lowered lid	22572	22648	end	22667	22762	start	22990	22990	blink	23009	23028	end	23047	23085	start	23237	23237	further lowered	23256	23256
+eye gaze	down	21122	21749	down	22572	22933	down	23237	23256
+head pos: tilt fr/bk	back	19367	19424	end	19443	19633	start	20210	20419	back	20438	20989	start	21008	21369	front	21388	21616	end	21635	21902	start	22496	22648	slightly front	22667	22743	end	22762	22990
+head pos: turn	start	20400	20438	right	20457	20989	start	21008	21426	slightly left	21445	21673	end	21692	21942	start	22933	23256
+head pos: tilt side	start	19671	19823	left	19842	19940	end	19960	20058	start	20210	20438	left	20457	20932	end	20951	21122	start	21673	21825	slightly left	21844	22344	end	22363	22553
+head mvmt: nod	single	20058	20191
+mouth	lips spread & crnrs down	19367	20457	lips spread & crnrs down	21293	22363	lips spread & crnrs down	23256	23256
+body lean	start	19557	19690	right	19709	19861	end	19880	20020	start	20210	20457	back	20476	20837	end	20856	20894	start	21982	22344	back/left	22363	22420	start	22439	22819	back/right	22838	22933	end	22952	23237
+POS	Adverb	19842	19940	Noun	20419	21027	Verb	21312	21806	Adjective	21825	22857	Particle	22971	23066
+English translation	That evening there was a fancy-dress party.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	23256
+End frame:	28122
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	013
+main gloss	(2h)alt.ICL:"drinking"++	23408	23924	(2h)alt.EAT+	24080	24783	SOCIALIZE	24992	25733	1p:MEET-distributive-3p-pl-arc	25828	26728	ALL-NIGHT	26880	27773
+non-dominant hand gloss
+eye aperture	further lowered	23256	23465	end	23484	23522	start	23655	23674	blink	23693	23750	end	23769	23807	start	24023	24061	blink	24080	24118	further lowered	24137	24346	start	24365	24384	blink	24403	24441	end	24460	24498	start	25296	25315	blink	25334	25372	end	25391	25429	start	25771	25771	squint	25790	26139	start	26158	26177	blink	26196	26253	further squinted	26272	26367	start	26386	26405	closed	26424	27908	start	27928	28122
+eye gaze	down	23256	23731	down	24061	24384	right	24954	25296	left	25619	26215
+head pos: tilt fr/bk	start	27241	27602	back	27621	28122
+head pos: turn	start	23256	23256	right	23275	23522	end	23541	23769	start	24023	24175	left	24194	24422	end	24441	24574	start	24878	25068	right	25087	25296	start	25315	25733	left	25752	26196	end	26215	26728
+head pos: tilt side	start	26785	26880	left	26899	27374	start	27393	27948	right	27968	28122
+head pos: jut	start	23313	23427	further forward	23446	23788	start	23807	23924	forward	23944	24498	end	24517	24783	start	24973	25030	slightly forward	25049	25220	end	25239	25429
+mouth	lips spread & crnrs down	23256	23807	lips spread & crnrs down	23984	24707	lips spread & crnrs down	24973	25695	lips spread & crnrs down	25809	26405	lips spread & crnrs down	27260	28122
+shoulders	start	24973	25144	left	25163	25372	start	25391	26139	right	26158	26291	end	26310	26519
+body lean	start	23579	23598	forward/left	23617	23884	start	23904	24479	right	24498	24631	start	24650	25144	left	25163	25315	end	25334	25946	start	27849	28122
+POS	Verb	23408	23924	Verb	24080	24783	Verb	24992	25733	Verb	25828	26728	Adverb	26880	27773
+English translation	There were drinks, food, and socializing.  I met many people. It went all night. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	28122
+End frame:	32677
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	012
+main gloss	TIRED	28559	28768	FINISH	28882	29072	GO	29585	29794	BED	30143	30181	GET-IN-BED	30637	30884	|>		31017	ALL-NIGHT	31701	32354
+non-dominant hand gloss
+eye aperture	lowered lid	28122	29395	start	29414	29414	closed	29433	29585	start	29604	29604	lowered lid	29623	30029	end	30048	30086	start	30143	30162	further lowered	30181	31340	start	31359	31359	closed	31378	31549	start	31568	31568	further lowered	31587	32316	end	32335	32335	start	32639	32677
+eye gaze	down	28407	29395	down/left	29623	29890	down/left	30143	30827
+head pos: tilt fr/bk	start	28122	28388	slightly front	28407	28768	start	28787	29186	back	29205	29376	end	29395	29775	start	30010	30124	front	30143	30751	end	30770	30941	start	31397	31473	front	31492	32145	end	32164	32316
+head pos: turn	start	28863	28977	left	28996	29851	slightly left	29870	30181	left	30200	30770	end	30789	31017	start	31587	31952	further left	31972	32145	end	32164	32354
+head pos: tilt side	right	28122	28369	end	28388	28730	start	28787	29015	left	29034	29167	end	29186	29395	start	29547	29775	left	29794	29851	end	29870	30143	start	30162	30371	left	30390	30732	end	30751	30998	start	31492	31932	left	31952	32088	end	32107	32354
+mouth	lips pursed: mm	28122	28255	lips spread & crnrs down	28749	30067	lips spread & crnrs down	30561	31359	lips spread & crnrs down	32582	32677
+shoulders	start	30504	30751	left	30770	30827	end	30846	30998
+body lean	right	28122	28445	end	28464	28749	start	30409	30675	left	30694	30865	end	30884	31302
+POS	Adjective	28559	28768	Discourse Marker	28882	29072	Verb	29585	29794	Noun	30143	30181	Verb	30637	30884	Adverb	31701	32354
+English translation	I was tired so I went to bed for the night.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	32677
+End frame:	36244
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	014
+main gloss	MORNING	32715	32810	GET-UP	33057	33171	|>		33475	fs-BUS	33684	33954	GET-INTO++	34223	34565	(2h)LCL:C"bus going up mountain"	34736	35059	LCL:1"trace path of bus"	35173	35553	ARRIVE	35819	35976
+non-dominant hand gloss	LCL:B-L"ground"	35173	35515
+eye aperture	start	32677	32677	blink	32696	32810	end	32829	32848	start	32924	32924	blink	32943	33057	end	33076	33133	lowered lid	33934	34489	start	35724	35724	blink	35743	35838	start	35857	35896	blink	35916	35956	end	35976	35996
+eye gaze	left	33095	33228	watch hands	33934	34470	up/left	34698	35724
+head pos: tilt fr/bk	start	32677	32753	front	32772	32810	end	32829	32905	start	33934	33994	slightly front	34014	34451	end	34470	34565	start	34660	34831	back	34850	36244
+head pos: turn	start	32981	33133	left	33152	33209	end	33228	33342	start	34774	35002	slightly left	35021	35936	end	35956	36016
+head pos: tilt side	start	32696	32734	slightly left	32753	32829	end	32848	33019	start	33247	33342	left	33361	33418	end	33437	33551	start	33994	34147	slightly left	34166	34451	end	34470	34641
+head mvmt: jut	start	32696	32753	forward	32772	32829	end	32848	32962	start	33095	33209	back	33228	33304	end	33323	33475	start	35667	35743	forward	35762	35876	end	35896	35976
+head mvmt: nod	single	35819	36244
+mouth	lips spread & crnrs down	32677	32772	brr	34109	34489	brr	34641	35916	intense	36092	36244
+body lean	start	33475	33741	right	33760	34071	start	34090	34470	left	34489	34603	start	34622	34812	back/right	34831	35059	end	35078	35477
+POS	Adverb	32715	32810	Verb	33057	33171	Noun	33684	33954	Verb	34223	34565	Classifier	34736	35059	Classifier	35173	35553	Verb	35819	35976
+nondominant POS	Classifier	35173	35515
+English translation	In the morning, we got up, got on the bus, went up the mountain and arrived at the top.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	36244
+End frame:	39709
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	014
+main gloss	SKI++	36377	36605	APPROXIMATE	36871	37137	TIME^9:00	37289	37802	TIME	38018	38132	SKI++	38322	38816	ALL-MORNING	39044	39500
+non-dominant hand gloss
+eye brows	start	39671	39709
+eye aperture	start	36548	36567	blink	36586	36624	end	36643	36719	squint	37118	37156	start	37175	37175	further lowered	37194	37517	end	37536	37593	start	37783	37783	further lowered	37802	38132	start	38151	38208	further lowered	38227	38797	start	38816	38911	closed	38930	39709
+eye gaze	up	36244	36567	up/left	36662	37061	watch hands	37194	37479	watch hands	37783	38132	down	38151	38816
+head pos: tilt fr/bk	start	36244	36358	slightly back	36377	37118	start	37137	37365	front	37384	37441	end	37460	37593
+head pos: turn	start	36605	36738	left	36757	37422	end	37441	37650	start	37802	37938	slightly left	37958	39595	end	39614	39709
+head pos: tilt side	start	37213	37346	left	37365	37745	end	37764	37958	start	38151	38303	left	38322	39709
+head pos: jut	start	38303	38341	slightly forward	38360	39367	end	39386	39576
+mouth	intense	36244	36643	lips spread & crnrs down	37213	38094	lips spread & crnrs down	38284	38778	open	38873	39595
+shoulders	start	38227	38436	down	38455	38645	end	38664	38873
+body lean	start	36909	37061	right	37080	37289	end	37308	37593	start	39025	39367	left	39386	39709
+POS	Verb	36377	36605	Adverb	36871	37137	Adverb	37289	37802	Adverb	38018	38132	Verb	38322	38816	Adverb	39044	39500
+English translation	We started skiing about 9:00 and skied all morning.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	39709
+End frame:	43712
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	014
+main gloss	NOON	40000	40077	STOP	40343	40571	"hands up"	40723	40837	EAT	41046	41236	LIGHT	41407	41673	FRUIT	42040	42135	VEGETABLE	42382	42572	DIFFERENT+++-arc	42762	43256	"hands up"	43446	43712
+non-dominant hand gloss	"hands up"	40723	40837	|>		41179
+eye brows	start	39709	39709	raised	39728	39804	end	39823	39960
+eye aperture	closed	39709	39785	end	39804	39842	start	39980	40000	further lowered	40020	40609	end	40647	40723	start	40875	40894	blink	40913	40932	end	40951	41027	start	41255	41255	further lowered	41274	41692	end	41711	41749	start	41844	41844	further lowered	41863	42534	end	42553	42572	start	42648	42686	further lowered	42705	43446	start	43465	43465	blink	43484	43560	end	43579	43712
+eye gaze	watch hands	42705	43427
+head pos: tilt fr/bk	start	39823	39980	slightly back	40000	40039	end	40058	40096	start	40153	40229	back	40248	40628	end	40647	40761
+head pos: turn	start	41350	41521	left	41540	41692	start	41711	41982	right	42002	42230	end	42249	42572	start	42895	43142	slightly right	43161	43351	right	43370	43446	start	43465	43712
+head pos: tilt side	left	39709	40096	start	40115	40514	right	40533	40837	end	40856	41008	start	43693	43712
+head pos: jut	start	40970	41217	forward	41236	41578	end	41597	41730	start	41902	42059	forward	42078	42116	end	42135	42249	start	42439	42496	forward	42515	42572	end	42591	42686	start	42819	42895	forward	42914	43389	end	43408	43560
+mouth	lips spread & crnrs down	40362	43123
+shoulders	start	42971	43161	right	43180	43579	end	43598	43712
+body lean	right	39709	39785	end	39804	39960	start	40267	40514	right	40533	40875	end	40894	41179	start	42287	42344	right	42363	42515	end	42534	42724
+POS	Adverb	40000	40077	Verb	40343	40571	Verb	41046	41236	Adjective	41407	41673	Noun	42040	42135	Noun	42382	42572	Adjective	42762	43256
+English translation	We stopped at noon for a light lunch of various fruits and vegetables.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	43712
+End frame:	46044
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	014
+main gloss	FINISH	43826	43964	|>		44099	#BACK	44327	44555	SKI	44764	44916	ALL-AFTERNOON	45144	46006
+non-dominant hand gloss
+topic/focus	focus/top1	43826	43964
+eye brows	start	43807	43864	raised	43884	44004	start	44023	44156	lowered	44175	44422	end	44441	44479	start	45828	45906	raised	45926	46044
+eye aperture	start	44631	44631	further lowered	44650	45926	start	45946	46044
+eye gaze	down	43924	44137	down	44650	44821	down	45049	45886
+head pos: turn	start	43712	43769	left	43788	44403	slightly left	44422	46044
+head pos: tilt side	start	43712	43788	right	43807	43864	start	43884	44270	slightly left	44289	46044
+head pos: jut	start	43807	43845	back	43864	44213	end	44232	44346
+head mvmt: nod	single	43826	44099
+mouth	lips spread & crnrs down	43769	43807	lips spread & crnrs down	44745	44878	open	44973	45828
+shoulders	end	43712	43769	start	44270	44384	left	44403	44574	end	44593	44726
+POS	Discourse Marker	43826	43964	Verb	44327	44555	Verb	44764	44916	Adverb	45144	46006
+English translation	Then we went back to skiing all afternoon.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	46044
+End frame:	49756
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	012
+main gloss	TIME^5:00	46272	46861	|>		46956	FINISH	47013	47355	POSS-1p	47811	47830	fs-LEGS	48008	48578	(5)WOW	48730	48825	WORN-OUT	48958	49642
+non-dominant hand gloss
+topic/focus	focus/top1	46082	46842
+eye brows	raised	46044	46652	end	46671	46861
+eye aperture	start	46044	46044	blink	46063	46139	start	46158	46177	lowered lid	46196	46348	end	46386	46386	start	46861	46880	blink	46899	47127	further lowered	47146	47260	blink	47279	47336	end	47355	47621	start	48426	48445	blink	48464	48578	end	48597	48749	start	48863	48920	closed	48939	49452	end	49471	49547	start	49737	49756
+head pos: tilt fr/bk	start	46994	47108	back	47127	47298	end	47317	47773	start	48046	48483	front	48502	49338	end	49357	49642
+head pos: turn	slightly left	46044	46234	end	46253	46443
+head pos: tilt side	slightly left	46044	46462	end	46481	46614	start	49357	49452	left	49471	49528	end	49547	49642
+mouth	open	46652	47279	lips pursed: oo	47355	48787	lips pursed: mm	48863	49471	open	49528	49756
+body lean	start	47830	47988	forward	48008	49452	end	49471	49756
+POS	Adverb	46272	46861	Verb	47013	47355	Possessive	47811	47830	Noun	48008	48578	Particle	48730	48825	Adjective	48958	49642
+English translation	At 5:00 we stopped.  My legs were so worn out!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	49756
+End frame:	51872
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	012
+main gloss	#BUS	50086	50238	GET-INTO+	50504	50751	(2h)LCL:C"bus moving"	50941	51226	ARRIVE	51473	51701
+non-dominant hand gloss
+eye aperture	closed	49756	50029	start	50048	50105	further lowered	50124	51017	end	51036	51074	start	51169	51188	further lowered	51207	51340	end	51359	51435	start	51796	51815	further lowered	51834	51872
+eye gaze	watch hands	50105	51815
+head pos: tilt fr/bk	start	51264	51397	front	51416	51701	end	51720	51872
+head pos: turn	start	50409	50523	further left	50542	50865	start	50884	51017	slightly left	51036	51872
+head pos: tilt side	start	49890	49990	right	50010	50276	start	50295	50561	left	50580	50941	end	50960	51055	start	51245	51359	further left	51378	51720	end	51739	51872
+head pos: jut	start	50314	50504	forward	50523	51739	end	51758	51872
+mouth	open	49756	49870	lips spread & crnrs down	50409	51815
+body lean	start	49890	50124	right	50143	50428	start	50447	50751	left	50770	50922	end	50941	51036	start	51416	51606	forward/left	51625	51720	end	51739	51872
+POS	Noun	50086	50238	Verb	50504	50751	Classifier	50941	51226	Verb	51473	51701
+English translation	We got onto the bus and went back to the resort.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	51872
+End frame:	56206
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	014
+main gloss	GET-OUT	52050	52240	IX-1p	52354	52411	BPCL:1"stiff legs"	52620	53760	(5)WOW	53914	54318	IX-1p	54356	54394	LIE-DOWN	54660	54736	REST	55002	55610	TIME-PASSING	55857	56092
+non-dominant hand gloss	BPCL:1"stiff legs"	52620	53760	|>		54337
+eye brows	start	56054	56149	raised	56168	56206
+eye aperture	further lowered	51872	52259	start	52278	52354	blink	52373	52411	end	52430	52506	start	52639	52658	further lowered	52677	52848	slightly lowered	52867	53152	start	53304	53323	blink	53342	53437	end	53456	53475	start	53627	53646	blink	53665	53741	end	53760	53817	start	54166	54185	further lowered	54204	55382	lowered lid	55401	55534	start	55553	55610	closed	55629	56130	end	56149	56206
+eye gaze	watch hands	51872	52259	down	52658	53760
+head pos: tilt fr/bk	start	52601	52734	front	52753	53760	end	53779	53855
+head pos: turn	end	51872	52107	start	55629	55876	left	55896	55916	end	55936	56206
+head pos: tilt side	end	51872	52050	start	55268	55439	left	55458	55936	start	55976	56073	slightly left	56092	56206
+head mvmt: nod	single	52639	52943
+mouth	open	52221	54223	raised upper lip left	54261	54679	open & crnrs down	55401	56206
+body lean	end	51872	52069	start	52848	53076	right	53095	53380	start	53399	53684	left	53703	53934	end	53954	54356	start	54508	54698	back	54717	54907	end	54926	55306
+POS	Verb	52050	52240	Pronoun	52354	52411	Classifier	52620	53760	Particle	53914	54318	Pronoun	54356	54394	Verb	54660	54736	Verb	55002	55610	Discourse Marker	55857	56092
+nondominant POS	Classifier	52620	53760
+English translation	I got out.  My legs were very stiff.  Wow. I laid down to rest and took it easy.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	56206
+End frame:	59101
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	013
+main gloss	EVENING	56339	56510	|>		56662	fs-HOTEL	56871	57099	(2h)GIVE-indef-arc	57403	57783	FREE	58341	58550	FOOD+	58702	59082
+non-dominant hand gloss
+topic/focus	focus/top1	56206	56586
+eye brows	raised	56206	56472	end	56491	56681
+eye aperture	start	56244	56263	wide	56282	56586	start	56605	56681	blink	56700	56871	start	56890	56890	lowered lid	56909	57080	start	57099	57099	further lowered	57118	57764	start	57783	57802	blink	57821	57840	end	57878	58113	start	58265	58303	squint	58322	58968	start	58987	58987	further squinted	59006	59101
+eye gaze	left	57194	57764
+head pos: tilt side	slightly left	56206	56206	start	56225	56244	left	56263	56605	end	56624	56890	start	57156	57270	slightly right	57289	57802	start	57821	58246	left	58265	58531	end	58550	58683
+head mvmt: nod	single	56472	56586
+mouth	lips spread & crnrs down	56206	56681	lips spread & crnrs down	57270	58113
+cheeks	puffed	57384	57707
+body lean	start	56358	56491	back	56510	56738	end	56757	56928	start	57498	57726	back	57745	57859	end	57878	58208
+POS	Adverb	56339	56510	Noun	56871	57099	Verb	57403	57783	Adjective	58341	58550	Noun	58702	59082
+English translation	That night the hotel served free food.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	59101
+End frame:	64042
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	012
+main gloss	DIFFERENT+	59253	59671	DCL:"extensive food on table"	59940	60894	DRINK	61255	61445	BEER	61711	61882	WINE	62230	62287	(2h)alt.EAT++	62667	63237	(2h)alt.DRINK++	63313	63904
+non-dominant hand gloss
+eye aperture	further squinted	59101	59671	blink	59690	59728	further squinted	59747	61065	end	61084	61236	start	61445	61464	lowered lid	61483	64042
+eye gaze	watch hands	59101	59671	right	59766	60590	down/left	61521	62097	down	62629	63884
+head pos: turn	start	59709	59861	right	59880	60590	end	60609	60856	start	61483	61673	left	61692	62078	end	62097	62268	start	62515	62724	right	62743	62933	end	62952	63104	start	63313	63370	left	63389	63712	start	63731	64042
+head pos: jut	start	59747	59880	slightly forward	59900	60267	end	60286	60799	start	63389	63636	forward	63655	64042
+head mvmt: jut	start	61236	61331	forward	61350	61407	end	61426	61559	start	61730	61768	forward	61787	61882	start	61902	62078	forward	62097	62249	end	62268	62401	start	62667	62819	forward	62838	63123	end	63142	63294
+mouth	cs	59234	59823	start	59861	59920	open	59940	61008	end	61027	61198
+cheeks	start	59120	59291	tensed left	59310	60628	end	60647	61008
+body lean	start	61768	62021	left	62040	62287	start	62306	62933	right	62952	63123	start	63142	63636	left	63655	63924	end	63944	64042
+POS	Adjective	59253	59671	Classifier	59940	60894	Noun	61255	61445	Noun	61711	61882	Noun	62230	62287	Verb	62667	63237	Verb	63313	63904
+English translation	There were all kinds of foods, drinks, beer, and wine.  We kept eating and drinking.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	64042
+End frame:	68654
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	016
+main gloss	FINISH	64156	64384	|>		64593	PCL:5wg"many people going"	64745	64973	DANCE	65068	65505	IX-1p	65676	65828	EXHAUSTED	66215	66614	(2h)"forget it"	67108	67279	TIME^9:30	67393	67811	GET-IN-BED	68331	68654
+non-dominant hand gloss
+topic/focus	focus/top1	67355	67735
+eye brows	start	67222	67260	raised	67279	67602	end	67621	67849
+eye aperture	lowered lid	64042	64384	slightly lowered	64403	64707	end	64726	64840	start	65410	65429	closed	65448	65619	end	65638	65714	start	65966	65966	blink	65986	66082	end	66101	66139	start	66348	66386	blink	66405	66481	end	66500	66557	start	66994	67013	blink	67032	67108	end	67146	67222	start	67792	67830	further lowered	67849	68654
+eye gaze	down/right	64175	64384	left	64688	64821	down	65986	66576	watch hands	67279	67583	watch hands	68160	68654
+head pos: tilt fr/bk	start	64232	64346	back	64365	64574	start	64593	64650	slightly back	64669	65049	start	65486	65733	front	65752	66481	end	66500	66690	start	67298	67374	front	67393	67526	end	67545	67716
+head pos: turn	start	64042	64194	right	64213	64308	end	64327	64631	start	66006	66329	right	66348	66443	end	66462	66595	start	67355	67469	right	67488	67583	end	67602	67792	start	68008	68217	left	68236	68483	end	68502	68597
+head pos: tilt side	start	66747	67051	left	67070	67317	end	67336	67545	start	68046	68160	left	68179	68483	end	68502	68654
+head pos: jut	forward	64042	64441	start	64460	64669	back	64688	65334	end	65353	65619
+head mvmt: jut	start	68084	68331	forward	68350	68483	end	68502	68597
+mouth	blow	64213	64574	brr	64707	64973	open	65429	67203	lips pursed: mm	67988	68654
+shoulders	start	65926	66348	right	66367	66557	end	66576	66766	start	68236	68426	left	68445	68502	end	68521	68654
+body lean	end	64042	64156	start	65986	66234	back/right	66272	66595	end	66614	67032	start	67393	67469	back	67488	67830	end	67849	68008	start	68236	68369	forward/left	68388	68654
+POS	Discourse Marker	64156	64384	Classifier	64745	64973	Verb	65068	65505	Pronoun	65676	65828	Adjective	66215	66614	Adverb	67393	67811	Verb	68331	68654
+English translation	Then everyone went to dance.  I was so exhausted.  At 9:30 I went to bed.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	68654
+End frame:	71992
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	012
+main gloss	SLEEP	68996	69053	ALL-NIGHT	69262	70143	MORNING	70181	70675	DIFFERENT++-arc	71207	71530	GROUP++-arc	71644	71952
+non-dominant hand gloss
+eye brows	start	70542	70656	raised	70675	70827	end	70846	70998
+eye aperture	further lowered	68654	69034	end	69053	69186	start	69262	69262	further lowered	69281	70599	start	70618	70618	blink	70637	70713	start	70732	70789	further lowered	70808	71992
+eye gaze	watch hands	68654	69034	left	70447	70542	watch hands	70998	71473
+head pos: tilt fr/bk	start	69262	69471	front	69490	69813	start	69832	70181	back	70200	71912	end	71932	71992
+head pos: turn	start	68749	68996	right	69015	69091	start	69110	69604	further left	69623	69950	end	69970	70143	start	70447	70561	slightly left	70580	71036	left	71055	71207	start	71226	71663	slightly right	71682	71796	end	71815	71992
+head mvmt: jut	start	69376	69775	forward	69794	70010	end	70029	70200
+mouth	lips pursed: mm	68654	70086	start	70675	70770	open	70789	70941	end	70960	71017	lips spread & crnrs down	71473	71992
+shoulders	start	69604	69775	right	69794	69970	end	69990	70162
+POS	Verb	68996	69053	Adverb	69262	70143	Adverb	70181	70675	Adjective	71207	71530	Noun	71644	71952
+English translation	I slept all night.  In the morning there were various groups.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	71992
+End frame:	77441
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	013
+main gloss	SOME	72240	72316	DCL:"group going together":i	72468	72791	SLED+	73095	73323	SOME	73418	73570	DCL:"group going together":j	73722	73934	ICE-SKATE	74717	75154	SOME	75325	75420	DCL:"group going together":k	75477	75648	fs-ICE	75857	76130	FISHING++	76339	77023
+non-dominant hand gloss
+eye aperture	further lowered	71992	72981	end	73000	73038	start	73285	73285	blink	73304	73323	start	73342	73399	further lowered	73418	73513	end	73532	73551	start	75002	75040	further lowered	75059	75648	end	75667	75724	start	76529	76567	further lowered	76586	77441
+eye gaze	left	72031	72886	right	73475	74014	down	76605	77441
+head pos: tilt fr/bk	start	76624	76909	front	76928	76985	end	77004	77441
+head pos: turn	start	72012	72221	further left	72240	72848	end	72867	73114	start	73380	73570	further right	73589	73954	end	73974	74261	start	75154	75363	slightly left	75382	75572	end	75591	75648
+head pos: tilt side	start	76073	76187	slightly left	76206	76871	end	76890	77270
+head mvmt: jut	start	72354	72601	forward	72620	72677	end	72696	72829	start	73266	73456	forward	73475	73817	end	73836	73974	start	74603	74831	forward	74850	74964	end	74983	75230	start	76700	76776	forward	76795	77023	end	77042	77289
+mouth	lips spread & crnrs down	72335	72924	open & crnrs down	73038	73342	lips spread & crnrs down	73570	74451	intense	74717	75363	brr	75458	75743	lips spread & crnrs down	77327	77441
+cheeks	puffed	75458	75667
+shoulders	start	72221	72487	left	72506	72886	end	72905	73285	start	73551	73741	right	73760	73994	end	74014	74394
+POS	Quantifier	72240	72316	Classifier	72468	72791	Verb	73095	73323	Quantifier	73418	73570	Classifier	73722	73934	Verb	74717	75154	Quantifier	75325	75420	Classifier	75477	75648	Adjective	75857	76130	Verb	76339	77023
+English translation	Some people went sledding, some went ice skating, and some went ice fishing.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	77441
+End frame:	83332
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	016
+main gloss	ALL-MORNING	77631	78455	NOONISH	78873	79082	(2h)alt.PACK+++	79405	80495	fs-LIMO	80685	81293	(2h)LCL:C"limo moving"	81445	81673	GET-IN	81882	82173	(2h)LCL:C"limo moving"	82382	82724	ARRIVE	83066	83275
+non-dominant hand gloss
+eye brows	start	78588	78626	raised	78645	78721	end	78740	79025
+eye aperture	further lowered	77441	77918	end	77938	77978	slightly squinted	79025	79063	start	79082	79082	closed	79101	79424	start	79443	79443	further lowered	79462	79940	blink	79960	80039	end	80058	80077	start	80191	80229	further lowered	80248	83218	start	83237	83256	blink	83275	83332
+eye gaze	down	77441	77978	up	78132	78265	up/left	78607	79044	down	79120	80000	down	81236	81483	right	81502	82002	up/left	82325	83218
+head pos: tilt fr/bk	end	77441	77460	start	78113	78227	slightly back	78246	78436	end	78455	78531	start	81540	81654	back	81673	81902	start	81922	82097	further back 	82116	82762	start	82800	83066	back	83085	83332
+head pos: turn	start	77555	77631	slightly left	77650	78284	end	78303	78474	start	78968	79063	left	79082	79728	end	79747	79940	start	80647	81198	slightly right	81217	81521	right	81540	81902	end	81922	82097
+head pos: tilt side	start	78455	78474	slightly right	78493	78626	start	78645	78835	right	78854	79025	start	79044	79310	left	79329	79557	end	79576	79747	start	81217	81407	left	81426	81540	end	81559	81654
+head pos: jut	start	77498	77593	slightly forward	77612	77802	end	77821	78075	start	79272	79424	forward	79443	79747	end	79766	79960	start	81942	82059	back	82078	82800	end	82819	83161
+head mvmt: jut	start	80780	80932	back	80951	81255	start	81274	81464	forward	81483	81521	end	81540	81654	start	81768	81882	forward	81902	81922	end	81942	82059
+head mvmt: nod	single	78417	78607
+mouth	lips spread & crnrs down	77441	77441	open & crnrs down	77631	78018	lips spread & crnrs down	78873	79405	lips spread & crnrs down	80419	80590	cs	82021	82211	brr	82344	83199
+shoulders	start	79481	79576	left	79595	79785	end	79804	79940
+body lean	start	77631	77783	back	77802	78094	end	78113	78265	start	78740	78968	right	78987	79063	start	79082	79595	forward/left	79614	79747	end	79766	80000
+POS	Adverb	77631	78455	Adverb	78873	79082	Verb	79405	80495	Noun	80685	81293	Classifier	81445	81673	Verb	81882	82173	Classifier	82382	82724	Verb	83066	83275
+English translation	That was in the morning.  Around noon, we packed.  The limo came, I got in and went back (to the airport).
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	83332
+End frame:	86823
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	015
+main gloss	AIRPLANE	83465	83598	SCL:I-L-Y"airplane take-off^fly"	83984	84783	SCL:I-L-Y"airplane lands"	84802	85144	ARRIVE	85543	85657	TIME^7:45	85866	86823
+non-dominant hand gloss	LCL:B-L"platform"	83984	84574	LCL:B-L(palm up)"platform"	84802	85144
+eye aperture	blink	83332	83351	further lowered	83370	83503	blink	83522	83579	end	83598	83655	start	84593	84612	further lowered	84631	85429	start	85448	85448	blink	85467	85524	start	85543	85543	squint	85562	86823
+eye gaze	up/right	83389	83503	up	83674	84574	down	84631	85087	left	85106	85429
+head pos: tilt fr/bk	back	83332	84004	start	84023	84194	further back 	84213	84346	back	84365	84783	end	84802	85011
+head pos: turn	start	83924	84042	slightly left	84061	84156	end	84175	84270	start	84707	84802	slightly left	84821	84916	start	84935	85068	left	85087	85448	end	85467	85657
+head pos: tilt side	start	84688	84897	left	84916	85030	end	85049	85182
+head pos: jut
+head mvmt: nod	single	84802	85144	single	86500	86728
+head mvmt: jut	start	83750	84061	forward	84080	84156	end	84175	84213	start	84840	85011	forward	85030	85068	end	85087	85201	start	86557	86595	forward	86614	86633	end	86652	86823
+mouth	brr	83712	85049
+cheeks	puffed	84004	84688	puffed	84916	85087
+POS	Noun	83465	83598	Classifier	83984	84783	Classifier	84802	85144	Verb	85543	85657	Adverb	85866	86823
+nondominant POS	Classifier	83984	85144
+English translation	The airplane took off.  It landed at 7:45.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Trip.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	86823
+End frame:	92352
+Number of participant panes:	1
+Participant:	Marlon Kuntze
+Number of fields:	012
+main gloss	ARRIVE	87184	87374	HOME	87621	87792	APPROXIMATE	87908	88179	8:00	88388	88673	WOW	89300	89547	WONDERFUL	89832	90105	WEEKEND	90295	90675	!#FUN!	91150	91568
+non-dominant hand gloss
+eye aperture	squint	86823	86956	start	86975	86975	lowered lid	86994	88198	end	88217	88255	start	88863	88882	blink	88901	89072	lowered lid	89091	89395	blink	89414	89433	end	89452	89547	start	89737	89775	further lowered	89794	89890	lowered lid	89910	90067	further lowered	90086	90143	end	90162	90314	start	90808	90846	closed	90865	91511	end	91530	91549
+eye gaze	left	87184	87507	down/right	87888	88122	down/right	89072	89395	down	89794	90143
+head pos: tilt fr/bk	start	87203	87317	front	87336	87355	end	87374	87754
+head pos: turn	start	87773	87928	slightly right	87948	88388	end	88407	88597	start	88882	89034	right	89053	89433	end	89452	89661	start	90979	91226	slightly right	91245	91359	end	91378	91511	start	91682	91912	right	91932	92012	end	92031	92202
+head pos: tilt side	start	86918	87203	right	87222	88179	end	88198	88464	start	88882	89072	further left	89091	89376	end	89395	89661	start	89699	89890	further left	89910	89930	end	89950	90295	start	90846	91245	further left	91264	91378	end	91397	91530	start	91720	91932	left	91952	92031	end	92050	92183
+head mvmt: nod	single	87184	87374	single	89794	90124
+head mvmt: jut	start	87184	87298	forward	87317	87355	end	87374	87754	start	88901	89034	forward	89053	89167	end	89186	89642	start	89832	89851	forward	89870	89910	end	89930	90105	start	91131	91264	forward	91283	91454	end	91473	91625
+mouth	lips spread & crnrs down	87849	88179	lips pursed: oo-tight	88844	89433
+POS	Verb	87184	87374	Noun	87621	87792	Adverb	87908	88179	Adverb	88388	88673	Particle	89300	89547	Adjective	89832	90105	Noun	90295	90675	Adjective	91150	91568
+English translation	I arrived home about 8:00. Wow! What a wonderful weekend.  It was so fun!
+Notes - number of character bytes:	0

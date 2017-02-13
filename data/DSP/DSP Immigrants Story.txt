@@ -1,0 +1,755 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	DSP Immigrants Story	SignStream Databases v.2:DSP Immigrants Story
+Number of utterances:	25
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	280
+End frame:	2800
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	013
+main gloss	POSS-1p+	740	840	FAMILY	1060	1360	(2h)alt.FORMERLY	1500	1860	CONFLICT+	2100	2420	|>		2480
+non-dominant hand gloss
+topic/focus	focus/top1	340	1400
+eye brows	start	340	440	raised	460	1680	start	1700	1900	lowered	1920	2440	start	2460	2620	raised	2640	2800
+eye aperture	blink	1380	1380	squint	1860	1960	blink	2600	2600
+head pos: tilt fr/bk	start	320	560	slightly back	580	760	end	780	940	start	1860	1960	front	1980	2500	start	2520	2800
+head pos: turn	start	2060	2160	slightly left	2180	2520	end	2540	2680
+head pos: tilt side	start	2260	2520	right	2540	2800
+head mvmt: nod	single	1320	1400	end	1420	1520
+shoulders	start	2180	2320	slightly left	2340	2520	start	2540	2800
+body lean	start	1580	1720	slightly back	1740	1840	end	1860	1960
+POS	Possessive	740	840	Noun	1060	1360	Adverb	1500	1860	Adjective	2100	2420
+English translation	I am of mixed heritage.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	2800
+End frame:	4960
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	014
+main gloss	POSS-1p	2960	2980	MOTHER	3180	3240	POSS-3p:i	3560	3660	GRANDFATHER	3940	4040	IX-3p:j	4120	4280	ns-(I)ITALY	4540	4800
+non-dominant hand gloss	IX-3p:i	3360	3460	|>		4960
+topic/focus	focus/top1	2800	4280
+eye brows	raised	2800	4240	start	4260	4360	slightly lowered	4380	4720	start	4740	4900	raised	4920	4960
+eye aperture	start	4060	4080	wide	4100	4240	start	4260	4280	lowered lid	4300	4340	end	4360	4360	lowered lid	4880	4960
+eye gaze	right	3200	3380	up	4080	4220
+head pos: tilt fr/bk	start	2800	2800	back	2820	3440	end	3460	3720	start	3800	3920	front	3940	4040	end	4060	4200	start	4320	4560	front	4580	4780	start	4800	4960
+head pos: turn	start	3240	3280	slightly right	3300	3380	end	3400	3560	start	3840	3940	right	3960	4040	end	4060	4240
+head pos: tilt side	right	2800	3780	start	3800	3900	further right	3920	4080	start	4100	4220	slightly right	4240	4960
+shoulders	start	2800	2840	slightly right	2860	4160	end	4180	4340
+body lean	start	4200	4620	right	4640	4960
+POS	Possessive	2960	2980	Noun	3180	3240	Possessive	3560	3660	Noun	3940	4040	Pronoun	4120	4280	Adjective	4540	4800
+Non-dominant POS	Pronoun	3360	3460
+English translation	My mother's grandfather was Italian.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	4960
+End frame:	6320
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	013
+main gloss	GRANDMOTHER	5080	5200	IX-3p:x	5320	5440	ns-YUGOSLAVIA	5820	6200
+non-dominant hand gloss	IX-3p:i	4960	4960	|>		6320
+topic/focus	focus/top1	4960	5440
+eye brows	raised	4960	5380	start	5400	5580	lowered	5600	6180	start	6200	6320
+eye aperture	lowered lid	4960	5180	start	5200	5220	wide	5240	5400	start	5420	5500	squint	5520	6220	start	6240	6320
+eye gaze	up	5200	5380
+head pos: tilt fr/bk	start	4960	4960	back	4980	5440	end	5460	5600	start	6200	6320
+head pos: tilt side	slightly right	4960	6320
+head mvmt: nod	slight single head nod	6060	6180	end	6200	6260
+body lean	right	4960	5320	end	5340	5480
+POS	Noun	5080	5200	Pronoun	5320	5440	Adjective	5820	6200
+Non-dominant POS
+English translation	Her grandmother was Yugoslavian.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	6320
+End frame:	7200
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	013
+main gloss	IX-3p-pl-2:j/x	6500	6640	MARRY	6820	7040	|>		7140
+non-dominant hand gloss
+topic/focus	focus/top1	6440	6640
+eye brows	start	6320	6340	raised	6360	6580	end	6600	6720	start	7160	7200
+eye aperture	start	6320	6320	wide	6340	6520	end	6540	6640	start	7160	7160	further lowered	7180	7200
+eye gaze	down/right	7140	7180	watch hands	7200	7200
+head pos: tilt fr/bk	start	6320	6420	slightly back	6440	6580	end	6600	6680	start	7140	7200
+head pos: turn	start	6700	6780	slightly left	6800	7140	end	7160	7200
+head pos: tilt side	slightly right	6320	7200
+head mvmt: nod	single	6900	7140	end	7160	7200
+POS	Pronoun	6500	6640	Verb	6820	7040
+Non-dominant POS
+English translation	They married.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	7200
+End frame:	8380
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	011
+main gloss	BORN	7340	7480	TWO	7620	7660	(1h)CHILDREN	7820	8180
+non-dominant hand gloss
+topic/focus	focus/top1	7260	7460
+eye brows	start	7200	7280	raised	7300	7420	end	7440	7560	start	8280	8320	raised	8340	8380
+eye aperture	further lowered	7200	7460	end	7480	7520	blink	8340	8340
+eye gaze	watch hands	7200	7440	down/right	8320	8340
+head pos: tilt fr/bk	start	7200	7280	slightly back	7300	7420	end	7440	7500	start	7860	8120	front	8140	8300	start	8320	8380
+head pos: tilt side	slightly right	7200	8380
+head mvmt: nod	end	7200	7260
+POS	Verb	7340	7480	Number	7620	7660	Noun	7820	8180
+English translation	They had two children.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	8380
+End frame:	10900
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	013
+main gloss	GRANDFATHER:j	8620	8820	IX-3p:j	8900	9040	GO-OFF-TO	9340	9440	BUSINESS	9640	9800	ns-SOUTH+AFRICA	9960	10540
+non-dominant hand gloss
+topic/focus	focus/top1	8460	9040
+eye brows	raised	8380	9020	end	9040	9220	start	10700	10820	raised	10840	10900
+eye aperture	start	9060	9100	squint	9120	9140	start	9160	9160	blink	9180	9180	start	9200	9200	squint	9220	9680	end	9700	9700	start	10720	10740	blink	10760	10760	end	10780	10780
+eye gaze	up	8820	8940	right	10760	10900
+mouth	raised upper lip	8460	9140
+head pos: tilt fr/bk	start	8380	8460	back	8480	8780	start	8800	8820	further back	8840	9040	end	9060	9160	start	10680	10900
+head pos: turn	start	10700	10900
+head pos: tilt side	slightly right	8380	10760	end	10780	10900
+head mvmt: nod	end	8380	8380	single	9100	9200	single	9360	9440	slight rapid head nod	9620	10120	single	10280	10660
+POS	Noun	8620	8820	Pronoun	8900	9040	Verb	9340	9440	Noun	9640	9800	Proper Noun	9960	10540
+English translation	Great grandfather went to South Africa on business.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	10900
+End frame:	12560
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	014
+main gloss	GOING-ALONG	11040	11300	WRONG	11520	11580	LOSE	11760	11860	|>		11920	DISSOLVE	12100	12340	|>		12480
+non-dominant hand gloss	GOING-ALONG	11040	11300	|>		11600	part:indef	12380	12480
+eye brows	raised	10900	11020	start	11040	11120	slightly lowered	11140	11380	lowered	11400	11920	end	11940	12020	start	12420	12500	raised	12520	12560
+eye aperture	start	11060	11120	squint	11140	11340	end	11360	11420	start	12420	12460	blink	12480	12480	end	12500	12500
+eye gaze	right	10900	11340	right	11900	12120
+nose	tense	11180	11380
+head pos: tilt fr/bk	start	10900	10920	back	10940	11020	end	11040	11320	start	12440	12560
+head pos: turn	start	10900	11000	right	11020	11340	end	11360	11440	start	11620	11680	left	11700	11800	start	11820	11960	right	11980	12080	start	12100	12200	left	12220	12380	end	12400	12520
+head pos: tilt side	end	10900	11020	start	12440	12480	slightly right	12500	12560
+head mvmt: shake	slight rapid head shake	11080	11360
+shoulders	start	11020	11180	slightly right	11200	12560
+POS	Discourse Marker	11040	11300	Adverb	11520	11580	Verb	11760	11860	Verb	12100	12340
+Non-dominant POS	Particle	12380	12480
+English translation	Something went wrong and he got lost or disappeared.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	12560
+End frame:	15460
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	013
+main gloss	ns-YUGOSLAVIA	13020	13300	CONFUSE	13600	13960	WAR	14120	14540	MONEY	14680	14840	B:(2h)DECREASE-IN-VALUE	15060	15380
+non-dominant hand gloss
+topic/focus	focus/top1	12660	13320
+eye brows	raised	12560	13220	start	13240	13460	lowered	13480	15360	start	15380	15460
+eye aperture	start	13340	13460	squint	13480	14500	end	14520	14540	start	15400	15400	blink	15420	15420	end	15460	15460
+mouth	lips spread & crnrs down	13640	13840
+head pos: tilt fr/bk	start	12560	12660	further back	12680	13100	start	13120	13340	slightly front	13360	14840	start	14860	15100	front	15120	15360	start	15380	15460
+head pos: jut	start	13400	13540	back	13560	13780	end	13800	13900
+head pos: tilt side	slightly right	12560	13540	end	13560	13880	start	15420	15460
+head mvmt: shake	start	14940	14980	slight single head shake	15000	15360
+shoulders	slightly right	12560	12600	end	12620	12900
+POS	Proper Noun	13020	13300	Adjective	13600	13960	Noun	14120	14540	Noun	14680	14840	Verb	15060	15380
+English translation	Life in Yugoslavia was difficult due to the war and depression.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	15460
+End frame:	17860
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	013
+main gloss	GRANDMOTHER	15700	15860	IX-3p:x	15920	15940	TWO	16040	16140	(1h)CHILDREN	16220	16440	DECIDE	16780	16920	MOVE-AWAY-TO	17100	17220	ns-AMERICA	17400	17660
+non-dominant hand gloss
+topic/focus	focus/top1	15500	16440
+eye brows	start	15460	15500	raised	15520	16120	start	16140	16380	lowered	16400	17640	start	17660	17760	slightly raised	17780	17860
+eye aperture	start	16360	16360	further lowered	16380	16560	start	16580	16580	blink	16600	16600	end	16620	16620	start	17680	17700	further lowered	17720	17860
+eye gaze	up	15700	15880	down	16400	16580	down/right	17740	17860
+head pos: tilt fr/bk	start	15460	15560	back	15580	15980	end	16000	16300	start	16380	16420	slightly front	16440	16560	end	16580	16620	start	17340	17500	front	17520	17680	end	17700	17780
+head pos: turn	start	16420	16460	further left	16480	16540	end	16560	16620	start	17700	17780	right	17800	17860
+head pos: tilt side	start	15460	15460	slightly right	15500	16340	end	16360	16460
+nose	start	16320	16440	wrinkle	16460	16880	end	16900	16940
+mouth	start	16200	16320	raised upper lip	16340	16540	end	16560	16600
+POS	Noun	15700	15860	Pronoun	15920	15940	Number	16040	16140	Noun	16220	16440	Verb	16780	16920	Verb	17100	17220	Proper Noun	17400	17660
+English translation	Great grandmother and the two children decided to move to America.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	17860
+End frame:	19480
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	011
+main gloss	ARRIVE	18040	18260	PCL:5"people traveling"	18520	18580	SETTLE-DOWN	18780	18940	CALIFORNIA	19160	19380
+non-dominant hand gloss	SETTLE-DOWN	18780	18940	|>		19400
+eye brows	slightly raised	17860	18080	end	18100	18160	start	18360	18400	slightly raised	18420	18620	end	18640	18720	start	19380	19480
+eye aperture	further lowered	17860	18160	end	18180	18320	start	18360	18400	lowered lid	18420	18600	end	18620	18660	start	19420	19420	lowered lid	19440	19480
+eye gaze	down/right	17860	18180	watch hands	18200	18280	down/right	18420	18600	down/right	19440	19480
+head pos: tilt fr/bk	start	19420	19480
+head pos: turn	right	17860	18060	start	18080	18100	slightly right	18120	18320	start	18340	18400	right	18420	18540	start	18560	18740	slightly left	18760	19380	end	19400	19480
+head pos: jut	start	18320	18400	forward	18420	18580	end	18600	18680
+head mvmt: nod	single	18000	18260
+POS	Verb	18040	18260	Classifier	18520	18580	Verb	18780	18940	Proper Noun	19160	19380
+English translation	They arrived in America and eventually settled in California.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	19480
+End frame:	20800
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	012
+main gloss	MEET	19680	19880	SECOND	20080	20140	HUSBAND	20360	20660
+non-dominant hand gloss	MEET	19680	19880	|>		20140
+topic/focus	focus/top1	19640	19800
+eye brows	raised	19480	19760	end	19780	19900	start	20660	20720	raised	20740	20800
+eye aperture	lowered lid	19480	19860	end	19880	19880	start	20680	20740	lowered lid	20760	20800
+eye gaze	down/right	19480	19860	watch hands	20720	20800
+head pos: tilt fr/bk	start	19480	19600	slightly back	19620	19780	end	19800	19840	start	20640	20760	slightly back	20780	20800
+head pos: tilt side	start	19780	19880	slightly right	19900	20800
+head mvmt: nod	single	20080	20640	end	20660	20800
+mouth	lips spread & crnrs down	20580	20800
+POS	Verb	19680	19880	Adjective	20080	20140	Noun	20360	20660
+English translation	She met her second husband.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	20800
+End frame:	21860
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	013
+main gloss	BORN	20880	21000	TWO	21120	21160	(1h)CHILDREN	21280	21640	|>		21860
+non-dominant hand gloss
+topic/focus	top2	20800	20940
+eye brows	raised	20800	20880	end	20900	21000	start	21700	21760	raised	21780	21860
+eye aperture	lowered lid	20800	20980	end	21000	21020	start	21760	21760	blink	21780	21780	start	21800	21800	slightly lowered	21820	21860
+eye gaze	watch hands	20800	20980	right	21780	21860
+head pos: tilt fr/bk	slightly back	20800	20900	start	21740	21860
+head pos: turn	start	21040	21120	slightly left	21140	21620	start	21640	21780	right	21800	21860
+head pos: tilt side	slightly right	20800	21860
+head mvmt: nod	end	20800	20800	single	20920	20980	end	21000	21040
+mouth	lips spread & crnrs down	20800	20920
+POS	Verb	20880	21000	Number	21120	21160	Noun	21280	21640
+English translation	They had two children.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	21860
+End frame:	23860
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	015
+main gloss	POSS-1p	22140	22160	MOTHER	22420	22500	POSS-3p:i	22720	22760	MOTHER	22980	23060	IX-3p:z	23220	23240	IX-SECOND-IN-LIST	23400	23460	|>		23740
+non-dominant hand gloss	IX-3p:i	22420	22500	|>		23200	4:list marker"4"	23300	23840
+topic/focus	focus/top1	21860	23080
+eye brows	raised	21860	23080	end	23100	23160	start	23680	23800	raised	23820	23860
+eye aperture	slightly lowered	21860	22760	end	22780	23000	start	23200	23200	further lowered	23220	23340	end	23360	23420
+eye gaze	right	21860	22060	up/right	22520	22700	watch hands	23200	23360
+head pos: tilt fr/bk	start	21860	21980	back	22000	22500	start	22520	22640	further back	22660	22840	end	22860	23040	start	23160	23280	slightly front	23300	23680	start	23700	23860
+head pos: turn	right	21860	23320	end	23340	23440
+head pos: tilt side	slightly right	21860	23260	end	23280	23420	start	23700	23720	slightly right	23740	23860
+head mvmt: nod	end	21860	21860	slight single head nod	22360	22500	single	22920	23080
+mouth	intense	23140	23160
+body lean	start	22520	22640	slightly back	22660	22840	end	22860	23060
+POS	Possessive	22140	22160	Noun	22420	22500	Possessive	22720	22760	Noun	22980	23060	Pronoun	23220	23240	Adjective	23400	23460
+Non-dominant POS	Pronoun	22420	22500
+English translation	My maternal grandmother was the second oldest of four children.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	23860
+End frame:	26500
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	012
+main gloss	GROW-UP	24140	24460	MEET	24540	24780	BOY	25000	25080	IX-3p:w	25240	25300	FROM	25600	25680	ns-YUGOSLAVIA	25860	26180	|>		26300
+non-dominant hand gloss	MEET	24540	24780	|>		25400	FROM	25600	25680	|>		26040
+eye brows	raised	23860	23920	start	23940	23940	slightly raised	23960	24380	start	24400	24400	raised	24420	24460	end	24480	24560	start	24760	24840	raised	24860	25260	start	25280	25360	lowered	25380	26360	start	26380	26500
+eye aperture	start	23900	23900	further lowered	23920	24420	end	24440	24540	start	25300	25300	further lowered	25320	25340	end	25360	25400	start	26380	26380	blink	26400	26420	lowered lid	26440	26500
+eye gaze	right	25100	25320	right	26420	26500
+head pos: tilt fr/bk	start	23860	23900	back	23920	23940	end	23960	24080	start	24400	24440	slightly back	24460	24480	end	24500	24680	start	25300	25420	front	25440	25620	end	25640	25700	start	26380	26500
+head pos: turn	start	23920	24020	slightly right	24040	24400	start	24420	24600	slightly left	24620	24780	start	24800	25020	slightly right	25040	25360	start	25380	25600	slightly left	25620	26260	start	26280	26420	slightly right	26440	26500
+head pos: tilt side	slightly right	23860	24800	start	24820	25060	right	25080	26380	start	26400	26500
+head mvmt: nod	single	25800	26360	end	26380	26440
+mouth	tongue mvmt lateral	23920	24480
+POS	Verb	24140	24460	Verb	24540	24780	Noun	25000	25080	Pronoun	25240	25300	Preposition	25600	25680	Proper Noun	25860	26180
+English translation	She grew-up and met a guy who was from Yugoslavia.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	26500
+End frame:	27800
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	012
+main gloss	IX-3p-pl-2:z/w	26720	26780	MARRY	27060	27300	|>		27560
+non-dominant hand gloss
+eye brows	start	26500	26520	raised	26540	26620	start	26640	26700	slightly raised	26720	27140	end	27160	27240
+eye aperture	lowered lid	26500	26660	further lowered	26680	26860	lowered lid	26880	27200	end	27220	27220	start	27500	27500	further lowered	27520	27800
+eye gaze	right	26500	26840	down/right	27580	27680	watch hands	27700	27800
+head pos: tilt fr/bk	start	26500	26540	back	26560	26960	end	26980	27080	start	27480	27660	slightly back	27680	27780
+head pos: turn	slightly right	26500	26800	start	26820	27020	slightly left	27040	27240	end	27260	27520
+head pos: tilt side	slightly right	26500	27800
+head mvmt: nod	single	27080	27480	single	27780	27800
+body lean	start	26500	26640	slightly back	26660	26960	end	26980	27180
+POS	Pronoun	26720	26780	Verb	27060	27300
+English translation	The two of them married.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	27800
+End frame:	30260
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	012
+main gloss	BORN	27880	28000	POSS-1p	28240	28260	MOTHER	28480	28580	AUNT	28860	29020	UNCLE	29300	29480	"topic change"(side)	29860	30100
+non-dominant hand gloss
+eye brows	start	27980	28080	raised	28100	29720	end	29740	29920	start	30140	30260
+eye aperture	further lowered	27800	28000	end	28020	28060	start	29540	29540	blink	29560	29580	lowered lid	29600	29720	end	29740	29780	start	30180	30200	blink	30220	30220	start	30240	30260
+eye gaze	watch hands	27800	27980	down/right	29640	29720	down/left	30180	30260
+head pos: tilt fr/bk	slightly back	29600	29720	start	29740	29900	slightly front	29920	30180	start	30200	30260
+head pos: turn	start	28060	28240	slightly left	28260	29460	end	29480	29680	start	29920	29980	slightly left	30000	30200	start	30220	30260
+head pos: tilt side	slightly right	27800	30120	start	30140	30260
+head mvmt: nod	single	27800	27960	end	27980	28040	single	28360	28540	single	28780	28980	single	29180	29520
+body lean	start	28520	28840	right	28860	29560	start	29580	29820	left	29840	29960	end	29980	30080
+POS	Verb	27880	28000	Possessive	28240	28260	Noun	28480	28580	Noun	28860	29020	Noun	29300	29480	Discourse Marker	29860	30100
+English translation	Then my mother, aunt, and uncle were born.  That is all for that side of the family.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	30260
+End frame:	33560
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	014
+main gloss	POSS-1p	30400	30420	FATHERwg	30740	30900	IX-3p:v	31100	31240	(2h)alt.FORMERLY	31500	31960	ns-GERMANY	32220	32440	ns-SCOTLAND	32800	33160
+non-dominant hand gloss
+topic/focus	focus/top1	30260	30920
+eye brows	start	30260	30260	raised	30280	31860	end	31880	31960	start	32500	32560	slightly raised	32580	32800	end	32820	33140	start	33200	33320	raised	33340	33560
+eye aperture	lowered lid	30260	30400	end	30420	30460	start	30960	30980	lowered lid	31000	31280	further lowered	31300	31880	blink	31900	31920	further lowered	31940	32100	end	32120	32240	start	33280	33280	further lowered	33300	33560
+eye gaze	down/left	30260	30400	down/left	30960	31140	up/left	31420	31800	down/left	33300	33560
+head pos: tilt fr/bk	start	30260	30440	slightly back	30460	30540	end	30560	30680	start	31220	31500	further back	31520	31840	end	31860	31940	start	33260	33400	back	33420	33560
+head pos: turn	left	30260	30380	slightly left	30400	30920	start	30940	31020	left	31040	31120	end	31140	31280	start	32460	32580	slightly left	32600	32660	end	32680	32800	start	33320	33400	slightly left	33420	33500	end	33520	33560
+head pos: tilt side	start	30260	30440	slightly left	30460	33560
+head mvmt: nod	single	30700	30900	slight single head nod	31060	31120	single	32120	32440	end	32460	32640	single	32860	33240	end	33260	33340
+mouth	open	31280	31860	open	33400	33560
+shoulders	start	30360	30740	left	30760	33560
+POS	Possessive	30400	30420	Noun	30740	30900	Pronoun	31100	31240	Adverb	31500	31960	Proper Noun	32220	32440	Proper Noun	32800	33160
+English translation	My father is of German and Scottish heritage.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	33560
+End frame:	35020
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	014
+main gloss	POSS-1p	33560	33560	FATHER	33800	33820	IX-3p:v	33960	34000	BORN	34220	34360	IN	34480	34520	ns-AMERICA	34740	34880
+non-dominant hand gloss
+topic/focus	focus/top1	33560	33820
+eye brows	raised	33560	33820	end	33840	34020	start	34740	34800	slightly raised	34820	34900	end	34920	34960
+eye aperture	further lowered	33560	33580	end	33600	33680	start	33980	34000	blink	34020	34020	end	34040	34100	start	34920	34940	squint	34960	35020
+eye gaze	down/left	33560	33560	down/right	34940	35020
+head pos: tilt fr/bk	back	33560	33740	end	33760	33820	front	34740	34940	end	34960	35020
+head pos: turn	end	33560	33600	start	34920	34960	slightly right	34980	35020
+head pos: tilt side	slightly left	33560	34720	end	34740	34820
+head mvmt: nod	slight rapid head nod	33980	34740
+mouth	lips spread & crnrs down	34040	34200	lips spread & crnrs down	35000	35020
+shoulders	left	33560	35020
+POS	Possessive	33560	33560	Noun	33800	33820	Pronoun	33960	34000	Verb	34220	34360	Preposition	34480	34520	Proper Noun	34740	34880
+English translation	My father was born in America...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	35020
+End frame:	36300
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	014
+main gloss	IX-loc:rt	35220	35240	ns-NORTH-CAROLINA	35420	35660	IX-loc:rt	35900	36100
+non-dominant hand gloss
+eye brows	start	36020	36060	raised	36080	36300
+eye aperture	squint	35020	35100	end	35120	35160	start	36020	36020	blink	36040	36040	end	36060	36100
+eye gaze	down/right	35020	35120
+head pos: tilt fr/bk	start	35360	35540	slightly front	35560	35740	start	36000	36260	back	36280	36300
+head pos: turn	slightly right	35020	35020	end	35040	35200
+head pos: tilt side	start	35040	35120	slightly right	35140	36300
+head mvmt: nod	single	35740	35980
+mouth	lips spread & crnrs down	35020	35300
+shoulders	left	35020	35180	end	35200	35420
+body lean	start	35200	35600	forward/left	35620	36300
+POS	Adverb	35220	35240	Proper Noun	35420	35660	Adverb	35900	36100
+English translation	...in North Carolina.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	36300
+End frame:	39700
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	016
+main gloss	OVER/AFTER	36660	36720	WAR	36940	37060	TWO	37260	37460	OPEN	38320	38420	WORK	38600	38820	(2h)alt.HIRE++	39040	39440
+non-dominant hand gloss	IX-loc:k	37700	37820	ns-CALIFORNIA	38040	38140	(2h)alt.HIRE++	39040	39440	|>		39700
+topic/focus	sentence-initial adverb	36500	37460	focus/top1	37700	38140
+eye brows	raised	36300	37220	start	37240	37260	slightly raised	37280	37540	start	37560	37640	raised	37660	38120	start	38140	38200	slightly lowered	38220	39380	start	39400	39460	slightly raised	39480	39700
+eye aperture	start	36480	36480	lowered lid	36500	36960	end	36980	37060	start	37520	37540	lowered lid	37560	37820	end	37840	37880	start	39400	39400	lowered lid	39420	39700
+eye gaze	down/left	37520	37820	down/right	39420	39460	right	39480	39700
+head pos: tilt fr/bk	back	36300	36880	start	36900	37060	start	39440	39600	slightly back	39620	39700
+head pos: turn	start	37060	37640	left	37660	37780	end	37800	37900	start	39400	39420	slightly right	39440	39700
+head pos: tilt side	slightly right	36300	37880	end	37900	38260
+head mvmt: nod	single	37080	37400	end	37420	37520
+head mvmt: side to side	rapid	39020	39420
+mouth	brr	38280	39380
+body lean	forward/left	36300	36300	end	36320	36560	start	37600	37800	left	37820	38200	end	38220	38360
+POS	Preposition	36660	36720	Noun	36940	37060	Number	37260	37460	Verb	38320	38420	Noun	38600	38820	Verb	39040	39440
+Non-dominant POS	Adverb	37700	37820	Proper noun	38040	38140
+English translation	After World War II, California had many job opportunities.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	39700
+End frame:	41620
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	013
+main gloss	IX-3p:v	39760	39820	FATHER	40060	40160	DECIDE	40340	40540	MOVE-AWAY	40680	40840	ns-CALIFORNIA	41040	41220	|>		41380
+non-dominant hand gloss	(2h)alt.HIRE++	39700	39700	|>		40100
+eye brows	slightly raised	39700	39720	start	39740	40020	slightly lowered	40040	40760	end	40780	40820	start	41080	41120	slightly lowered	41140	41340	start	41360	41500	raised	41520	41620
+eye aperture	lowered lid	39700	39720	end	39740	39780	start	40000	40040	further squinted	40060	40440	end	40460	40460	start	41320	41340	blink	41360	41360	start	41380	41380	lowered lid	41400	41620
+eye gaze	right	39700	39760	down	40060	40140	down	41340	41620
+head pos: tilt fr/bk	slightly back	39700	39700	end	39720	39760	start	39840	40060	front	40080	40120	end	40140	40220	start	40940	41120	slightly front	41140	41260
+head pos: turn	slightly right	39700	39700	end	39720	39840	start	40520	40700	slightly left	40720	41320	end	41340	41380	start	41500	41520	slightly left	41540	41620
+head pos: tilt side	start	41280	41380	right	41400	41480	end	41500	41620
+head mvmt: nod	single	41260	41360	end	41380	41480
+nose	start	39940	40060	wrinkle	40080	40360	end	40380	40480
+mouth	lips spread & crnrs down	39940	40020	open & corners down	40040	40220	lips spread & crnrs down	40240	40780
+POS	Pronoun	39760	39820	Noun	40060	40160	Verb	40340	40540	Verb	40680	40840	Proper Noun	41040	41220
+English translation	My father decided to move to California.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	41620
+End frame:	43040
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	010
+main gloss	GET-INTO	41620	41680	DRIVE	41860	42140	WRONG	42280	42420	ENGINE-FALL-OUT	42620	42840
+non-dominant hand gloss
+eye brows	raised	41620	41620	slightly raised	41640	42040	start	42060	42180	lowered	42200	42500	slightly lowered	42520	42880	start	42900	43040
+eye aperture	lowered lid	41620	41620	end	41640	41680	start	41860	41900	squint	41920	42160	slightly squinted	42180	42920	start	42940	42980	further lowered	43000	43040
+eye gaze	down	41620	41620	down/left	42960	43040
+head pos: turn	slightly left	41620	41760	start	41780	41900	left	41920	42120	end	42140	42220	start	42620	42700	left	42740	42760	end	42780	42820	start	42940	43040
+head pos: tilt side	end	41620	41620
+mouth	lips spread	42200	42760
+POS	Verb	41620	41680	Verb	41860	42140	Conjunction	42280	42420	Verb	42620	42840
+English translation	He started out driving, but his car broke down.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	43040
+End frame:	45900
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	015
+main gloss	TIME-PASSING	43120	43340	GET-IN	43520	43640	#BUS	43760	43980	(2h)LCL:C"moving bus"	44160	44520	ARRIVE	44820	44940	ns-SAN-FRANCISCO+	45160	45340	SOCIALIZE	45560	45880
+non-dominant hand gloss	ARRIVE	44820	44940	|>		45340
+topic/focus	focus/top1	43520	44020
+eye brows	slightly raised	43040	43060	end	43080	43140	start	43320	43360	slightly raised	43380	44020	start	44040	44220	slightly lowered	44240	44840	start	44860	44960	slightly raised	44980	45220	end	45240	45320	start	45740	45840	raised	45860	45900
+eye aperture	further lowered	43040	43120	squint	43140	43320	start	43340	43360	blink	43380	43380	end	43400	43460	start	44020	44020	squint	44040	44520	start	44540	44540	further lowered	44560	44900	start	44920	44940	blink	44960	44960	end	44980	45020	start	45300	45360	further lowered	45380	45900
+eye gaze	down/left	43040	43360	down/left	44040	44160	watch hands	44560	44920	down	45380	45540	right	45560	45880
+head pos: tilt fr/bk	start	45640	45860	slightly back	45900	45900
+head pos: turn	start	43040	43160	left	43180	43200	end	43220	43480	start	44520	44600	left	44620	44840	end	44860	44960	start	45440	45520	right	45540	45820	end	45840	45900
+head mvmt: nod	single	44800	44960
+head mvmt: shake	slight rapid head shake	45580	45800
+head mvmt: side to side	rapid	44120	44420
+mouth	raised upper lip	43160	43360	intense	44100	44440	tongue mvmt lateral	45540	45840
+shoulders	start	44820	45180	slightly left	45200	45540	end	45560	45840
+POS	Discourse Marker	43120	43340	Verb	43520	43640	Noun	43760	43980	Classifier	44160	44520	Verb	44820	44940	Proper Noun	45160	45340	Verb	45560	45880
+English translation	He took a bus, finally arriving in San Francisco.  He (met people and) mingled.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	45900
+End frame:	49040
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	015
+main gloss	MEET	46060	46220	MOTHER	46500	46620	IX-3p-pl-2:i/v	46840	46900	TOGETHER	47080	47340	FOUR^YEAR	47500	47980	|>		48120	MARRY	48300	48680	|>		48940
+non-dominant hand gloss	MEET	46060	46220	|>		46780
+topic/focus	focus/top1	46040	46740
+eye brows	raised	45900	47100	start	47120	47160	slightly raised	47200	47720	end	47740	47960	start	48780	48940	further raised	48960	49040
+eye aperture	further lowered	45900	45900	end	45920	45980	start	46740	46740	further lowered	46760	47120	end	47140	47180	start	47980	48020	lowered lid	48040	48160	blink	48180	48180	end	48200	48220	start	48820	48940	lowered lid	48960	49040
+eye gaze	watch hands	46760	47120	down	48020	48200
+head pos: tilt fr/bk	slightly back	45900	46060	end	46080	46420	start	47280	47500	front	47520	48100	start	48120	48260	back	48280	48300	start	48820	49040
+head pos: turn	end	45900	45960	start	48240	48260	slightly left	48280	48620	end	48640	48960
+head pos: tilt side	start	48060	48200	slightly right	48220	49040
+head mvmt: nod	single	48320	48800
+nose	slightly tensed	48140	48300
+mouth	lips spread & crnrs down	48140	48300
+body lean	start	46460	46540	right	46560	46740	end	46760	47160
+POS	Verb	46060	46220	Noun	46500	46620	Pronoun	46840	46900	Verb	47080	47340	Adverb	47500	47980	Verb	48300	48680
+English translation	He met my mother, they dated for four years, then got married.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	SignStream Databases v.2:DSP Immigrants.mov
+Video	
+Video	
+Video	
+Audio	
+Start frame:	49040
+End frame:	51071
+Number of participant panes:	1
+Participant:	Steve McCullough
+Number of fields:	011
+main gloss	BORN	49140	49320	B:IX-1p(formal)	49660	49920	|>		50280
+non-dominant hand gloss
+topic/focus	focus/top1	49040	49300
+eye brows	further raised	49040	49040	raised	49060	49280	end	49300	49500
+eye aperture	lowered lid	49040	49520	end	49540	49620
+head pos: tilt fr/bk	start	49040	49060	back	49080	49160	end	49180	49320	start	49520	49600	slightly front	49620	50280	end	50300	50540
+head pos: tilt side	slightly right	49040	49420	end	49440	49560
+head pos: turn	start	49040	49140	slightly left	49160	50340	end	50360	50540
+head pos: jut	start	49180	49300	forward	49320	49420	end	49440	49500
+POS	Verb	49140	49320	Pronoun	49660	49920
+English translation	And then I was born.
+Notes - number of character bytes:	0

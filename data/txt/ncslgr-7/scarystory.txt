@@ -1,0 +1,2120 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	scarystory	Firewire 38200:NCSLGRv7:scarystory
+Number of utterances:	69
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	1040
+End frame:	5880
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	009
+main gloss	SUNSET	1440	3600	LIGHTING	3880	4560	RAIN++	4720	5880
+non-dominant hand gloss
+head pos: tilt fr/bk	start	4720	5080	slightly front	5120	5880
+head pos: turn	start	1040	1360	slightly right	1400	3880	end	3920	4440	start	4880	5120	right	5160	5880
+head pos: tilt side	start	4800	5000	slightly right	5040	5880
+head pos: jut	start	1640	1880	slightly back	2040	5880
+body lean	start	1400	1640	back	1680	5880
+POS	Noun	1440	3600	Noun	3880	4560	Noun	4720	5880
+English translation	There is a sunset.  It start to rain and lighting.
+Notes - number of character bytes:	27
+-CBD
+
+-lighting or THUNDER?
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	5920
+End frame:	17960
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	CL:5"walking by the tree"	8280	9520	CL:5"walking by the tree"	11280	12000	CL:5"walking by the tree"	13120	13400	BCL:S"person walking"	14240	17960
+non-dominant hand gloss	CL:5"walking by the tree"	6280	7760	CL:5"walking by the tree"	10040	10920	CL:5"walking by the tree"	12360	12600	CL:5"walking by the tree"	13600	14000
+head pos: tilt fr/bk	slightly front	5920	14160	start	14200	14280	front	14320	17960
+head pos: turn	right	5920	13920	end	13960	14000	start	14280	16800	left	16840	17960
+head pos: tilt side	slightly right	5920	7720	end	7760	8400	start	14280	17000	slightly left	17040	17960
+head pos: jut	back	5920	12000	start	12040	12360	slightly back	12400	13960	end	14040	14240
+body lean	start	5920	7320	back	7360	7720	start	7760	8280	forward	8320	8840	start	8880	9400	slightly back	9440	9680	start	9720	10840	slightly back	10880	11040	start	11080	11320	slightly forward	11360	11520	start	11560	11680	slightly back	11720	11960	start	12000	12360	slightly forward	12400	12480	end	12520	12560	start	12600	12760	slightly back	12800	13400	end	13440	13960
+eye brows	start	14000	14240	slightly lowered	14280	17960
+eye gaze	left	12240	12480
+eye aperture	start	13400	13680	squint	13720	17960
+POS	Classifier	8280	9520	Classifier	11280	12000	Classifier	13120	13400	Classifier	14240	17960
+Non-dominant POS	Classifier	6280	7760	Classifier	10040	10920	Classifier	12360	12600	Classifier	13600	14000
+English translation	Walking through the forest.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	18600
+End frame:	27920
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	BCL:"looking back"	22920	23560
+non-dominant hand gloss	BCL:5"looking for something"	18600	19800	BCL:5"looking for something"	21680	22360	BCL:5"looking for something"	24320	25160
+head pos: tilt fr/bk	front	18600	19760	start	19800	21680	front	21720	22360	start	22400	22920	back	22960	23560	start	23600	24200	front	24240	25160	end	25200	25440
+head pos: turn	left	18600	22400	start	22440	22840	right	22880	23600	start	23640	23880	left	23920	25440
+head pos: tilt side	left	18600	25120	end	25160	25440
+head pos: jut	start	18600	19240	forward	19280	19760	start	19800	21720	forward	21760	22560	end	22600	22840	start	23800	24000	forward	24040	25120	end	25160	25440
+body lean	forward/left	18600	22560	start	22600	23120	back/left	23160	23560	start	23600	24080	forward	24120	25200	end	25240	25440
+eye brows	slightly lowered	18600	22240	end	22280	22320	start	23640	23840	slightly lowered	23880	25440
+eye gaze	left	18600	22360	up/right	22640	23520	left	23720	23960
+eye aperture	squint	18600	22360	slightly squinted	23800	25440
+role shift	Person1	18600	22360	Person2	22920	23560	Person1	24240	25400
+POS	Classifier	22920	23560
+Non-dominant POS	Classifier	18600	19800	Classifier	21680	22360	Classifier	24320	25160
+English translation
+Notes - number of character bytes:	103
+-what to name each role for role shift? I glossed as Man1 and Man2 just for now.
+
+-English Translation?
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	27920
+End frame:	35120
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	CL:5"walking by the tree"	29120	29480	CL:5"walking by the tree"	30400	30840	CL:5"walking by the tree"	31320	31480	LIGHTING	31600	31960	RAIN++	32280	32720	LIGHTING	32960	33600	(2h)CL:5"walking by the forest"	33760	34720
+non-dominant hand gloss	CL:5"walking by the tree"	28280	28800	CL:5"walking by the tree"	29880	30240	CL:5"walking by the tree"	31080	31320
+head pos: tilt fr/bk	front	27920	35120
+head pos: turn	left	27920	28760	end	28800	29160	start	31560	31640	slightly right	31680	31960	start	32000	32680	right	32720	33040	start	33080	33160	left	33200	33440	start	33480	33680	right	33720	34240	start	34280	34360	left	34400	34560	end	34600	34640	start	34720	34920	left	34960	35120
+head pos: tilt side	start	31480	31640	slightly right	31680	32960	start	33000	33080	left	33120	33440	start	33480	33720	right	33760	34080	end	34120	34320
+head pos: jut	start	32720	32960	slightly back	33120	34320	end	34360	34520	start	34720	34880	forward	34920	35120
+head mvmt: shake	start	32680	32880	slow	32920	34680	end	34720	34880
+body lean	forward/left	27920	28200	start	28240	28720	forward/right	28760	29360	end	29400	29440	start	29480	29560	slightly forward	29600	30560	end	30600	30640	start	32040	32240	slightly forward	32280	32720	end	32760	32880	start	34920	35000	slightly forward	35040	35120
+eye brows	slightly lowered	27920	32600	start	32680	32720	lowered	32760	35120
+eye gaze	up	27920	28080
+eye aperture	squint	27920	31440	start	31480	31640	further squinted	31680	34720	start	34760	34920	squint	34960	35120
+POS	Classifier	29120	29480	Classifier	30400	30840	Classifier	31320	31480	Noun	31600	31960	Noun	32280	32720	Noun	32960	33600	Classifier	33760	34720
+Non-dominant POS	Classifier	28280	28800	Classifier	29880	30240	Classifier	31080	31320
+English translation	Start to raining and lighting while person was walking through the forest.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	35160
+End frame:	40360
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	BCL:"tapping someone's shoulder"	36160	36840	BCL:"tapping person's shoulder"	37960	38600	BCL:"looking back"	39160	40200
+non-dominant hand gloss
+head pos: tilt fr/bk	front	35160	38640	end	38680	38840	start	40240	40280	front	40320	40360
+head pos: turn	left	35160	38680	start	38720	39000	right	39040	40240	end	40280	40360
+head pos: tilt side	start	37320	37920	left	37960	38600	end	38640	39160
+head pos: jut	forward	35160	38520	end	38560	38600
+body lean	start	37320	37960	forward/left	38000	40240	start	40280	40320	left	40360	40360
+eye brows	slightly lowered	35160	35280	end	35320	35960	start	40280	40320	slightly lowered	40360	40360
+eye gaze	up/left	37000	38480	up/right	38680	39800	right	39840	40160	left	40240	40360
+eye aperture	squint	35160	35400	end	35440	36040
+role shift	Person1	35160	37000	Person2	37960	40240	Person1	40360	40360
+POS	Classifier	36160	36840	Classifier	37960	38600	Classifier	39160	40200
+English translation	Person tapped other person's shoulder and person looked back.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	40400
+End frame:	45880
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	ICL:"grabbing someone's heart"	40880	41320	ICL:"pulling heart out of the body"	41840	42800	|>		45880
+non-dominant hand gloss	ICL:"picking up someone"	44200	45880
+head pos: tilt fr/bk	front	40400	45360	end	45400	45600
+head pos: turn	start	40400	40520	left	40560	41160	end	41200	41240	start	41480	41680	right	41720	42320	end	42360	42400	start	43680	43960	right	44000	45240	end	45280	45400
+head pos: tilt side	start	40600	40880	slightly right	40920	41240	end	41280	41320	start	41440	41680	further right	41720	42360	end	42400	42440	start	42800	43240	left	43280	43960	start	44000	44720	right	44760	45360	end	45400	45600
+head pos: jut	slightly back	40400	40520	end	40560	40920	start	42760	43200	slightly back	43240	45880
+body lean	start	40400	40760	forward	40800	41240	end	41280	41320	start	41600	41840	right	41880	42640	end	42680	42720	start	43240	43720	forward/left	43760	44160	start	44200	44760	back/right	44800	45720	start	45760	45800	back	45840	45880
+eye brows	slightly lowered	40400	40480	start	40520	40560	lowered	40600	40840	end	40880	40960	start	43680	43760	lowered	43800	44040	end	44080	44240
+eye gaze	left	40400	41000
+eye aperture	squint	40400	41040	end	41080	41160	start	43720	43800	squint	43840	44200	end	44240	44760
+nose	tensed	40400	41080	end	41120	41200	start	43720	43800	wrinkle	43840	44160	end	44200	44680
+role shift	Person1	40400	45880
+POS	Classifier	40880	41320	Classifier	41840	42800
+Non-dominant POS	Classifier	44200	45880
+English translation	A person grabbed other person's heart and then pick person up.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	45920
+End frame:	50640
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	ICL:"heart beating in the hand"	45920	48440	|>		50560
+non-dominant hand gloss	BCL:"carrying person"	45920	46720	|>		48880	BCL:"walking while carrying person"	48920	50640
+head pos: tilt fr/bk	start	48880	48920	front	48960	50640
+head pos: turn	start	45920	46120	right	46160	48080	end	48120	48480
+head pos: tilt side	start	48880	48960	slightly left	49000	49440	end	49480	49600
+head pos: jut	slightly back	45920	46520	start	46560	46800	back	46840	50640
+body lean	start	46160	46440	slightly back	46480	47840	end	47880	48080	start	48880	48920	forward/right	48960	49280	start	49320	49720	forward/left	49760	49960	start	50000	50360	forward/right	50400	50560	end	50600	50640
+eye brows	start	46720	46840	slightly lowered	46880	50640
+eye gaze	down	45920	47040
+eye aperture	lowered lid	45920	46600	start	46640	46800	slightly squinted	46840	50440	start	50480	50600	squint	50640	50640
+nose	start	46760	46880	wrinkle	46920	50640
+role shift	Person1	45920	50640
+POS	Classifier	45920	48440
+Non-dominant POS	Classifier	45920	46720	Classifier	48920	50640
+English translation	A person was holding heart while carrying dead person.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	50680
+End frame:	55840
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	CL:5"walking by the tree"	51800	52520	CL:5"walking by the tree"	53240	53600	LIGHTING	54160	54440	RAIN++	54720	55240	CL:5"walking by the tree"	55440	55720
+non-dominant hand gloss	CL:5"walking by the tree"	50800	51640	CL:5"walking by the tree"	52680	53080	CL:5"walking by the tree"	53600	53960	CL:5"walking by the tree"	55720	55840
+head pos: tilt fr/bk	front	50680	55840
+head pos: turn	start	51960	52040	right	52080	52440	end	52480	52520	start	53320	53480	right	53520	54360	start	54400	54520	left	54560	54720	start	54760	54880	right	54920	55160	start	55200	55320	left	55360	55760	end	55800	55840
+head pos: tilt side	start	54400	54520	slightly left	54560	54640	end	54680	54760
+head pos: jut	back	50680	52520	end	52560	52680	start	54440	54600	slightly forward	54640	55840
+head mvmt: shake	start	54080	54320	rapid	54360	55520	end	55560	55600
+body lean	start	50680	50960	forward/left	51000	51280	start	51320	51600	forward/right	51640	52320	end	52360	52440	start	52640	52720	forward/left	52760	53040	start	53080	53240	forward/right	53280	53360	end	53400	53480	start	53600	53760	forward/left	53800	53880	end	53920	53960	start	54080	54120	forward/right	54160	54400	start	54440	54520	forward/left	54560	54720	start	54760	54840	slightly forward	54880	55200	end	55240	55480
+eye brows	start	55560	55680	lowered	55720	55840
+eye gaze
+eye aperture	squint	50680	54800	start	54840	54880	blink	54920	55080	start	55120	55160	further squinted	55200	55840
+nose	start	55360	55480	tensed	55520	55600	start	55640	55680	wrinkle	55720	55840
+POS	Classifier	51800	52520	Classifier	53240	53600	Noun	54160	54440	Noun	54720	55240	Classifier	55440	55720
+Non-dominant POS	Classifier	50800	51640	Classifier	52680	53080	Classifier	53600	53960	Classifier	55720	55840
+English translation	Walking through the forest while raining and lighting.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	55880
+End frame:	65480
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	ICL:"heart beating in the hand"	55960	58800	CL:"eating heart"	59480	60800	ICL:"throwing heart away"	61440	62000
+non-dominant hand gloss	BCL:"carrying person"	55880	55920	|>		62000	BCL:"walking while carrying person"	62720	65280
+head pos: tilt fr/bk	front	55880	58800	start	58840	59560	back	59600	60760	start	60800	61160	front	61200	61680	end	61720	61800	start	62480	64200	slightly front	64240	65480
+head pos: turn	start	55920	56120	right	56160	59240	end	59280	59600	start	60760	61080	right	61120	62000	start	62040	63040	slightly left	63080	63520	start	63560	65160	slightly right	65200	65240	end	65280	65480
+head pos: tilt side	slightly right	55880	56200	start	56240	57760	left	57800	59000	end	59040	59120	start	59640	60080	slightly right	60120	61160	end	61200	61640	start	63040	63360	slightly left	63400	63560	end	63600	64200
+head pos: jut	back	55880	59120	start	59160	60760	forward	60800	61080	start	61120	61680	slightly back	61720	65480
+body lean	forward/left	55880	55920	start	55960	56360	slightly back	56400	59480	end	59520	59560	start	60760	60800	slightly forward	60840	61200	end	61240	61440	start	63080	63360	forward/right	63400	63600	start	63640	64000	forward/left	64040	64240	start	64320	64680	forward/right	64720	64960	start	65000	65240	forward/left	65280	65480
+eye brows	lowered	55880	65480
+eye aperture	further squinted	55880	59160	start	59200	59320	closed	59360	61520	start	61560	61800	further squinted	61840	65480
+nose	wrinkle	55880	61680	end	61720	61840
+role shift	Person1	55880	65480
+POS	Classifier	55960	58800	Classifier	59480	60800	Classifier	61440	62000
+Non-dominant POS	Classifier	55880	55920	Classifier	62720	65280
+English translation	While carry person, person eating the heart and then threw it away.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	65520
+End frame:	73440
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	CL:5"walking by the tree"	66480	67040	CL:5"walking by the tree"	67480	67640	CL:5"walking by the tree"	67800	68160	PATH	68760	70360	(2h)CL:5"walking into a house"	70960	73440
+non-dominant hand gloss	CL:5"walking by the tree"	65680	66320	CL:5"walking by the tree"	67120	67400	CL:5"walking by the tree"	67640	67800	CL:5"walking by the tree"	68160	68480
+head pos: tilt fr/bk	slightly front	65520	73440
+head pos: turn	start	66280	66320	right	66360	67200	start	67240	67440	left	67480	67600	start	67640	67800	right	67840	68160	end	68200	68240	start	68440	68480	right	68520	68920	end	68960	70480
+head pos: tilt side	start	66040	66280	slightly right	66320	67000	end	67040	67280
+head pos: jut	slightly back	65520	66360	end	66400	66640	start	70480	73240	slightly back	73280	73440
+body lean	start	65520	65680	slightly forward	65720	66040	start	66080	66160	back/left	66200	66520	end	66560	66800	start	68520	68920	forward	69000	70840	start	70880	73360	slightly back	73400	73440
+eye brows	slightly lowered	65520	70360	end	70400	70840
+eye aperture	further squinted	65520	67400	start	67440	67520	closed	67560	68520	start	68560	68600	further squinted	68640	69800	end	69840	70400
+POS	Classifier	66480	67040	Classifier	67480	67640	Classifier	67800	68160	Noun	68760	70360	Classifier	70960	73440
+Non-dominant POS	Classifier	65680	66320	Classifier	67120	67400	Classifier	67640	67800	Classifier	68160	68480
+English translation	A person walking through the forest, and there is a path to house. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	73480
+End frame:	78760
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	011
+main gloss	"whew"	78040	78760
+non-dominant hand gloss	BCL:"carrying a person"	73840	74480	BCL:"putting person down"	75040	76840
+head pos: tilt fr/bk	start	74520	74920	front	74960	77640	end	77680	77920
+head pos: turn	start	74800	74960	right	75000	77120	end	77160	77440
+head pos: tilt side	start	74520	74840	right	74880	76440	end	76480	76920
+head pos: jut	slightly back	73480	77560	start	77600	77760	back	77800	78760
+body lean	start	75560	76040	forward	76080	77280	end	77320	77720
+eye aperture	start	74480	74680	lowered lid	74720	76840	start	76880	77600	blink	77640	77720	end	77760	77880
+role shift	Person1	73480	78760
+Non-dominant POS	Classifier	73840	74480	Classifier	75040	76840
+English translation	A person who carried person, put person down and said, "Whew."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	78800
+End frame:	85400
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	011
+main gloss	ICL"opening the knob"	79080	79840	BPCL:"kicking"	80440	80920	BCL:"picking person up"	83560	85400
+non-dominant hand gloss	SCL:5"door opening"	81600	82440	|>		82920
+head pos: tilt fr/bk	start	80920	81480	front	81520	83840	end	83880	84320
+head pos: turn	start	80920	81320	left	81360	82960	start	83000	83480	slightly right	83520	85400
+head pos: tilt side	start	80440	80560	left	80600	83000	start	83040	83600	right	83640	85400
+head pos: jut	back	78800	81280	end	81320	81480	start	84040	84240	slightly back	84280	85400
+body lean	start	79840	80400	back	80440	81120	start	81160	81680	forward/left	81720	82120	start	82160	82200	forward	82240	82920	start	82960	83480	forward/left	83520	84000	start	84040	84360	back/right	84400	85400
+role shift	Person1	78800	85400
+POS	Classifier	79080	79840	Classifier	80440	80920	Classifier	83560	85400
+Non-dominant POS	Classifier	81600	82440
+English translation	A person was kicking the door to open it and pick dead person up.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	85440
+End frame:	93800
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	WOOD	88760	89560	DCL:"shape of the wood"	89800	91360	fs:"COFFIN"	91680	93520	|>		93760
+non-dominant hand gloss	BCL:"carrying person"	85440	85480	|>		85880	BCL:"putting person down"	86280	88360	G:"focus"	91720	92640
+head pos: tilt fr/bk	start	85480	85920	front	85960	92600	end	92640	93560
+head pos: turn	slightly right	85440	85960	start	86000	86600	right	86640	88720	start	88760	89000	slightly right	89040	90920	end	90960	91000	start	93560	93760	left	93800	93800
+head pos: tilt side	right	85440	88240	end	88280	88320
+head pos: jut	back	85440	88280	start	88320	88760	back	88800	92640	start	92720	93520	slightly back	93560	93640	end	93680	93800
+body lean	back/right	85440	85720	start	85760	87280	forward	87320	88360	start	88400	88840	back/left	88880	93800
+eye brows	start	89040	90120	raised	90160	91240	start	91280	91440	slightly lowered	91480	91960	end	92000	92640
+eye gaze	up	89600	90160	up/left	93560	93800
+role shift	Person1	85440	88360
+POS	Noun	88760	89560	Classifier	89800	91360	Noun	91680	93520
+Non-dominant POS	Classifier	85440	85480	Classifier	86280	88360
+English translation	Put person down and there is a wood coffin.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	93840
+End frame:	104400
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	011
+main gloss	ICL:"getting object"	94360	94920	ICL:"removing the nail"	96160	97000	ICL:"removing the nail"	98720	99440	ICL:"removing the nail"	101120	101760	ICL:"removing the nail"	103080	104000
+non-dominant hand gloss
+head pos: tilt fr/bk	start	94680	94800	slightly front	94840	95040	start	95080	95960	front	96000	104400
+head pos: turn	left	93840	94720	end	94760	94800	start	97160	98720	right	98760	99440	start	99480	100000	left	100040	101280	end	101320	101360	start	101760	102280	right	102320	103840	end	103880	103920	start	104000	104240	left	104280	104400
+head pos: tilt side	start	103960	104160	slightly left	104200	104400
+head pos: jut	start	99440	100000	back	100040	104000	end	104040	104240
+body lean	back/left	93840	94040	start	94080	94400	left	94440	94920	start	94960	96080	forward/left	96120	97120	start	97160	98840	forward/right	98880	99480	start	99520	101200	back/left	101240	101760	start	101800	103400	back/right	103440	103960	end	104000	104400
+eye gaze	up/left	93840	94400	down/right	94680	95080	down	96040	103720	down/left	103880	104400
+role shift	Person1	93840	104400
+POS	Classifier	94360	94920	Classifier	96160	97000	Classifier	98720	99440	Classifier	101120	101760	Classifier	103080	104000
+English translation	A person get hammer to remove each nail at four corners.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	104440
+End frame:	110760
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	BCL:"picking person up"	105280	108080	BCL:"putting person in the coffin"	108600	109960
+non-dominant hand gloss
+head pos: tilt fr/bk	front	104440	104760	start	104800	105080	further front	105120	105600	start	105640	107400	back	107480	108200	start	108240	108720	front	108760	108920	start	108960	109240	further front	109280	110760
+head pos: turn	left	104440	105920	start	105960	106880	right	106920	109840	end	109880	109960
+head pos: tilt side	left	104440	105880	start	105920	106640	right	106680	108800	end	108840	108960	start	110360	110640	slightly left	110680	110760
+head pos: jut	start	106120	106400	back	106440	110760
+body lean	start	104440	104960	forward/left	105000	106400	start	106440	107680	back/right	107720	108400	start	108440	109240	forward	109280	110440	start	110480	110680	slightly forward	110720	110760
+eye brows	start	104440	104800	slightly lowered	104840	105680	start	105720	105920	raised	105960	109360	end	109400	109800
+eye gaze	down/left	104440	104960	down	105880	110760
+eye aperture	start	104440	105000	squint	105040	105680	start	105720	105920	slightly lowered	105960	110760
+role shift	Person1	104440	110760
+POS	Classifier	105280	108080	Classifier	108600	109960
+English translation	Picked person up and put in the coffin.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	110800
+End frame:	122400
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	BCL:"putting the cover on"	111480	112840	ICL:"nailing"	114000	114560	ICL:"nailing"	115880	116360	ICL:"nailing"	117880	118280	ICL:"nailing"	119640	120080	"whew"	121400	122400
+non-dominant hand gloss
+head pos: tilt fr/bk	front	110800	113680	start	113720	114120	further front	114160	116520	start	116560	117640	front	117680	122400
+head pos: turn	start	110920	111800	slightly left	111840	112360	start	112400	113720	slightly left	113760	114480	start	114520	115440	right	115480	116520	start	116560	117120	left	117160	118160	start	118200	118680	right	118720	120040	start	120080	120920	slightly left	120960	122400
+head pos: tilt side	start	110800	111080	slightly right	111120	111320	start	111360	112640	slightly left	112680	114560	start	114600	115920	slightly right	115960	116560	start	116640	117640	left	117680	118720	end	118760	120040
+head pos: jut	back	110800	112840	start	112880	114120	forward	114160	114560	start	114600	115440	slightly back	115480	115920	start	115960	117120	back	117160	122400
+body lean	slightly forward	110800	111040	start	111080	111720	forward/right	111760	112120	start	112160	113840	forward/left	113880	114560	start	114600	115920	forward/right	115960	116520	start	116560	117720	back/left	117760	118320	start	118360	119560	forward/right	119600	120040	start	120080	120960	slightly back	121000	122400
+eye gaze	down/right	110800	111400	down	111440	114200	down/right	115480	116280	down/left	116720	118200	down	118240	122400
+eye aperture	slightly lowered	110800	122400
+role shift	Person1	110800	122400
+POS	Classifier	111480	112840	Classifier	114000	114560	Classifier	115880	116360	Classifier	117880	118280	Classifier	119640	120080
+English translation	Put the cover back on and nailing each corner.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	122440
+End frame:	130280
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	"yawn"	123160	125360	SCL:1"person walking upstair"	126160	128000	BCL:"covering the blanket"	128840	130280
+non-dominant hand gloss
+head pos: tilt fr/bk	front	122440	125880	end	125920	126000	start	127200	127280	back	127320	127800	start	127840	128680	further back	128720	130280
+head pos: turn	slightly left	122440	126440	start	126480	126720	left	126760	127200	end	127240	127360	start	127720	127800	left	127840	128160	end	128200	128360	start	128800	128880	slightly right	128920	130280
+head pos: tilt side	start	126520	126880	left	126920	127520	end	127560	127640	start	127920	128120	right	128160	130280
+head pos: jut	back	122440	125920	end	125960	126000	start	127000	127200	forward	127240	127680	start	127720	128720	back	128760	130280
+head mvmt: side to side	start	125880	126040	slow	126080	130280
+body lean	slightly back	122440	125600	start	125640	126240	forward	126280	126880	start	126920	127240	forward/left	127280	128000	start	128040	129360	back	129400	130280
+eye gaze	left	126680	127080	up/right	127240	127640	up/left	127720	128280
+eye aperture	start	122440	122680	closed	122720	125000	end	125040	125280	start	128200	128320	closed	128360	130280
+role shift	Person1	122440	125600	Person1	128760	130280
+POS	Classifier	126160	128000	Classifier	128840	130280
+English translation	A person was yawning and went upstair.  A person covering the blanket and sleep.
+Notes - number of character bytes:	12
+- SCL RIGHT?
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	130320
+End frame:	135640
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	SUNSET	130680	131960	SUNRISE	132360	133720	SCL:"house shaking"	133880	134280	LOUD+	134480	135640
+non-dominant hand gloss	BCL:"covering the blanket"	130320	130360	|>		130400
+head pos: tilt fr/bk	back	130320	133960	start	134000	134040	further back	134080	134200	start	134240	134440	front	134480	135320	end	135360	135560
+head pos: turn	start	130800	131800	right	131840	133960	start	134000	134040	left	134080	134200	start	134240	134480	left	134520	134720	start	134760	134800	right	134840	135000	start	135040	135160	left	135200	135280	start	135320	135400	right	135440	135560	end	135600	135640
+head pos: tilt side	right	130320	133920	start	133960	134040	left	134080	134160	start	134200	134240	right	134280	134400	start	134440	134520	further left	134560	134680	start	134720	134800	right	134840	135000	start	135040	135120	left	135160	135280	start	135320	135400	slightly right	135440	135600	end	135640	135640
+head pos: jut	back	130320	134360	start	134400	134520	slightly forward	134560	134720	end	134760	134840
+head mvmt: shake	start	133600	133840	rapid	133880	135560	end	135600	135640
+body lean	back	130320	133680	start	133720	133880	right	133920	134040	start	134080	134160	back/left	134200	134400	start	134440	134560	forward/left	134600	134720	start	134760	135000	back/right	135040	135120	start	135160	135320	forward	135360	135520	end	135560	135640
+eye brows	start	133720	133880	raised	133920	135640
+eye gaze	left	134000	134280	right	134640	135000	up/right	135360	135520	up/left	135600	135640
+eye aperture	closed	130320	133840	start	133880	133920	blink	133960	134040	start	134080	134160	lowered lid	134200	134520	start	134560	134600	blink	134640	134680	start	134720	134760	lowered lid	134800	135120	start	135160	135240	blink	135280	135320	start	135360	135400	lowered lid	135440	135640
+role shift	Person1	130320	130360
+POS	Noun	130680	131960	Noun	132360	133720	Classifier	133880	134280	Verb	134480	135640
+Non-dominant POS	Classifier	130320	130360
+English translation	Sunset and then sunrise.  The house start to shaking very loud.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	135680
+End frame:	142920
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	part:indef	136200	137160	BCL:"uncovering the blanket"	137640	137960	SCL:1"person walking downstair"	138320	139480	part:indef	139880	140360
+non-dominant hand gloss
+head pos: tilt fr/bk	start	136000	136160	front	136200	136560	end	136600	136720	start	137120	137160	front	137200	137480	end	137520	137640	start	137960	138120	front	138160	142920
+head pos: turn	left	135680	136080	start	136120	136200	right	136240	136480	start	136520	136560	left	136600	137000	start	137040	137280	left	137320	137520	start	137560	137640	right	137680	137880	start	137920	138000	left	138040	138280	start	138320	138760	right	138800	138960	start	139000	139200	left	139240	139800	start	139840	140120	right	140160	140280	start	140320	140560	left	140640	142920
+head pos: tilt side	start	135680	135880	left	135920	136000	start	136040	136120	right	136160	136400	start	136440	136600	left	136640	136920	start	136960	137080	slightly right	137120	137160	start	137200	137280	left	137320	137520	start	137560	137640	right	137680	137880	start	137920	138040	left	138080	138960	start	139000	139240	slightly right	139280	139400	start	139440	139800	left	139840	140040	end	140080	140160
+head pos: jut	start	136200	136440	forward	136480	136720	end	136760	136920	start	137920	137960	back	138000	138320	end	138360	138640	start	140280	140360	back	140400	142920
+head mvmt: shake	rapid	135680	138320	end	138360	138640	start	139920	140080	slow	140120	140640	end	140760	142920
+body lean	back/right	135680	136040	start	136080	136240	right	136280	136600	start	136640	136880	back/left	136920	137040	start	137080	137160	forward	137200	137560	start	137600	137880	back	137920	138040	start	138080	138320	forward/left	138360	139000	end	139040	139200	start	139520	139840	left	139880	140080	start	140120	140520	slightly back	140560	142920
+eye brows	slightly raised	135680	136000	end	136040	136120	start	139480	139760	lowered	139800	142200
+eye gaze	left	135680	136000	right	136120	136440	left	136560	137240	down/right	137640	137840	right	138560	138960	down/left	139000	139520	down	139800	142920
+eye aperture	start	135680	136040	lowered lid	136080	137360	start	137400	137520	blink	137560	137680	start	137720	137760	blink	137800	137880	start	137920	137960	blink	138000	138120	start	138160	138240	lowered lid	138280	139520	start	139560	139760	squint	139800	142920
+nose	start	139680	139800	wrinkle	139840	140600	end	140640	141480
+POS	Particle	136200	137160	Classifier	137640	137960	Classifier	138320	139480	Particle	139880	140360
+English translation	A person uncover the blanket and ran downstair to find out what is going on.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	142960
+End frame:	146320
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	LOUD++	143080	144080	SCL:5"house shaking"	144200	145280
+non-dominant hand gloss
+head pos: tilt fr/bk	front	142960	143440	start	143480	143840	back	143880	144000	start	144040	144160	slightly front	144200	144320	start	144360	144640	front	144680	146320
+head pos: turn	slightly left	142960	142960	start	143000	143000	right	143040	143080	start	143120	143160	left	143200	143360	start	143400	143440	right	143480	143560	start	143600	143640	left	143680	143840	start	143880	143960	slightly right	144000	144040	start	144080	144200	slightly left	144240	144280	start	144320	144400	right	144440	144480	end	144520	144560	start	145600	145640	slightly left	145680	145880	start	145920	146040	left	146080	146320
+head pos: tilt side	start	142960	143000	right	143040	143160	start	143200	143360	right	143400	143560	start	143600	143640	slightly left	143680	143800	start	143840	143880	right	143920	144040	start	144080	144160	slightly left	144200	144280	start	144320	144360	right	144400	144480	end	144520	144560	start	144880	145160	slightly right	145200	145560	end	145600	145640	start	146080	146200	left	146240	146320
+head pos: jut	back	142960	145440	end	145480	145560	start	146120	146200	slightly forward	146240	146320
+head mvmt: shake	rapid	142960	145280	end	145320	145520
+body lean	back/right	142960	144040	start	144080	144440	back/right	144480	144680	start	144720	145160	back/right	145200	145600	end	145640	145680	start	146120	146200	forward/left	146240	146320
+eye brows	start	142960	143000	raised	143040	144520	end	144560	144640	start	145400	145440	lowered	145480	146320
+eye gaze	down	143080	143360	down/left	145400	145680	down	145720	146160	down/left	146240	146320
+eye aperture	closed	142960	143080	start	143120	143160	lowered lid	143200	143320	start	143360	143360	blink	143400	143680	start	143720	143760	lowered lid	143800	143840	start	143880	143880	blink	143920	144000	start	144040	144080	lowered lid	144120	144720	start	144760	144840	blink	144880	145200	start	145240	145280	lowered lid	145320	145440	start	145480	145520	squint	145560	146320
+nose	start	145280	145400	wrinkle	145440	146320
+POS	Adjective	143080	144080	Classifier	144200	145280
+English translation	It's loud when the house was shaking.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	146360
+End frame:	155800
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	ICL:"getting object"	146840	147240	ICL:"removing the nail"	149280	150160	ICL:"removing the nail"	151920	152640	ICL:"removing the nail"	153720	154320	ICL:"removing the nail"	155160	155560
+non-dominant hand gloss
+head pos: tilt fr/bk	front	146360	155800
+head pos: turn	left	146360	147360	start	147400	149280	left	149320	150280	start	150320	151200	right	151240	152520	start	152560	153240	left	153280	154320	start	154360	154640	right	154680	155800
+head pos: tilt side	left	146360	150280	start	150320	151240	right	151280	152600	start	152640	153240	left	153280	154480	start	154520	155200	right	155240	155800
+head pos: jut	start	153280	153760	back	153800	155800
+head mvmt: shake	start	147240	147280	slight rapid headshake	147320	148680	end	148720	149280
+body lean	start	146360	146880	left	146920	147320	start	147360	149280	forward/left	149320	150280	start	150320	151720	forward/right	151760	152600	start	152640	153400	back/left	153440	154320	start	154360	155200	back/right	155240	155520	end	155560	155800
+eye brows	lowered	146360	150200	end	150240	150840
+eye gaze	left	146360	146760	down	147000	155800
+eye aperture	squint	146360	147280	start	147320	147360	blink	147400	148040	start	148080	148360	squint	148400	152600	start	152640	153400	lowered lid	153440	155800
+role shift	Person1	146360	155800
+POS	Classifier	146840	147240	Classifier	149280	150160	Classifier	151920	152640	Classifier	153720	154320	Classifier	155160	155560
+English translation	A person get hammer to remove each nail from four corners.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	155840
+End frame:	160600
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	ICL:"removing the cover"	156360	159080
+non-dominant hand gloss
+head pos: tilt fr/bk	front	155840	157000	end	157040	157200	start	158360	158440	front	158480	160600
+head pos: turn	slightly right	155840	156400	start	156440	156560	right	156600	158440	end	158480	158600	start	159120	159160	slightly left	159200	159800	start	159840	160000	left	160040	160600
+head pos: tilt side	right	155840	159400	start	159440	160160	left	160200	160600
+head pos: jut	start	156720	156880	back	156920	160600
+body lean	right	155840	155960	start	156000	156320	forward	156360	156880	end	156920	157000	start	158280	158360	right	158400	159320	end	159360	159640
+eye brows	start	156400	156600	lowered	156640	156720	start	156760	156840	raised	156880	157880	start	157920	158320	lowered	158360	160600
+eye gaze	down	155840	156840	down/right	157760	158280	down	158360	160600
+eye aperture	start	156440	156600	squint	156640	156960	end	157000	157040	start	158760	158840	squint	158880	160600
+nose	start	156400	156560	wrinkle	156600	157000	end	157040	157160
+role shift	Person1	155840	160600
+POS	Classifier	156360	159080
+English translation	A person got cover off the coffin.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	160640
+End frame:	167600
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	BCL:"looking at dead person"	160640	160960	BCL:"dead person"	161320	162600	BCL:"looking at dead person"	163080	164120	BCL:"dead person"	164600	165240	BCL:"looking at dead person"	165760	167600
+non-dominant hand gloss
+head pos: tilt fr/bk	front	160640	160920	start	160960	161200	further back	161240	162680	start	162720	163000	front	163040	164080	start	164120	164520	further back	164560	165280	start	165320	165680	front	165720	167600
+head pos: turn	left	160640	165560	end	165600	165840
+head pos: tilt side	left	160640	165400	end	165440	165600
+head pos: jut	back	160640	165840	start	165880	166120	slightly back	166160	167600
+body lean	start	161000	161400	back/left	161440	162800	start	162840	163360	slightly forward	163400	164280	start	164320	164520	back/left	164560	165320	start	165360	165800	forward	165840	167600
+eye brows	slightly lowered	160640	160920	end	160960	161080	start	162800	163000	lowered	163040	164080	end	164120	164280	start	165520	165680	slightly lowered	165720	167600
+eye gaze	down	160640	160960	down	163040	164080	down	165560	167600
+eye aperture	lowered lid	160640	160720	start	160760	160920	closed	160960	162880	start	162920	163040	lowered lid	163080	164080	start	164120	164160	closed	164200	165320	start	165360	165440	lowered lid	165480	167600
+role shift	Person1	160640	160960	Person2	161320	162680	Person1	163120	164160	Person2	164480	165360	Person1	165840	167600
+POS	Classifier	160640	160960	Classifier	161320	162600	Classifier	163080	164120	Classifier	164600	165240	Classifier	165760	167600
+English translation	A person looking at dead person.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	167640
+End frame:	176320
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	ICL:"putting cover on the coffin"	168960	170280	ICL:"nailing"	171240	171640	ICL:"nailing"	173040	173400	ICL:"nailing"	174440	174840	ICL:"nailing"	175640	176120
+non-dominant hand gloss
+head pos: tilt fr/bk	front	167640	176320
+head pos: turn	start	167640	167920	right	167960	169120	start	169160	169400	slightly left	169440	171560	end	171600	171640	start	172040	172320	right	172360	173320	start	173360	173680	left	173720	174840	start	174880	175320	right	175360	175960	start	176000	176280	left	176320	176320
+head pos: tilt side	slightly right	167640	169040	start	169080	170120	left	170160	171640	start	171680	172720	slightly right	172760	173240	start	173280	174160	left	174200	174880	start	174920	175600	right	175640	175840	start	175880	176240	slightly left	176280	176320
+head pos: jut	start	174160	174440	back	174480	176160	end	176200	176280
+body lean	forward	167640	167800	start	167840	168960	forward/right	169000	169440	end	169480	170000	start	170280	171120	forward/left	171160	171640	start	171680	172920	forward/right	172960	173400	start	173440	174360	back/left	174400	174840	start	174880	175520	back/right	175560	176000	end	176040	176160
+eye brows	slightly lowered	167640	173440	end	173480	174000
+eye gaze	right	167800	168360	down	170160	171280	down/right	171800	172160	down/right	172760	173280	down	173360	174640	down/right	175240	175720
+eye aperture	closed	167640	167640	start	167680	167800	lowered lid	167840	176320
+role shift	Person1	167640	176320
+POS	Classifier	168960	170280	Classifier	171240	171640	Classifier	173040	173400	Classifier	174440	174840	Classifier	175640	176120
+English translation	Put the cover back on and nailing each corner again.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	176360
+End frame:	182593
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	part:indef	178480	178640	NAH	179680	179800	IX-1p	180040	180120	FINE	180240	180480	NAH	180640	180840
+non-dominant hand gloss
+head pos: tilt fr/bk	front	176360	177200	end	177240	177400	start	179520	179680	front	179720	181280	end	181320	181480
+head pos: turn	left	176360	177440	start	177480	178360	right	178400	179480	start	179520	179680	left	179720	181320	start	181360	181840	right	181880	182593
+head pos: tilt side	left	176360	177760	start	177800	178520	right	178560	179440	start	179480	179760	left	179800	181200	start	181240	181840	right	181880	182440	end	182480	182593
+head pos: jut	slightly back	176360	176400	start	176440	177440	back	177480	182240	end	182280	182593
+head mvmt: nod
+	start	177880	178120	slight rapid head nod	178160	179440	end	179480	179640
+body lean	start	176400	176720	forward/left	176760	177200	end	177240	177400	start	180160	180280	left	180320	181000	start	181040	181560	back/right	181600	182040	end	182080	182400
+eye brows	start	179160	179440	lowered	179480	181280	end	181320	181480
+eye gaze	down	176360	176520	right	177200	177800	down	177880	178480	down/left	179480	179520	down/left	180120	180960
+eye aperture	start	177520	177800	blink	177840	178400	start	178440	178480	closed	178520	179080	start	179120	179280	blink	179320	179480	start	179520	179600	squint	179640	179760	start	179800	179880	blink	179920	180120	start	180160	180240	squint	180280	182320	start	182360	182440	closed	182480	182593
+nose	start	179280	179480	wrinkle	179520	182040	end	182080	182320
+role shift	Person1	176360	182593
+POS	Particle	178480	178640	Discourse Marker	179680	179800	Pronoun	180040	180120	Discourse Marker	180240	180480	Discourse Marker	180640	180840
+English translation	"Nah, I am fine," a person said.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	182600
+End frame:	187560
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	016
+main gloss	SUNRISE	182600	184600	WHAT	185440	185760	THAT	185960	186320	SCL:5"house shaking"	186600	187560
+non-dominant hand gloss
+head pos: tilt fr/bk	start	182880	183160	back	183200	184600	start	184640	185240	front	185280	186760	end	186800	186880	start	187320	187440	slightly front	187480	187560
+head pos: turn	right	182600	182600	start	182640	183040	left	183080	184760	start	184800	185000	right	185040	185760	start	185800	186120	left	186160	186880	start	186920	187280	right	187320	187560
+head pos: tilt side	start	182600	182760	left	182800	184960	start	185000	185280	slightly right	185320	185760	start	185800	186080	slightly left	186120	186720	end	186760	186880
+head pos: jut	start	184520	184600	back	184640	185040	end	185080	185200
+head mvmt: shake	start	183920	184040	slow	184080	187480	end	187520	187560
+body lean	start	183000	183200	left	183240	184920	start	184960	185440	slightly forward	185480	186440	start	186480	187000	slightly back	187040	187280	end	187320	187440
+eye brows	start	184360	184520	lowered	184560	187560
+eye gaze	left	182640	183360	up	183520	184280	left	184400	184520
+eye aperture	closed	182600	182600	start	182640	182800	blink	182840	183040	start	183080	184520	closed	184560	184640	start	184680	184760	further squinted	184800	187560
+nose	start	184600	184720	wrinkle	184760	187560
+wh question	wh	184560	187560
+role shift	Person1	185200	187560
+POS	Noun	182600	184600	Wh-word	185440	185760	Pronoun	185960	186320	Classifier	186600	187560
+English translation	When Sunrise comes, "what was that when house shaked?" a person wondering.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	187600
+End frame:	189880
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	WHAT	187640	187840	THAT	188080	188320	IX-1p	188480	188640	NOT-KNOW	188760	189280	part:indef	189480	189880
+non-dominant hand gloss	SCL:5"house shaking"	187600	187640	|>		188440
+head pos: tilt fr/bk	slightly front	187600	187640	start	187680	187880	front	187920	188760	end	188800	189120	start	189720	189760	front	189800	189880
+head pos: turn	right	187600	188520	start	188560	188760	left	188800	189880
+head pos: tilt side	start	189280	189320	left	189360	189880
+body lean	start	187920	187960	forward	188000	188600	end	188640	188680	start	189440	189480	left	189520	189880
+eye brows	lowered	187600	189880
+eye aperture	further squinted	187600	189880
+nose	wrinkle	187600	189880
+wh question	wh	187600	189880
+role shift	Person1	187600	189880
+POS	Wh-word	187640	187840	Pronoun	188080	188320	Pronoun	188480	188640	Neg+Verb	188760	189280	Particle	189480	189880
+Non-dominant POS	Classifier	187600	187640
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	189920
+End frame:	192960
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	IX-1p	190080	190160	DREAM	190520	190920	IMAGINE	191080	191560	THING	191680	191960	NOT-KNOW	192120	192480	NAH	192600	192960
+non-dominant hand gloss	part:indef	189920	189960	|>		190880
+head pos: tilt fr/bk	slightly front	189920	190600	start	190640	190920	front	190960	191520	start	191560	192160	slightly front	192200	192960
+head pos: turn	left	189920	189960	start	190000	190320	right	190360	190760	start	190800	191080	left	191120	192160	start	192200	192600	right	192640	192960
+head pos: tilt side	left	189920	190120	start	190160	190480	slightly right	190520	190960	start	191000	191440	left	191480	192200	start	192240	192560	slightly right	192600	192960
+head pos: jut	start	190760	190920	forward	190960	192040	end	192080	192200
+head mvmt: shake	start	189920	189960	slow	190000	192920	end	192960	192960
+body lean	left	189920	190640	end	190680	190760	start	191560	191640	left	191680	192720	end	192760	192960
+eye brows	lowered	189920	192960
+eye aperture	further squinted	189920	192960
+nose	wrinkle	189920	192960
+role shift	Person1	189920	192960
+POS	Pronoun	190080	190160	Noun	190520	190920	Verb	191080	191560	Noun	191680	191960	Neg+Verb	192120	192480	Discourse Marker	192600	192960
+Non-dominant POS	Particle	189920	189960
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	193000
+End frame:	194120
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	IX-1p	193080	193240	FINE	193360	193600	NAH	193720	194040
+non-dominant hand gloss
+head pos: turn	right	193000	193320	start	193360	193640	left	193680	194120
+head pos: tilt side	start	193600	193640	left	193680	194120
+head pos: jut	start	193720	194040	slightly back	194080	194120
+head mvmt: nod
+	start	193240	193280	slight rapid head nod	193320	193720	end	193760	194040
+body lean	slightly forward	193000	193360	end	193400	193600	start	194000	194040	left	194080	194120
+eye brows	lowered	193000	194120
+eye aperture	further squinted	193000	194120
+nose	wrinkle	193000	194120
+role shift	Person1	193000	194120
+POS	Pronoun	193080	193240	Discourse Marker	193360	193600	Discourse Marker	193720	194040
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	194160
+End frame:	198040
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	COFFEE	194320	194920	|>		196640	ALL-DAY	197000	198040
+non-dominant hand gloss	DRINK++	195240	196600
+head pos: tilt fr/bk	front	194160	194920	end	194960	195200	start	197080	197280	front	197320	198040
+head pos: turn	left	194160	194480	start	194520	195200	right	195240	196360	start	196400	196640	left	196680	198040
+head pos: tilt side	left	194160	194800	start	194840	195160	right	195200	196480	start	196520	196800	left	196840	198040
+head pos: jut	back	194160	194800	start	194840	195480	slightly forward	195520	198040
+body lean	left	194160	195200	end	195240	195440	start	196160	196360	right	196400	196800	start	196840	197360	left	197400	198040
+eye brows	lowered	194160	196040	start	196080	196240	slightly lowered	196280	198040
+eye gaze	right	195280	196040	left	197280	198040
+eye aperture	further squinted	194160	195960	start	196000	196080	closed	196120	196720	start	196760	196800	squint	196840	198040
+nose	wrinkle	194160	198040
+POS	Noun	194320	194920	Noun	197000	198040
+Non-dominant POS	Verb	195240	196600
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	198080
+End frame:	199640
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	COFFEE	198200	198600	STILL	198680	198800	KEEP-GOING	198880	199240	STILL	199320	199640
+non-dominant hand gloss
+head pos: tilt fr/bk	front	198080	198200	end	198240	198400	start	198800	198840	front	198880	199640
+head pos: turn	left	198080	198400	start	198440	198640	right	198680	199440	end	199480	199640
+head pos: tilt side	left	198080	198320	start	198360	198640	right	198680	199360	end	199400	199480
+head pos: jut	start	198920	199000	forward	199040	199640
+head mvmt: shake	start	198080	198160	single	198200	199440	end	199480	199560
+body lean	left	198080	198640	end	198680	198840	start	199000	199240	forward	199280	199640
+eye brows	slightly lowered	198080	199360	end	199400	199520
+eye aperture	squint	198080	199640
+POS	Noun	198200	198600	Adverb	198680	198800	Verb	198880	199240	Adverb	199320	199640
+English translation
+Notes - number of character bytes:	25
+- keep going or CONTINUE?
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	199680
+End frame:	203760
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	SUNSET	201280	202840	part:indef	202960	203200
+non-dominant hand gloss	DRINK++	199840	200760
+head pos: tilt fr/bk	front	199680	199720	start	199760	200800	back	200840	202120	end	202160	202840
+head pos: turn	left	199680	200360	start	200400	200920	right	200960	202160	start	202200	202840	left	202880	203760
+head pos: tilt side	start	199680	199920	left	199960	200400	start	200440	200800	right	200840	202360	start	202400	202840	left	202880	203760
+head pos: jut	forward	199680	200400	end	200440	200800	start	202840	203040	forward	203080	203760
+head mvmt: nod
+	start	202560	202720	single	202760	203000	start	203040	203200	slight rapid head nod	203240	203760
+body lean	forward	199680	200000	start	200040	200400	back/left	200440	201080	start	201120	201440	back	201480	202000	end	202040	202280	start	203400	203600	left	203640	203760
+eye brows	slightly lowered	199680	203760
+eye gaze	left	199680	200240	right	200680	201920
+eye aperture	squint	199680	203080	start	203120	203240	closed	203280	203760
+POS	Noun	201280	202840	Particle	202960	203200
+Non-dominant POS	Verb	199840	200760
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	203800
+End frame:	208200
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-1p	204520	204600	SLEEP	204880	205080	part:indef	205280	205520	BCL:"covering the blanket"	206360	208120
+non-dominant hand gloss
+head pos: tilt fr/bk	front	203800	204280	start	204320	204960	front	205000	205760	start	205800	206560	back	206600	208200
+head pos: turn	left	203800	204440	start	204480	204760	right	204800	208200
+head pos: tilt side	left	203800	204440	start	204480	204800	right	204840	208200
+head pos: jut	back	203800	208200
+head mvmt: shake	start	204160	204360	single	204400	208160	end	208200	208200
+body lean	start	204280	204400	slightly back	204440	204880	end	204920	205040	start	206640	207080	back	207120	208200
+eye brows	start	204160	204480	lowered	204520	207680	start	207720	208160	raised	208200	208200
+eye gaze	left	203800	204200
+eye aperture	slightly squinted	203800	204360	start	204400	204480	further squinted	204520	205000	start	205040	205080	closed	205120	208160	end	208200	208200
+nose	start	204240	204440	wrinkle	204480	205920	end	205960	206520
+POS	Pronoun	204520	204600	Verb	204880	205080	Particle	205280	205520	Classifier	206360	208120
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	208240
+End frame:	211320
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	SCL:5"house shaking"	208320	209080	LOUD	209280	209720	WORSE	209800	210200	part:indef	210280	210480	SCL:1"person walking downstair"	210680	211200	part:indef	211280	211320
+non-dominant hand gloss
+head pos: tilt fr/bk	back	208240	208280	start	208320	208520	slightly back	208560	208680	start	208720	209160	front	209200	209680	start	209720	210480	further front	210520	211320
+head pos: turn	right	208240	208320	start	208360	208400	left	208440	208480	start	208520	208600	slightly right	208640	208680	start	208720	208880	right	208920	209000	start	209040	209080	left	209120	209600	start	209640	209800	right	209840	210160	start	210200	210320	left	210360	211000	start	211040	211120	right	211160	211280	end	211320	211320
+head pos: tilt side	right	208240	208280	start	208320	208400	left	208440	208480	start	208520	208560	right	208600	208680	start	208720	208840	right	208880	209000	start	209040	209120	left	209160	209680	start	209720	209920	right	209960	210240	start	210280	210560	left	210600	210960	start	211000	211080	slightly right	211120	211280	end	211320	211320
+head pos: jut	back	208240	208280	start	208320	208360	forward	208400	208480	start	208520	208760	back	208800	209040	start	209080	209200	forward	209240	209600	start	209640	209920	back	209960	210560	start	210600	211200	back	211240	211320
+head mvmt: side to side	start	208240	208360	rapid	208400	211160	end	211200	211280
+body lean	back	208240	208280	start	208320	208400	slightly forward	208440	208600	start	208640	208880	back	208920	209040	start	209080	209280	forward	209320	209840	start	209880	210240	back/right	210280	210400	start	210440	210560	forward	210600	211040	end	211080	211160
+eye brows	raised	208240	210480	end	210520	210680
+eye gaze	left	210320	210720	right	211000	211280	left	211320	211320
+eye aperture	lowered lid	208240	210280	end	210320	210440
+nose	start	208240	208440	tensed	208480	210560	end	210600	210960
+POS	Classifier	208320	209080	Verb	209280	209720	Adjective	209800	210200	Particle	210280	210480	Classifier	210680	211200	Particle	211280	211320
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	211320
+End frame:	214120
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	ICL:"removing the nail"	211480	212000	ICL:"removing the nail"	212320	212720	ICL:"removing the nail"	213080	213400	ICL:"removing the nail"	213720	214080
+non-dominant hand gloss
+head pos: tilt fr/bk	front	211320	214120
+head pos: turn	right	211320	211320	start	211360	211480	left	211520	211680	start	211720	211920	right	211960	212560	start	212600	212800	left	212840	213320	start	213360	213760	slightly right	213800	214120
+head pos: tilt side	start	211320	211480	left	211520	211880	start	211920	212240	right	212280	212680	start	212720	213000	left	213040	213400	start	213440	213840	slightly right	213880	214120
+head pos: jut	back	211320	211400	start	211440	211680	slightly forward	211720	211920	end	211960	212000	start	212920	213080	back	213120	214120
+body lean	start	211320	211560	forward/left	211600	212000	start	212040	212400	forward/right	212440	212720	start	212760	213120	back/left	213160	213400	start	213440	213800	back/right	213840	214120
+eye gaze	down/left	211320	211640	down/right	211680	212480	down	212640	214120
+eye aperture	start	212360	212440	lowered lid	212480	214120
+role shift	Person1	211320	214120
+POS	Classifier	211480	212000	Classifier	212320	212720	Classifier	213080	213400	Classifier	213720	214080
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	214160
+End frame:	217400
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	ICL:"removing the cover"	214520	216200
+non-dominant hand gloss
+head pos: tilt fr/bk	front	214160	217400
+head pos: turn	start	216440	216480	left	216520	217400
+head pos: tilt side	start	215040	215200	right	215240	216200	start	216240	216680	left	216720	217400
+head pos: jut	back	214160	217400
+body lean	forward/right	214160	214320	start	214360	214560	forward	214600	215000	start	215040	215680	right	215720	216240	end	216280	216440	start	216800	216920	left	216960	217400
+eye brows	start	215960	216120	slightly lowered	216160	216400	end	216440	216560
+eye gaze	down	214160	215160	down	215600	217400
+role shift	Person1	214160	217400
+POS	Classifier	214520	216200
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	217440
+End frame:	221880
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	011
+main gloss
+non-dominant hand gloss
+head pos: tilt fr/bk	front	217440	217560	start	217600	217760	back	217800	218240	start	218280	218520	front	218560	219000	start	219040	219240	back	219280	219640	start	219680	219920	front	219960	221880
+head pos: turn	left	217440	219840	start	219880	219960	slightly left	220000	220320	end	220360	220520	start	221200	221280	right	221320	221880
+head pos: tilt side	left	217440	219920	end	219960	220080	start	221040	221240	right	221280	221880
+head pos: jut	back	217440	221880
+body lean	left	217440	217600	start	217640	217800	back/left	217840	218280	start	218320	218640	forward	218680	219080	start	219120	219320	back/left	219360	219760	start	219800	220240	forward	220280	221440	end	221480	221880
+eye gaze	down	217440	217480	down	218520	218920	down	219800	220960	right	221200	221880
+eye aperture	lowered lid	217440	217480	start	217520	217520	closed	217560	218320	start	218360	218520	lowered lid	218560	218920	start	218960	219000	closed	219040	219760	start	219800	219840	lowered lid	219880	220920	start	220960	221000	closed	221040	221120	end	221160	221240
+role shift	Person1	217440	217560	Person2	217800	218320	Person1	218560	219000	Person2	219280	219800	Person1	220040	221880
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	221880
+End frame:	223440
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	011
+main gloss	ICL:"putting the cover back on"	222280	223360
+non-dominant hand gloss
+head pos: tilt fr/bk	front	221880	223440
+head pos: turn	right	221880	222240	end	222280	222440
+head pos: tilt side	right	221880	222440	start	222480	223360	slightly left	223400	223440
+head pos: jut	back	221880	222240	end	222280	222360
+body lean	start	222120	222240	forward/right	222280	223000
+eye gaze	right	221880	222000	down	222280	223440
+role shift	Person1	221880	223440
+POS	Classifier	222280	223360
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	223480
+End frame:	227600
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	ICL:"nailing"	223600	223840	ICL:"nailing"	224440	224680	ICL:"nailing"	225240	225560	ICL:"nailing"	226040	226400	part:indef	226840	227080	"whew"	227280	227600
+non-dominant hand gloss
+head pos: tilt fr/bk	front	223480	226400	end	226440	226640	start	227160	227320	slightly front	227360	227600
+head pos: turn	start	223480	224200	right	224240	224360	start	224400	224880	left	224920	225320	start	225360	225800	right	225840	226240	start	226280	226400	left	226440	227200	start	227240	227520	slightly right	227560	227600
+head pos: tilt side	left	223480	223800	end	223840	224200	start	225680	225880	right	225920	226320	start	226360	226880	left	226920	227440	end	227480	227560
+head pos: jut	start	224760	225160	back	225200	227600
+body lean	forward/left	223480	223920	start	223960	224320	forward/right	224360	224760	start	224800	225280	back/left	225320	225800	start	225840	226240	back/right	226280	226440	end	226480	226920
+eye gaze	down	223480	224240	down	224800	225400	down/right	225440	226200	left	226360	227080	right	227120	227440
+eye aperture	start	224800	225200	lowered lid	225240	226080	start	226120	226240	blink	226280	226360	start	226400	226440	lowered lid	226480	227600
+role shift	Person1	223480	227600
+POS	Classifier	223600	223840	Classifier	224440	224680	Classifier	225240	225560	Classifier	226040	226400	Particle	226840	227080
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	227600
+End frame:	229160
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	part:indef	227760	227880	IX-1p	228040	228360	part:indef	228480	228800	part:indef	228920	229160
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	227600	227760	start	227800	227880	front	227920	229160
+head pos: turn	right	227600	228240	start	228280	228400	left	228440	229040	end	229080	229160
+head pos: tilt side	start	227800	227880	right	227920	228280	start	228320	228440	left	228480	229160
+head pos: jut	back	227600	229160
+head mvmt: shake	start	228600	228640	slight rapid headshake	228680	228880	end	228920	228960
+body lean	left	227600	227640	end	227680	227720
+eye brows	start	228120	228200	lowered	228240	228440	start	228480	228520	slightly lowered	228560	229160
+eye gaze	left	228440	229000
+eye aperture	lowered lid	227600	228120	start	228160	228240	blink	228280	228440	start	228480	228520	squint	228560	228840	start	228880	229000	blink	229040	229080	start	229120	229120	squint	229160	229160
+POS	Particle	227760	227880	Pronoun	228040	228360	Particle	228480	228800	Particle	228920	229160
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	41
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	229200
+End frame:	232200
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-1p	229240	229320	TRIPI	229480	230000	part:indef	230080	230360	part:indef	231600	231920
+non-dominant hand gloss
+head pos: tilt fr/bk	front	229200	232200
+head pos: turn	slightly right	229200	229240	start	229280	229320	right	229360	229680	start	229720	229960	left	230000	230600	start	230640	230800	right	230840	231560	start	231600	231760	left	231800	232200
+head pos: tilt side	slightly left	229200	229240	start	229280	229400	right	229440	229680	start	229720	230000	left	230040	230720	end	230760	230920	start	231320	231360	slightly right	231400	231560	start	231600	231800	left	231840	232200
+head pos: jut	start	230040	230120	back	230160	231560	end	231600	231720
+head mvmt: shake	start	230120	230240	slight rapid headshake	230280	231440	end	231480	231600
+body lean	start	229520	229680	forward	229720	230080	start	230120	230600	left	230640	231000	end	231040	231120	start	231640	231720	slightly forward	231760	232200
+eye brows	lowered	229200	231480	end	231520	231680
+eye gaze	left	229960	230280	right	230800	231600	left	231800	232160
+eye aperture	squint	229200	231520	start	231560	231640	blink	231680	231800	start	231840	231920	slightly squinted	231960	232200
+role shift	Person1	229200	232200
+POS	Pronoun	229240	229320	Adjective	229480	230000	Particle	230080	230360	Particle	231600	231920
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	42
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	232240
+End frame:	233960
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	SCL:1"person walking upstair"	232440	232840	UNKNOWN	232960	233520
+non-dominant hand gloss
+head pos: tilt fr/bk	front	232240	233960
+head pos: turn	left	232240	232360	start	232400	232640	right	232680	233240	start	233280	233520	left	233560	233960
+head pos: tilt side	left	232240	232400	end	232440	232520	start	232680	232760	right	232800	233240	start	233280	233560	left	233600	233960
+head pos: jut	back	232240	232280	end	232320	232400
+head mvmt: shake	start	232240	232400	single	232440	233800	end	233840	233920
+body lean	left	232240	232560	end	232600	232680
+eye gaze	right	232720	233240	left	233520	233960
+eye aperture	start	233200	233240	blink	233280	233400	end	233440	233520
+POS	Classifier	232440	232840
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	43
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	234000
+End frame:	234960
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	IX-1p	234120	234200	REFUSE	234240	234400	SLEEP	234480	234720	UNKNOWN	234800	234960
+non-dominant hand gloss
+head pos: tilt fr/bk	front	234000	234960
+head pos: turn	left	234000	234160	start	234200	234400	right	234440	234960
+head pos: tilt side	left	234000	234400	end	234440	234480
+head pos: jut	start	234200	234240	back	234280	234960
+head mvmt: shake	start	234400	234440	slight rapid headshake	234480	234920	end	234960	234960
+body lean	slightly forward	234000	234160	end	234200	234240
+eye brows	start	234080	234120	lowered	234160	234960
+eye gaze	left	234000	234120
+eye aperture	start	234040	234120	squint	234160	234960
+nose	start	234120	234200	wrinkle	234240	234960
+role shift	Person1	234000	234960
+POS	Pronoun	234120	234200	Negation	234240	234400	Verb	234480	234720
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	44
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	235000
+End frame:	236520
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	FROM-NOW-ON	235120	235400	REFUSE	235520	235680	SLEEP	235800	236000	UNKNOWN	236080	236480
+non-dominant hand gloss
+head pos: tilt fr/bk	front	235000	236520
+head pos: turn	start	235000	235080	left	235120	235480	start	235520	235680	right	235720	235840	start	235880	236000	left	236040	236200	start	236240	236400	right	236440	236520
+head pos: tilt side	start	235280	235400	slightly left	235440	235840	end	235880	236040
+head pos: jut	back	235000	236520
+head mvmt: shake	start	235000	235080	slow	235120	236440	end	236480	236520
+body lean	start	235320	235400	slightly forward	235440	236160	end	236200	236320
+eye brows	lowered	235000	236520
+eye gaze	left	235000	235400
+eye aperture	squint	235000	236520
+role shift	Person1	235000	236520
+POS	Preposition	235120	235400	Negation	235520	235680	Verb	235800	236000
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	45
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	236560
+End frame:	238000
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	DRINK	236720	236920	COFFEE	237080	237320	KEEP-GOING	237440	238000
+non-dominant hand gloss
+head pos: tilt fr/bk	front	236560	238000
+head pos: turn	right	236560	236720	start	236760	237000	left	237040	238000
+head pos: tilt side	start	237040	237080	left	237120	238000
+head pos: jut	slightly back	236560	237040	start	237080	237360	slightly forward	237400	238000
+head mvmt: shake	start	236560	236640	single	236680	237440	end	237480	237560
+body lean	start	237040	237320	forward	237360	238000
+eye brows	lowered	236560	238000
+eye aperture	squint	236560	238000
+nose	wrinkle	236560	238000
+role shift	Person1	236560	238000
+POS	Verb	236720	236920	Noun	237080	237320	Verb	237440	238000
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	46
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	238040
+End frame:	242480
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	SUNSET	238160	238640	SUNRISE	238840	240040	SUNSET	240560	241080	SUNRISE	241240	241880	DRINK+	242120	242480
+non-dominant hand gloss
+head pos: tilt fr/bk	front	238040	238640	start	238680	239120	back	239160	240280	start	240320	240720	front	240760	241200	start	241240	241520	slightly back	241560	241760	end	241800	241880	start	242240	242360	slightly front	242400	242480
+head pos: turn	left	238040	239680	start	239720	239840	slightly left	239880	240200	start	240240	240560	right	240600	241240	start	241280	241680	left	241720	242480
+head pos: tilt side	slightly left	238040	238120	start	238160	238560	right	238600	238840	start	238880	239200	left	239240	240160	start	240200	240600	right	240640	241240	start	241280	241600	left	241640	241960	start	242000	242440	slightly right	242480	242480
+head pos: jut	start	238400	238640	forward	238680	242480
+head mvmt: nod
+	start	238040	238400	slow	238440	241760	end	241800	241960
+body lean	forward	238040	238440	start	238480	238640	forward/right	238680	238920	start	238960	239480	back/left	239520	240360	start	240400	240880	forward/right	240920	241360	start	241400	241680	left	241720	242480
+eye brows	lowered	238040	238560	start	238600	238880	raised	238920	241520	end	241560	241680
+eye gaze	left	241840	242080	up	242120	242360	right	242400	242480
+eye aperture	further squinted	238040	238480	start	238520	238560	closed	238600	241560	end	241600	241840
+nose	wrinkle	238040	238720	end	238760	238840
+role shift	Person1	242120	242480
+POS	Noun	238160	238640	Noun	238840	240040	Noun	240560	241080	Noun	241240	241880	Verb	242120	242480
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	47
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	242600
+End frame:	248400
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	011
+main gloss	AWAKE	242840	245320	|>		246360	FALL-ASLEEP	246760	247120	|>		248200
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	242600	243240	end	243280	243360	start	245960	246160	front	246200	247680	end	247720	248080
+head pos: turn	start	242600	242880	right	242920	243280	start	243320	244000	left	244040	246440	start	246480	246800	right	246840	247120	start	247160	247440	right	247480	247600	start	247640	248040	slightly right	248080	248400
+head pos: tilt side	slightly right	242600	242840	start	242880	242920	right	242960	243640	start	243680	244040	left	244080	246360	start	246400	246640	right	246680	248400
+head pos: jut	start	246680	246800	forward	246840	247560	end	247600	247680
+head mvmt: shake	start	246760	247000	rapid	247040	247800	end	247840	248120
+body lean	left	242600	242840	start	242880	243120	right	243160	243400	start	243440	244480	left	244520	246400	start	246440	246680	forward	246720	248240	end	248280	248400
+eye brows	raised	242600	244480	end	244520	246160
+eye aperture	squint	242600	243360	start	243400	243640	closed	243680	246920	start	246960	247040	squint	247080	247480	start	247520	247640	closed	247680	248400
+POS	Verb	242840	245320	Verb	246760	247120
+Notes - number of character bytes:	0
+
+
+Utterance ID:	48
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	248440
+End frame:	254760
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	BCL:"covering the blanket"	248800	250120	|>		252160	SCL:5"house shaking"	252280	252520	LOUD++	252760	253800	SCL:5"house shaking"	253920	254760
+non-dominant hand gloss
+head pos: tilt fr/bk	start	248440	248840	back	248880	252160	start	252200	252680	back	252720	252960	start	253000	253120	front	253160	253320	start	253360	253480	back	253520	253560	start	253600	253680	front	253720	253920	start	253960	254080	back	254120	254160	start	254200	254280	front	254320	254520	start	254560	254720	slightly back	254760	254760
+head pos: turn	start	248440	252120	slightly right	252160	252240	start	252280	252360	left	252400	252520	start	252560	252720	left	252760	252800	start	252840	252880	right	252920	252960	start	253000	253040	left	253080	253360	start	253400	253440	right	253480	253600	start	253640	253680	left	253720	253960	start	254000	254040	right	254080	254200	start	254240	254280	left	254320	254560	start	254600	254640	right	254680	254760
+head pos: tilt side	right	248440	252040	start	252080	252280	left	252320	252480	start	252520	252800	right	252840	252960	start	253000	253040	left	253080	253360	start	253400	253480	right	253520	253560	start	253600	253680	left	253720	253920	start	253960	254040	right	254080	254200	start	254240	254280	left	254320	254520	start	254560	254640	right	254680	254760
+head pos: jut	start	248440	250040	back	250080	252240	start	252280	252360	forward	252400	252560	start	252600	252760	back	252800	253000	start	253040	253200	forward	253240	253320	start	253360	253800	forward	253840	253880	start	253920	254080	back	254120	254360	end	254400	254600
+head mvmt: side to side	start	252200	252280	rapid	252320	254680	end	254720	254760
+body lean	slightly forward	248440	248600	start	248640	249520	back	249560	252160	start	252200	252320	forward/left	252360	252520	start	252560	252760	back/right	252800	253000	start	253040	253200	forward/left	253240	253360	start	253400	253480	back/right	253520	253600	start	253640	253880	left	253920	253960	start	254000	254400	left	254440	254560	start	254600	254720	back/right	254760	254760
+eye brows	start	252040	252160	raised	252200	254760
+eye gaze	left	252120	252280	right	254560	254760
+eye aperture	closed	248440	251480	start	251520	252720	blink	252760	252880	start	252920	253280	blink	253320	253480	start	253520	253560	blink	253600	253720	start	253760	254000	lowered lid	254040	254760
+role shift	Person1	248440	252040
+POS	Classifier	248800	250120	Classifier	252280	252520	Adjective	252760	253800	Classifier	253920	254760
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	49
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	254800
+End frame:	257240
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	THUNDER	254840	255280	RAIN++	255480	256080	THUNDER	256160	256760	CL:5"storm"	256840	257240
+non-dominant hand gloss	THUNDER	255320	255400
+head pos: tilt fr/bk	start	254800	254920	front	254960	257240
+head pos: turn	right	254800	254880	start	254920	254960	left	255000	255680	start	255720	255840	right	255880	256240	start	256280	256400	left	256440	256880	start	256920	257000	right	257040	257240
+head pos: tilt side	right	254800	254840	start	254880	254960	left	255000	255600	start	255640	255720	right	255760	256120	start	256160	256280	left	256320	256800	start	256840	256920	right	256960	257240
+head pos: jut	back	254800	255520	start	255560	256760	slightly forward	256800	257240
+head mvmt: side to side	start	254800	254840	rapid	254880	257160	end	257200	257240
+body lean	right	254800	254840	start	254880	255360	forward/left	255400	255800	start	255840	256120	right	256160	256320	start	256360	256520	forward/left	256560	256880	start	256920	257000	forward	257040	257240
+eye brows	raised	254800	255240	start	255280	255320	slightly lowered	255360	256240	start	256280	256360	lowered	256400	257240
+eye aperture	start	254960	255080	squint	255120	257240
+nose	start	254840	254880	wrinkle	254920	257240
+POS	Noun	254840	255280	Noun	255480	256080	Noun	256160	256760	Classifier	256840	257240
+Non-dominant POS	Noun	255320	255400
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	50
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	257280
+End frame:	262360
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	ICL:"removing the nail"	257520	258160	ICL:"removing the nail"	258920	259320	ICL:"removing the nail"	260160	260520	ICL:"removing the nail"	261320	261880
+non-dominant hand gloss
+head pos: tilt fr/bk	further front	257280	258080	start	258120	258160	front	258200	262360
+head pos: turn	right	257280	257440	start	257480	257560	left	257600	258120	start	258160	258360	right	258400	259000	start	259040	259200	left	259240	260560	start	260600	260840	right	260880	261320	start	261360	261360	slightly right	261400	261560	start	261600	261760	left	261800	262360
+head pos: tilt side	start	257280	257440	left	257480	258080	start	258120	258240	right	258280	258960	start	259000	259240	left	259280	260480	start	260520	260840	right	260880	261600	start	261640	261880	left	261920	262360
+head pos: jut	forward	257280	262360
+head mvmt: side to side	start	257280	257360	rapid	257400	261920	end	261960	262360
+body lean	right	257280	257440	start	257480	257680	forward/left	257720	258120	start	258160	258720	forward/right	258760	259200	start	259240	259960	back/left	260000	260320	start	260360	260440	forward/left	260480	260680	start	260720	261120	back/right	261160	261440	start	261480	261600	forward/right	261640	262360
+eye brows	lowered	257280	262360
+eye gaze
+eye aperture	squint	257280	257400	start	257440	257520	further squinted	257560	262360
+nose	wrinkle	257280	262360
+role shift	Person1	257280	262360
+POS	Classifier	257520	258160	Classifier	258920	259320	Classifier	260160	260520	Classifier	261320	261880
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	51
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	262400
+End frame:	265291
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	BCL:"removing the cover"	262560	264000
+non-dominant hand gloss
+head pos: tilt fr/bk	front	262400	265291
+head pos: turn	left	262400	262440	start	262480	262800	right	262840	263440	start	263480	263840	left	263880	265291
+head pos: tilt side	left	262400	262440	start	262480	262600	right	262640	263720	start	263760	264160	left	264200	265291
+head pos: jut	forward	262400	262680	start	262720	262840	back	262880	263200	start	263240	263880	slightly back	263920	265291
+head mvmt: side to side	start	262400	262520	single	262560	265080	end	265120	265291
+body lean	forward/left	262400	262520	start	262560	263480	right	263520	264120	start	264160	264720	left	264760	265291
+eye brows	lowered	262400	265291
+eye gaze	down	263680	265291
+eye aperture	squint	262400	265291
+nose	wrinkle	262400	265291
+role shift	Person1	262400	265291
+POS	Classifier	262560	264000
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	52
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	265320
+End frame:	270320
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	EMPTY	267920	268760	|>		270320
+non-dominant hand gloss
+head pos: tilt fr/bk	front	265320	270320
+head pos: turn	left	265320	267720	start	267760	268440	slightly right	268520	269800	start	269840	270280	slightly left	270320	270320
+head pos: tilt side	left	265320	270320
+head pos: jut	back	265320	267680	end	267720	268080
+body lean	left	265320	270320
+eye brows	slightly lowered	265320	269920	end	269960	270200
+eye gaze	down	265320	267600	up/left	267640	267920	left	269240	269440	down/left	270000	270320
+eye aperture	slightly squinted	265320	268200	end	268240	268760
+nose	wrinkle	265320	268440	end	268480	268800
+role shift	Person1	265320	270320
+POS	Adjective	267920	268760
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	53
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	270360
+End frame:	275480
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	WHERE	273400	273680	GO	273840	274240	WHERE	274400	274760	GO	274960	275480
+non-dominant hand gloss
+head pos: tilt fr/bk	front	270360	275480
+head pos: turn	slightly left	270360	270760	start	270800	271800	right	271840	274480	start	274520	274840	left	274880	275480
+head pos: tilt side	left	270360	275480
+head pos: jut	start	274240	274280	forward	274320	275480
+head mvmt: shake	start	274280	274400	single	274440	275400	end	275440	275480
+body lean	left	270360	273440	start	273480	274160	forward	274200	275480
+eye brows	slightly lowered	270360	270840	end	270880	271080
+eye gaze	down/left	270360	270400	down	270480	271320	up/right	271560	272680	up/right	273440	274080	left	274840	275480
+wh question	wh	270360	270840
+role shift	Person1	270360	275480
+POS	Wh-word	273400	273680	Verb	273840	274240	Wh-word	274400	274760	Verb	274960	275480
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	54
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	275520
+End frame:	278120
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	REALLY	276600	276760	part:indef	276880	277120	|>		278120
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	275520	275800	end	275840	275960
+head pos: turn	left	275520	275920	end	275960	276120	start	276480	276520	right	276560	276680	start	276720	276920	left	276960	277920	end	277960	278120
+head pos: tilt side	slightly left	275520	276120	end	276160	276240
+head pos: jut	forward	275520	275920	end	275960	276080	start	277920	278000	forward	278040	278120
+head mvmt: shake	start	275520	275640	slow	275680	278080	end	278120	278120
+body lean	forward/left	275520	275880	end	275920	276000	start	277760	277840	left	277880	278120
+eye gaze	left	275520	275720	right	275920	276680	left	276840	277560	right	277880	278120
+eye aperture	start	275640	275720	blink	275760	275880	end	275920	276000	start	276600	276640	blink	276680	276840	end	276880	276960
+role shift	Person1	275520	278120
+POS	Discourse Marker	276600	276760	Particle	276880	277120
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	55
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	278160
+End frame:	279800
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	REALLY	278320	278440	MAN	278640	279000	HERE	279080	279640	|>		279800
+non-dominant hand gloss
+head pos: tilt fr/bk	start	278440	278480	front	278520	279800
+head pos: turn	start	278160	278240	right	278280	279280	start	279320	279600	left	279640	279800
+head pos: tilt side	start	279320	279400	slightly left	279440	279800
+head pos: jut	forward	278160	279800
+head mvmt: shake	start	278160	278280	single	278320	279720	end	279760	279800
+body lean	start	278680	278760	slightly forward	278800	279800
+eye brows	start	278240	278360	raised	278400	279800
+eye gaze	right	278160	278640	left	279280	279800
+eye aperture	start	278280	278400	wide	278440	279800
+role shift	Person1	278160	279800
+POS	Discourse Marker	278320	278440	Noun	278640	279000	Pronoun	279080	279640
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	56
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	279840
+End frame:	281240
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-1p	279960	280120	KILL	280320	280720	IX-3p:i	280840	281120	|>		281240
+non-dominant hand gloss	HERE	279840	279880	|>		280160	KILL	280320	280720	|>		281240
+head pos: tilt fr/bk	slightly front	279840	280880	end	280920	281120
+head pos: turn	left	279840	281240
+head pos: tilt side	slightly left	279840	280000	end	280040	280160
+head pos: jut	start	280560	280720	forward	280760	281240
+body lean	slightly forward	279840	280000	end	280040	280160	start	280600	280720	forward/left	280760	281240
+eye brows	raised	279840	281240
+eye gaze	left	279840	279920	right	280760	281080	up/right	281120	281240
+eye aperture	wide	279840	281240
+role shift	Person1	279840	281240
+POS	Pronoun	279960	280120	Verb	280320	280720	Pronoun	280840	281120
+Non-dominant POS	Pronoun	279840	279880	Verb	280320	280720
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	57
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	281280
+End frame:	283240
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-1p	281400	281520	EAT	281640	282040	IX-2p	282160	282200	HEART	282320	283160
+non-dominant hand gloss	KILL	281280	281320	|>		283240
+head pos: tilt fr/bk	front	281280	281480	end	281520	281600	start	282520	282600	front	282640	283240
+head pos: turn	left	281280	281440	start	281480	281720	right	281760	283240
+head pos: tilt side	start	282960	283160	slightly left	283200	283240
+head pos: jut	forward	281280	281520	end	281560	281640
+body lean	forward/left	281280	281440	end	281480	281560	start	283160	283200	slightly forward	283240	283240
+eye brows	raised	281280	283240
+eye gaze	right	281280	281760
+eye aperture	wide	281280	283240
+role shift	Person1	281280	283240
+POS	Pronoun	281400	281520	Verb	281640	282040	Pronoun	282160	282200	Noun	282320	283160
+Non-dominant POS	Verb	281280	281320
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	58
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	283280
+End frame:	287680
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	THAT	283360	283640	IX-2p	283800	284000	SOME	284360	284520	WHERE	284600	284880	HERE	285000	285120	IN	285200	285280	HOUSE	285400	285920
+non-dominant hand gloss
+head pos: tilt fr/bk	further front	283280	284680	start	284720	285040	slightly front	285080	287680
+head pos: turn	right	283280	284120	start	284160	284400	left	284440	285160	start	285200	285680	right	285720	286240	start	286280	286560	left	286600	286960	start	287000	287520	right	287560	287680
+head pos: tilt side	slightly left	283280	284200	end	284240	284440	start	286520	286720	left	286760	287680
+head pos: jut	start	283720	283920	forward	283960	284760	start	284800	285440	slightly back	285480	287680
+head mvmt: shake	start	283960	284160	slow	284200	287520	end	287560	287680
+body lean	slightly forward	283280	283400	start	283440	283720	forward	283760	284760	start	284800	285680	back/left	285720	286160	end	286200	286720
+eye brows	raised	283280	285800	end	285840	286160
+eye gaze	left	284120	284800	right	285560	286120	left	286240	287120	right	287560	287680
+eye aperture	start	285840	286040	blink	286080	286280	end	286320	286480	start	287320	287400	blink	287440	287640	end	287680	287680
+role shift	Person1	283280	287680
+POS	Pronoun	283360	283640	Pronoun	283800	284000	Adjective	284360	284520	Wh-word	284600	284880	Pronoun	285000	285120	Preposition	285200	285280	Noun	285400	285920
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	59
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	287720
+End frame:	291320
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	part:indef	287960	288120	part:indef	289240	289480	BCL:"putting the cover back"	290320	291320
+non-dominant hand gloss
+head pos: tilt fr/bk	start	287720	288080	slightly front	288120	289360	start	289400	289680	front	289720	291320
+head pos: turn	right	287720	288200	start	288240	288520	left	288560	290240	start	290280	290400	slightly left	290440	290720	start	290760	290840	left	290880	291320
+head pos: tilt side	slightly left	287720	287960	end	288000	288080	start	288720	288840	slightly left	288880	291320
+head pos: jut	start	287720	287840	slightly back	287880	291320
+head mvmt: shake	start	287720	288080	single	288120	290000	end	290040	290240
+body lean	back/left	287720	287960	end	288000	288080	start	290040	290240	forward/right	290280	291000	start	291040	291160	forward	291200	291320
+eye gaze	right	287720	288000	left	288240	289680	down	289960	291320
+eye aperture	start	287720	287960	blink	288000	288200	end	288240	288360	start	290360	290440	blink	290480	290600	start	290640	291000	blink	291040	291120	end	291160	291240
+role shift	Person1	287720	291320
+POS	Particle	287960	288120	Particle	289240	289480	Classifier	290320	291320
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	60
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	291360
+End frame:	297000
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	012
+main gloss	ICL:"nailing"	291680	291920	ICL:"nailing"	292720	293040	ICL:"nailing"	294000	294160	ICL:"nailing"	294800	295120	BCL:"pushing the coffin"	295400	296280
+non-dominant hand gloss
+head pos: tilt fr/bk	front	291360	297000
+head pos: turn	left	291360	291920	start	291960	292720	right	292760	293000	start	293080	293560	left	293600	294080	start	294120	294720	slightly right	294760	295080	start	295120	296040	left	296080	297000
+head pos: tilt side	left	291360	291920	start	291960	292640	right	292680	293200	start	293240	293680	left	293720	294320	start	294360	295080	right	295120	295640	end	295680	296120
+head pos: jut	slightly back	291360	293600	start	293640	294080	back	294120	297000
+body lean	forward/left	291360	291960	start	292000	292680	forward/right	292720	293280	start	293320	294000	back/left	294040	294560	start	294600	295000	back/right	295040	295200	start	295240	295680	forward	295720	296280	end	296320	297000
+eye gaze	down	291360	291920	down/right	292000	293040	down	293080	294200	down/right	294280	294680	down	294720	295720	left	296120	296320	up/left	296400	297000
+eye aperture	start	291400	291840	blink	291880	292000	start	292040	292920	blink	292960	293040	end	293080	293280
+role shift	Person1	291360	297000
+POS	Classifier	291680	291920	Classifier	292720	293040	Classifier	294000	294160	Classifier	294800	295120	Classifier	295400	296280
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	61
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	297040
+End frame:	300480
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	IX-1p	298360	298480	BETTER	298680	298880	GO	299040	299840
+non-dominant hand gloss
+head pos: tilt fr/bk	start	298760	298920	front	298960	300480
+head pos: turn	left	297040	297320	end	297360	297520	start	298600	298760	left	298800	300480
+head pos: tilt side	start	298560	298720	left	298760	300480
+head pos: jut	back	297040	300160	end	300200	300360
+head mvmt: nod
+	start	297160	297360	rapid	297400	298280	end	298320	298440
+body lean	slightly back	297040	297640	end	297680	297800	start	298520	298680	right	298720	298960	start	299000	299880	left	299920	300320	end	300360	300480
+eye brows	start	297840	297920	slightly lowered	297960	298120	start	298160	298480	slightly lowered	298520	298760	end	298800	298920
+eye gaze	up	297040	297480	up/right	297520	297880	up/left	298000	300360	left	300400	300480
+nose	start	297760	297880	wrinkle	297920	298040	start	298080	298480	wrinkle	298520	298840	end	298880	299000
+role shift	Person1	297040	300480
+POS	Pronoun	298360	298480	Adjective	298680	298880	Verb	299040	299840
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	62
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	300520
+End frame:	303840
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	IX-1p	302400	302560	IMAGINE	302720	303160	THING	303240	303520	NAH	303600	303840
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	300520	302400	end	302440	302600	start	303160	303200	front	303240	303840
+head pos: turn	left	300520	301520	end	301560	301720	start	302280	302400	right	302440	303840
+head pos: tilt side	slightly left	300520	301680	end	301720	301840	start	302440	302560	right	302600	303840
+head pos: jut	start	300520	300760	slightly back	300800	303840
+head mvmt: shake	start	303240	303520	slight rapid headshake	303560	303840
+body lean	left	300520	300760	end	300800	300880	start	303520	303600	slightly back	303640	303840
+eye brows	start	302320	302400	lowered	302440	303840
+eye gaze	left	300520	300680	left	302000	302160
+eye aperture	start	300520	300680	blink	300720	301080	end	301120	301240	start	302040	302160	closed	302200	303840
+negative	neg	303560	303840
+role shift	Person1	300520	303840
+POS	Pronoun	302400	302560	Verb	302720	303160	Noun	303240	303520	Negation	303600	303840
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	63
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	303880
+End frame:	304840
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	IX-1p	304000	304040	IMAGINE	304120	304360	THING	304440	304640	NAH	304720	304840
+non-dominant hand gloss
+head pos: tilt fr/bk	front	303880	304840
+head pos: turn	right	303880	304000	start	304040	304200	slightly left	304240	304720	start	304760	304800	slightly right	304840	304840
+head pos: tilt side	right	303880	304120	end	304160	304200	start	304480	304640	left	304680	304800	end	304840	304840
+head pos: jut	back	303880	303960	start	304000	304160	slightly back	304200	304840
+head mvmt: shake	start	304120	304160	slight rapid headshake	304200	304800	end	304840	304840
+body lean	slightly back	303880	304080	end	304120	304200
+eye brows	lowered	303880	304840
+eye aperture	closed	303880	304840
+nose	start	304400	304440	wrinkle	304480	304840
+negative	neg	304200	304800
+role shift	Person1	303880	304840
+POS	Pronoun	304000	304040	Verb	304120	304360	Noun	304440	304640	Negation	304720	304840
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	64
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	304880
+End frame:	306880
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	IX-1p	304920	305000	#BACK	305120	305360	BED	305480	305800	NAH	305960	306320
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	304880	305400	start	305440	305640	front	305680	306880
+head pos: turn	right	304880	305160	start	305200	305400	left	305440	305960	start	306000	306360	right	306400	306880
+head pos: tilt side	start	304880	305000	right	305040	305160	start	305200	305400	left	305440	306160	end	306200	306320	start	306520	306560	right	306600	306880
+head pos: jut	back	304880	305360	end	305400	305480	start	306400	306480	slightly back	306520	306880
+head mvmt: shake	start	306280	306320	slight rapid headshake	306360	306760	end	306800	306880
+body lean	slightly back	304880	305360	start	305400	305680	forward	305720	306600	end	306640	306800
+eye brows	lowered	304880	306880
+eye aperture	closed	304880	306880
+nose	wrinkle	304880	306880
+negative	neg	306360	306760
+role shift	Person1	304880	306880
+POS	Pronoun	304920	305000	Adjective	305120	305360	Noun	305480	305800	Negation	305960	306320
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	65
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	306920
+End frame:	309440
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	SCL:"person walking upstair"	307040	308480	SLEEP	308880	309440
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	306920	306960	start	307000	307200	front	307240	308960	end	309000	309120
+head pos: turn	right	306920	307920	start	307960	308440	left	308480	309160	end	309200	309360
+head pos: tilt side	slightly right	306920	306960	start	307000	307040	right	307080	307800	start	307840	308240	left	308280	309440
+head pos: jut	back	306920	307840	start	307880	308280	forward	308320	308960	start	309000	309240	slightly back	309280	309440
+head mvmt: side to side	start	307040	307240	single	307280	309200	end	309240	309360
+body lean	start	306920	307240	back/right	307280	307680	start	307720	308080	forward/right	308120	308400	start	308440	309080	left	309120	309440
+eye brows	lowered	306920	307880	end	307920	308080
+eye aperture	closed	306920	307880	start	307920	308040	further squinted	308080	308680	start	308720	308760	closed	308800	309440
+nose	wrinkle	306920	307840	end	307880	308040
+POS	Classifier	307040	308480	Verb	308880	309440
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	66
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	309480
+End frame:	316480
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	SUNSET	309920	310400	SUNRISE	311800	313240	AGAIN	313400	313680	LOUD	313800	314120	SCL:5"house shaking"	314200	315440	LOUD	315720	316480
+non-dominant hand gloss
+head pos: tilt fr/bk	start	309480	309680	back	309720	310960	start	311000	313240	back	313280	313320	start	313360	313480	front	313520	313640	start	313680	313880	slightly back	313920	313960	start	314000	314080	front	314120	316480
+head pos: turn	start	309480	309720	right	309760	311480	start	311520	312720	left	312760	313600	start	313640	313760	right	313800	313960	start	314000	314040	left	314080	314440	start	314480	314560	right	314600	314720	start	314760	314800	left	314840	315040	start	315080	315120	right	315160	315280	start	315320	315400	left	315440	315960	start	316000	316120	slightly right	316160	316160
+head pos: tilt side	start	309480	309680	right	309720	311240	start	311280	312000	left	312040	313640	start	313680	313720	right	313760	313960	start	314000	314160	left	314200	314480	start	314520	314560	right	314600	314680	start	314720	314760	left	314800	315000	start	315040	315120	slightly right	315160	315280	start	315320	315360	left	315400	315960	start	316000	316040	right	316080	316160	end	316480	316480
+head pos: jut	back	309480	310680	start	310720	311280	forward	311320	313360	start	313400	314120	slightly back	314160	316480
+head mvmt: side to side	start	313400	313640	rapid	313680	316160	end	316480	316480
+body lean	left	309480	309720	start	309760	310320	right	310360	311240	start	311280	311960	forward/left	312000	313680	start	313720	313920	back/right	313960	314320	start	314360	314440	left	314480	314520	start	314560	314920	forward/left	314960	315080	start	315120	315760	forward	315800	316160	end	316480	316480
+eye brows	start	311280	311800	raised	311840	316480
+eye gaze	left	312000	312280	up	312400	313280
+eye aperture	closed	309480	311640	start	311680	313680	blink	313720	314040	end	314080	314160	start	315360	315520	squint	315560	316480
+nose	start	313440	313680	tensed	313720	315040	end	315080	315200
+POS	Noun	309920	310400	Noun	311800	313240	Adverb	313400	313680	Adjective	313800	314120	Classifier	314200	315440	Adjective	315720	316480
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	67
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	316520
+End frame:	318760
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	013
+main gloss	WOOD	316600	316880	DCL:"shape of the wood"	317080	317720	SCL:5"coffin shaking"	317880	318760
+non-dominant hand gloss
+head pos: tilt fr/bk	front	316520	318760
+head pos: turn	left	316520	316600	start	316640	316920	right	316960	317920	start	317960	318000	left	318040	318240	start	318280	318480	left	318520	318760
+head pos: tilt side	slightly left	316520	316560	end	316600	316680	start	317760	317800	slightly right	317840	317880	start	317920	317960	left	318000	318200	start	318240	318320	slightly right	318360	318400	start	318440	318480	left	318520	318760
+head pos: jut	back	316520	318760
+head mvmt: side to side	start	317800	317840	rapid	317880	318720	end	318760	318760
+body lean	slightly back	316520	316960	start	317000	317240	back/left	317280	317840	start	317880	318120	slightly back	318160	318680	end	318720	318760
+eye brows	raised	316520	318760
+eye gaze	down/left	318480	318760
+eye aperture	start	317080	317160	wide	317200	318320	end	318360	318400
+POS	Noun	316600	316880	Classifier	317080	317720	Classifier	317880	318760
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	68
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	318800
+End frame:	321200
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	015
+main gloss	SCL:1"person walking downstair"	318840	319320	ICL:"removing the nail"	319600	319880	ICL:"removing the nail"	320120	320440	ICL:"removing the nail"	320640	320840	ICL:"removing the nail"	321080	321200
+non-dominant hand gloss
+head pos: tilt fr/bk	front	318800	321200
+head pos: turn	left	318800	318920	start	318960	319160	right	319200	319360	start	319400	319520	left	319560	319840	start	319880	319920	right	319960	320520	start	320560	320680	left	320720	320760	start	320800	320920	right	320960	321200
+head pos: tilt side	slightly left	318800	318920	start	318960	319040	slightly right	319080	319360	start	319400	319520	left	319560	319840	start	319880	319960	right	320000	320480	start	320520	320680	slightly left	320720	320840	start	320880	321160	slightly right	321200	321200
+head pos: jut	back	318800	318840	start	318880	319120	forward	319160	319280	start	319320	319400	back	319440	319760	end	319800	319840	start	320440	320640	back	320680	321200
+head mvmt: side to side	start	318800	318920	rapid	318960	321160	end	321200	321200
+body lean	start	318800	319000	forward	319040	319400	start	319440	319560	forward/left	319600	319920	start	319960	320120	forward/right	320160	320480	start	320520	320800	left	320840	321040	start	321080	321160	forward	321200	321200
+eye brows	raised	318800	320440	start	320480	320640	lowered	320680	321200
+eye gaze	down	318800	319440
+eye aperture	start	319320	319400	closed	319440	321200
+nose	start	318960	319280	wrinkle	319320	321200
+role shift	Person1	319600	321200
+POS	Classifier	318840	319320	Classifier	319600	319880	Classifier	320120	320440	Classifier	320640	320840	Classifier	321080	321200
+English translation
+Notes - number of character bytes:	0
+
+
+Utterance ID:	69
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	scary story:scary_story_1048_small_0.mov
+Video	scary story:scary_story_1048_small_2.mov
+Video	scary story:scary_story_1048_small_3.mov
+Video	
+Audio	
+Start frame:	321240
+End frame:	326480
+Number of participant panes:	1
+Participant:	Michael Schlang
+Number of fields:	014
+main gloss	BCL:"removing the cover"	321280	321800	ICL:"choking person"	322080	324680
+non-dominant hand gloss
+head pos: tilt fr/bk	front	321240	321760	start	321800	322240	further back	322280	323280	start	323320	324800	front	324840	326480
+head pos: turn	right	321240	321600	start	321640	321760	left	321800	321840	start	321880	323400	right	323440	325560	start	325600	326200	slightly left	326240	326480
+head pos: tilt side	right	321240	321600	start	321640	321760	slightly left	321800	321920	start	321960	323160	slightly right	323200	323400	start	323440	324600	right	324640	325600	end	325640	326080
+head pos: jut	back	321240	324760	end	324800	325160
+body lean	forward	321240	321760	start	321800	322320	back	322360	323200	end	323240	323360	start	325960	326120	left	326160	326480
+eye brows	lowered	321240	321440	end	321480	321680
+eye gaze	left	321600	321760
+eye aperture	further squinted	321240	321600	start	321640	321760	blink	321800	321880	start	321920	322240	lowered lid	322280	325360	end	325400	325600
+nose	wrinkle	321240	321640	end	321680	321760
+role shift	Person1	321240	322800
+POS	Classifier	321280	321800	Classifier	322080	324680
+English translation
+Notes - number of character bytes:	0

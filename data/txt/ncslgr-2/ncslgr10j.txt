@@ -1,0 +1,92 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	ncslgr10j	Firewire 38200:NCSLGRv2:ncslgr10j
+Number of utterances:	3
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:641_master_small.mov
+Video	NCSLGRv2:video files:slave1:641_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:641_slave2_small.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1120
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	012
+main gloss	TEACHER	240	340	NOW	360	420	IX-loc:i	440	620	IN	720	800	MOVIE	900	1080
+non-dominant hand gloss	NOW	360	420	|>		500
+head pos: tilt fr/bk	slightly back	0	320	start	340	760	slightly front	780	1120
+head pos: tilt side	start	680	840	slightly right	860	1120
+head pos: turn	start	640	880	slightly right	900	1120
+head pos: jut	start	420	820	back	840	1120
+body lean	start	0	200	back	220	1120
+eye brows	start	80	160	raised	180	380	start	400	680	slightly lowered	700	1000	start	1020	1080	slightly raised	1100	1120
+eye aperture	start	20	40	blink	60	120	start	140	220	wide	240	420	end	440	500	start	680	760	squint	780	840	start	860	920	lowered lid	940	1060	blink	1080	1100
+eye gaze	right	340	440
+POS	Noun	240	340	Adverb	360	420	Adverb	440	620	Preposition	720	800	Noun	900	1080
+English translation	The teacher is in the movie theatre.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:641_master_small.mov
+Video	NCSLGRv2:video files:slave1:641_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:641_slave2_small.mov
+Video	
+Audio	
+Start frame:	1120
+End frame:	2500
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	012
+main gloss	IX-3p:i	1160	1240	END	1340	1520	WATCH	1600	1620	MOVIE	1720	1840	BUY	1920	2040	BOOK+	2160	2400
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	1120	1160	start	1180	1320	slightly back	1340	1400	start	1420	1740	slightly front	1760	1820	end	1840	1900	start	2120	2180	slightly front	2200	2360	start	2380	2480	slightly back	2500	2500
+head pos: tilt side	slightly right	1120	1260	end	1280	1420
+head pos: turn	slightly right	1120	1800	end	1820	1900
+head pos: jut	back	1120	1120	end	1140	1220	start	1300	1520	back	1540	1780	end	1800	1920
+body lean	back	1120	2500
+eye brows	slightly raised	1120	1760	end	1780	1880	start	2300	2360	raised	2380	2500
+eye aperture	start	1140	1180	wide	1200	1780	blink	1800	1840	blink	2340	2340	start	2360	2400	wide	2420	2500
+eye gaze	right	1140	1780	down	2460	2500
+POS	Pronoun	1160	1240	Verb	1340	1520	Verb	1600	1620	Noun	1720	1840	Verb	1920	2040	Noun	2160	2400
+English translation	After the teacher watches the movie he/she will buy a book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:641_master_small.mov
+Video	NCSLGRv2:video files:slave1:641_slave1_small.mov
+Video	NCSLGRv2:video files:slave2:641_slave2_small.mov
+Video	
+Audio	
+Start frame:	2500
+End frame:	4220
+Number of participant panes:	1
+Participant:	Participant1
+Number of fields:	013
+main gloss	BOOK	2660	2820	FUTURE	2920	2940	GIFT:j	3100	3220	STUDENT	3380	3660
+non-dominant hand gloss
+topic	top1	2500	2860
+head pos: tilt fr/bk	slightly back	2500	3060	end	3080	3260	start	3420	3640	slightly front	3660	3680	end	3700	3880
+head pos: tilt side	start	2500	2920	slightly left	2940	3680	end	3700	3840
+head pos: turn	start	2940	3100	slightly right	3120	3700	end	3720	3940
+head mvmt: nod	rapid	2820	2960
+body lean	back	2500	3160	end	3180	3680
+eye brows	raised	2500	2860	end	2900	3080
+eye aperture	wide	2500	2840	end	2860	2920	start	3200	3220	blink	3240	3260	end	3280	3380	start	3640	3660	closed	3680	3820
+eye gaze	down	2500	2640
+POS	Noun	2660	2820	Tense Marker	2920	2940	Verb	3100	3220	Noun	3380	3660
+English translation	The teacher will give the book to a student.
+Notes - number of character bytes:	0

@@ -1,0 +1,1513 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	close call	Firewire 38200:NCSLGRv3:close call
+Number of utterances:	52
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	0
+End frame:	2120
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	008
+main gloss	IX-1p	400	440	REMEMBER	620	740	PAST+	940	1540	IX-1p	1660	1720	DRIVE	1820	2120
+non-dominant hand gloss
+head pos: tilt fr/bk	back	0	2120
+head pos: turn	start	660	800	right	820	1480	start	1500	1700	slightly left	1720	2120
+head pos: tilt side	start	100	280	right	300	1500	end	1520	1700
+eye aperture	start	0	80	blink	100	640	end	660	800	start	1360	1400	blink	1420	1500	end	1520	1700
+POS	Pronoun	400	440	Verb	620	740	Tense Marker	940	1540	Pronoun	1660	1720	Verb	1820	2120
+English translation	I remember a while ago when I was driving.
+Notes - number of character bytes:	5
+- CBD
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	2140
+End frame:	2920
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	010
+main gloss	TRIP	2300	2660	fs-US	2760	2920
+non-dominant hand gloss	DRIVE	2140	2160	|>		2180
+head pos: tilt fr/bk	back	2140	2920
+head pos: turn	slightly left	2140	2920
+head pos: tilt side	start	2140	2180	slightly left	2200	2580	end	2600	2680
+head mvmt: nod	start	2680	2700	slight rapid headnod	2720	2900	end	2920	2920
+eye aperture	start	2140	2180	squint	2200	2580	end	2600	2680
+POS	Noun	2300	2660	Proper Noun	2760	2920
+Non-dominant POS	Verb	2140	2160
+English translation	I was travelling over the U.S.
+Notes - number of character bytes:	16
+-TRIP or TRAVEL?
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	2940
+End frame:	4480
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	ON	3040	3080	HIGHWAY	3200	3360	EIGHTY	3440	3860	CL:B"crossing the road"	4040	4480
+non-dominant hand gloss
+head pos: tilt fr/bk	back	2940	3360	end	3380	3480
+head pos: turn	slightly left	2940	4480
+head pos: jut	start	2940	3060	back	3080	3860	end	3880	3980	start	4400	4440	back	4460	4480
+body lean	start	2960	3080	slightly back	3100	4260	end	4280	4440
+eye brows	start	2940	3000	raised	3020	4420	end	4440	4480
+eye gaze	right	3860	4020	up	4040	4180
+eye aperture	start	3380	3480	wide	3500	3620	start	3640	3820	squint	3840	4060	start	4080	4240	wide	4260	4400	start	4420	4460	closed	4480	4480
+POS	Preposition	3040	3080	Noun	3200	3360	Number	3440	3860	Classifier	4040	4480
+English translation	Route 80 on the highway across the country.
+Notes - number of character bytes:	13
+- correct cl?
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	4500
+End frame:	6260
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	010
+main gloss	IX-1p	4580	4600	DRIVE++	4800	6260
+non-dominant hand gloss
+head pos: tilt fr/bk	start	4500	4580	back	4600	6260
+head pos: turn	slightly left	4500	6260
+head pos: jut	slightly back	4500	4540	end	4560	4600
+head pos: tilt side	start	4580	4680	left	4700	6180	end	6200	6240
+eye brows	start	4560	4600	slightly lowered	4620	5400	end	5420	5560	start	6060	6120	slightly lowered	6140	6260
+eye aperture	closed	4500	4680	end	4700	4840	start	5440	5500	blink	5520	5640	end	5660	5740	start	5980	6080	blink	6100	6160	start	6180	6240	closed	6260	6260
+POS	Pronoun	4580	4600	Verb	4800	6260
+English translation	I was driving.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	6280
+End frame:	8220
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	DRY	6520	7200	CL:5"plain on the road"++	7280	8220
+non-dominant hand gloss	DRIVE	6280	6300	|>		7220
+head pos: tilt fr/bk	back	6280	8220
+head pos: turn	slightly left	6280	6360	start	6380	6720	slightly right	6760	7200	end	7220	7240	start	7400	7440	slightly left	7460	8220
+head pos: tilt side	start	6460	6620	slightly right	6640	7220	end	7240	7320	start	7680	7780	slightly left	7800	8220
+body lean	start	6300	6460	right	6480	7220	end	7240	7340
+eye brows	slightly lowered	6280	6420	end	6440	6580
+eye gaze	up/right	6600	6940
+eye aperture	closed	6280	6320	end	6340	6460
+POS	Adjective	6520	7200	Classifier	7280	8220
+Non-dominant POS	Verb	6280	6300
+English translation	There was dry and plain on the road while I was driving.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	8240
+End frame:	9760
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	DRIVE+	8340	8880	BORE	9080	9280	IX-1p	9360	9420	DRIVE	9480	9520	DO	9620	9760
+non-dominant hand gloss	DRIVE+	8340	8880	|>		9460
+head pos: tilt fr/bk	back	8240	9760
+head pos: turn	slightly left	8240	9000	start	9020	9300	slightly right	9320	9400	start	9420	9660	left	9680	9760
+head pos: tilt side	slightly left	8240	8900	start	8920	9120	right	9160	9400	start	9420	9660	left	9680	9760
+head pos: jut	start	9160	9280	slightly back	9300	9760
+body lean	start	8240	8280	back	8300	8660	end	8680	8800
+eye aperture	start	8760	8820	blink	8840	8940	start	8960	9220	blink	9240	9420	start	9440	9460	closed	9480	9560	start	9580	9620	lowered lid	9640	9720	start	9740	9740	closed	9760	9760
+POS	Verb	8340	8880	Adjective	9080	9280	Pronoun	9360	9420	Verb	9480	9520	Verb	9620	9760
+Non-dominant POS	Verb	8340	8880
+English translation	I was driving and feel bored. So, I figured out what should I do while I am driving.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	9780
+End frame:	11600
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	IX-1p	9800	9860	DRIVE	9920	10400	IX-1p	10480	10540	THINK	10660	10740	WHY	10800	10880	NOT	10940	10980	TURN-OFF	11180	11600
+non-dominant hand gloss	DRIVE	9920	10400	|>		10980
+head pos: tilt fr/bk	back	9780	11600
+head pos: turn	left	9780	9920	end	9940	10160
+head pos: tilt side	left	9780	9980	end	10000	10120	start	10680	10720	slightly right	10740	11160	start	11180	11280	right	11300	11600
+head pos: jut	slightly back	9780	10400	end	10420	10540
+body lean	start	11160	11240	back right	11260	11520	end	11540	11600
+eye aperture	closed	9780	9840	start	9860	9880	blink	9900	10220	end	10240	10400	start	10480	10500	blink	10520	10580	end	10600	10700
+POS	Pronoun	9800	9860	Verb	9920	10400	Pronoun	10480	10540	Verb	10660	10740	Wh-word	10800	10880	Negation	10940	10980	Verb	11180	11600
+Non-dominant POS	Verb	9920	10400
+English translation	I thought why not to turn off the way while drive.
+Notes - number of character bytes:	43
+- What is the correct gloss for "TURN OFF"?
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	11620
+End frame:	12780
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	010
+main gloss	CL:B"driving curve"	11700	12420	COUNTRY	12480	12780
+non-dominant hand gloss
+head pos: tilt fr/bk	back	11620	12780
+head pos: turn	start	11620	11680	right	11700	11760	end	11780	11840	start	12060	12120	right	12140	12220	start	12240	12420	slightly left	12440	12780
+head pos: tilt side	slightly right	11620	12780
+head pos: jut	start	11620	11680	slightly forward	11700	12780
+head mvmt: shake	start	11620	11720	rapid	11740	12420	end	12440	12520
+eye gaze	up	11760	11980	up/right	12000	12300
+POS	Classifier	11700	12420	Noun	12480	12780
+English translation	I was driving through the country.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	12800
+End frame:	14140
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	CL:1"driving curve"	12800	13400	CL:1"one way highway"	13520	13740	CL:1"driving curve"	13820	14140
+non-dominant hand gloss
+head pos: tilt fr/bk	back	12800	14140
+head pos: turn	slightly left	12800	13840	end	13860	13940
+head pos: tilt side	slightly right	12800	14140
+head pos: jut	slightly forward	12800	14140
+body lean	start	13080	13120	left	13140	13400	start	13420	13580	right	13600	13740	start	13760	13820	slightly back	13840	14140
+eye gaze	up/right	13840	13960
+eye aperture	start	14000	14060	blink	14080	14120	end	14140	14140
+POS	Classifier	12800	13400	Classifier	13520	13740	Classifier	13820	14140
+English translation
+Notes - number of character bytes:	62
+- the Second CL, thats what Lana said.
+- english translation??
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	14160
+End frame:	14800
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	WHY	14200	14220	NOT	14260	14280	IX-1p	14320	14360	DRIVE	14400	14620	AHEAD	14680	14800
+non-dominant hand gloss
+head pos: tilt fr/bk	back	14160	14800
+head pos: turn	start	14340	14380	slightly left	14400	14680	end	14700	14740
+head pos: jut	slightly forward	14160	14800
+head pos: tilt side	slightly right	14160	14320	end	14340	14380
+body lean	slightly back	14160	14280	end	14300	14340
+eye brows	start	14340	14380	lowered	14400	14800
+eye aperture	start	14240	14260	closed	14280	14380	start	14400	14420	lowered lid	14440	14660	start	14680	14700	blink	14720	14780	end	14800	14800
+POS	Wh-word	14200	14220	Negation	14260	14280	Pronoun	14320	14360	Verb	14400	14620	Adverb	14680	14800
+English translation	Thought why not for me to go ahead drive.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	14820
+End frame:	15520
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	IX-1p	14860	14880	LOOK	14940	14960	IX-3p:i	14980	15120	CURVE	15200	15520
+non-dominant hand gloss
+head pos: tilt fr/bk	back	14820	15020	end	15040	15080	start	15100	15120	slightly front	15140	15220	end	15240	15260	start	15280	15320	back	15340	15520
+head pos: tilt side	start	14900	14940	slightly right	14960	15520
+head pos: jut	slightly forward	14820	14860	end	14880	14940	start	15020	15060	back	15080	15280	end	15300	15340
+head mvmt: nod	start	14980	15020	slow	15040	15360	end	15380	15420
+body lean	start	14940	14960	back	14980	15060	end	15080	15140
+eye brows	slightly lowered	14820	14820	start	14840	14860	raised	14880	15000	end	15020	15100
+eye gaze	up/right	14860	15160	up/right	15360	15520
+eye aperture	start	14840	14860	wide	14880	15020	end	15040	15100
+POS	Pronoun	14860	14880	Verb	14940	14960	Pronoun	14980	15120	Adjective	15200	15520
+English translation	I saw there is a road off from the highway.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	15560
+End frame:	16740
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	IX-1p	15620	15680	CL:S"turning the wheel"	15800	15900	CL:3"vehicle moving turn"	16000	16740
+non-dominant hand gloss
+head pos: tilt fr/bk	back	15560	15620	start	15640	15820	further front	15840	15940	start	15960	16060	back	16080	16340	start	16360	16440	front	16460	16500	start	16520	16600	back	16620	16740
+head pos: turn	start	15720	15800	right	15820	16540	end	16560	16620
+head pos: tilt side	slightly right	15560	15660	start	15680	15740	right	15760	16500	end	16520	16660
+head pos: jut	start	15560	15640	back	15660	15940	end	15960	16060
+body lean	start	15800	15880	right	15900	16560	end	16580	16680
+eye gaze	up/right	15560	15600
+eye aperture	start	15560	15620	closed	15640	15800	end	15820	15880
+POS	Pronoun	15620	15680	Classifier	15800	15900	Classifier	16000	16740
+English translation	I turned the wheel to pull over.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	16760
+End frame:	17980
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	010
+main gloss	DRIVE	16980	17140	CL:3"vehicle moving curve"	17220	17980
+non-dominant hand gloss	CL:3"vehicle moving turn"	16760	16780	|>		16880
+head pos: tilt fr/bk	back	16760	17980
+head pos: turn	start	16780	16880	left	16900	17160	start	17180	17360	slightly right	17380	17520	start	17540	17800	left	17820	17980
+head pos: tilt side	start	16980	17140	right	17160	17440	end	17460	17620	start	17740	17800	slightly left	17820	17900	end	17920	17980
+head mvmt: side to side	start	16800	16900	rapid	16920	17960	end	17980	17980
+eye gaze	up/left	16920	17100	left	17660	17960
+POS	Verb	16980	17140	Classifier	17220	17980
+Non-dominant POS	Classifier	16760	16780
+English translation
+Notes - number of character bytes:	21
+-english translation?
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	18000
+End frame:	19360
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	009
+main gloss	BEAUTIFUL	18100	18160	HILL	18280	18640	DRIVE	18740	19360
+non-dominant hand gloss
+head pos: tilt fr/bk	back	18000	19360
+head pos: turn	left	18000	18160	start	18180	18460	right	18480	18740	start	18760	18960	left	18980	19360
+head pos: tilt side	start	18000	18100	slightly right	18120	18460	end	18480	18600	start	18720	18780	slightly left	18800	18920	start	18940	19180	slightly right	19200	19360
+body lean	start	18240	18340	right	18360	18480	end	18500	18660	start	18740	18820	left	18840	19200	end	19220	19360
+eye gaze	up/right	18300	18940	up/left	18960	19200
+POS	Adjective	18100	18160	Noun	18280	18640	Verb	18740	19360
+English translation	I was driving through beautiful hills.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	19380
+End frame:	20600
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	HOUSE	19460	19540	CL:1"passing by"	19640	19760	|>		20120	DRIVE	20260	20600
+non-dominant hand gloss	DRIVE	19380	19400	|>		19420	CL:1"passing by"	19960	20140
+head pos: tilt fr/bk	back	19380	20600
+head pos: turn	slightly left	19380	19400	start	19420	19560	right	19580	19780	start	19800	20000	left	20020	20400	end	20420	20600
+head pos: tilt side	slightly right	19380	19740	end	19760	19800	start	19940	19980	left	20000	20160	start	20180	20340	right	20360	20600
+head pos: jut	forward	19380	20600
+body lean	start	19400	19520	right	19540	19820	start	19840	20120	left	20140	20340	end	20360	20440
+eye gaze	up/right	19500	19740	up/left	19980	20300	up	20320	20600
+POS	Noun	19460	19540	Classifier	19640	19760	Verb	20260	20600
+Non-dominant POS	Verb	19380	19400	Classifier	19960	20140
+English translation	I was driving passed by houses.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	20620
+End frame:	21940
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	DARK	20840	21280	IX-1p	21340	21420	(2h)CL:5"head lights on"	21680	21940
+non-dominant hand gloss	TURN	21500	21560
+head pos: tilt fr/bk	back	20620	21940
+head pos: turn	slightly left	20620	21340	start	21360	21440	left	21460	21560	start	21580	21680	slightly left	21700	21940
+head pos: tilt side	right	20620	21360	start	21380	21440	left	21460	21940
+head pos: jut	forward	20620	21300	end	21320	21360	start	21860	21900	slightly forward	21920	21940
+body lean	start	20620	20700	slightly back	20720	20860	end	20880	21000	start	21680	21760	slightly back	21780	21940
+eye gaze	up/right	20620	20660	up/left	21860	21940
+eye aperture	start	21220	21280	further lowered	21300	21480	start	21500	21500	blink	21520	21580	end	21600	21660
+POS	Adjective	20840	21280	Pronoun	21340	21420	Classifier	21680	21940
+Non-dominant POS	Verb	21500	21560
+English translation	I turned the headlight on when it s getting dark..
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	21960
+End frame:	23620
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	(2h)CL:5"headlights on moving"	21960	23620
+non-dominant hand gloss
+head pos: tilt fr/bk	back	21960	23620
+head pos: turn	left	21960	22420	start	22440	22660	slightly right	22680	22860	start	22880	23100	slightly left	23120	23320	end	23340	23440
+head pos: tilt side	slightly left	21960	22120	start	22140	22280	right	22300	22780	start	22800	22980	left	23000	23260	start	23280	23540	right	23560	23620
+head pos: jut	slightly forward	21960	23620
+head mvmt: side to side	start	21960	22100	rapid	22120	23520	end	23540	23620
+body lean	slightly back	21960	21980	start	22000	22060	left	22080	22260	start	22280	22520	right	22540	22860	start	22880	23160	left	23180	23520	end	23540	23620
+eye gaze	up/left	21960	22500	up/right	23600	23620
+eye aperture	start	23460	23500	blink	23520	23580	end	23600	23620
+POS	Classifier	21960	23620
+English translation
+Notes - number of character bytes:	21
+-english translation?
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	23640
+End frame:	25380
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	ENJOY	23820	24180	DRIVE	24320	25380
+non-dominant hand gloss	(2h)CL:5"headlights"	23640	23660	|>		23700
+head pos: tilt fr/bk	back	23640	25380
+head pos: turn	start	23660	23760	right	23780	24000	start	24020	24380	left	24400	24720	end	24740	24880
+head pos: tilt side	right	23640	23840	start	23860	24200	left	24220	24520	start	24540	24760	right	24780	25020	end	25040	25140	start	25280	25360	slightly right	25380	25380
+head pos: jut	slightly forward	23640	25380
+head mvmt: side to side	start	23660	23760	rapid	23780	25280	end	25300	25380
+body lean	start	23660	23800	right	23820	23960	end	23980	24120	start	24320	24380	left	24400	24680	end	24700	24760
+eye brows	start	25100	25180	raised	25200	25380
+eye gaze	up/right	23640	24040	up/left	24360	24700
+eye aperture	start	23660	23680	blink	23700	23740	end	23760	23800	start	24120	24160	closed	24180	24200	end	24220	24280	start	24660	24700	closed	24720	24780	start	24800	24880	blink	24900	25160	start	25180	25200	closed	25220	25380
+POS	Verb	23820	24180	Verb	24320	25380
+Non-dominant POS	Classifier	23640	23660
+English translation	I enjoyed to driving.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	25400
+End frame:	26780
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	010
+main gloss	HAPPEN	25560	25660	IX-3p:i	25760	26420	ROAD	26600	26780
+non-dominant hand gloss
+head pos: tilt fr/bk	back	25400	26780
+head pos: tilt side	right	25400	26780
+head pos: jut	slightly forward	25400	26780
+body lean	start	25620	25680	back right	25700	26780
+eye brows	raised	25400	26780
+eye aperture	closed	25400	25420	end	25440	25480
+POS	Verb	25560	25660	Pronoun	25760	26420	Noun	26600	26780
+English translation	There is something happpened over there on the road.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	26800
+End frame:	28120
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	HILL	26940	27740	|>		28120
+non-dominant hand gloss	IX-loc-i	27820	28120
+head pos: tilt fr/bk	back	26800	27540	start	27560	27760	front	27780	28020	start	28040	28100	back	28120	28120
+head pos: turn	start	26800	26920	slightly right	26940	28080	end	28100	28120
+head pos: tilt side	right	26800	28120
+head pos: jut	slightly forward	26800	27440	end	27460	27540	start	27660	27740	back	27760	28040	end	28060	28120
+body lean	back right	26800	27540	start	27560	27740	right	27760	28120
+eye brows	raised	26800	27960	end	27980	28060
+eye gaze	up/right	27280	27460	down	27620	28040
+POS	Noun	26940	27740
+Non-dominant POS	Pronoun	27820	28120
+English translation
+Notes - number of character bytes:	22
+- English Translation?
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	28140
+End frame:	29500
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	IX-3p:i	28300	28460	DEER	28620	28900	|>		29500
+non-dominant hand gloss	IX-loc-i	28140	28160	|>		28460
+head pos: tilt fr/bk	back	28140	28520	start	28540	28720	slightly front	28740	29500
+head pos: turn	start	28340	28460	slightly left	28480	29500
+head pos: tilt side	right	28140	28360	end	28380	28580	start	28740	28900	slightly left	28920	29500
+head pos: jut	start	28160	28220	back	28240	29500
+body lean	right	28140	28240	end	28260	28380	start	28920	29020	slightly forward	29040	29500
+eye aperture	start	29400	29440	closed	29460	29500
+POS	Pronoun	28300	28460	Noun	28620	28900
+Non-dominant POS	Pronoun	28140	28160
+English translation	There was a deer.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	29520
+End frame:	30440
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	DEER	29640	29740	CL:5"chewing"	29860	30120	GRASS	30240	30440
+non-dominant hand gloss	CL:5"chewing"	29860	30120	|>		30440
+head pos: tilt fr/bk	front	29520	30060	start	30080	30160	back	30180	30440
+head pos: turn	slightly left	29520	29760	end	29780	29840
+head pos: tilt side	slightly left	29520	29540	end	29560	29600
+head pos: jut	back	29520	29740	end	29760	29820	start	30140	30160	slightly forward	30180	30440
+body lean	slightly forward	29520	29600	end	29620	29660	start	29920	29980	slightly forward	30000	30440
+eye brows	start	29600	29640	slightly raised	29660	30440
+eye gaze	down	29640	30100	left	30440	30440
+eye aperture	lowered lid	29520	29540	end	29560	29600
+role shift	Deer	29860	30120
+POS	Noun	29640	29740	Classifier	29860	30120	Noun	30240	30440
+Non-dominant POS	Classifier	29860	30120
+English translation	A deer was eating the grass.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	30460
+End frame:	32000
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	CL:5"eating"	30580	31580	LOOK-UP	31780	32000
+non-dominant hand gloss	GRASS	30460	30480	5:"focus"	30540	30960	|>		32000
+head pos: tilt fr/bk	back	30460	30460	start	30480	30560	front	30580	31440	end	31460	31580	start	31660	31680	back	31700	32000
+head pos: jut	slightly forward	30460	30480	end	30500	30560	start	31660	31720	forward	31740	32000
+body lean	slightly forward	30460	31520	end	31540	31620
+eye brows	slightly raised	30460	32000
+eye gaze	left	30460	30500	down	30520	31400
+eye aperture	start	31340	31380	closed	31400	31660	start	31680	31720	lowered lid	31740	31800	start	31820	31820	blink	31840	31900	start	31920	31960	lowered lid	31980	32000
+role shift	Deer	30580	32000
+POS	Classifier	30580	31580	Verb	31780	32000
+Non-dominant POS	Noun	30460	30480
+English translation	A deer was eating the grass and then look up.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	32020
+End frame:	33520
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	SEE	32180	32260	ROAD	32400	32500	ACROSS	33080	33100	IX-loc-i	33320	33520
+non-dominant hand gloss	CL:5"distance"	32680	32920
+head pos: tilt fr/bk	back	32020	33520
+head pos: tilt side	start	32080	32160	slightly right	32180	33520
+head pos: jut	slightly forward	32020	32940	start	32960	33080	slightly back	33100	33520
+eye brows	slightly raised	32020	33380	start	33400	33480	lowered	33500	33520
+eye gaze	down	33040	33380
+eye aperture	lowered lid	32020	32080	start	32100	32200	wide	32220	33400	end	33420	33500
+POS	Verb	32180	32260	Noun	32400	32500	Adverb	33080	33100	Pronoun	33320	33520
+Non-dominant POS	Classifier	32680	32920
+English translation	Saw something across the road.
+Notes - number of character bytes:	23
+- correct gloss for cl?
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	33540
+End frame:	34960
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	CL:5"size of the object"	33700	33980	GRASS	34100	34220	LOOK	34300	34600	DELICIOUS	34760	34960
+non-dominant hand gloss	ACROSS	33540	33560	|>		33580	CL:5"size of the object"	33700	33980	|>		34220
+head pos: tilt fr/bk	back	33540	34960
+head pos: turn	slightly left	33540	34960
+head pos: tilt side	slightly right	33540	34960
+head pos: jut	slightly back	33540	33560	end	33580	33720
+eye brows	lowered	33540	34000	end	34020	34120	start	34300	34340	raised	34360	34400	end	34420	34600
+eye aperture	start	33560	33700	squint	33720	33960	end	33980	34040	start	34300	34380	wide	34400	34960
+role shift	Deer	34300	34960
+POS	Classifier	33700	33980	Noun	34100	34220	Verb	34300	34600	Adjective	34760	34960
+Non-dominant POS	Adverb	33540	33560	Classifier	33700	33980
+English translation	Theres bunch of grass over there that looks delicious!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	35000
+End frame:	36900
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	LOOK	35060	35480	DECIDE	35680	35820	CL:2"four legs walking"	35940	36340	ACROSS	36520	36900
+non-dominant hand gloss
+head pos: tilt fr/bk	back	35000	36660	start	36680	36800	front	36820	36900
+head pos: turn	slightly left	35000	36900
+head pos: tilt side	slightly right	35000	36680	end	36700	36800
+body lean	start	36700	36760	forward	36780	36900
+eye brows	start	35000	35120	raised	35140	35480	end	35500	35560
+eye aperture	wide	35000	35480	end	35500	35580	start	36140	36200	wide	36220	36740	start	36760	36880	closed	36900	36900
+role shift	Deer	35000	36900
+POS	Verb	35060	35480	Verb	35680	35820	Classifier	35940	36340	Adverb	36520	36900
+English translation	Looked and then decided to walk across.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	36920
+End frame:	39340
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	IX-1p	37020	37260	DRIVE	37420	37820	UP	37940	38320	CL:5"head lights on"	38500	38580	CL:5"head lights on moving"	38620	39340
+non-dominant hand gloss	ACROSS	36920	36940	|>		36960
+head pos: tilt fr/bk	front	36920	36940	end	36960	37060	start	37320	37380	back	37400	39080	end	39100	39200
+head pos: turn	slightly left	36920	37360	end	37380	37480
+head pos: tilt side	start	37380	37500	slightly right	37520	39200	end	39220	39340
+head pos: jut	start	36960	37120	back	37140	37320	start	37340	37400	slightly forward	37420	38960	start	38980	39240	back	39260	39340
+body lean	forward	36920	36940	end	36960	37040	start	37340	37500	slightly back	37520	38880	end	38900	39200
+eye brows	start	36960	37060	slightly raised	37080	37280	end	37300	37360	start	39160	39240	lowered	39260	39340
+eye gaze	up	38200	38940
+eye aperture	closed	36920	36920	start	36940	37320	closed	37340	37440	start	37460	37680	lowered lid	37700	39100	start	39120	39140	closed	39160	39240	start	39260	39280	squint	39300	39340
+POS	Pronoun	37020	37260	Verb	37420	37820	Adverb	37940	38320	Classifier	38500	38580	Classifier	38620	39340
+Non-dominant POS	Adverb	36920	36940
+English translation
+Notes - number of character bytes:	21
+-English translation?
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	39380
+End frame:	41420
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	010
+main gloss	DRIVE	39460	39840	NOTICE	40100	40200	|>		40460	SOMETHING	40580	40700	ANIMAL	40760	41080	ACROSS	41220	41420
+non-dominant hand gloss	DRIVE	39460	39840	|>		40700
+head pos: tilt fr/bk	start	39740	39840	front	39860	41420
+head pos: jut	back	39380	39600	end	39620	39760
+body lean	start	39640	39720	slightly forward	39740	41420
+eye brows	lowered	39380	41420
+eye aperture	squint	39380	39760	start	39780	39860	blink	39880	39960	end	39980	40040	start	40460	40480	squint	40500	41000	end	41020	41100	start	41360	41400	closed	41420	41420
+POS	Verb	39460	39840	Verb	40100	40200	Noun	40580	40700	Noun	40760	41080	Adverb	41220	41420
+Non-dominant POS	Verb	39460	39840
+English translation	I notice there is some animal walk across the road.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	41440
+End frame:	43020
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	IX-1p	41520	41560	DRIVE	41640	42040	DEER	42160	42280	CL:5"deer's looking to me"	42500	43020
+non-dominant hand gloss	DRIVE	41640	42040	|>		42260
+head pos: tilt fr/bk	front	41440	41620	start	41640	41740	further front	41760	42040	end	42060	42160	start	42380	42420	front	42440	42580	start	42600	42680	back	42700	43020
+head pos: turn	start	42440	42520	further left	42540	43020
+body lean	forward	41440	41640	start	41660	41740	forward	41760	42080	end	42100	42260	start	42440	42520	slightly forward	42540	42640	end	42660	42700
+eye brows	lowered	41440	41740	end	41760	41940	start	42280	42360	raised	42380	42920	end	42940	43020
+eye gaze	left	42500	43020
+eye aperture	closed	41440	41440	start	41460	41580	blink	41600	41640	start	41660	41700	squint	41720	41880	start	41900	41940	blink	41960	42000	end	42020	42060	start	42240	42260	wide	42280	42960	start	42980	43000	closed	43020	43020
+role shift	Deer	42440	43020
+POS	Pronoun	41520	41560	Verb	41640	42040	Noun	42160	42280	Classifier	42500	43020
+Non-dominant POS	Verb	41640	42040
+English translation	The Deer looked at me while I was driving.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	43040
+End frame:	44160
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	IX-1p	43100	43140	LOOK	43200	43420	CL:5"headlights on"	43520	43560	FINISH	43660	44040	|>		44160
+non-dominant hand gloss	DRIVE	43200	43260	|>		43440
+head pos: tilt fr/bk	slightly back	43040	43060	end	43080	43120	start	43200	43240	front	43260	43620	start	43640	43800	slightly back	43820	44160
+head pos: turn	further left	43040	43040	end	43060	43180	start	43700	43780	slightly left	43800	44160
+head pos: jut	start	43060	43100	back	43120	43540	end	43560	43620
+head mvmt: shake	start	43700	43780	single	43800	44060	end	44080	44140
+body lean	start	43360	43400	slightly forward	43420	43560	end	43580	43640
+eye brows	start	43160	43240	raised	43260	43460	end	43480	43540	start	43640	43720	lowered	43740	44160
+eye gaze	left	43740	43860
+eye aperture	closed	43040	43040	start	43060	43160	wide	43180	43560	start	43580	43760	squint	43780	44060	start	44080	44140	wide	44160	44160
+POS	Pronoun	43100	43140	Verb	43200	43420	Classifier	43520	43560	Adverb	43660	44040
+Non-dominant POS	Verb	43200	43260
+English translation
+Notes - number of character bytes:	22
+- English translation?
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	44180
+End frame:	45540
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	CL:5"headlights on moving"	44180	44580	DEER	44800	44940	CL:5"headlights toward to person"	45180	45540
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	44180	44200	end	44220	44300	start	44440	44500	front	44520	44660	end	44680	44740	start	44880	44920	back	44940	45540
+head pos: turn	slightly left	44180	44500	start	44520	44700	further left	44720	45540
+head pos: tilt side	start	44700	44760	slightly right	44780	44840	end	44860	44960
+head pos: jut	start	44220	44280	back	44300	44600	end	44620	44700
+body lean	start	44420	44480	forward	44500	44660	start	44680	44940	back right	44960	45540
+eye brows	lowered	44180	44220	start	44240	44360	raised	44380	44500	start	44520	44740	raised	44760	45540
+eye gaze	left	44660	45540
+eye aperture	start	44180	44280	wide	44300	44560	start	44580	44620	blink	44640	44700	start	44720	44800	wide	44820	45540
+role shift	Deer	44940	45540
+POS	Classifier	44180	44580	Noun	44800	44940	Classifier	45180	45540
+English translation
+Notes - number of character bytes:	22
+- english translation?
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	45560
+End frame:	47000
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	LOOK	45640	45940	SHOCK	46400	46560	CL:5"person shocking"	46680	47000
+non-dominant hand gloss
+head pos: tilt fr/bk	back	45560	46040	end	46060	46140	start	46600	46640	back	46660	47000
+head pos: turn	further left	45560	46020	end	46040	46180	start	46600	46700	further left	46720	47000
+head mvmt: shake	start	46080	46160	slight rapid headshake	46180	46600	end	46620	46720
+body lean	back right	45560	47000
+eye brows	raised	45560	45960	end	45980	46100	start	46560	46600	raised	46620	47000
+eye gaze	left	45560	46000	left	46600	46960
+eye aperture	wide	45560	45960	start	45980	46000	blink	46020	46300	start	46320	46420	wide	46440	46900	start	46920	46960	blink	46980	47000
+role shift	Deer	45560	47000
+POS	Verb	45640	45940	Verb	46400	46560	Classifier	46680	47000
+English translation	Deer was shocked.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	47020
+End frame:	48500
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	part:indef	47080	47180	IX-1p	47220	47240	DRIVE	47360	47560	BRAKE	47720	47960	fs-BRAKE	48040	48140	CL:5"noise from the vehicle"	48240	48500
+non-dominant hand gloss	part:indef	47080	47180	|>		47200
+head pos: tilt fr/bk	back	47020	47040	end	47060	47080	start	47640	47680	front	47700	47820	end	47840	47980	start	48300	48360	front	48380	48500
+head pos: turn	left	47020	47040	start	47060	47080	slightly left	47100	47440	end	47460	47540	start	47720	47780	left	47800	48500
+head pos: tilt side	slightly right	47020	47080	end	47100	47140	start	47460	47660	further left	47680	47800	end	47820	47960
+head pos: jut	start	47020	47120	back	47140	47820	end	47840	47980	start	48120	48160	back	48180	48500
+head mvmt: shake	start	47020	47060	slight rapid headshake	47080	47220	start	47240	47260	slight rapid headshake	47280	47380	end	47400	47540
+body lean	back right	47020	47140	end	47160	47180	start	47420	47480	back left	47500	47840	end	47860	47960	start	48340	48420	slightly forward	48440	48500
+eye brows	raised	47020	47160	start	47180	47220	slightly lowered	47240	47900	end	47920	47980	start	48300	48340	slightly raised	48360	48500
+eye gaze	left	47260	47280
+eye aperture	start	47020	47080	wide	47100	47160	end	47180	47220	start	47380	47440	squint	47460	47500	start	47520	47600	closed	47620	47800	end	47820	47880	start	48120	48180	closed	48200	48280	start	48300	48360	squint	48380	48500
+POS	Particle	47080	47180	Pronoun	47220	47240	Verb	47360	47560	Noun	47720	47960	Noun	48040	48140	Classifier	48240	48500
+Non-dominant POS	Particle	47080	47180
+Notes - number of character bytes:	106
+- FIRST BRAKE, is it BODY CL?
+- SECOND BRAKE, he spelled.. but didnt really spell the whole?
+- correct CL?
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	48520
+End frame:	49860
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	CL:S"control the wheel"	48580	49160	CL:3"vehicle out of control"	49220	49400	CL:S"turning the wheel"	49520	49860
+non-dominant hand gloss	CL:5"noise from the vehicle"	48520	48540
+head pos: tilt fr/bk	front	48520	49860
+head pos: turn	left	48520	48700	start	48720	48880	left	48900	49000	start	49020	49060	slightly right	49080	49120	start	49140	49180	left	49200	49340	start	49360	49400	right	49420	49700	end	49720	49840
+head pos: tilt side	slightly right	48520	48680	end	48700	48880	start	49120	49180	slightly left	49200	49360	start	49380	49480	slightly right	49500	49860
+head pos: jut	back	48520	49860
+body lean	slightly forward	48520	48600	start	48620	48660	forward	48680	48860	end	48880	49020	start	49400	49420	slightly back	49440	49860
+eye brows	slightly raised	48520	49420	end	49440	49700
+eye aperture	start	49400	49420	closed	49440	49500	end	49520	49840
+POS	Classifier	48580	49160	Classifier	49220	49400	Classifier	49520	49860
+Non-dominant POS	Classifier	48520	48540
+English translation
+Notes - number of character bytes:	38
+-english translation?
+- all cls right?
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	49880
+End frame:	50700
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	CL:3"vehicle move over"	49980	50680
+non-dominant hand gloss	5:"focus"	49880	49980	|>		50700
+head pos: tilt fr/bk	front	49880	49980	end	50000	50040	start	50400	50440	slightly front	50460	50520	start	50540	50680	back	50700	50700
+head pos: turn	start	50060	50100	right	50120	50280	end	50300	50360
+head pos: tilt side	slightly right	49880	50060	start	50080	50120	right	50140	50700
+head pos: jut	back	49880	50540	end	50560	50700
+head mvmt: nod	start	50260	50300	slight rapid headnod	50320	50680	end	50700	50700
+body lean	slightly back	49880	50100	start	50120	50180	back right	50200	50700
+eye brows	slightly raised	49880	50260	end	50280	50320	start	50480	50500	raised	50520	50600	end	50620	50660
+eye aperture	start	50200	50260	wide	50280	50420	start	50440	50480	blink	50500	50540	end	50560	50600
+POS	Classifier	49980	50680
+English translation	The car pulled off the road.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	50720
+End frame:	51620
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	DEER	50820	50840	CL:5"person shocking"	50900	51100	SCARE	51200	51360	CL:5"person shocking"	51400	51620
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	50720	50780	end	50800	50840
+head pos: turn	start	50840	50880	left	50900	51080	end	51100	51140
+head pos: tilt side	right	50720	50920	end	50940	50980
+head pos: jut	start	50780	50820	slightly back	50840	51080	end	51100	51140	start	51360	51380	back	51400	51620
+body lean	back right	50720	51100	end	51120	51180	start	51420	51480	back	51500	51620
+eye brows	start	50720	50800	raised	50820	51060	end	51080	51120	start	51200	51360	raised	51380	51620
+eye gaze	left	50840	51020	right	51400	51460
+eye aperture	start	50820	50860	wide	50880	51580	start	51600	51600	lowered lid	51620	51620
+role shift	Deer	50900	51620
+POS	Noun	50820	50840	Classifier	50900	51100	Verb	51200	51360	Classifier	51400	51620
+English translation	The deer was in shocked and scared.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	51640
+End frame:	52640
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	IX-1p	51700	51720	CL:3"vehicle moving off"	51780	52020	CL:S"holding the wheel out of the control"	52100	52320	CL:3"vehicle out of control"	52380	52640
+non-dominant hand gloss	CL:5"person shocking"	51640	51660	|>		51700
+head pos: tilt fr/bk	start	51720	51800	front	51820	52640
+head pos: turn	start	51660	51700	slightly left	51720	51740	start	51760	51840	right	51860	51940	start	51960	52120	left	52140	52240	start	52260	52300	slightly right	52320	52420	start	52440	52520	left	52540	52560	start	52580	52620	right	52640	52640
+head pos: tilt side	start	51660	51720	right	51740	52080	start	52100	52220	slightly left	52240	52280	end	52300	52320	start	52380	52500	left	52520	52560	start	52580	52620	right	52640	52640
+head pos: jut	back	51640	52640
+head mvmt: side to side	start	51800	51900	rapid	51920	52620	end	52640	52640
+body lean	back	51640	51680	end	51700	51720	start	51820	51880	back right	51900	52120	start	52140	52240	back	52260	52520	start	52540	52620	back right	52640	52640
+eye brows	slightly raised	51640	51660	start	51680	51700	lowered	51720	52640
+eye aperture	closed	51640	51660	start	51680	51720	squint	51740	52520	start	52540	52600	closed	52620	52640
+POS	Pronoun	51700	51720	Classifier	51780	52020	Classifier	52100	52320	Classifier	52380	52640
+Non-dominant POS	Classifier	51640	51660
+English translation
+Notes - number of character bytes:	21
+- english translation
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	52660
+End frame:	54260
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	CL:3"vehicle fall"	52660	52840	SPIN++	52940	53680	CL:3"vehicle"	53700	53760	SPIN++	53800	54100	CL:3"vehicle"	54140	54240
+non-dominant hand gloss
+head pos: tilt fr/bk	front	52660	52680	end	52700	52720	start	52840	52940	front	52960	53740	start	53760	53860	further front	53880	54260
+head pos: turn	right	52660	52720	start	52740	52800	left	52820	52840	start	52860	53060	further left	53080	53700	start	53720	53740	left	53760	54260
+head pos: tilt side	right	52660	52900	start	52920	53000	left	53020	53700	end	53720	53740	start	53880	54060	further left	54080	54260
+head pos: jut	back	52660	54260
+body lean	back right	52660	53080	end	53100	53220	start	53620	53680	back	53700	54140	start	54160	54220	forward	54240	54260
+eye brows	slightly lowered	52660	54260
+eye aperture	closed	52660	54260
+POS	Classifier	52660	52840	Verb	52940	53680	Classifier	53700	53760	Verb	53800	54100	Classifier	54140	54240
+English translation	The car was spinning.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	54280
+End frame:	55940
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	CL:S"holding the wheel"	54320	55020	WOW	55320	55640	BPCL:F"eyes moving"	55760	55940
+non-dominant hand gloss
+head pos: tilt fr/bk	further front	54280	54340	start	54360	54520	back	54540	55260	end	55280	55500
+head pos: turn	slightly left	54280	54540	end	54560	54860	start	55200	55300	right	55320	55640	start	55660	55720	left	55740	55940
+head pos: tilt side	left	54280	54300	start	54320	54540	right	54560	55940
+head pos: jut	back	54280	54420	end	54440	54560	start	55320	55400	slightly back	55420	55940
+head mvmt: shake	start	55500	55580	single	55600	55880	end	55900	55940
+body lean	forward	54280	54320	start	54340	54540	back right	54560	55940
+eye brows	start	55600	55700	slightly raised	55720	55760	end	55780	55900
+eye gaze	left	55680	55900
+eye aperture	closed	54280	54440	start	54460	55160	closed	55180	55660	start	55680	55920	further lowered	55940	55940
+POS	Classifier	54320	55020	Adjective	55320	55640	Classifier	55760	55940
+English translation	I felt wow, and was holding the wheel.  I looked over.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	55960
+End frame:	58060
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	DEER	56020	56140	CL:5"person looking at"	56260	56340	LOOK	56460	56820	LOOK	57020	57240	AHEAD	57420	57480	CL:2"four legs walking"	57620	57720	ACROSS	57860	58060
+non-dominant hand gloss	BPCL:F"eyes moving"	55960	55980	|>		56140
+head pos: turn	left	55960	55980	start	56000	56280	further right	56300	56800	start	56820	57380	slightly left	57400	57540	end	57560	57640
+head pos: tilt side	right	55960	56140	end	56160	56300	start	57160	57400	left	57420	57480	end	57500	57640
+head pos: jut	slightly back	55960	56080	start	56100	56260	back	56280	56980	start	57000	57640	slightly forward	57660	58060
+head mvmt: side to side	start	57040	57320	single	57340	57600	end	57620	57660
+body lean	back right	55960	56160	start	56180	56280	back	56300	57480	start	57500	57700	slightly forward	57720	58060
+eye brows	start	55980	56080	raised	56100	57960	end	57980	58060
+eye gaze	right	56220	56860
+eye aperture	lowered lid	55960	55980	start	56000	56140	wide	56160	57060	start	57080	57240	blink	57260	57400	start	57420	57460	lowered lid	57480	57780	end	57800	58020
+POS	Noun	56020	56140	Classifier	56260	56340	Verb	56460	56820	Verb	57020	57240	Adverb	57420	57480	Classifier	57620	57720	Adverb	57860	58060
+Non-dominant POS	Classifier	55960	55980
+English translation	A deer looked at me and then walk across the road.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	41
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	58080
+End frame:	59980
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	IX-1p	58180	58220	CL:S"holding the wheel"	58300	58780	HEART	59040	59160	CL:S"heart beating"++	59260	59980
+non-dominant hand gloss	ACROSS	58080	58100	|>		58140
+head pos: tilt fr/bk	start	58240	58320	front	58340	58400	start	58420	58520	back	58540	59080	start	59100	59220	front	59240	59980
+head pos: turn	slightly left	58080	58140	start	58160	58220	left	58240	59920	end	59940	59980
+head pos: tilt side	start	58240	58320	right	58340	59920	end	59940	59980
+head pos: jut	slightly forward	58080	58220	start	58240	58340	back	58360	59980
+head mvmt: nod	start	58220	58300	slow	58320	58560	end	58580	58780
+body lean	slightly forward	58080	58120	end	58140	58200	start	58300	58380	back right	58400	59980
+eye brows	start	59040	59140	lowered	59160	59980
+eye gaze	left	58240	58920
+eye aperture	start	58080	58180	blink	58200	58280	start	58300	58340	squint	58360	58760	start	58780	58880	blink	58900	59000	start	59020	59100	closed	59120	59920	start	59940	59960	squint	59980	59980
+POS	Pronoun	58180	58220	Classifier	58300	58780	Noun	59040	59160	Classifier	59260	59980
+Non-dominant POS	Adverb	58080	58100
+English translation	My heart beats fast.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	42
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	60000
+End frame:	61000
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	REALLY	60040	60100	FAST	60220	60280	CL:S"heart beating"++	60340	60740	CL:S"holding the wheel"	60820	61000
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	60000	60040	end	60060	60120	start	60280	60340	front	60360	60760	end	60780	60840	start	60920	60980	front	61000	61000
+head pos: tilt side	start	60320	60380	slightly left	60400	60720	start	60740	60860	right	60880	61000
+head pos: jut	back	60000	60740	end	60760	60820	start	60920	60940	back	60960	61000
+body lean	back right	60000	61000
+eye brows	lowered	60000	61000
+eye gaze	left	60220	60280
+eye aperture	squint	60000	60220	start	60240	60280	closed	60300	61000
+POS	Adverb	60040	60100	Adjective	60220	60280	Classifier	60340	60740	Classifier	60820	61000
+English translation	My heart was beating really fast.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	43
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	61020
+End frame:	63280
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	CL:S"holding the wheel"	61020	61200	|>		61760	CLOSE-CALL	62000	62280	CL:S"holding the wheel"	62500	62580	|>		63280
+non-dominant hand gloss	CL:S"holding the wheel"	61020	61200	|>		63280
+head pos: tilt fr/bk	front	61020	62000	end	62020	62100	start	62300	62500	further front	62520	62980	end	63000	63280
+head pos: tilt side	right	61020	63280
+head pos: jut	back	61020	61880	end	61900	62100	start	62320	62400	back	62420	63280
+head mvmt: nod	start	61020	61060	rapid	61080	61800	end	61820	61980	start	62380	62520	rapid	62540	63180	end	63200	63280
+body lean	back right	61020	63280
+eye brows	lowered	61020	61860	start	61880	62000	slightly raised	62020	62120	start	62140	62340	lowered	62360	63280
+eye aperture	closed	61020	61900	start	61920	61980	squint	62000	62080	start	62100	62280	closed	62300	63280
+POS	Classifier	61020	61200	Classifier	62500	62580
+Non-dominant POS	Classifier	61020	61200
+English translation
+Notes - number of character bytes:	43
+- pos for close call?
+- English translation
+
+
+Utterance ID:	44
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	63300
+End frame:	66500
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	part:indef	63780	63860	CL:3"vehicle"	64040	64160	|>		64480	MIDDLE	64560	64600	ROAD	64700	64760	CL:3"vehicle"	64840	65000	|>		65280	IX-3p:i	65340	65700	fs-OR	65800	65840	THUMB-IX-3p:j	65900	66080	WHICH	66200	66500
+non-dominant hand gloss	CL:S"holding the wheel"	63300	63320	|>		63700	5:"focus"	64840	65000	|>		66060
+head pos: tilt fr/bk	start	63320	63540	back	63560	66500
+head pos: turn	start	63860	64040	left	64060	64180	end	64200	64520	start	64940	65280	left	65300	65700	end	65720	65840
+head pos: tilt side	slightly right	63300	63640	end	63660	63800	start	64760	64960	slightly right	64980	65760	end	65780	65860
+body lean	back right	63300	65840	start	65860	65900	slightly back	65940	66500
+eye brows	slightly lowered	63300	66500
+eye gaze	left	64000	64220	left	65000	65640
+eye aperture	squint	63300	63320	start	63340	63560	blink	63580	63840	end	63860	64120
+POS	Particle	63780	63860	Classifier	64040	64160	Adjective	64560	64600	Noun	64700	64760	Classifier	64840	65000	Pronoun	65340	65700	Conjunction	65800	65840	Pronoun	65900	66080	Wh-word	66200	66500
+Non-dominant POS	Classifier	63300	63320
+English translation	My car was in middle of the road and I am not sure which way to turn?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	45
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	66520
+End frame:	68440
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	013
+main gloss	IX-1p	66560	66580	CL:3"vehicle"	66640	66780	|>		67820	part:indef	67920	67980	|>		68440
+non-dominant hand gloss	WHICH	66520	66540	|>		66580	5:"focus"	66640	66780	|>		68440
+head pos: tilt fr/bk	slightly back	66520	66680	start	66700	66960	slightly front	66980	68440
+head pos: turn	start	66580	66720	left	66740	67100	start	67120	67320	right	67340	67520	end	67560	67720
+head pos: tilt side	start	66640	66740	slightly right	66760	67100	end	67120	67180
+head mvmt: shake	start	66760	66800	single	66820	67800	end	67820	67940
+body lean	slightly back	66520	66700	end	66720	66780
+eye brows	slightly lowered	66520	67800	end	67820	67900	start	67960	67980	raised	68000	68220	start	68240	68360	slightly lowered	68380	68440
+eye gaze	left	66700	67060	right	67120	67500	left	67980	68120	left	68300	68440
+eye aperture	start	66980	67060	blink	67080	67140	end	67160	67220	start	67900	67960	wide	67980	68260	end	68280	68440
+POS	Pronoun	66560	66580	Classifier	66640	66780	Particle	67920	67980
+Non-dominant POS	Wh-word	66520	66540
+English translation	I am not sure which way.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	46
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	68460
+End frame:	69900
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	014
+main gloss	IX-1p	68540	68600	AHEAD	68660	69160	THUMB-IX-3p:j	69260	69480	CL:3"vehicle moving"	69580	69900
+non-dominant hand gloss	part:indef	68460	68480	|>		68520	AHEAD	68660	69160	|>		69480
+head pos: tilt fr/bk	slightly front	68460	68640	end	68660	68720	start	69100	69160	slightly front	69180	69900
+head pos: turn	start	68740	68920	left	68940	69060	start	69080	69180	right	69200	69520	start	69540	69720	left	69740	69760	end	69780	69900
+head pos: tilt side	start	68640	68720	left	68740	68960	end	68980	69080	start	69400	69440	slightly right	69460	69520	start	69540	69620	left	69640	69820	end	69840	69900
+head pos: jut	start	69160	69240	back	69260	69600	end	69620	69660
+head mvmt: side to side	start	68660	68740	rapid	68760	69100	start	69120	69440	rapid	69460	69860	end	69880	69900
+body lean
+eye brows	slightly lowered	68460	69900
+eye gaze	left	68460	68520	up/left	68880	69040	right	69080	69420
+eye aperture	start	68480	68520	closed	68540	68640	end	68660	68720	start	69140	69180	squint	69200	69440	start	69460	69480	blink	69500	69560	end	69580	69660
+POS	Pronoun	68540	68600	Adverb	68660	69160	Pronoun	69260	69480	Classifier	69580	69900
+Non-dominant POS	Particle	68460	68480	Adverb	68660	69160
+English translation	I went ahead to turn this way.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	47
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	69920
+End frame:	71840
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	010
+main gloss	DRIVE	70060	70480	IX-1p	70560	70620	SLOW	70740	71000	DRIVE	71100	71140	|>		71840
+non-dominant hand gloss	DRIVE	70060	70480	|>		70620
+head pos: tilt fr/bk	slightly front	69920	70860	start	70880	70980	front	71000	71840
+head pos: turn	start	69920	69920
+head pos: jut	start	70300	70400	back	70420	71840
+eye brows	slightly lowered	69920	70320	start	70340	70400	slightly raised	70420	70460	start	70480	70580	lowered	70600	71840
+eye aperture	start	70280	70380	blink	70400	70460	start	70480	70620	squint	70640	71020	end	71040	71120
+POS	Verb	70060	70480	Pronoun	70560	70620	Adjective	70740	71000	Verb	71100	71140
+Non-dominant POS	Verb	70060	70480
+English translation	I was driving slow.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	48
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	71860
+End frame:	72640
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	SEE	72100	72120	SIGN	72220	72500	IX-loc:i	72540	72640
+non-dominant hand gloss	DRIVE	71860	71880	|>		72080
+head pos: tilt fr/bk	slightly front	71860	71880	end	71900	71940	start	72080	72100	back	72120	72640
+head pos: jut	back	71860	71940	end	71960	72040	start	72540	72580	back	72600	72640
+body lean	start	72160	72200	slightly back	72220	72520	start	72540	72620	back	72640	72640
+eye brows	slightly lowered	71860	71860	start	71880	71900	raised	71920	71960	end	71980	72020	start	72520	72540	raised	72560	72640
+eye gaze	up/right	72000	72640
+eye aperture	lowered lid	71860	71880	start	71900	71940	wide	71960	72080	end	72100	72140	start	72500	72520	wide	72540	72640
+POS	Verb	72100	72120	Noun	72220	72500	Pronoun	72540	72640
+Non-dominant POS	Verb	71860	71880
+English translation	I saw the sign over there.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	49
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	72660
+End frame:	73780
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	010
+main gloss	EIGHTY	72700	73080	HIGHWAY	73200	73300	AGAIN	73380	73540	IX-1p	73580	73600	LOOK	73680	73780
+non-dominant hand gloss
+head pos: tilt fr/bk	back	72660	73780
+head pos: jut	back	72660	72800	end	72820	72960	start	73220	73260	back	73280	73780
+body lean	back	72660	73780
+eye brows	start	73400	73540	raised	73560	73740	end	73760	73780
+eye gaze	up/right	72660	72660	up/right	73500	73780
+eye aperture	wide	72660	73740	end	73760	73780
+POS	Number	72700	73080	Noun	73200	73300	Adverb	73380	73540	Pronoun	73580	73600	Verb	73680	73780
+English translation	Route 80 on the highway again. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	50
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	73800
+End frame:	74400
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	IX-1p	73840	73900	AHEAD	73980	74140	CL:3"vehicle turning"	74220	74400
+non-dominant hand gloss
+head pos: tilt fr/bk	back	73800	73900	end	73920	73960
+head pos: turn	start	73900	73940	right	73960	74080	start	74100	74180	slightly left	74200	74260	start	74280	74320	right	74340	74360	start	74380	74380	slightly left	74400	74400
+head pos: tilt side	start	73920	73960	left	73980	74100	start	74120	74200	right	74220	74340	end	74360	74400
+head pos: jut	back	73800	74400
+body lean	back	73800	74160	start	74180	74260	right	74280	74360	end	74380	74400
+eye brows	start	73800	73860	lowered	73880	74400
+eye gaze	up/right	73800	73860
+eye aperture	start	73800	73860	squint	73880	73960	start	73980	74000	blink	74020	74060	start	74080	74100	slightly squinted	74120	74180	end	74200	74240
+POS	Pronoun	73840	73900	Adverb	73980	74140	Classifier	74220	74400
+English translation	I went ahead to turn.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	51
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	74440
+End frame:	75140
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	012
+main gloss	CL:3"vehicle"	74500	74620	ON	74680	74740	EIGHTY	74820	75140
+non-dominant hand gloss	5:"focus"	74440	74460	|>		74620	ON	74680	74740	|>		75140
+head pos: tilt fr/bk	start	75060	75100	slightly back	75120	75140
+head pos: turn	left	74440	74480	end	74500	74540	start	75060	75100	slightly left	75120	75140
+head pos: jut	back	74440	74860	end	74880	74920
+body lean	start	74460	74500	back left	74520	74740	start	74760	74800	slightly back	74820	75140
+eye brows	slightly lowered	74440	74980	start	75000	75040	raised	75060	75140
+eye aperture	start	75000	75040	blink	75060	75120	end	75140	75140
+POS	Classifier	74500	74620	Preposition	74680	74740	Number	74820	75140
+Non-dominant POS	Preposition	74680	74740
+head pos: tilt side
+English translation	I got on route 80.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	52
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv3:movies:master:ben_story_439_small_0.mov
+Video	NCSLGRv3:movies:slave1:ben_story_439_small_1.mov
+Video	NCSLGRv3:movies:slave2:ben_story_439_small_2.mov
+Video	NCSLGRv3:movies:slave3:ben_story_439_small_3.mov
+Audio	
+Start frame:	75160
+End frame:	77340
+Number of participant panes:	1
+Participant:	Benjamin James Bahan
+Number of fields:	011
+main gloss	BORE	75220	75460	CL:5"plain"	75540	75880	BUT	75960	76060	SAFE	76160	76780
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	75160	75260	end	75280	75480
+head pos: tilt side	left	75160	76820	start	76840	77020	right	77040	77340
+head pos: jut	start	76140	76260	back	76280	76900	end	76920	77060
+body lean	slightly back	75160	76820	end	76840	77060
+eye brows	raised	75160	75900	end	75920	76060
+eye gaze	up	75460	75840
+eye aperture	start	75340	75460	wide	75480	75880	end	75900	76000	start	76820	76860	blink	76880	77040	end	77060	77200
+POS	Adjective	75220	75460	Classifier	75540	75880	Conjunction	75960	76060	Adjective	76160	76780
+English translation	Plain road might be boring but more safe.
+Notes - number of character bytes:	0

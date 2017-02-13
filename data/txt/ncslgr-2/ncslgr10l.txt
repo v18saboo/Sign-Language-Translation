@@ -1,0 +1,2226 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	ncslgr10l	Firewire 38200:NCSLGRv2:ncslgr10l
+Number of utterances:	81
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:539_219_small_0.mov
+Video	NCSLGRv2:video files:slave1:539_219_small_1.mov
+Video	NCSLGRv2:video files:slave2:539_219_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1200
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	011
+main gloss	fs-JOHN	220	520	ARRIVE	660	800	|>		920
+non-dominant hand gloss
+head pos: tilt fr/bk	start	120	220	back	240	540	start	620	640	front	660	860	end	880	1080
+subject agreement	start	540	640	agr-S	660	860	end	880	1120
+head pos: tilt side	start	540	640	left	660	860	end	880	1080
+body lean	left	660	860	end	880	1120
+eye gaze	left	540	880
+eye aperture	lowered lid	560	620	blink	920	940
+eye brows	start	460	520	slightly lowered	540	1020	end	1040	1200
+POS	Proper Noun	220	520	Verb	660	800
+English translation	John is arriving there.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:633_208_small_0.mov
+Video	NCSLGRv2:video files:slave1:633_208_small_1.mov
+Video	NCSLGRv2:video files:slave2:633_208_small_2.mov
+Video	
+Audio	
+Start frame:	440
+End frame:	1360
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	SHOOT	700	800	fs-FRANK	960	1140
+non-dominant hand gloss
+subject agreement	agr-S	600	1140
+head pos: tilt side	start	500	580	right	600	1140	end	1160	1360
+eye aperture	blink	460	520	squint	540	1140	blink	1160	1200
+object agreement	agr-O	600	1140
+eye gaze	left	600	1140
+body lean	start	540	620	right	640	1140	end	1160	1360
+POS	Verb	700	800	Proper Noun	960	1140
+English translation	(He/She) shoots Frank.
+Notes - number of character bytes:	13
+1) agreement?
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:634_209_small_0.mov
+Video	NCSLGRv2:video files:slave1:634_209_small_1.mov
+Video	NCSLGRv2:video files:slave2:634_209_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1580
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	014
+main gloss	fs-JOHN	300	460	|>		540	IX-3p:i	600	640	SAY	740	780	LOVE	900	1060	fs-MARY	1200	1360
+non-dominant hand gloss
+topic	top2	200	480
+eye brows	start	20	180	raised	200	480	start	500	600	slightly lowered	620	1580
+eye aperture	start	80	140	wide	160	480	blink	540	560	squint	580	1340	blink	1360	1420
+eye gaze	left	840	1340
+head pos: tilt side	start	160	220	slightly right	240	560	end	580	660	start	820	880	right	900	1040	end	1060	1180
+head pos: turn	start	140	220	slightly left	240	600	end	620	720	start	1100	1120	slightly left	1140	1320	end	1340	1440
+head mvmt: nod	start	40	200	single	220	480	end	500	680
+body lean	start	900	1000	left	1020	1160	end	1180	1440
+POS	Proper Noun	300	460	Pronoun	600	640	Verb	740	780	Verb	900	1060	Proper Noun	1200	1360
+subject agreement	agr-S	840	1280
+object agreement	agr-O	840	1340
+English translation	As for John, he says (he/John) loves Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:635_210_small_0.mov
+Video	NCSLGRv2:video files:slave1:635_210_small_1.mov
+Video	NCSLGRv2:video files:slave2:635_210_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1420
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	014
+main gloss	fs-JOHN	240	440	|>		500	IX-3p:i	580	620	SAY	700	740	LOVE	840	1020	fs-MARY	1160	1300
+non-dominant hand gloss	LOVE	840	1020	|>		1100
+topic	top2	140	460
+eye brows	start	20	120	raised	140	460	start	480	580	lowered	600	1420
+eye aperture	blink	0	0	start	80	120	wide	140	500	start	520	560	squint	580	740	lowered lid	760	1000	squint	1020	1300	blink	1320	1380
+object agreement	agr-O	760	1360
+eye gaze	left	760	1360
+head pos: tilt side	start	760	820	right	840	1360
+head pos: turn	start	760	820	left	840	1300	end	1320	1400
+head mvmt: nod	start	60	200	single	220	500
+body lean	start	760	980	right	1000	1120	end	1140	1420
+POS	Proper Noun	240	440	Pronoun	580	620	Verb	700	740	Verb	840	1020	Proper Noun	1160	1300
+subject agreement	agr-S	840	1360
+English translation	As for John, he says (he/John) loves Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:636_211_small_0.mov
+Video	NCSLGRv2:video files:slave1:636_211_small_1.mov
+Video	NCSLGRv2:video files:slave2:636_211_small_2.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	1420
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	009
+main gloss	fs-JOHN	440	700	i:BLAME:j	840	1000	|>		1160
+non-dominant hand gloss
+head pos: tilt side	start	800	900	right	920	1220	end	1240	1420
+eye brows	slightly lowered	360	700	lowered	720	1260	slightly lowered	1280	1420
+eye aperture	start	700	740	lowered lid	760	1180	blink	1200	1220	end	1240	1340
+eye gaze	left	780	1180
+body lean	start	740	820	right	840	1160	end	1180	1340
+POS	Proper Noun	440	700	Verb	840	1000
+English translation	John blames (him/her).
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:637_212_small_0.mov
+Video	NCSLGRv2:video files:slave1:637_212_small_1.mov
+Video	NCSLGRv2:video files:slave2:637_212_small_2.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	1940
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	011
+main gloss	fs-MARY	440	620	|>		660	fs-BILL	780	880	SAY	1040	1080	fs-JOHN	1140	1320	LOVE:j	1460	1580	|>		1680
+non-dominant hand gloss
+topic	top2	260	600
+eye brows	start	120	240	raised	260	600	start	620	720	slightly lowered	740	1940
+eye aperture	start	200	220	wide	240	620	blink	680	700	squint	760	1660	blink	1680	1740	squint	1760	1860
+eye gaze	left	1440	1680
+head pos: tilt side	start	1380	1540	left	1560	1620	end	1640	1940
+head mvmt: nod	start	180	260	single	280	660
+body lean	start	1420	1560	left	1580	1640	end	1660	1880
+POS	Proper Noun	440	620	Proper Noun	780	880	Verb	1040	1080	Proper Noun	1140	1320	Verb	1460	1580
+English translation	As for Mary, Bill says John loves (her).
+Notes - number of character bytes:	28
+check x:LOVE:x and agreement
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:638_213_small_0.mov
+Video	NCSLGRv2:video files:slave1:638_213_small_1.mov
+Video	NCSLGRv2:video files:slave2:638_213_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1280
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	009
+main gloss	fs-JOHN	200	400	|>		440	fs-MARY	520	680	i:BLAME:j	800	960	|>		980
+non-dominant hand gloss
+topic	top1	120	380
+eye brows	start	20	100	raised	120	380	end	400	480	lowered	580	1280
+eye aperture	start	80	140	wide	160	380	end	400	460
+head pos: tilt side	start	700	760	slightly left	780	820	end	840	880
+head mvmt: nod	start	20	100	single	120	420
+POS	Proper Noun	200	400	Proper Noun	520	680	Verb	800	960
+English translation	It is John Mary blames.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:639_214_small_0.mov
+Video	NCSLGRv2:video files:slave1:639_214_small_1.mov
+Video	NCSLGRv2:video files:slave2:639_214_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1380
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	009
+main gloss	fs-JOHN	340	540	|>		640	fs-MARY	740	900	i:BLAME:j	980	1140
+non-dominant hand gloss
+topic	top2	200	560
+eye brows	start	20	180	raised	200	560	end	580	620	start	660	700	lowered	720	1360
+eye aperture	blink	20	40	start	240	280	wide	300	560	end	580	600	blink	620	660	lowered lid	740	940	end	960	1220
+head pos: tilt side	start	120	220	slightly right	240	600	start	760	800	slightly left	820	1040	end	1060	1140
+head mvmt: nod	start	120	220	single	240	600
+POS	Proper Noun	340	540	Proper Noun	740	900	Verb	980	1140
+English translation	As for John, Mary blames (him).
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:640_206_small_0.mov
+Video	NCSLGRv2:video files:slave1:640_206_small_1.mov
+Video	NCSLGRv2:video files:slave2:640_206_small_2.mov
+Video	
+Audio	
+Start frame:	120
+End frame:	1700
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	009
+main gloss	fs-MARY	480	780	SELF-3p:i	860	920	PREFER	1020	1120	CORN	1220	1480
+non-dominant hand gloss
+head pos: tilt fr/bk	start	160	220	back	240	940	slightly back	960	1200	end	1220	1480
+head pos: tilt side	start	220	300	slightly right	320	920	start	1000	1040	slightly left	1060	1440	end	1460	1560
+head mvmt: nod
+eye aperture	blink	120	140	lowered lid	160	960	squint	980	1240	end	1260	1540	blink	1640	1660
+eye brows	start	880	1020	slightly lowered	1040	1700
+POS	Proper Noun	480	780	Reflexive	860	920	Verb	1020	1120	Noun	1220	1480
+English translation	Mary herself prefers corn.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:641_207_small_0.mov
+Video	NCSLGRv2:video files:slave1:641_207_small_1.mov
+Video	NCSLGRv2:video files:slave2:641_207_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1180
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	008
+main gloss	fs-MARY	220	400	SELF-3p:i	500	560	PREFER	680	720	CORN	820	1100
+non-dominant hand gloss
+head pos: tilt fr/bk	start	0	60	slightly back	80	460
+head mvmt: nod	rapid	520	1100
+eye brows	start	500	540	slightly lowered	560	1180
+eye aperture	start	560	660	squint	680	980	end	1000	1120
+POS	Proper Noun	220	400	Reflexive	500	560	Verb	680	720	Noun	820	1100
+English translation	Mary herself prefers corn.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:642_215_small_0.mov
+Video	NCSLGRv2:video files:slave1:642_215_small_1.mov
+Video	NCSLGRv2:video files:slave2:642_215_small_2.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	2420
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	PEOPLE	400	600	CLASS:i	720	820	(2h)alt.i:GIFT+:j	900	1420	fs-JANA	1500	1880	fs-TOY	2100	2220
+non-dominant hand gloss
+head pos: tilt fr/bk	start	840	980	back	1000	1220	end	1240	1380
+head pos: tilt side	start	860	1080	right	1100	1220	end	1240	1420	start	1940	2120	left	2140	2420
+cheeks	start	820	920	puffed	940	1200	end	1220	1360
+eye brows	start	560	660	slightly raised	680	760	end	780	820	start	880	920	slightly lowered	940	2420
+eye aperture	blink	120	240	lowered lid	280	580	start	840	860	lowered lid	880	1260	blink	1280	1360
+body lean	start	920	1040	end	1260	1480
+POS	Noun	400	600	Classifier	720	820	Verb	900	1420	Proper Noun	1500	1880	Noun	2100	2220
+English translation	People are giving Jana toys.
+Notes - number of character bytes:	12
+check 2halt
+
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:643_216_small_0.mov
+Video	NCSLGRv2:video files:slave1:643_216_small_1.mov
+Video	NCSLGRv2:video files:slave2:643_216_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	2200
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	012
+main gloss	PEOPLE	180	380	CLASS:i	500	600	(2h)alt.i:GIFT++:j	800	1360	fs-JANA	1460	1820	TOY	1920	2080
+non-dominant hand gloss
+head pos: tilt fr/bk	start	500	620	slightly front	640	720	end	740	800	start	820	900	back	920	1160	end	1180	1340
+head pos: tilt side	start	840	900	right	920	1320	end	1340	1880
+head pos: turn	start	440	520	slightly left	540	800	start	1020	1280	right	1300	1580	end	1600	1900
+head mvmt: nod	start	240	380	single	400	640	end	660	720	single	1920	2200
+eye brows	start	280	380	slightly raised	400	500	end	520	580	start	640	720	lowered	740	1020	slightly lowered	1040	2200
+eye aperture	blink	740	800	lowered lid	820	1100	end	1140	1320
+cheeks	start	700	860	puffed	880	1280	end	1300	1400
+face orientation
+POS	Noun	180	380	Classifier	500	600	Verb	800	1360	Proper Noun	1460	1820	Noun	1920	2080
+English translation	People are giving Jana toys.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:644_217_small_0.mov
+Video	NCSLGRv2:video files:slave1:644_217_small_1.mov
+Video	NCSLGRv2:video files:slave2:644_217_small_2.mov
+Video	
+Audio	
+Start frame:	220
+End frame:	2240
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	011
+main gloss	MANY	420	620	PEOPLE	740	880	(2h)alt.GIFT+:j	1000	1420	fs-JANA:j	1520	1780	TOY	1920	2060
+non-dominant hand gloss
+head pos: tilt fr/bk	start	2000	2140	slightly front	2160	2240
+head pos: tilt side	start	300	980	left	1000	1140	end	1160	1320	start	1900	1960	slightly left	1980	2120	end	2140	2240
+head pos: turn	start	920	1040	left	1060	1200	end	1220	1320
+head mvmt: nod	single	1880	2240
+eye brows	start	220	240	lowered	260	2240
+eye aperture	blink	260	280	squint	300	860	blink	880	960	squint	980	1300	end	1320	1500	blink	1800	1880
+cheeks	start	940	1020	puffed	1040	1320	end	1340	1440
+POS	Quantifier	420	620	Noun	740	880	Verb	1000	1420	Proper Noun	1520	1780	Noun	1920	2060
+English translation	Many people are giving Jana toys.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:645_218_small_0.mov
+Video	NCSLGRv2:video files:slave1:645_218_small_1.mov
+Video	NCSLGRv2:video files:slave2:645_218_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1520
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	011
+main gloss	fs-JOHN	260	680	LOVE	920	1040	fs-MARY	1120	1300
+non-dominant hand gloss
+head pos: tilt fr/bk	start	100	280	slightly back	300	760	end	780	980
+head pos: tilt side	start	800	940	right	960	1120	end	1140	1400
+head pos: turn	start	800	880	slightly left	900	1120	end	1140	1260
+body lean	start	820	980	right	1000	1160	end	1180	1440
+eye brows	start	140	340	slightly lowered	400	1520
+eye gaze	left	800	1160
+eye aperture	start	740	800	lowered lid	820	1240	end	1260	1420
+POS	Proper Noun	260	680	Verb	920	1040	Proper Noun	1120	1300
+English translation	John loves Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:646_222_small_0.mov
+Video	NCSLGRv2:video files:slave1:646_222_small_1.mov
+Video	NCSLGRv2:video files:slave2:646_222_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1120
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	fs-JOHN	180	380	ARRIVE	460	660	|>		780
+non-dominant hand gloss
+head pos: tilt fr/bk	start	440	560	front	580	780	end	800	980
+head pos: tilt side	start	380	440	right	460	780	end	800	980
+body lean	start	420	620	right	640	800	end	820	1100
+eye brows	lowered	460	820
+eye gaze	right	380	860
+eye aperture	lowered lid	560	840	blink	860	880	end	900	980
+POS	Proper Noun	180	380	Verb	460	660
+English translation	John is arriving.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:647_221_small_0.mov
+Video	NCSLGRv2:video files:slave1:647_221_small_1.mov
+Video	NCSLGRv2:video files:slave2:647_221_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1320
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	009
+main gloss	fs-JOHN	200	480	ARRIVE	540	960
+non-dominant hand gloss
+head pos: tilt fr/bk	start	540	680	front	700	960	end	980	1120
+head pos: tilt side	start	220	700	right	720	840	end	860	1260
+body lean	start	500	740	right	760	840	end	860	1300
+eye brows	slightly lowered	40	540	lowered	560	920	end	940	1320
+eye aperture	slightly lowered	40	1320
+POS	Proper Noun	200	480	Verb	540	960
+English translation	John is arriving.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:648_220_small_0.mov
+Video	NCSLGRv2:video files:slave1:648_220_small_1.mov
+Video	NCSLGRv2:video files:slave2:648_220_small_2.mov
+Video	
+Audio	
+Start frame:	120
+End frame:	1460
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	fs-JOHN	340	840	ARRIVE	960	1140
+non-dominant hand gloss
+head pos: tilt fr/bk	start	120	240	slightly back	260	820	start	920	1060	slightly front	1080	1200	end	1220	1340
+head pos: tilt side	start	860	980	slightly right	1000	1140	end	1160	1280
+head pos: turn	start	900	960	slightly left	980	1240	end	1260	1380
+eye brows	slightly lowered	120	1460
+eye gaze	right	840	1180
+eye aperture	start	1160	1160	blink	1180	1220	end	1240	1320
+POS	Proper Noun	340	840	Verb	960	1140
+English translation	John is arriving.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:649_225_small_0.mov
+Video	NCSLGRv2:video files:slave1:649_225_small_1.mov
+Video	NCSLGRv2:video files:slave2:649_225_small_2.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	2600
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	009
+main gloss	#ALL	460	980	BOY	1100	1120	CLASS:i	1220	1340	(2h)alt.i:GIVE++:j	1440	1860	TEACHER	2040	2160	APPLE	2280	2420
+non-dominant hand gloss
+head pos: tilt fr/bk	start	80	200	back	220	1100	slightly back	1340	1880
+head pos: tilt side	start	80	1020	slightly right	1040	1380	start	1400	1600	right	1620	1720	end	1740	2060
+eye aperture	blink	120	200	lowered lid	220	680	blink	700	840	slightly lowered	860	1320	lowered lid	1340	1720	blink	1740	1780	slightly lowered	1800	2400	blink	2440	2460
+eye gaze	left	1360	1720
+cheeks	start	1400	1480	puffed	1500	1800	end	1820	1880
+POS	Quantifier	460	980	Noun	1100	1120	Noun	1220	1340	Verb	1440	1860	Noun	2040	2160	Noun	2280	2420
+English translation	All the boys in the class each gave the teacher an apple.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:650_224_small_0.mov
+Video	NCSLGRv2:video files:slave1:650_224_small_1.mov
+Video	NCSLGRv2:video files:slave2:650_224_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	2080
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	#ALL	300	440	BOY	560	660	(2h)alt.GIFT++:j	780	1320	TEACHER	1500	1600	APPLE	1720	1880
+non-dominant hand gloss
+head pos: tilt fr/bk	start	0	140	slightly back	160	1660	end	1680	2080
+head pos: tilt side	start	180	320	left	340	360	start	380	620	right	640	660	start	680	840	left	860	1240	end	1260	1480
+head pos: jut	start	820	920	back	940	1280	end	1300	1460
+cheeks	start	760	800	puffed	820	1260	end	1280	1340
+eye brows	slightly lowered	0	1680	end	1700	2080
+eye aperture	slightly lowered	100	660	lowered lid	680	1280	blink	1300	1340	lowered lid	1360	1480	end	1500	2080
+POS	Quantifier	300	440	Noun	560	660	Verb	780	1320	Noun	1500	1600	Noun	1720	1880
+English translation	All the boys each give the teacher an apple.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:651_223_small_0.mov
+Video	NCSLGRv2:video files:slave1:651_223_small_1.mov
+Video	NCSLGRv2:video files:slave2:651_223_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	2040
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	011
+main gloss	#ALL	300	420	BOY	560	640	(2h)alt.GIFT++:j	760	1320	TEACHER	1480	1600	APPLE	1740	1880
+non-dominant hand gloss
+head pos: tilt fr/bk	start	40	120	slightly back	140	1420	end	1440	1500	start	1820	1960	front	1980	2040
+head pos: tilt side	start	200	300	left	320	360	start	380	600	right	620	640	start	660	860	left	880	1280	end	1300	1480
+head pos: jut	start	800	920	back	940	1340	end	1360	1480
+body lean	start	780	880	back	900	1240	end	1260	1420
+cheeks	start	740	780	puffed	800	1260	end	1280	1340
+eye brows	lowered	40	2040
+eye aperture	slightly lowered	40	640	lowered lid	660	1280	blink	1300	1340	end	1360	1780
+POS	Quantifier	300	420	Noun	560	640	Verb	760	1320	Noun	1480	1600	Noun	1740	1880
+English translation	All the boys each give the teacher an apple.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:652_228_small_0.mov
+Video	NCSLGRv2:video files:slave1:652_228_small_1.mov
+Video	NCSLGRv2:video files:slave2:652_228_small_2.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1680
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	IX-3p:i	280	320	GIRL	480	540	i:GIFT:j	640	860	fs-JOHN	1000	1120	BOX++	1220	1500
+non-dominant hand gloss
+head pos: tilt fr/bk	start	120	220	slightly back	240	440	end	460	580	start	1220	1480	slightly front	1500	1680
+head pos: tilt side	start	580	700	left	720	780	end	800	900	start	1160	1460	left	1480	1540	end	1560	1680
+head pos: turn	start	700	760	slightly left	780	840	end	860	920	start	1220	1460	slightly left	1480	1560	end	1580	1680
+eye brows	start	60	300	lowered	320	1680
+eye aperture	start	60	260	slightly lowered	280	900	blink	920	940	lowered lid	980	1200	end	1240	1560	blink	1580	1640
+cheeks	start	640	680	puffed	700	800	end	820	900
+POS	Pronoun	280	320	Noun	480	540	Verb	640	860	Proper Noun	1000	1120	Noun	1220	1500
+English translation	The girl is giving John boxes.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:653_227_small_0.mov
+Video	NCSLGRv2:video files:slave1:653_227_small_1.mov
+Video	NCSLGRv2:video files:slave2:653_227_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1640
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	TEACHER	300	420	i:GIFT++:j	480	1060	BOY	1240	1280	BOOK	1420	1480
+non-dominant hand gloss
+head pos: tilt fr/bk	start	1140	1220	front	1240	1500
+head pos: tilt side	start	60	180	slightly right	200	360	start	380	520	slightly left	540	1000	end	1020	1120	start	1160	1220	slightly right	1240	1280	end	1300	1420
+head pos: jut	start	440	500	forward	520	1020	end	1040	1080
+eye brows	start	40	160	lowered	180	1640
+eye aperture	start	40	160	lowered lid	180	1000	blink	1020	1080	end	1100	1420
+mouth	lips pursed: mm	480	1000
+POS	Noun	300	420	Verb	480	1060	Noun	1240	1280	Noun	1420	1480
+English translation	The teacher gives the boy a book repeatedly.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:654_226_small_0.mov
+Video	NCSLGRv2:video files:slave1:654_226_small_1.mov
+Video	NCSLGRv2:video files:slave2:654_226_small_2.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	2240
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	TEACHER	540	800	|>		1020	(2h)GIFT-pl-arc:j	1160	1520	BOY	1720	1780	BOOK	1900	2040
+non-dominant hand gloss
+head pos: tilt fr/bk	start	80	220	slightly back	240	460	start	480	700	slightly front	720	780	start	820	1100	back	1120	1480	end	1500	1760
+head pos: tilt side	start	640	780	left	800	1540	start	1560	1760	slightly right	1780	1860
+head pos: turn	start	1220	1340	slightly left	1360	1540	end	1560	1660
+eye brows	slightly lowered	60	2240
+eye aperture	lowered lid	60	140	blink	160	220	lowered lid	240	1600	end	1620	1780
+cheeks	start	1100	1200	puffed	1220	1420	end	1440	1540
+POS	Noun	540	800	Verb	1160	1520	Noun	1720	1780	Noun	1900	2040
+English translation	The teacher gives the boys each a book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:655_231_small_0.mov
+Video	NCSLGRv2:video files:slave1:655_231_small_1.mov
+Video	NCSLGRv2:video files:slave2:655_231_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1460
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	009
+main gloss	fs-JOHN	340	580	neu:GIFT:j	660	720	GIRL	880	960	BOX	1060	1240
+non-dominant hand gloss
+head pos: tilt fr/bk	start	20	220	back	240	600	end	620	740	start	1060	1400	front	1420	1460
+head pos: tilt side	start	20	340	slightly right	360	720	start	740	880	slightly left	900	1340	end	1360	1460
+head pos: turn	slightly left	840	1360	end	1380	1460
+eye brows	start	100	260	slightly lowered	280	1460
+eye aperture	lowered lid	540	980	end	1000	1320	blink	1340	1400
+POS	Proper Noun	340	580	Verb	660	720	Noun	880	960	Noun	1060	1240
+English translation	John is giving the girl a box.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:656_230_small_0.mov
+Video	NCSLGRv2:video files:slave1:656_230_small_1.mov
+Video	NCSLGRv2:video files:slave2:656_230_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1400
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	008
+main gloss	IX-3p-pl-arc:i	200	340	GIRL	440	460	neu:GIVE:j	580	700	fs-JOHN:j	800	960	BOX++	1040	1260
+non-dominant hand gloss
+eye aperture	blink	480	500	lowered lid	1280	1400
+eye brows	start	100	160	slightly raised	180	400	start	420	440	slightly lowered	460	1400
+mouth	start	40	80	lips pursed: mm	100	300
+head pos: tilt side	start	520	600	slightly left	620	640	end	660	720	start	940	1160	slightly left	1180	1300	end	1320	1400
+POS	Determiner	200	340	Noun	440	460	Verb	580	700	Proper Noun	800	960	Noun	1040	1260
+English translation	The girls are giving John boxes.
+Notes - number of character bytes:	12
+end of GIVE?
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:657_229_small_0.mov
+Video	NCSLGRv2:video files:slave1:657_229_small_1.mov
+Video	NCSLGRv2:video files:slave2:657_229_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1500
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	009
+main gloss	IX-3p-pl-arc:i	180	280	GIRL	440	480	neu:GIFT:j	600	720	fs-JOHN	800	980	BOX++	1060	1300
+non-dominant hand gloss
+eye aperture	lowered lid	1400	1500
+cheeks	start	540	620	puffed	640	700	end	720	760
+head pos: tilt side	start	0	60	slightly right	80	220	end	240	320	start	520	640	left	660	700	end	720	760	start	1080	1200	left	1220	1340	end	1360	1500
+head pos: tilt fr/bk	start	120	260	front	280	500	end	520	640
+body lean	start	0	220	right	240	420	end	440	540
+POS	Determiner	180	280	Noun	440	480	Verb	600	720	Proper Noun	800	980	Noun	1060	1300
+English translation	The girls are giving John boxes.
+Notes - number of character bytes:	38
+how to code what's happening with BOX?
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:658_234_small_0.mov
+Video	NCSLGRv2:video files:slave1:658_234_small_1.mov
+Video	NCSLGRv2:video files:slave2:658_234_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1240
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	fs-JOHN	60	160	neu:GIFT-pl-arc	240	480	GIRL	640	680	BOX++	820	960
+non-dominant hand gloss
+eye aperture	lowered lid	180	360	blink	980	1020
+eye gaze	left	180	320
+cheeks	start	200	260	puffed	280	440	end	460	500
+head pos: tilt fr/bk	start	1040	1160	front	1180	1240
+head pos: tilt side	right	20	300	further right	320	460	end	480	600	start	700	800	right	820	960	end	980	1080
+head pos: turn	start	160	240	left	260	320	end	340	500
+POS	Proper Noun	60	160	Verb	240	480	Noun	640	680	Noun	820	960
+English translation	John is giving the girls boxes.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:660_233_small_0.mov
+Video	NCSLGRv2:video files:slave1:660_233_small_1.mov
+Video	NCSLGRv2:video files:slave2:660_233_small_2.mov
+Video	
+Audio	
+Start frame:	260
+End frame:	1960
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	008
+main gloss	fs-JOHN	540	800	neu:GIFT+++:i/j/k	920	1160	GIRL	1360	1440	BOX++	1540	1760
+non-dominant hand gloss
+eye aperture	blink	1180	1240	blink	1760	1820
+cheeks	start	840	900	puffed	920	940	puffed	960	1040	puffed	1060	1120	end	1140	1220
+head pos: tilt fr/bk	start	400	500	back	520	880	end	900	1080	start	1680	1800	front	1820	1860	end	1880	1940
+head pos: tilt side	start	420	580	right	600	760	start	780	1000	left	1020	1180	start	1200	1360	right	1380	1480	start	1500	1760	left	1780	1820	end	1840	1960
+POS	Proper Noun	540	800	Verb	920	1160	Noun	1360	1440	Noun	1540	1760
+English translation	John is giving the girls boxes.
+Notes - number of character bytes:	23
+mark agreement on GIVE?
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:661_232_small_0.mov
+Video	NCSLGRv2:video files:slave1:661_232_small_1.mov
+Video	NCSLGRv2:video files:slave2:661_232_small_2.mov
+Video	
+Audio	
+Start frame:	80
+End frame:	1360
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	007
+main gloss	fs-JOHN	260	500	neu:GIFT:j	540	620	GIRL	740	800	BOX++	880	1120
+non-dominant hand gloss
+eye aperture	blink	1240	1280
+head pos: tilt fr/bk	start	520	620	slightly front	640	1020	start	1040	1280	front	1300	1360
+head pos: tilt side	start	200	260	right	280	480	end	500	600	start	820	920	left	940	1200	end	1220	1320
+POS	Proper Noun	260	500	Verb	540	620	Noun	740	800	Noun	880	1120
+English translation	John is giving the girl boxes.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-446_321_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-446_321_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-446_321_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1400
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	011
+main gloss	fs-JOHN	200	260	TELL:j	380	400	fs-MARY	460	560	IX-1p:i	720	740	BUY	840	880	HOUSE	1000	1200
+non-dominant hand gloss
+eye aperture	start	300	320	lowered lid	340	820	end	840	880	blink	1220	1320
+eye gaze	left	340	1220
+eye brows	start	40	120	raised	140	200	end	220	260
+head pos: tilt side	start	300	460	right	480	520	end	540	660	start	700	820	right	840	1020	end	1040	1320
+head pos: turn	start	500	580	left	600	1200	end	1220	1360
+body lean	start	460	560	right	580	680	end	700	780	start	880	940	right	960	1200	end	1220	1360
+POS	Proper Noun	200	260	Verb	380	400	Proper Noun	460	560	Pronoun	720	740	Verb	840	880	Noun	1000	1200
+role shift	John	640	1200
+English translation	John told Mary, "I am buying a house."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-448_323_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-448_323_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-448_323_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1640
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	010
+main gloss	fs-JOHN	160	220	i:TELL:j	340	360	fs-MARY	420	600	IX-1p	760	800	BUY	920	980	HOUSE	1060	1320
+non-dominant hand gloss
+eye aperture	blink	660	840	blink	1400	1560
+eye gaze	left	680	1400
+head pos: tilt fr/bk	start	200	400	front	420	1280	end	1300	1360
+head pos: tilt side	start	240	380	left	400	700	start	720	860	right	880	900	start	920	1080	left	1100	1240	end	1260	1320
+head pos: turn	start	220	380	left	400	1320	end	1340	1640
+body lean	start	820	1040	right	1060	1220	end	1240	1360
+POS	Proper Noun	160	220	Verb	340	360	Proper Noun	420	600	Pronoun	760	800	Verb	920	980	Noun	1060	1320
+English translation	John told Mary, "I am buying a house."
+Notes - number of character bytes:	77
+1) Are these co-IX right?
+2) IX-1p interesting--from side see change hs early
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-449_154_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-449_154_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-449_154_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	2480
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	012
+main gloss	fs-MARY	380	520	|>		720	VEGETABLE	1040	1200	|>		1280	KNOW	1440	1480	IX-3p:i	1600	1640	LIKE	1740	1800	fs-CORN	1940	2180
+non-dominant hand gloss
+topic	top2	140	720	top2	740	1200
+eye brows	start	0	120	raised	140	1160	start	1180	1260	slightly lowered	1280	2480
+eye aperture	blink	20	60	start	80	180	wide	200	1140	start	1160	1200	blink	1220	1260	squint	1280	2100
+eye gaze	right	760	900
+mouth	lips pursed: mm	1280	1420
+head pos: tilt side	start	760	840	right	860	1240	slightly right	1260	1480	end	1500	1580	start	1740	1860	slightly left	1880	2200	end	2220	2480
+head mvmt: nod	start	40	260	single	280	640	start	660	980	single	1000	1220	end	1240	1320
+body lean	start	440	580	forward	600	680	end	700	820	start	920	1120	right	1140	1240	end	1260	1440
+POS	Proper Noun	380	520	Noun	1040	1200	Verb	1440	1480	Pronoun	1600	1640	Verb	1740	1800	Noun	1940	2180
+English translation	As for Mary and vegetables, (he) knows she likes corn.
+Notes - number of character bytes:	45
+shouldn't eng trans be I know she likes corn?
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-450_274_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-450_274_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-450_274_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1980
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	010
+main gloss	fs-MARY:i	180	320	|>		360	VEGETABLE	560	700	|>		760	IX-1p	860	900	KNOW	1040	1060	IX-3p:i	1140	1160	LIKE	1280	1340	fs-CORN	1440	1680	|>		1740
+non-dominant hand gloss
+topic	top2	180	360	top2	380	760
+eye brows	start	40	160	raised	180	760	end	780	920
+eye aperture	blink	40	100	start	120	180	wide	200	760	start	780	800	lowered lid	820	1020	start	1040	1080	blink	1100	1160
+eye gaze	right	440	540	right	1020	1100
+head pos: tilt side	start	140	360	right	380	780	end	800	960
+head mvmt: nod	start	120	180	single	200	760	end	780	860	rapid	880	1720
+POS	Proper Noun	180	320	Noun	560	700	Pronoun	860	900	Verb	1040	1060	Pronoun	1140	1160	Verb	1280	1340	Noun	1440	1680
+English translation	As for Mary and vegetables, I know she likes corn.
+Notes - number of character bytes:	30
+hs of IX-1p preparing for KNOW
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-451_282_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-451_282_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-451_282_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1880
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	013
+main gloss	fs-MARY:i	140	260	|>		420	VEGETABLE	600	740	|>		800	KNOW	940	1000	IX-3p:i	1060	1080	LIKE	1200	1260	fs-CORN	1380	1580	|>		1680
+non-dominant hand gloss
+topic	top2	120	420	top2	440	780
+eye brows	start	0	100	raised	120	780	end	800	880
+eye aperture	start	60	120	wide	140	300	blink	320	380	wide	400	740	start	760	780	lowered lid	800	1240	end	1260	1500
+eye gaze	right	460	540
+nose	start	800	840	wrinkle	860	1000	end	1020	1060
+head mvmt: nod	single	100	340	end	360	500	rapid	1200	1680
+head pos: tilt fr/bk	start	780	860	back	880	1020	end	1040	1080
+head pos: tilt side	start	240	500	right	520	960	end	980	1160
+head pos: turn	start	800	920	right	940	1700	end	1720	1880
+POS	Proper Noun	140	260	Noun	600	740	Verb	940	1000	Pronoun	1060	1080	Verb	1200	1260	Noun	1380	1580
+English translation	As for Mary and vegetables, (I) know she likes corn.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-452_155_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-452_155_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-452_155_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	2420
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	012
+main gloss	fs-MARY:i	440	640	|>		800	VEGETABLE	1080	1180	|>		1240	KNOW	1420	1460	IX-3p:i	1520	1540	LIKE	1600	1660	CORN	1800	2020
+non-dominant hand gloss
+topic	top2	400	740	top2	920	1180
+eye brows	start	60	160	raised	180	1180	end	1200	1260
+eye aperture	start	140	280	wide	300	620	blink	640	740	start	760	900	wide	920	1180	blink	1200	1280	lowered lid	1300	1360
+eye gaze	right	1000	1080
+head pos: jut	start	280	420	forward/left	440	700	end	720	840
+head pos: tilt side	start	920	1020	right	1040	1300	end	1320	1440	start	1560	1620	slightly left	1640	2220	end	2240	2360
+head mvmt: nod	start	80	300	single	320	700	start	720	1020	single	1040	1220	end	1240	1340
+body lean	start	420	600	forward	620	740	end	760	840	start	1040	1160	right	1180	1240	end	1260	1340	start	1780	1840	right	1860	2280	end	2300	2360
+POS	Proper Noun	440	640	Noun	1080	1180	Verb	1420	1460	Pronoun	1520	1540	Verb	1600	1660	Noun	1800	2020
+English translation	As for Mary, as for vegetables, (I) knows she likes corn.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-454_156_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-454_156_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-454_156_small_2.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	1800
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	010
+main gloss	fs-JOHN:i	200	500	IX-3p:i	600	640	THINK	800	860	fs-MARY	980	1220	LOVE	1300	1380	|>		1520
+non-dominant hand gloss
+eye brows	start	480	520	slightly raised	540	580	end	600	640
+eye aperture	squint	700	840	squint	1200	1380	blink	1580	1640
+eye gaze	left	1300	1540
+head pos: tilt fr/bk	start	100	160	back	180	500	end	520	640
+head pos: tilt side	start	1300	1360	left	1380	1420	end	1440	1580
+body lean	start	1240	1340	left	1360	1460	end	1480	1600
+POS	Proper Noun	200	500	Pronoun	600	640	Verb	800	860	Proper Noun	980	1220	Verb	1300	1380
+English translation	John thinks Mary loves (him).
+Notes - number of character bytes:	49
+1) is IX-3p correct?
+2) no topic?
+3) agr of LOVE?
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-457_157_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-457_157_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-457_157_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	2000
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	008
+main gloss	fs-JOHN:i	300	560	|>		720	IX-3p:i	840	880	THINK	1040	1100	fs-MARY:j	1240	1460	j:LOVE:i	1580	1700
+non-dominant hand gloss
+eye brows	start	1260	1300	slightly raised	1320	1400	end	1420	1460
+eye aperture	start	1500	1520	lowered lid	1540	1700	end	1720	1760	blink	1820	1940
+eye gaze	left	1520	1800
+head pos: tilt side	start	1560	1640	right	1660	1680	end	1700	1940
+POS	Proper Noun	300	560	Pronoun	840	880	Verb	1040	1100	Proper Noun	1240	1460	Verb	1580	1700
+English translation	John thinks Mary loves (him).
+Notes - number of character bytes:	197
+1) I think this is where the face orientation and agreement stuff comes in, but I need to clarify that
+2) unsure abt coindexing and agrmt
+3) IX-3p:i right? or loc? similar to 36
+4) no topic, right?
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-458_285_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-458_285_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-458_285_small_2.mov
+Video	
+Audio	
+Start frame:	60
+End frame:	1420
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	013
+main gloss	fs-JOHN:i	140	240	IX-3p:i	320	380	THINK	560	600	fs-MARY:j	680	800	j:(1h)LOVE:i	940	1100	|>		1160
+non-dominant hand gloss
+eye brows	start	560	620	raised	640	720	end	740	800
+eye aperture	blink	880	920	blink	1060	1100
+eye gaze	left	300	380	right	760	860	left	960	1040
+cheeks	start	320	400	tensed	420	580	end	600	640
+head pos: tilt fr/bk	start	60	260	front	280	540	further front	560	620	front	640	1080	end	1100	1420
+head pos: jut	start	300	440	back	460	580	end	600	660
+head pos: tilt side	start	940	1020	right	1040	1100	end	1120	1160
+head pos: turn	start	860	980	left	1000	1060	end	1080	1100
+body lean	start	720	860	right	880	1160	end	1180	1420
+POS	Proper Noun	140	240	Pronoun	320	380	Verb	560	600	Proper Noun	680	800	Verb	940	1100
+English translation	John thinks Mary loves (him).
+Notes - number of character bytes:	36
+1) topic?
+2) need AGR fields I think
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-459_93_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-459_93_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-459_93_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1180
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	008
+main gloss	fs-JOHN	180	280	CAN	380	400	BUY	500	580	HOUSE	680	900
+non-dominant hand gloss
+eye brows	start	60	140	raised	160	260	end	280	360
+eye aperture	blink	1080	1140
+head pos: tilt fr/bk	start	60	180	slightly back	200	320
+head mvmt: nod	rapid	320	1100
+POS	Proper Noun	180	280	Modal	380	400	Verb	500	580	Noun	680	900
+English translation	John can buy a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-461_92_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-461_92_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-461_92_small_2.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	1240
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	009
+main gloss	fs-JOHN	200	280	#EX	360	440	NOT	560	580	LIKE	660	720	CHOCOLATE	840	1000
+non-dominant hand gloss
+negative	neg	560	1080
+eye brows	start	100	120	raised	140	200	further raised	220	400	start	420	520	lowered	540	600	end	620	660
+eye gaze	right	300	380
+head pos: tilt fr/bk	start	100	200	back	220	380	end	400	460
+head mvmt: shake	slow	460	1080
+POS	Proper Noun	200	280	Tense Marker	360	440	Negation	560	580	Verb	660	720	Noun	840	1000
+English translation	John used to not like chocolate.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	41
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-462_94_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-462_94_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-462_94_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1240
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	008
+main gloss	fs-JOHN	100	180	MUST	260	340	BUY	480	520	HOUSE	640	860
+non-dominant hand gloss
+eye aperture	blink	1040	1160
+head mvmt: nod	single	220	340	rapid	360	1060
+head pos: tilt side	start	220	340	left	360	1000	end	1020	1240
+head pos: jut	start	260	300	back	320	340	end	360	460
+POS	Proper Noun	100	180	Modal	260	340	Verb	480	520	Noun	640	860
+English translation	John must buy a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	42
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-463_286_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-463_286_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-463_286_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1000
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	005
+main gloss	fs-JOHN	160	240	FUTURE	400	440	BUY	520	580	HOUSE	680	860
+non-dominant hand gloss
+head pos: tilt side	start	240	380	slightly right	400	780	end	800	940
+POS	Proper Noun	160	240	Tense Marker	400	440	Verb	520	580	Noun	680	860
+English translation	John will buy a house.
+Notes - number of character bytes:	103
+is there a slight nod here or is it the movie file?? i think there's a nod but need another set of eyes
+
+
+Utterance ID:	43
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-464_98_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-464_98_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-464_98_small_2.mov
+Video	
+Audio	
+Start frame:	100
+End frame:	1440
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	010
+main gloss	fs-JOHN	280	360	FUTURE^NOT	480	620	BUY	740	780	HOUSE	860	1020	|>		1160
+non-dominant hand gloss
+negative	neg	540	1160
+eye brows	start	100	160	raised	180	340	start	360	460	lowered	480	1060	end	1080	1160
+eye aperture	start	360	440	squint	460	1040	end	1060	1140	blink	1320	1380
+nose	start	360	420	wrinkle	440	1080	end	1100	1160
+mouth	raised upper lip	520	580	lips spread:crnrs down	640	720	raised upper lip	740	880
+head mvmt: shake	slow	400	1340
+POS	Proper Noun	280	360	Tense Marker	480	620	Verb	740	780	Verb	860	1020
+English translation	John won't buy a house.
+Notes - number of character bytes:	33
+1) how to do POS for FUTURE^NOT?
+
+
+
+Utterance ID:	44
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-465_95_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-465_95_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-465_95_small_2.mov
+Video	
+Audio	
+Start frame:	120
+End frame:	1360
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	009
+main gloss	fs-JOHN	220	260	PAST	360	500	LIVE	680	740	CHICAGO	820	1020
+non-dominant hand gloss
+topic	top1	200	320
+head pos: tilt fr/bk	start	700	800	slightly front	820	1080	end	1100	1260
+head pos: tilt side	start	340	460	slightly right	480	740	end	760	840
+eye brows	start	120	180	raised	200	320	end	340	440
+eye aperture	blink	120	120	end	140	180	blink	1300	1360
+POS	Proper Noun	220	260	Tense Marker	360	500	Verb	680	740	Proper Noun	820	1020
+English translation	John lived in Chicago.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	45
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-466_324_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-466_324_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-466_324_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1000
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	007
+main gloss	fs-JOHN	140	200	BUY	340	400	CAR	480	560	FUTURE	680	800
+non-dominant hand gloss
+head pos: tilt fr/bk	start	140	240	slightly front	260	580
+head mvmt: nod	start	540	580	single	600	800	end	820	1000
+head pos: turn	start	560	640	slightly right	660	900	end	920	1000
+POS	Proper Noun	140	200	Verb	340	400	Noun	480	560	Adverb	680	800
+English translation	John will buy a car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	46
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-468_96_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-468_96_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-468_96_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1320
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	012
+main gloss	fs-JOHN	120	220	SHOULD	320	400	NOT	480	560	BUY	680	740	HOUSE	840	1120
+non-dominant hand gloss
+head pos: tilt fr/bk	start	0	100	slightly back	120	320	end	340	440
+head mvmt: shake	start	320	520	slow	540	1320
+eye brows	start	20	120	raised	140	220	end	240	320
+eye aperture	start	40	100	wide	120	240	end	260	280	slightly lowered	300	640	end	660	980
+nose	start	300	360	tensed	380	1100	end	1120	1320
+cheeks	less tensed	280	1320
+mouth	raised upper lip	600	1320
+negative	neg	340	1320
+POS	Proper Noun	120	220	Modal	320	400	Negation	480	560	Verb	680	740	Noun	840	1120
+English translation	John should not buy a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	47
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-469_287_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-469_287_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-469_287_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1280
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	010
+main gloss	fs-JOHN	120	240	SHOULD	320	380	NOT	460	480	BUY	600	640	HOUSE	760	980
+non-dominant hand gloss
+head pos: tilt fr/bk	start	280	340	slightly front	360	1280
+negative	neg	460	1280
+head mvmt: shake	start	320	500	single	540	860	end	880	1260
+eye brows	start	280	340	slightly lowered	360	1000	end	1020	1280
+eye aperture	start	300	360	slightly lowered	380	940	end	960	1280
+nose	start	240	340	tensed	360	1100	end	1120	1280
+POS	Proper Noun	120	240	Modal	320	380	Negation	460	480	Verb	600	640	Noun	760	980
+English translation	John should not buy a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	48
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-471_289_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-471_289_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-471_289_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1120
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	009
+main gloss	fs-JOHN	80	180	SHOULD^NOT	240	480	BUY	620	640	HOUSE	740	900
+non-dominant hand gloss
+negative	neg	240	860
+head mvmt: shake	start	140	440	single	460	860	end	880	1120
+nose	start	20	100	tensed	120	860	end	880	1000
+eye aperture	start	20	140	lowered lid	160	440	slightly lowered	460	920	end	940	1120
+eye brows	slightly lowered	20	1120
+POS	Proper Noun	80	180	Negation	240	480	Verb	620	640	Noun	740	900
+English translation	John shouldn't buy a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	49
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-473_291_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-473_291_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-473_291_small_2.mov
+Video	
+Audio	
+Start frame:	40
+End frame:	1140
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	009
+main gloss	fs-JOHN	120	240	NOT^HAVE-TO	360	480	BUY	600	660	HOUSE	740	940
+non-dominant hand gloss
+negative	neg	360	920
+head mvmt: shake	start	240	460	single	480	900	end	920	1060
+eye brows	start	420	540	lowered	560	840	end	860	1000
+eye aperture	start	340	380	lowered lid	400	880	end	900	1040
+nose	tensed	540	940	end	960	1140
+POS	Proper Noun	120	240	Negation	360	480	Verb	600	660	Noun	740	940
+English translation	John doesn't have to buy a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	50
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-474_167_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-474_167_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-474_167_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1160
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	011
+main gloss	fs-JOHN	60	280	FUTURE	420	440	FINISH	480	540	SEE	640	740	fs-MARY	780	940
+non-dominant hand gloss
+head pos: tilt fr/bk	start	500	600	slightly front	620	720	end	740	840
+head mvmt: nod	slow	60	1160
+head pos: tilt side	start	460	580	left	600	720	end	740	940
+eye brows	lowered	0	1160
+eye aperture	lowered lid	0	1020	blink	1040	1100
+eye gaze	left	380	800
+mouth	lips pursed: mm	0	160
+POS	Proper Noun	60	280	Tense Marker	420	440	Aspect Marker	480	540	Verb	640	740	Proper Noun	780	940
+English translation	John will have seen Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	51
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-477_165_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-477_165_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-477_165_small_2.mov
+Video	
+Audio	
+Start frame:	140
+End frame:	1280
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	011
+main gloss	fs-JOHN	220	400	DECIDE	600	700	VISIT	800	880	fs-MARY	940	1100
+non-dominant hand gloss
+head pos: tilt fr/bk	start	140	220	slightly back	240	400	end	420	560	start	580	700	front	720	820	end	840	920
+head pos: tilt side	start	400	560	left	580	860	end	880	1060
+body lean	start	700	800	forward	820	920	end	940	1100
+eye brows	lowered	140	1280
+eye gaze	left	460	920
+eye aperture	lowered lid	140	920	end	940	1120	blink	1160	1200
+mouth	lips pursed: mm	480	660
+POS	Proper Noun	220	400	Verb	600	700	Verb	800	880	Proper Noun	940	1100
+English translation	John decided to visit Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	52
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-481_166_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-481_166_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-481_166_small_2.mov
+Video	
+Audio	
+Start frame:	120
+End frame:	1500
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	009
+main gloss	fs-JOHN	220	660	FUTURE	780	800	FINISH	840	900	SEE	1000	1080	fs-MARY	1180	1300
+non-dominant hand gloss
+head pos: tilt side	start	180	300	right	320	620	start	640	900	left	920	1040	end	1060	1240
+head mvmt: nod	single	700	900
+eye brows	lowered	120	1500
+eye aperture	lowered lid	120	1060	blink	1080	1120	lowered lid	1140	1500
+eye gaze	left	640	1040
+POS	Proper Noun	220	660	Tense Marker	780	800	Aspect Marker	840	900	Verb	1000	1080	Proper Noun	1180	1300
+English translation	John will have seen Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	53
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-483_99_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-483_99_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-483_99_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1220
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	010
+main gloss	fs-JOHN	100	140	FUTURE	240	280	NOT	420	460	BUY	560	620	HOUSE	680	960
+non-dominant hand gloss
+head pos: tilt side	start	140	260	slightly right	280	760	end	780	960
+head mvmt: shake	start	120	280	slow	300	1120	end	1140	1220
+eye brows	start	20	100	raised	120	140	start	160	280	lowered	300	640	end	660	740
+eye aperture	start	160	200	lowered lid	220	540	slightly lowered	560	900	end	920	1020
+nose	start	140	220	wrinkle	240	780	end	800	880
+negative	neg	300	1120
+POS	Proper Noun	100	140	Tense Marker	240	280	Negation	420	460	Verb	560	620	Noun	680	960
+English translation	John will not buy a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	54
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	Databases to be verified:All the compressed videos:master-compressed:ch5-484_100_small_0.mov
+Video	Databases to be verified:All the compressed videos:slave1-compressed:ch5-484_100_small_1.mov
+Video	Databases to be verified:All the compressed videos:slave2-compressed:ch5-484_100_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1060
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	008
+main gloss	fs-JOHN	120	200	PREFER	320	380	GO	500	580	MOVIE	680	900
+non-dominant hand gloss
+head pos: tilt fr/bk	start	440	480	slightly front	500	820	end	840	940
+eye brows	start	20	100	raised	120	220	end	240	300
+head mvmt: nod	start	200	280	single	300	760	end	780	900
+eye gaze	right	220	280
+POS	Proper Noun	120	200	Verb	320	380	Verb	500	580	Noun	680	900
+English translation	John prefers to go to a movie
+Notes - number of character bytes:	0
+
+
+Utterance ID:	55
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-486_102_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-486_102_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-486_102_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1080
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	007
+main gloss	fs-JOHN	80	120	WANT	240	320	SELL	400	540	CAR	620	900
+non-dominant hand gloss
+head pos: turn	start	320	560	slightly right	580	880	end	900	1020
+head pos: jut	start	180	300	back	320	780	end	800	1000
+nose	start	160	280	tensed	300	820	end	840	960
+POS	Proper Noun	80	120	Verb	240	320	Verb	400	540	Noun	620	900
+English translation	John wants to sell (his/a) car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	56
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-487_103_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-487_103_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-487_103_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1140
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	013
+main gloss	fs-JOHN	40	100	WANT	180	220	SELL	300	440	CAR	520	620	FUTURE	700	900
+non-dominant hand gloss
+head pos: tilt side	start	600	740	right	760	860	end	880	1140
+head mvmt: nod	start	0	80	rapid	100	480	end	500	560
+head pos: turn	start	220	460	right	480	940	end	960	1140
+eye brows	start	0	40	raised	60	160	end	180	280	start	600	640	slightly lowered	660	800	end	820	980
+eye gaze	right	140	220	up/right	720	800
+eye aperture	start	580	620	squint	640	720	end	740	800
+nose	tensed	380	580	start	600	680	wrinkle	700	800	end	820	880
+cheeks	start	640	680	puffed	700	820	end	840	860
+mouth	lips pursed: mm	660	900
+POS	Proper Noun	40	100	Verb	180	220	Verb	300	440	Noun	520	620	Adverb	700	900
+English translation	John wants to sell his car in the future.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	57
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-488_105_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-488_105_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-488_105_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1080
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	012
+main gloss	FUTURE	160	200	fs-JOHN	280	360	GO	480	560	FUTURE	700	880
+non-dominant hand gloss
+head pos: tilt fr/bk	start	20	200	back	220	380	end	400	580
+head pos: tilt side	start	0	160	right	180	980	end	1000	1080
+head pos: turn	start	380	560	right	580	940	end	960	1080
+head mvmt: nod	start	580	660	single	680	880	end	900	980
+eye brows	start	20	180	raised	200	220	end	240	300
+eye aperture	wide	100	220	blink	540	560
+eye gaze	right	420	520
+mouth	start	0	60	lips spread:crnrs down	80	200
+POS	Adverb	160	200	Proper Noun	280	360	Verb	480	560	Tense Marker	700	880
+English translation	In the future, John will go, (he) will.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	58
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-489_101_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-489_101_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-489_101_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1260
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	010
+main gloss	fs-JOHN	160	260	PREFER	400	420	GO	520	580	MOVIE	700	740	TOMORROW	880	980	|>		1120
+non-dominant hand gloss
+head pos: tilt fr/bk	start	740	920	front	940	960	end	980	1200
+head pos: tilt side	start	240	360	left	380	1080	end	1100	1240
+head mvmt: nod	start	60	260	rapid	280	740	single	840	1160
+eye brows	start	20	100	raised	120	280	end	300	380
+eye gaze	left	460	520
+eye aperture	start	220	280	slightly lowered	300	440	end	460	580
+POS	Proper Noun	160	260	Verb	400	420	Verb	520	580	Noun	700	740	Adverb	880	980
+English translation	John prefers to go to a movie tomorrow.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	59
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-490_108_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-490_108_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-490_108_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1140
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	010
+main gloss	NEXT-WEEK	220	280	fs-JOHN	320	440	GO	520	620	NEW-YORK	780	1000
+non-dominant hand gloss
+head pos: tilt fr/bk	start	560	660	front	680	880	end	900	1120
+head pos: tilt side	start	220	340	slightly right	360	920	end	940	1100
+head pos: turn	start	260	360	slightly right	380	1020	end	1040	1140
+eye brows	start	0	80	slightly raised	100	240	end	260	360
+eye aperture	blink	0	20
+head pos: jut	start	580	640	back	660	820	end	840	1120
+POS	Adverb	220	280	Proper Noun	320	440	Verb	520	620	Proper Noun	780	1000
+English translation	Next week, John is going to New York.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	60
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-491_109_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-491_109_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-491_109_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1320
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	012
+main gloss	fs-JOHN	60	120	FUTURE	200	420	NOT	600	620	BUY	720	780	HOUSE	860	1060
+non-dominant hand gloss
+head pos: tilt fr/bk	start	0	360	back	380	440	end	460	680
+head pos: tilt side	start	120	340	right	360	840	slightly right	860	1320
+negative	start	420	540	neg	560	1140	end	1160	1300
+head mvmt: shake	start	440	640	slow	660	1100	end	1120	1320
+eye brows	start	0	180	raised	200	400	start	420	540	lowered	560	1140	end	1160	1260
+eye aperture	start	140	220	wide	240	360	start	380	460	squint	480	1120	end	1140	1260
+nose	start	440	560	wrinkle	580	1140	end	1160	1220
+mouth	start	280	500	lips spread:crnrs down	520	720	lips spread:crnrs down	960	1200
+POS	Proper Noun	60	120	Tense Marker	200	420	Negation	600	620	Verb	720	780	Noun	860	1060
+English translation	John, in the future, is not buying a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	61
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-492_110_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-492_110_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-492_110_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1560
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	011
+main gloss	fs-JOHN	80	140	FUTURE	220	540	FUTURE^NOT	640	720	BUY	880	960	HOUSE	1040	1280
+non-dominant hand gloss
+head pos: tilt fr/bk	start	160	340	back	360	520	end	540	740
+head pos: tilt side	start	140	320	right	340	1140	end	1160	1560
+head mvmt: shake	start	600	760	slow	780	1560
+eye brows	start	0	200	raised	220	520	start	540	640	lowered	660	1400	end	1420	1480
+eye aperture	start	200	300	wide	320	480	start	500	580	squint	600	1240	end	1260	1320
+nose	start	540	700	wrinkle	720	1380	end	1400	1480
+mouth	start	720	820	lips spread:crnrs down	840	1420	end	1440	1560
+POS	Proper Noun	80	140	Tense Marker	220	540	Negation	640	720	Verb	880	960	Noun	1040	1280
+English translation	John, in the future, won't buy a house.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	62
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-493_112_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-493_112_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-493_112_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	1320
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	014
+main gloss	fs-JOHN	160	220	BUY	400	460	CAR	540	660	FUTURE	760	1040
+non-dominant hand gloss
+topic	top1	120	660
+head pos: jut	start	200	340	back	360	600	end	620	660
+head pos: tilt fr/bk	start	600	720	back	740	920	end	940	1000
+head pos: tilt side	start	180	340	right	360	1020	end	1040	1300
+head pos: turn	start	280	620	slightly right	640	980	end	1000	1240
+eye brows	start	20	100	raised	120	620	end	640	740
+eye gaze	right	340	420	up/right	860	940
+eye aperture	blink	20	40	start	120	160	wide	180	580	end	600	660	slightly lowered	680	780	end	800	880	blink	960	1000
+cheeks	start	700	740	puffed	760	900	end	920	940
+mouth	lips spread:crnrs down	260	420	lips pursed: mm	740	960
+POS	Proper Noun	160	220	Verb	400	460	Noun	540	660	Tense Marker	760	1040
+English translation	John will buy a car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	63
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-494_116_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-494_116_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-494_116_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1060
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	013
+main gloss	fs-JOHN	120	180	BUY	300	340	CAR	440	520	SHOULD	600	840
+non-dominant hand gloss
+topic	top1	120	500
+head pos: tilt fr/bk	start	280	320	slightly front	340	520	end	540	620
+head pos: tilt side	start	200	380	right	400	520	end	540	620
+head pos: turn	start	260	580	right	600	860	end	880	1060
+head mvmt: nod	start	100	260	single	280	500	end	520	580
+eye brows	start	20	100	raised	120	500	start	520	620	lowered	640	800	end	820	900
+eye gaze	right	20	100
+eye aperture	start	200	260	wide	280	460	start	500	540	squint	560	820	end	840	920
+nose	tensed	160	500	start	520	560	wrinkle	580	820	end	840	880
+POS	Proper Noun	120	180	Verb	300	340	Noun	440	520	Modal	600	840
+English translation	John should buy a car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	64
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-495_115_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-495_115_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-495_115_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1260
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	014
+main gloss	FUTURE	320	380	fs-JOHN	440	520	BUY	620	660	CAR	720	780	SHOULD	860	1120
+non-dominant hand gloss
+topic	top1	240	740
+head pos: tilt fr/bk	start	160	360	back	380	480	end	500	640
+head pos: tilt side	start	160	320	right	340	680	end	700	920
+head pos: turn	start	720	800	right	820	1100	end	1120	1260
+eye brows	start	100	220	raised	240	740	start	760	860	lowered	880	1080	end	1100	1200
+nose	tensed	500	760	start	780	820	wrinkle	840	1040	end	1060	1120
+cheeks	start	200	240	puffed	260	360	end	380	400
+eye aperture	wide	240	360	wide	540	720	end	740	760	start	780	840	squint	860	1060	end	1080	1140
+eye gaze	up/right	180	380	down/right	520	640
+POS	Adverb	320	380	Proper Noun	440	520	Verb	620	660	Noun	720	780	Modal	860	1120
+mouth	start	180	240	lips pursed: mm	260	380	lips spread:crnrs down	480	620	start	800	860	sh	880	1080	end	1100	1180
+English translation	In the future, John should buy a car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	65
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-496_117_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-496_117_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-496_117_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1240
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	014
+main gloss	fs-JOHN	140	240	BUY	380	440	CAR	520	640	FUTURE^NOT	700	840
+non-dominant hand gloss
+negative	neg	680	960
+head pos: tilt fr/bk	start	220	360	slightly front	380	620	end	640	720
+head pos: tilt side	start	200	320	right	340	1120	end	1140	1240
+head pos: jut	start	260	320	back	340	840	end	860	1080
+head mvmt: shake	start	620	700	rapid	720	1060	end	1080	1200
+eye brows	start	80	220	raised	240	620	start	640	760	lowered	780	960	end	980	1040
+eye gaze	right	260	400
+eye aperture	start	200	340	wide	360	580	start	600	660	squint	680	920	end	940	1040
+nose	start	620	660	wrinkle	680	960	end	980	1040
+mouth	lips spread:crnrs down	300	400	start	720	740	end	960	1060
+POS	Proper Noun	140	240	Verb	380	440	Noun	520	640	Negation	700	840
+English translation	John won't buy a car.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	66
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	Databases to be verified:All the compressed videos:master-compressed:ch5-497_118_small_0.mov
+Video	Databases to be verified:All the compressed videos:slave1-compressed:ch5-497_118_small_1.mov
+Video	Databases to be verified:All the compressed videos:slave2-compressed:ch5-497_118_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1200
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	011
+main gloss	fs-JOHN	200	320	CAN	420	480	#GO	580	640	CAN	740	880
+non-dominant hand gloss
+head pos: tilt fr/bk	start	160	260	slightly back	280	400
+head pos: tilt side	start	80	200	slightly right	220	1020	end	1040	1200
+head mvmt: nod	start	320	380	slow	400	1020	end	1040	1200
+eye brows	start	220	300	slightly raised	320	460	slightly raised	580	680
+eye aperture	blink	0	40	blink	1160	1160
+mouth	start	700	760	lips spread:crnrs down	780	920	end	940	1040
+nose	start	340	400	tensed	420	920	end	940	980
+POS	Proper Noun	200	320	Modal	420	480	Verb	580	640	Modal	740	880
+English translation	John can go, he can.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	67
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-499_299_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-499_299_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-499_299_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1280
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	009
+main gloss	LAST-WEEK	200	340	fs-JOHN	440	560	GO	700	820	NEW-YORK	940	1100
+non-dominant hand gloss
+head pos: tilt fr/bk	start	120	260	slightly front	280	1020	end	1040	1180
+head pos: tilt side	start	120	300	slightly right	320	580	end	600	720
+head pos: jut	start	120	300	forward	320	980	end	1000	1160
+eye brows	start	60	160	slightly raised	180	360	slightly lowered	400	1020	end	1040	1180
+eye aperture	start	60	120	wide	140	360	end	380	440
+POS	Adverb	200	340	Proper Noun	440	560	Verb	700	820	Proper Noun	940	1100
+English translation	Last week, John went to New York.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	68
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-500_300_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-500_300_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-500_300_small_2.mov
+Video	
+Audio	
+Start frame:	20
+End frame:	980
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	008
+main gloss	fs-JOHN	120	180	FUTURE	280	320	VISIT	460	560	fs-MARY	640	740
+non-dominant hand gloss
+head pos: tilt side	start	360	500	right	520	640	end	660	880
+shoulders	start	460	580	right	600	680	end	700	880
+eye gaze	left	380	640
+eye aperture	blink	420	440	blink	660	700
+POS	Proper Noun	120	180	Tense Marker	280	320	Verb	460	560	Proper Noun	640	740
+English translation	John will visit Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	69
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-501_301_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-501_301_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-501_301_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	980
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	010
+main gloss	fs-JOHN	80	140	FUTURE	220	260	VISIT	400	540	fs-MARY	640	760
+non-dominant hand gloss
+head pos: tilt fr/bk	start	140	380	front	400	540	end	560	620
+head pos: tilt side	start	420	480	slightly right	500	580	end	600	700
+shoulders	start	380	500	right	520	560	end	580	720
+body lean	start	400	520	back/right	540	600	end	620	740
+eye aperture	blink	360	400	blink	580	600
+eye gaze	left	360	560
+POS	Proper Noun	80	140	Tense Marker	220	260	Verb	400	540	Proper Noun	640	760
+English translation	John will visit Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	70
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-502_302_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-502_302_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-502_302_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1080
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	009
+main gloss	fs-JOHN	120	220	FUTURE	300	320	VISIT	480	560	fs-MARY	620	760
+non-dominant hand gloss
+head pos: tilt side	start	400	600	right	620	740	end	760	1000
+eye gaze	left	420	760
+eye aperture	blink	420	500	blink	780	880
+body lean	start	500	580	back/right	600	720	end	740	920
+shoulders	start	500	580	back	600	760	end	780	920
+POS	Proper Noun	120	220	Tense Marker	300	320	Verb	480	560	Proper Noun	620	760
+English translation	John will visit Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	71
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-503_319_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-503_319_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-503_319_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1620
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	011
+main gloss	fs-JOHN	180	260	NOT	380	400	VISIT	460	560	fs-MARY	620	960	VISIT	1220	1280	MOTHER	1400	1420	IX-3p	1500	1540
+non-dominant hand gloss
+negative	neg	220	900
+head pos: tilt fr/bk	start	620	720	front	740	880	start	900	1120	back	1140	1200	end	1220	1300
+head mvmt: shake	rapid	220	900
+body lean	start	460	700	forward	720	880	end	900	1140
+eye aperture	blink	20	80	start	140	180	wide	200	900	blink	940	980	start	1000	1040	wide	1060	1280	blink	1300	1340
+eye brows	start	40	140	slightly raised	160	980	raised	1000	1260	end	1280	1320
+eye gaze	left	600	960	right	1180	1280
+POS	Proper Noun	180	260	Negation	380	400	Verb	460	560	Proper Noun	620	960	Verb	1220	1280	Noun	1400	1420	Pronoun	1500	1540
+English translation	John is not visiting Mary.  (He) is visiting (his) Mother.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	72
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-508_160_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-508_160_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-508_160_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1120
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	013
+main gloss	fs-JOHN	80	260	NOT	360	440	VISIT	580	760	fs-MARY	840	980	|>		1120
+non-dominant hand gloss
+negative	neg	280	480
+head pos: tilt fr/bk	start	0	80	back	100	320	end	340	420	start	520	640	front	660	700	end	720	780
+head pos: tilt side	start	40	100	slightly right	120	220	end	240	280	start	460	620	left	640	740	end	760	1120
+head mvmt: shake	rapid	280	480
+shoulders	start	580	700	left	720	780	end	800	980
+body lean	start	560	620	forward/left	640	740	end	760	980
+eye brows	start	100	120	slightly raised	140	200	start	220	280	lowered	300	480	end	500	560
+eye aperture	start	240	280	squint	300	460	end	480	560	blink	1100	1120
+eye gaze	left	560	740
+POS	Proper Noun	80	260	Negation	360	440	Verb	580	760	Proper Noun	840	980
+English translation	John is not visiting Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	73
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-514_163_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-514_163_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-514_163_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1180
+Number of participant panes:	1
+Participant:	Benjamin Bahan
+Number of fields:	014
+main gloss	fs-JOHN	100	240	NOT	320	380	VISIT	560	700	fs-MARY	800	920
+non-dominant hand gloss
+negative	neg	80	460
+head pos: tilt fr/bk	start	0	100	slightly back	120	840	end	860	1020
+head pos: tilt side	start	460	600	right	620	740	end	760	860
+head pos: turn	start	460	580	left	600	740	end	760	920
+head mvmt: shake	rapid	80	460
+body lean	start	480	580	back/right	600	740	end	760	960
+shoulders	start	580	660	right	680	760	end	780	980
+eye brows	lowered	0	1180
+eye aperture	lowered lid	0	520	squint	540	800	blink	820	860	lowered lid	880	1180
+eye gaze	left	460	800
+POS	Proper Noun	100	240	Negation	320	380	Verb	560	700	Proper Noun	800	920
+English translation	John is not visiting Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	74
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-521_320_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-521_320_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-521_320_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1080
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	011
+main gloss	fs-JOHN	100	180	FINISH	280	380	VISIT	560	600	fs-MARY	640	820
+non-dominant hand gloss
+head pos: tilt side	start	400	600	right	620	680	end	700	900
+head mvmt: nod	start	240	260	single	280	420	end	440	500
+body lean	start	560	660	back/right	680	780	end	800	1020
+shoulders	start	560	660	right	680	780	end	800	1020
+eye aperture	blink	480	520	lowered lid	540	600	slightly lowered	620	780	blink	820	900
+eye gaze	left	460	840
+nose	tensed	260	600	end	620	760
+POS	Proper Noun	100	180	Tense Marker	280	380	Verb	560	600	Proper Noun	640	820
+English translation	John has visited Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	75
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-523_273_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-523_273_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-523_273_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1100
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	011
+main gloss	fs-ANN	100	240	BLAME	420	500	fs-MARY	580	800
+non-dominant hand gloss
+head pos: tilt fr/bk	start	360	560	slightly front	580	780	end	800	880
+head pos: tilt side	start	280	460	right	480	620	end	640	980
+shoulders	start	360	500	right	520	880	end	900	1100
+eye brows	start	60	120	slightly lowered	140	820	end	840	1020
+eye aperture	start	20	80	slightly lowered	100	300	blink	340	400	slightly lowered	460	800	blink	820	920
+eye gaze	left	400	820
+nose	start	20	140	wrinkle	160	860	end	880	1020
+POS	Proper Noun	100	240	Verb	420	500	Proper Noun	580	800
+English translation	Ann blames Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	76
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-524_281_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-524_281_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-524_281_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1180
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	013
+main gloss	fs-ANN	140	260	BLAME	420	540	fs-MARY	620	820
+non-dominant hand gloss
+head pos: tilt fr/bk	start	440	480	slightly front	500	680	end	700	940
+head pos: tilt side	start	220	480	right	500	660	end	680	860
+body lean	start	380	500	back/right	520	660	end	680	1040
+shoulders	start	400	540	right	560	780	end	800	1080
+eye gaze	left	340	840
+eye brows	start	160	300	slightly lowered	320	820	end	840	1080
+eye aperture	blink	380	440	slightly lowered	460	820	blink	840	920
+nose	start	160	260	wrinkle	280	760	end	780	1180
+mouth	lips spread:crnrs down	340	480	lips spread:crnrs down	600	660
+POS	Proper Noun	140	260	Verb	420	540	Proper Noun	620	820
+English translation	Ann blames Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	77
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-617_333_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-617_333_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-617_333_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1100
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	009
+main gloss	fs-JOHN	200	280	FUTURE	380	440	FINISH	520	560	SEE	700	820	fs-MARY	900	1060
+non-dominant hand gloss
+head mvmt: nod	start	220	240	rapid	260	940	end	960	1100
+head pos: jut	start	620	680	forward	700	760	end	780	820
+eye brows	start	180	300	slightly lowered	320	840	end	860	1100
+eye aperture	start	160	260	squint	280	800	end	820	980
+nose	start	200	280	wrinkle	300	760	end	780	860
+POS	Proper Noun	200	280	Tense Marker	380	440	Aspect Marker	520	560	Verb	700	820	Proper Noun	900	1060
+English translation	John will have seen Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	78
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-622_338_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-622_338_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-622_338_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1200
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	008
+main gloss	fs-JOHN	120	220	FUTURE	340	420	FINISH	480	560	SEE	660	720	fs-MARY	780	1000
+non-dominant hand gloss
+head pos: tilt side	slightly left	0	1200
+head mvmt: nod	start	20	140	rapid	160	780
+eye gaze	left	400	1200
+eye aperture	blink	380	420
+POS	Proper Noun	120	220	Tense Marker	340	420	Aspect Marker	480	560	Verb	660	720	Proper Noun	780	1000
+English translation	John will have seen Mary.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	79
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-628_293_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-628_293_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-628_293_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1140
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	011
+main gloss	fs-JOHN	120	180	SHOULD	220	300	FINISH	420	520	READ	600	660	BOOK	800	900
+non-dominant hand gloss
+head pos: tilt fr/bk	start	340	460	front	480	640	end	660	700
+head pos: tilt side	left	0	520	end	540	940
+head pos: turn	start	380	460	slightly right	480	620	end	640	900
+head pos: jut	start	380	460	back	480	620	end	640	740
+eye brows	start	180	240	lowered	260	420	end	440	500
+eye aperture	start	160	240	squint	260	420	end	440	500
+nose	start	140	220	wrinkle	240	380	end	400	480
+POS	Proper Noun	120	180	Modal	220	300	Aspect Marker	420	520	Verb	600	660	Noun	800	900
+English translation	John should have read the book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	80
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-631_297_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-631_297_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-631_297_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	1260
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	007
+main gloss	fs-JOHN	140	340	FUTURE	400	460	FINISH	560	620	READ	700	780	BOOK	940	1040
+non-dominant hand gloss
+head pos: tilt side	start	660	800	slightly left	820	980	end	1020	1060
+head mvmt: shake	rapid	0	1140
+eye aperture	blink	1060	1100
+POS	Proper Noun	140	340	Tense Marker	400	460	Aspect Marker	560	620	Verb	700	780	Noun	940	1040
+English translation	John will have read the book.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	81
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv2:video files:master:ch5-632_298_small_0.mov
+Video	NCSLGRv2:video files:slave1:ch5-632_298_small_1.mov
+Video	NCSLGRv2:video files:slave2:ch5-632_298_small_2.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	880
+Number of participant panes:	1
+Participant:	Norma
+Number of fields:	005
+main gloss	fs-JOHN	120	180	LIKE	280	340	CHOCOLATE	480	660
+non-dominant hand gloss
+head pos: tilt fr/bk	start	100	220	front	240	620	end	640	840
+POS	Proper Noun	120	180	Verb	280	340	Noun	480	660
+English translation	John likes chocolate.
+Notes - number of character bytes:	0

@@ -1,0 +1,2076 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	siblings	Firewire 38200:NCSLGRv6:siblings
+Number of utterances:	66
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	3360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	REALLY	640	800	UP-TO-NOW	1040	1600	part:indef	2040	2160	MAYBE	2200	2400	WANT	2480	2560	KNOW	2680	2920	WHY	3000	3360
+non-dominant hand gloss	UP-TO-NOW	1040	1600	|>		1920	WANT	2480	2560	|>		3360
+head pos: tilt fr/bk	start	480	760	back	800	960	end	1000	1320	start	1880	2040	slightly back	2080	2240	start	2280	2480	front	2520	3360
+head pos: turn	start	680	1000	left	1040	2440	start	2480	2760	right	2800	3360
+head pos: tilt side	start	360	640	right	680	2440	start	2480	2840	left	2880	3360
+head pos: jut	start	1720	2120	back	2160	2560	end	2600	3000
+head mvmt: nod
+	start	0	360	slight rapid head nod	400	640	start	680	1160	slight rapid head nod	1200	1720	end	1760	2080
+body lean	start	640	800	slightly back	840	1360	start	1400	2080	slightly back	2120	2480	end	2520	3000
+eye brows	start	1040	1360	lowered	1400	3360
+eye gaze	left	640	800
+eye aperture	start	1040	1280	squint	1320	1840	start	1880	1880	closed	1920	2520	start	2560	2560	further squinted	2600	3360
+nose	start	1040	1600	wrinkle	1640	3360
+wh question	wh	1400	3360
+POS	Discourse Marker	640	800	Particle	2040	2160	Adverb	2200	2400	Verb	2480	2560	Verb	2680	2920	Wh-word	3000	3360
+Non-dominant POS	Verb	2480	2560
+English translation	Really, maybe you want to know why.
+Notes - number of character bytes:	27
+- CBD
+
+- pos for UP TO NOW?
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	3400
+End frame:	6160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	3520	3800	BECOME	4000	4520	FIND	4720	4800	fs-OUT	4880	5120	BECOME	5200	5360	DEAF	5520	6160
+non-dominant hand gloss	WANT	3400	3440	|>		3880	BECOME	4000	4520	|>		5040	BECOME	5200	5360	|>		6160
+head pos: tilt fr/bk	front	3400	3760	end	3800	3960	start	4160	4480	front	4520	6000	end	6040	6160
+head pos: turn	right	3400	5280	start	5320	5760	left	5800	6160
+head pos: tilt side	left	3400	6000	end	6040	6160
+head pos: jut	start	3640	3760	back	3800	4280	end	4320	4480	start	4720	4800	back	4840	5440	end	5480	5800
+head mvmt: shake	start	4920	5200	single	5240	6120	end	6160	6160
+body lean	start	3720	3920	slightly back	3960	4240	start	4280	4880	slightly back	4920	5720	end	5760	6160
+eye brows	lowered	3400	6160
+eye aperture	further squinted	3400	5840	start	5880	6040	closed	6080	6160
+nose	wrinkle	3400	6160
+POS	Pronoun	3520	3800	Verb	4000	4520	Verb	4720	4800	Preposition	4880	5120	Verb	5200	5360	Adjective	5520	6160
+Non-dominant POS	Verb	3400	3440	Verb	4000	4520	Verb	5200	5360
+English translation	Find out how I became Deaf.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	6200
+End frame:	9000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	REALLY	6280	6520	POSS-1p	6680	6840	MOTHER-FATHER	6960	7520	IX-3p:i	7600	7760	BORN	7920	8160	fs-DANA	8280	9000
+non-dominant hand gloss
+head pos: tilt fr/bk	start	6880	7080	front	7120	9000
+head pos: turn	left	6200	6240	start	6280	6560	right	6600	7600	end	7640	7920	start	8000	8160	left	8200	9000
+head pos: tilt side	start	6320	6520	right	6560	7560	start	7600	8840	left	8880	9000
+head pos: jut	start	6840	7080	back	7120	9000
+eye brows	lowered	6200	7320	end	7360	7560
+eye aperture	closed	6200	6800	start	6840	7040	squint	7080	7560	end	7600	7840
+nose	wrinkle	6200	7080	end	7120	7520
+POS	Discourse Marker	6280	6520	Possessive	6680	6840	Noun	6960	7520	Determiner	7600	7760	Verb	7920	8160	Proper Noun	8280	9000
+English translation	Really, my parents gave birth to Dana.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	9040
+End frame:	11120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	9120	9240	HAVE	9280	9320	OLDER	9520	9720	SISTER	9800	10600	IX-3p:i	10760	11120
+non-dominant hand gloss	SISTER	9800	10600	|>		11120
+head pos: tilt fr/bk	front	9040	10600	end	10640	10840
+head pos: turn	left	9040	10360	end	10400	10520	start	10640	10960	right	11000	11120
+head pos: tilt side	left	9040	9440	start	9480	9720	left	9760	10360	end	10400	10480	start	10640	10800	right	10840	11120
+head pos: jut	back	9040	10440	end	10480	10640
+head mvmt: nod
+	start	9200	9280	slow	9320	10560	end	10600	10840
+eye brows	lowered	9040	11120
+eye aperture	start	9040	9200	squint	9240	10080	start	10120	10160	closed	10200	10600	start	10640	10640	further squinted	10680	11120
+nose	start	9040	9200	wrinkle	9240	11120
+POS	Pronoun	9120	9240	Verb	9280	9320	Adjective	9520	9720	Pronoun	9800	10600	Determiner	10760	11120
+Non-dominant POS	Pronoun	9800	10600
+English translation	I have an older sister.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	11160
+End frame:	15280
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	fs-WHEN	11280	11560	IX-3p:i	11680	11840	THREE-YEAR-OLD	12160	12680	HALF	12800	13680	FOUR-YEAR-OLD	13840	14600	IX-3p:i	14760	15280
+non-dominant hand gloss
+head pos: tilt fr/bk	start	11320	11520	front	11560	14000	start	14040	14360	slightly back	14400	15280
+head pos: turn	right	11160	13560	end	13600	13920	start	14320	14520	left	14560	15080	end	15120	15280
+head pos: tilt side	right	11160	11840	start	11880	12200	right	12240	13520	end	13560	13800	start	14360	14600	left	14640	15040	end	15080	15280
+head pos: jut	start	11280	11480	back	11520	11760	end	11800	12120	start	12520	12720	forward	12760	13320	end	13360	13920	start	14640	15000	slightly back	15040	15280
+head mvmt: nod
+	start	11320	11560	slow	11600	14280	end	14320	14640
+body lean	start	11440	11760	slightly forward	11800	13840	end	13880	14640
+eye brows	lowered	11160	15280
+eye gaze	left	14680	14960
+eye aperture	further squinted	11160	11320	start	11360	11520	further squinted	11560	14520	start	14560	15000	squint	15040	15280
+nose	wrinkle	11160	15280
+POS	Wh-word	11280	11560	Pronoun	11680	11840	Number	12160	12680	Number	12800	13680	Number	13840	14600	Pronoun	14760	15280
+English translation	When she was three and half or four years old.
+Notes - number of character bytes:	106
+- is it correct way to gloss as THREE-YEAR-OLD, FOUR-YEAR-OLD in that kind of sign? 
+- and the pos for it?
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	15320
+End frame:	17280
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	POSS-1p	15560	15680	MOTHER	15760	15960	PREGNANT	16240	16520	WITH	16640	16760	IX-1p	16920	17280
+non-dominant hand gloss	WITH	16640	16760	|>		17280
+head pos: tilt fr/bk	slightly back	15320	15480	start	15520	15640	front	15680	17280
+head pos: turn	start	15440	15600	right	15640	15800	end	15840	16040	start	16120	16360	left	16400	17280
+head pos: tilt side	start	15320	15400	slightly right	15440	15760	end	15800	16000	start	16160	16240	slightly left	16280	17280
+head pos: jut	slightly back	15320	15440	start	15480	15520	back	15560	17280
+body lean	start	16120	16360	right	16400	17280
+shoulders	start	16120	16320	left/raised	16360	17280
+eye brows	lowered	15320	15440	start	15480	15600	raised	15640	17040	end	17080	17280
+eye aperture	squint	15320	15600	start	15640	15760	wide	15800	17120	end	17160	17280
+nose	wrinkle	15320	15600	end	15640	15840
+POS	Possessive	15560	15680	Noun	15760	15960	Adjective	16240	16520	Preposition	16640	16760	Pronoun	16920	17280
+Non-dominant POS	Preposition	16640	16760
+English translation	My mother was pregnant with me.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	17320
+End frame:	20960
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	fs-DANA	17440	18800	WANT	19080	19440	DEAF	19600	20120	SISTER	20240	20960
+non-dominant hand gloss
+head pos: tilt fr/bk	front	17320	18600	end	18640	18880	start	19680	19880	front	19920	20960
+head pos: turn	left	17320	18600	end	18640	18880	start	19680	19840	left	19880	20960
+head pos: tilt side	slightly left	17320	18520	end	18560	18840	start	19640	19880	left	19920	20560	end	20600	20960
+head pos: jut	back	17320	20960
+body lean	right	17320	17600	start	17640	18360	slightly forward	18400	18640	start	18680	19400	right	19440	20240	end	20280	20840
+shoulders	left/raised	17320	20360	end	20400	20760
+eye brows	start	19640	20040	slightly raised	20080	20240	end	20280	20560
+POS	Proper Noun	17440	18800	Verb	19080	19440	Adjective	19600	20120	Noun	20240	20960
+English translation	Dana wanted to have Deaf sister.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	21000
+End frame:	23000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	SAY	21160	21320	WANT	21520	22000	DEAF	22120	22480	SISTER	22600	23000
+non-dominant hand gloss	SISTER	21000	21040	|>		21280	WANT	21520	22000	|>		22120
+head pos: tilt fr/bk	front	21000	21040	end	21080	21200	start	21560	21640	slightly back	21680	22240	end	22280	22400	start	22600	22720	slightly front	22760	23000
+head pos: turn	left	21000	21040	end	21080	21200	start	21400	21640	right	21680	22200	start	22240	22560	slightly left	22600	23000
+head pos: tilt side	start	21160	21320	right	21360	22200	start	22240	22560	left	22600	22800	start	22840	22960	slightly left	23000	23000
+head pos: jut	back	21000	21000	end	21040	21160
+body lean	start	22000	22040	back/right	22080	22640	end	22680	22920
+eye brows	start	22760	22920	lowered	22960	23000
+eye aperture	start	21080	21200	closed	21240	22680	start	22720	22800	squint	22840	23000
+nose	start	22800	22880	wrinkle	22920	23000
+POS	Verb	21160	21320	Verb	21520	22000	Adjective	22120	22480	Noun	22600	23000
+Non-dominant POS	Noun	21000	21040	Verb	21520	22000
+English translation	Said that she want to have a Deaf sister.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	23040
+End frame:	27840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	CL:4"tapping to person"	23200	23640	POSS-1p	23880	23920	MOTHER	24080	24200	EVERYDAY	24400	24880	UP-TO-NOW	25120	25600	SAY	25720	25840	IX-1p	26080	26160	WANT	26320	26520	DEAF	26720	27040	SISTER	27240	27840
+non-dominant hand gloss	CL:4"tapping to person"	23200	23640	|>		25000	WANT	26080	26120	|>		26800
+head pos: tilt fr/bk	slightly front	23040	24200	start	24240	25040	front	25080	25920	start	25960	27160	front	27200	27840
+head pos: turn	slightly left	23040	23040	start	23080	23320	right	23360	24240	start	24280	24880	left	24920	25880	start	25920	26320	slightly right	26360	26800	start	26840	27080	slightly left	27120	27840
+head pos: tilt side	slightly left	23040	23080	start	23120	23360	right	23400	24160	start	24200	24560	left	24600	25720	start	25760	25920	right	25960	26680	start	26720	27160	left	27200	27720	start	27760	27800	slightly left	27840	27840
+head pos: jut	start	23080	23360	slightly back	23400	26640	end	26680	27200
+head mvmt: side to side	start	23680	24000	slow	24040	27760	end	27800	27840
+body lean	start	23080	23360	slightly forward	23400	23640	end	23680	24000	start	26080	26400	right	26440	26800	start	26840	27280	slightly forward	27320	27840
+eye brows	lowered	23040	25640	end	25680	25960
+eye aperture	squint	23040	23600	start	23640	23880	further squinted	23920	25600	start	25640	25640	closed	25680	25960	start	26000	26040	blink	26080	26320	start	26360	26640	slightly lowered	26680	27720	start	27760	27760	closed	27800	27840
+nose	wrinkle	23040	25720	end	25760	26080
+POS	Classifier	23200	23640	Possessive	23880	23920	Noun	24080	24200	Noun	24400	24880	Verb	25720	25840	Pronoun	26080	26160	Verb	26320	26520	Adjective	26720	27040	Noun	27240	27840
+Non-dominant POS	Classifier	23200	23640	Verb	26080	26120
+English translation	She would tell her mother everyday that she wants a deaf sister.
+Notes - number of character bytes:	20
+- pos for up to now?
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	27880
+End frame:	29120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IX-1p	27960	28000	"hoping"++	28120	29120
+non-dominant hand gloss
+head pos: tilt fr/bk	front	27880	29000	end	29040	29120
+head pos: turn	slightly left	27880	28120	end	28160	28240	start	28480	28600	slightly right	28640	28880	start	28920	29040	slightly left	29080	29120
+head pos: tilt side	slightly left	27880	27920	start	27960	28080	right	28120	28880	start	28920	29040	slightly left	29080	29120
+head mvmt: nod
+	start	28120	28200	slight rapid head nod	28240	29080	end	29120	29120
+body lean	slightly forward	27880	28120	start	28160	28400	right	28440	28920	end	28960	29040
+eye brows	start	29040	29080	slightly lowered	29120	29120
+eye aperture	closed	27880	28920	start	28960	29040	slightly lowered	29080	29120
+role shift	Dana	27880	29120
+POS	Pronoun	27960	28000
+English translation	I crossed my fingers.
+Notes - number of character bytes:	38
+-crossing the finger is gesture right?
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	29200
+End frame:	32480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	POSS-1p	29320	29400	MOTHER	29600	29960	part:indef	30080	30160	TELL	30240	30520	UNKNOWN	30640	30880	WARN	30960	31440	UNKNOWN	31560	31840	SEE++	32080	32480
+non-dominant hand gloss	"hoping"	29200	29240	|>		30040	part:indef	32080	32480
+head pos: tilt fr/bk	start	29720	29960	front	30000	32080	start	32120	32400	slightly front	32440	32480
+head pos: turn	slightly left	29200	29360	start	29400	29640	slightly right	29680	30120	end	30160	30800
+head pos: tilt side	slightly left	29200	29960	start	30000	30120	left	30160	30880	start	30920	31360	slightly right	31400	31560	start	31600	31880	left	31920	32480
+head pos: jut	start	30200	30640	slightly forward	30680	32280	end	32320	32480
+head mvmt: side to side	start	30200	30640	slow	30680	32320	end	32360	32480
+body lean	start	30560	30840	forward	30880	32480
+eye brows	slightly lowered	29200	31960	end	32000	32360
+eye gaze	left	31320	32120
+eye aperture	slightly lowered	29200	29200	start	29240	29360	squint	29400	29880	start	29920	30080	closed	30120	30920	start	30960	31280	further squinted	31320	32160	end	32200	32480
+nose	start	29960	30080	wrinkle	30120	32480
+role shift	Mother	30640	32480
+POS	Possessive	29320	29400	Noun	29600	29960	Particle	30080	30160	Verb	30240	30520	Verb	30960	31440	Verb	32080	32480
+Non-dominant POS	Particle	32080	32480
+English translation	My mother told her to take it easy, we will see.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	32520
+End frame:	35000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	MAYBE	32600	32840	HEARING	32920	33360	IX-1p	33400	33480	STILL	33560	33720	LOVE	33880	34120	SAME	34200	34600	NAH	34720	35000
+non-dominant hand gloss	MAYBE	32600	32840	|>		33200
+head pos: tilt fr/bk	slightly front	32520	32760	end	32800	32880	start	33680	33800	front	33840	34760	end	34800	35000
+head pos: turn	start	32720	32840	left	32880	34800	start	34840	34960	slightly left	35000	35000
+head pos: tilt side	left	32520	32960	start	33000	33360	right	33400	34800	start	34840	34960	slightly right	35000	35000
+head pos: jut	start	32520	32760	back	32800	33040	start	33080	33400	forward	33440	34720	end	34760	35000
+head mvmt: nod
+	start	32800	33080	slight rapid head nod	33120	33880	start	33920	34120	slight rapid head nod	34160	34720	end	34760	35000
+body lean	forward	32520	35000
+shoulders	start	32640	32800	raised	32840	34800	end	34840	35000
+eye brows	start	32520	32720	raised	32760	33080	start	33120	33280	lowered	33320	35000
+eye aperture	start	32520	32680	wide	32720	33040	start	33080	33240	closed	33280	35000
+nose	wrinkle	32520	32560	end	32600	32680	start	33080	33320	wrinkle	33360	35000
+role shift	Mother	32520	35000
+POS	Adverb	32600	32840	Adjective	32920	33360	Pronoun	33400	33480	Adjective	33560	33720	Verb	33880	34120	Adjective	34200	34600
+Non-dominant POS	Adverb	32600	32840
+English translation	Or maybe hearing? I will still love the same.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	35040
+End frame:	37520
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	part:indef	35160	35240	BUT	35280	35400	IX-1p	35520	35600	HOPE	35680	35800	DEAF	35880	36240	SAME	36320	36480	HOPE	36560	36880	part:indef	37000	37400
+non-dominant hand gloss
+head pos: tilt fr/bk	start	35040	35240	slightly front	35280	35320	start	35360	35520	slightly back	35560	36000	end	36040	36200	start	36480	36560	front	36600	37120	end	37160	37520
+head pos: turn	slightly left	35040	35200	start	35240	35800	slightly right	35840	35840	start	35880	36120	left	36160	37160	start	37200	37400	slightly left	37440	37520
+head pos: tilt side	slightly right	35040	35040	start	35080	35160	left	35200	36120	start	36160	36480	right	36520	37200	end	37240	37520
+head pos: jut	start	35840	36080	forward	36120	37080	end	37120	37440
+body lean	forward	35040	37240	end	37280	37520
+shoulders	start	35200	35280	raised	35320	37200	end	37240	37440
+eye brows	lowered	35040	35240	start	35280	35480	raised	35520	36360	end	36400	36880
+eye aperture	closed	35040	35200	start	35240	35520	wide	35560	36440	end	36480	36880
+nose	wrinkle	35040	35120	start	35160	35240	tensed	35280	37240	end	37280	37520
+role shift	Mother	35040	37520
+POS	Particle	35160	35240	Conjunction	35280	35400	Pronoun	35520	35600	Verb	35680	35800	Adjective	35880	36240	Adjective	36320	36480	Verb	36560	36880
+English translation	But I hope for Deaf too.
+Notes - number of character bytes:	40
+- whats pos for that kind of part:indef?
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	37560
+End frame:	38760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p:i	37600	37680	MAYBE	37760	37880	BOY	38000	38240	SAME	38320	38760
+non-dominant hand gloss	MAYBE	37760	37880	|>		38760
+head pos: tilt fr/bk	start	37680	37760	front	37800	38480	end	38520	38640
+head pos: turn	slightly left	37560	37560	start	37600	37840	right	37880	38520	start	38560	38640	slightly right	38680	38760
+head pos: tilt side	start	37640	37720	left	37760	38560	end	38600	38680
+head pos: jut	start	37720	37800	forward	37840	38520	end	38560	38640
+body lean	start	37800	37880	forward	37920	38520	start	38560	38680	slightly forward	38720	38760
+eye brows	start	37560	37640	raised	37680	38360	end	38400	38520
+eye aperture	start	37560	37640	wide	37680	38360	end	38400	38520
+nose	start	37560	37640	tensed	37680	38320	end	38360	38480
+role shift	Mother	37560	38760
+POS	Pronoun	37600	37680	Adverb	37760	37880	Noun	38000	38240	Adjective	38320	38760
+Non-dominant POS	Adverb	37760	37880
+English translation	Maybe it is a boy too.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	38800
+End frame:	43400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	POSS-1p	38880	38960	SISTER	39200	39360	SAY	39440	39520	NO	39640	39960	FEEL	40080	40600	IX-1p	40680	40760	FUTURE	40840	40880	GET	40960	41160	DEAF	41360	41880	SISTER	42080	42720	|>		43080
+non-dominant hand gloss
+head pos: tilt fr/bk	start	38960	39200	slightly front	39240	40960	end	41000	41160	start	41680	42040	front	42080	42440	start	42480	42720	back	42760	43400
+head pos: turn	slightly right	38800	38880	start	38920	39040	slightly left	39080	39240	start	39280	39760	right	39800	39960	start	40000	40280	right	40320	40360	start	40400	40640	slightly right	40680	40880	end	40920	41160	start	41280	41640	left	41680	42360	start	42400	43040	slightly right	43080	43400
+head pos: tilt side	start	38960	39280	slightly right	39320	40960	start	41000	41280	left	41320	42320	start	42360	42760	right	42800	43400
+head pos: jut	start	38960	39280	back	39320	41120	end	41160	41440	start	42080	42440	slightly forward	42480	42720	end	42760	43400
+head mvmt: shake	start	38960	39240	rapid	39280	40840	end	40880	41280
+body lean	slightly forward	38800	39920	end	39960	40360	start	41520	42200	slightly forward	42240	42440	end	42480	43160
+eye brows	start	38800	38960	lowered	39000	43400
+eye aperture	start	38800	38960	squint	39000	39360	start	39400	39480	closed	39520	40880	start	40920	41000	further squinted	41040	42800	start	42840	43200	closed	43240	43400
+nose	start	38920	39040	wrinkle	39080	43400
+negative	negation	39280	40840
+yes/no question	y/n	39280	40840
+POS	Possessive	38880	38960	Noun	39200	39360	Verb	39440	39520	Negation	39640	39960	Verb	40080	40600	Pronoun	40680	40760	Tense Marker	40840	40880	Verb	40960	41160	Adjective	41360	41880	Noun	42080	42720
+English translation	My sister said "No, I got the feeling that I will get Deaf sister."
+Notes - number of character bytes:	76
+Not sure if I do right for YES/NO POS, follow under head shake or eye brow??
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	43440
+End frame:	45320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	POSS-1p	43600	43680	MOTHER	43800	43920	SAY	44000	44160	part:indef	44280	44440	SEE++	44560	44960	part:indef	45040	45200
+non-dominant hand gloss
+head pos: tilt fr/bk	back	43440	43480	end	43520	43600	start	43720	43800	slightly front	43840	44240	start	44280	44400	front	44440	44960	start	45000	45240	slightly back	45280	45320
+head pos: turn	slightly right	43440	43680	end	43720	43920
+head pos: tilt side	right	43440	43960	start	44000	44240	left	44280	45000	end	45040	45160	start	45200	45280	slightly right	45320	45320
+head pos: jut	start	44120	44280	forward	44320	44960	end	45000	45200
+head mvmt: nod
+	start	44720	44840	slight rapid head nod	44880	45280	end	45320	45320
+body lean	start	43720	43840	slightly forward	43880	45000	end	45040	45200
+eye gaze	left	43880	44160	right	44840	45320
+eye aperture	closed	43440	43840	start	43880	43960	lowered lid	44000	44080	start	44120	44160	blink	44200	44280	end	44320	44480	start	44880	45000	blink	45040	45200	start	45240	45280	lowered lid	45320	45320
+nose	wrinkle	43440	43720	end	43760	43880
+POS	Possessive	43600	43680	Noun	43800	43920	Verb	44000	44160	Verb	44560	44960
+English translation	My mother said "we will see."
+Notes - number of character bytes:	25
+- pos for two part:indef?
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	45360
+End frame:	50640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	TIME	46800	47200	IX-1p	47320	47400	BORN	47560	48480	|>		48960	FINISH	49240	49840	BORN	49960	50640
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	45360	45400	start	45440	45560	back	45600	46560	start	46600	46880	front	46920	48120	start	48160	48760	slightly back	48800	49160	start	49200	49360	front	49400	50640
+head pos: turn	start	45920	46560	left	46600	48120	end	48160	48280	start	48520	48960	right	49000	50480	start	50520	50520	slightly right	50560	50640
+head pos: tilt side	slightly right	45360	45400	start	45440	45560	right	45600	45880	start	45920	46600	left	46640	48160	start	48200	48600	slightly right	48640	50640
+head pos: jut	start	45360	45720	slightly back	45760	46640	start	46680	46840	back	46880	47600	end	47640	48280	start	48400	48560	back	48600	49920	end	49960	50640
+head mvmt: nod
+	start	45720	46120	slow	46160	50600	end	50640	50640
+body lean	start	45840	46560	slightly back	46600	46800	start	46840	48080	slightly forward	48120	48440	start	48480	49320	slightly back	49360	50000	start	50040	50520	slightly forward	50560	50640
+eye brows	start	45360	45720	raised	45760	47920	end	47960	48240
+eye gaze	right	45360	45440	up/right	45480	45880
+eye aperture	lowered lid	45360	45640	start	45680	45800	wide	45840	47920	start	47960	48080	blink	48120	48280	start	48320	48360	slightly lowered	48400	48920	start	48960	49160	closed	49200	49800	end	49840	50400
+POS	Noun	46800	47200	Pronoun	47320	47400	Verb	47560	48480	Aspect Marker	49240	49840	Verb	49960	50640
+English translation
+Notes - number of character bytes:	49
+- was that slooowww nod???
+- English translation?
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	50680
+End frame:	53480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	fs-DANA	50720	51360	UNKNOWN	51520	51800	FIND	51880	52000	fs-OUT	52040	52240	IX-1p	52320	52440	BOY	52640	52960	IX-3p:i	53040	53160	ACCEPT	53320	53480
+non-dominant hand gloss	UNKNOWN	51520	51800	|>		53080
+head pos: tilt fr/bk	front	50680	51840	end	51880	52120	start	52640	52920	front	52960	53040	start	53080	53320	back	53360	53480
+head pos: turn	slightly right	50680	50680	end	50720	50840	start	50960	51240	left	51280	51720	end	51760	52080	start	52440	52680	slightly right	52720	53240	end	53280	53480
+head pos: tilt side	slightly right	50680	50720	start	50760	51000	left	51040	51960	end	52000	52120	start	52400	52640	right	52680	53360	end	53400	53480
+head pos: jut	start	50720	51000	back	51040	51480	end	51520	51880	start	52400	52600	slightly back	52640	53480
+head mvmt: nod
+	start	51800	52040	slight rapid head nod	52080	53000	end	53040	53320
+body lean	slightly forward	50680	50880	end	50920	51120	start	51360	51520	slightly forward	51560	51840	end	51880	52040	start	53160	53360	slightly back	53400	53480
+shoulders	start	51240	51400	slightly left	51440	52000	end	52040	52320
+eye brows	start	51560	51840	slightly raised	51880	52080	end	52120	52400	start	53080	53240	raised	53280	53480
+eye gaze	right	51280	51760
+eye aperture	start	53080	53280	wide	53320	53480
+POS	Proper Noun	50720	51360	Verb	51880	52000	Preposition	52040	52240	Pronoun	52320	52440	Noun	52640	52960	Determiner	53040	53160	Verb	53320	53320
+English translation	When Dana found out that I was boy, she accepted. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	53520
+End frame:	55320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	#BUT	53600	53800	IMPORTANT	54000	54160	IX-3p:i	54200	54240	DEAF	54400	54920	part:indef	55040	55320
+non-dominant hand gloss	ACCEPT	53520	53560	|>		53600	IMPORTANT	54000	54160	|>		54920
+head pos: tilt fr/bk	back	53520	53520	end	53560	53720	start	53880	53960	front	54000	55320
+head pos: turn	start	53560	53800	left	53840	55320
+head pos: tilt side	start	53560	53760	slightly left	53800	54680	end	54720	54880
+head pos: jut	slightly back	53520	53840	start	53880	54040	forward	54080	55160	end	55200	55320
+head mvmt: nod
+	start	53760	53920	slight rapid head nod	53960	54640	start	54680	55000	slight rapid head nod	55040	55240	end	55280	55320
+body lean	slightly back	53520	53880	end	53920	54080	start	54240	54480	slightly forward	54520	55320
+eye brows	raised	53520	55080	end	55120	55320
+eye aperture	wide	53520	55200	end	55240	55320
+nose	tensed	53520	54200	end	54240	54520
+POS	Conjunction	53600	53800	Adjective	54000	54160	Pronoun	54200	54240	Adjective	54400	54920	Particle	55040	55320
+Non-dominant POS	Verb	53520	53560	Adjective	54000	54160
+English translation	But most importantly, he is deaf.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	55360
+End frame:	59480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	POSS-1p	55480	55560	MOTHER	55600	55640	SAY	55720	55880	part:indef	56000	56320	CAN^NOT	56480	57080	NOTICE	57320	57560	IF	57640	57840	IX-1p	57920	58000	DEAF	58120	58600	IF	58680	58920	part:indef	59000	59480
+non-dominant hand gloss	NOTICE	57320	57560	|>		58920
+head pos: tilt fr/bk	front	55360	55560	end	55600	55680	start	56240	56440	front	56480	59480
+head pos: turn	left	55360	55360	end	55400	55560	start	55880	56080	slightly right	56120	56280	start	56320	56440	left	56480	58640	start	58680	59200	right	59240	59480
+head pos: tilt side	slightly right	55360	56320	start	56360	56640	left	56680	59480
+head pos: jut	start	56400	56600	back	56640	59480
+head mvmt: shake	start	55600	55800	rapid	55840	57640	end	57680	58600
+body lean	slightly forward	55360	55520	end	55560	55640	start	58960	59160	slightly back	59200	59480
+eye aperture	start	55360	55480	closed	55520	56480	start	56520	57080	slightly lowered	57120	59480
+negative	negation	55840	57640
+POS	Possessive	55480	55560	Noun	55600	55640	Verb	55720	55880	Particle	56000	56320	Modal+Negation	56480	57080	Verb	57320	57560	Conjunction	57640	57840	Pronoun	57920	58000	Adjective	58120	58600	Conjunction	58680	58920	Particle	59000	59480
+Non-dominant POS	Verb	57320	57560
+English translation	My mother said,"You can't notice if he is Deaf."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	59560
+End frame:	61160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	AFTER	59600	59760	BORN	59880	60480	MUST	60560	60720	part:indef	60840	61160
+non-dominant hand gloss
+head pos: tilt fr/bk	front	59560	61160
+head pos: turn	right	59560	61160
+head pos: tilt side	left	59560	60560	start	60600	60800	right	60840	61160
+head pos: jut	back	59560	60560	end	60600	60760
+body lean	slightly back	59560	59600	end	59640	59800	start	59960	60040	forward/left	60080	60760	start	60800	61000	slightly forward	61040	61160
+shoulders	start	59760	59800	right/raised	59840	60680	start	60720	60880	raised	60920	61160
+eye gaze	down	60560	61160
+eye aperture	slightly lowered	59560	60720	end	60760	60880
+POS	Preposition	59600	59760	Verb	59880	60480	Verb	60560	60720	Particle	60840	61160
+English translation
+Notes - number of character bytes:	24
+- english translation???
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	61200
+End frame:	64200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	WAIT	61280	61760	CL:5"bigger"	62200	62560	part:indef	62760	62960	FEEL	63040	63160	COMFORTABLE	63240	63640	AT	63720	63800	HOME	64000	64200
+non-dominant hand gloss
+head pos: tilt fr/bk	front	61200	61400	start	61440	61760	back	61800	62800	end	62840	63040	start	63280	63400	front	63440	63840	end	63880	64200
+head pos: turn	slightly right	61200	61320	end	61360	61560	start	61920	62240	left	62280	64200
+head pos: tilt side	right	61200	61280	start	61320	61760	slightly left	61800	63160	end	63200	63400	start	63840	63920	slightly left	63960	64200
+head pos: jut	start	62000	62240	back	62280	63040	start	63080	63640	slightly forward	63680	63800	end	63840	64120
+body lean	slightly forward	61200	61560	end	61600	61800	start	62240	62400	back/left	62440	63880	end	63920	64200
+shoulders	raised	61200	61440	end	61480	61680
+eye brows	start	63880	64080	lowered	64120	64200
+eye gaze	down	61200	61360
+eye aperture	start	61920	62160	lowered lid	62200	63960	start	64000	64120	squint	64160	64200
+nose	start	63680	63960	tensed	64000	64200
+POS	Verb	61280	61760	Classifier	62200	62560	Particle	62760	62960	Verb	63040	63160	Adjective	63240	63640	Preposition	63720	63800	Noun	64000	64200
+English translation	Wait until he get bigger and feel comfortable at home.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	64240
+End frame:	67000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	#THEN	64280	64600	FUTURE	64640	64720	FIND	64880	64920	#OUT	64960	65360	IF	65440	65720	IX-1p	65840	66120	DEAF	66440	67000
+non-dominant hand gloss
+head pos: tilt fr/bk	start	64320	64480	slightly front	64520	65120	start	65160	65480	front	65520	66880	end	66920	67000
+head pos: turn	left	64240	64320	end	64360	64600	start	64880	65160	right	65200	65440	end	65480	65720	start	65840	66120	left	66160	67000
+head pos: tilt side	slightly left	64240	64280	end	64320	64520	start	65800	65920	slightly left	65960	67000
+head pos: jut	start	64720	65000	back	65040	66360	end	66400	66720
+head mvmt: nod
+	start	64400	64560	slight rapid head nod	64600	65400	end	65440	65800
+body lean	start	64640	64760	slightly forward	64800	65120	start	65160	65720	right	65760	66600	end	66640	66960
+shoulders	start	65720	65760	left/raised	65800	67000
+eye brows	lowered	64240	66560	start	66600	66800	slightly lowered	66840	67000
+eye aperture	squint	64240	66400	start	66440	66640	slightly squinted	66680	67000
+nose	tensed	64240	64280	start	64320	64440	wrinkle	64480	66560	end	66600	66760
+POS	Adverb	64280	64600	Tense Marker	64640	64720	Verb	64880	64920	Preposition	64960	65360	Conjunction	65440	65720	Pronoun	65840	66120	Adjective	66440	67000
+English translation	Then will find out if I am Deaf.
+Notes - number of character bytes:	84
+-FUTURE PART, its VERY brief sign as will, is it allright for me to gloss it anyway?
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	67080
+End frame:	70560
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	017
+main gloss	fs-DANA	67200	67880	SAY	68000	68080	part:indef	68400	68840	SAY	69040	69200	CAN	69360	69520	ASK	69600	69760	DOCTOR	69960	70440
+non-dominant hand gloss	part:indef	68400	68840	|>		69200
+head pos: tilt fr/bk	start	68080	68520	front	68560	68640	start	68680	69280	front	69320	70560
+head pos: turn	left	67080	67120	end	67160	67480	start	68680	69240	right	69280	70560
+head pos: tilt side	slightly left	67080	67480	start	67520	67880	left	67920	68520	start	68560	68920	right	68960	69280	start	69320	69760	left	69800	70480	end	70520	70560
+head pos: jut	start	68080	68480	forward	68520	68880	end	68920	69320
+head mvmt: nod
+	start	67800	68120	slow	68160	70440	end	70480	70560
+body lean	right	67080	67160	end	67200	67480	start	68080	68400	forward	68440	70480	start	70520	70520	slightly forward	70560	70560
+shoulders	left/raised	67080	67200	end	67240	67520
+eye brows	slightly lowered	67080	67680	end	67720	68120	start	68880	69080	lowered	69120	70400	start	70440	70440	slightly lowered	70480	70560
+eye gaze	right	68240	68480	down/right	68880	69040
+eye aperture	slightly squinted	67080	67720	start	67760	67880	closed	67920	68160	start	68200	68360	blink	68400	68520	start	68560	69040	squint	69080	70560
+nose	wrinkle	67080	67680	end	67720	68080	start	68880	69080	wrinkle	69120	70560
+role shift	Dana	68400	70560
+POS	Proper Noun	67200	67880	Verb	68000	68080	Particle	68400	68840	Verb	69040	69200	Modal	69360	69520	Verb	69600	69760	Proper Noun	69960	70440
+Non-dominant POS	Particle	68400	68840
+English translation	Dana said,"then can I ask doctor?"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	70640
+End frame:	74080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	POSS-1p	70800	70920	MOTHER	71000	71080	SAY	71160	71240	NAH	71440	71800	part:indef	72880	73160	ENOUGH	73240	73600	NAH	73800	74080
+non-dominant hand gloss	CUT-IT-OUT	71840	72400	|>		72880
+head pos: tilt fr/bk	front	70640	70680	end	70720	70840	start	71080	71360	front	71400	73280	end	73320	74080
+head pos: turn	slightly right	70640	70640	start	70680	71000	left	71040	71880	end	71920	72160	start	72680	72920	right	72960	74080
+head pos: tilt side	start	70840	71040	right	71080	71800	start	71840	71920	further right	71960	72320	start	72360	72880	left	72920	73920	start	73960	73960	slightly left	74000	74040	end	74080	74080
+head pos: jut	start	71400	71600	forward	71640	72320	end	72360	72680	start	73200	73360	slightly back	73400	74080
+head mvmt: nod
+	start	71160	71360	single	71400	72440	start	72480	72920	slight rapid head nod	72960	73680	end	73720	73960
+body lean	slightly forward	70640	70680	end	70720	70840	start	71200	71440	forward	71480	72800	end	72840	73160
+eye brows	slightly lowered	70640	70720	end	70760	70880	start	71520	71640	raised	71680	72160	end	72200	72800
+eye gaze	left	71520	71800
+eye aperture	squint	70640	70760	start	70800	70800	closed	70840	71280	start	71320	71400	lowered lid	71440	71520	start	71560	71640	wide	71680	72480	end	72520	72880	start	73320	73680	slightly squinted	73720	74080
+nose	wrinkle	70640	70800	end	70840	71000
+POS	Possessive	70800	70920	Noun	71000	71080	Verb	71160	71240	Adjective	73240	73600
+English translation	My mother said,"Enough!"
+Notes - number of character bytes:	40
+-pos for cut it out, part:indef and nah?
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	74160
+End frame:	77120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	BRING	74360	74560	IX-1p	74680	74800	HOME	74880	75280	THAT	75440	75680	FIRST	75720	76040	UMM	76320	76400	FIRST	76480	76720	NIGHT	76920	77120
+non-dominant hand gloss	BRING	74360	74560	|>		74880
+head pos: tilt fr/bk	start	74160	74320	front	74360	77120
+head pos: turn	start	74160	74280	left	74320	76280	start	76320	76480	slightly right	76520	77120
+head pos: tilt side	start	74160	74280	right	74320	74880	end	74920	75080	start	75320	75440	slightly left	75480	76200	end	76240	76360
+head pos: jut	slightly back	74160	74160	end	74200	74320	start	75160	75400	back	75440	77120
+head mvmt: nod
+	start	74160	74240	single	74280	74800	start	74840	75280	slight rapid head nod	75320	76040	end	76080	76360
+head mvmt: shake	start	76040	76160	slow	76200	76720	start	76760	76760	slight rapid head shake	76800	77080	end	77120	77120
+body lean	start	74400	74560	slightly forward	74600	74840	end	74880	75120	start	75880	76040	slightly back	76080	77120
+eye brows	start	75120	75280	lowered	75320	77120
+eye aperture	slightly squinted	74160	74880	start	74920	75160	further squinted	75200	77120
+nose	start	75120	75280	wrinkle	75320	77120
+POS	Verb	74360	74560	Pronoun	74680	74800	Noun	74880	75280	Pronoun	75440	75680	Number	75720	76040	Number	76480	76720	Noun	76920	77120
+Non-dominant POS	Verb	74360	74560
+English translation	Brought me home on that first night.
+Notes - number of character bytes:	137
+- the UNKNOWN part, he was goign to say NIGHT, but he stopped early and repeated, FIRST NIGHT after. How should I gloss the UNKNOWN then?
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	77200
+End frame:	78480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	77240	77360	ARRIVE	77480	77680	HOME	77800	78320	|>		78480
+non-dominant hand gloss	ARRIVE	77480	77680	|>		78480
+head pos: tilt fr/bk	front	77200	78480
+head pos: turn	slightly right	77200	77720	start	77760	77960	left	78000	78360	end	78400	78480
+head pos: tilt side	start	77280	77360	slightly left	77400	77800	start	77840	77920	left	77960	78360	start	78400	78400	slightly left	78440	78480
+head pos: jut	back	77200	78320	start	78360	78440	slightly back	78480	78480
+head mvmt: nod
+	start	77400	77480	slow	77520	78320	end	78360	78480
+body lean	slightly back	77200	77680	end	77720	77840	start	78040	78080	slightly forward	78120	78480
+eye brows	lowered	77200	77240	end	77280	77360	start	78120	78240	lowered	78280	78480
+eye aperture	further squinted	77200	77200	start	77240	77320	squint	77360	78480
+nose	wrinkle	77200	77240	end	77280	77360	start	78200	78320	wrinkle	78360	78480
+POS	Pronoun	77240	77360	Verb	77480	77680	Noun	77800	78320
+Non-dominant POS	Verb	77480	77680
+English translation	I arrived home.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	78520
+End frame:	81280
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IX-1p	78560	78640	SLEEP	78840	78960	IN	79080	79160	fs-CRIB	79280	80160	CL:4"size of the object"	80400	80880	|>		81280
+non-dominant hand gloss
+head pos: tilt fr/bk	front	78520	81040	end	81080	81280
+head pos: turn	start	78600	78680	right	78720	81000	start	81040	81160	slightly right	81200	81280
+head pos: tilt side	slightly left	78520	78600	end	78640	78720
+head pos: jut	slightly back	78520	78560	end	78600	78720	start	79640	79840	back	79880	80960	start	81000	81120	slightly back	81160	81280
+body lean	slightly forward	78520	80200	end	80240	80560	start	80680	80760	forward	80800	81040	end	81080	81280
+eye brows	lowered	78520	81280
+eye aperture	squint	78520	81280
+nose	wrinkle	78520	81280
+POS	Pronoun	78560	78640	Verb	78840	78960	Preposition	79080	79160	Noun	79280	80160	Classifier	80400	80880
+English translation	I was sleeping in the crib.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	81320
+End frame:	87120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	fs-DANA	81560	82360	WATCH	82800	83120	DEVIL	83320	83520	fs-DANA	83640	84080	IX-3p:i	84200	84360	DEVIL	84480	84920	GIRL	85040	85160	PAST	85320	85680	|>		86000	SAME	86120	86320	IX-1p	86440	86640	GROW-UP	86800	87120
+non-dominant hand gloss	SMALL	85880	86120	|>		86320
+head pos: tilt fr/bk	start	81560	81920	front	81960	82600	start	82640	83160	slightly front	83200	83600	end	83640	84160	start	84920	85640	front	85680	87120
+head pos: turn	slightly right	81320	81320	start	81360	81960	left	82000	82360	end	82400	82520	start	83120	83440	left	83480	85960	start	86000	86120	right	86160	87120
+head pos: tilt side	start	81520	81720	left	81760	82480	start	82520	82960	slightly right	83000	85040	start	85080	86040	right	86080	87120
+head pos: jut	slightly back	81320	81720	end	81760	82240	start	82760	83120	back	83160	87120
+head mvmt: shake	start	85680	86080	single	86120	86640	end	86680	87120
+body lean	start	81480	81880	forward/left	81920	82520	end	82560	82800	start	83480	83680	left	83720	84560	end	84600	85160
+eye brows	lowered	81320	82400	end	82440	82520	start	83040	83160	lowered	83200	86920	end	86960	87120
+eye aperture	squint	81320	81960	start	82000	82200	blink	82240	82440	start	82480	82480	blink	82520	82640	start	82680	83120	squint	83160	83280	start	83320	83480	further squinted	83520	84240	start	84280	84400	closed	84440	84680	start	84720	85120	further squinted	85160	86440	start	86480	86640	closed	86680	87120
+nose	wrinkle	81320	82200	end	82240	82480	start	82960	83160	wrinkle	83200	86960	end	87000	87120
+POS	Proper Noun	81560	82360	Verb	82800	83120	Adjective	83320	83520	Proper Noun	83640	84080	Determiner	84200	84360	Adjective	84480	84920	Noun	85040	85160	Tense Marker	85320	85680	Adjective	86120	86320	Pronoun	86440	86640	Verb	86800	87120
+Non-dominant POS	Adjective	85880	86120
+English translation	Dana was staring.. She was devil girl, same for me when we grew up.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	87200
+End frame:	94320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	BUT	87360	87400	ANYWAY	87600	87960	fs-DANA	88280	88920	|>		89440	DECIDE	89680	90000	GET	90120	90320	fs-POTS	90560	91800	AND	91960	92400	fs-PANS	92600	93160	CL:5"getting the objects"	93440	94320
+non-dominant hand gloss	CL:1"person walking"	89080	89480
+head pos: tilt fr/bk	front	87200	87960	start	88000	88800	slightly front	88840	88920	end	88960	89080	start	89480	89760	front	89800	94320
+head pos: turn	slightly right	87200	87200	start	87240	87400	left	87440	87920	start	87960	88600	right	88640	89000	end	89040	89440	start	90240	90520	slightly right	90560	92320	start	92360	93440	left	93480	94320
+head pos: tilt side	right	87200	87280	start	87320	87480	left	87520	87960	start	88000	88600	slightly right	88640	89440	end	89480	89720	start	93400	93640	left	93680	94320
+head pos: jut	back	87200	92400	end	92440	93080
+head mvmt: nod
+	start	87320	87440	single	87480	88040	start	88080	88600	single	88640	89080	end	89120	89480
+body lean	start	90120	91000	left	91040	92400	start	92440	94200	left	94240	94320
+eye brows	start	87320	87440	slightly lowered	87480	88920	end	88960	89440	start	93640	94240	lowered	94280	94320
+eye aperture	closed	87200	87560	start	87600	87880	squint	87920	89040	end	89080	89440	start	93000	94200	squint	94240	94320
+nose	start	93160	94240	wrinkle	94280	94320
+POS	Conjunction	87360	87400	Adverb	87600	87960	Proper Noun	88280	88920	Verb	89680	90000	Verb	90120	90320	Noun	90560	91800	Conjunction	91960	92400	Noun	92600	93160	Classifier	93440	94320
+Non-dominant POS	Classifier	89080	89480
+English translation	But anyway, Dana decided to get pots and pans.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	94360
+End frame:	98240
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	SNEAK	94440	94560	WHEN	94680	94840	POSS-1p	94960	95040	MOTHER-FATHER	95120	95600	SLEEP	95720	96360	IN	97600	97640	HOUSE	97800	98240
+non-dominant hand gloss	CL:1"person going down"	96800	97480
+head pos: tilt fr/bk	front	94360	98240
+head pos: turn	left	94360	94400	start	94440	94640	right	94680	97400	end	97440	97800
+head pos: tilt side	slightly left	94360	94440	start	94480	94720	slightly right	94760	95600	end	95640	95800	start	96320	96640	right	96680	97480	end	97520	97760
+head pos: jut	start	94360	94480	back	94520	96880	end	96920	97240	start	97560	97720	back	97760	98240
+head mvmt: nod
+	start	95400	95680	single	95720	96320	end	96360	96880
+body lean	left	94360	96600	end	96640	96960	start	97360	97440	slightly forward	97480	97960	end	98000	98240
+eye brows	lowered	94360	98240
+eye aperture	squint	94360	98240
+nose	wrinkle	94360	98240
+POS	Verb	94440	94560	Wh-word	94680	94840	Possessive	94960	95040	Noun	95120	95600	Verb	95720	96360	Preposition	97600	97640	Noun	97800	98240
+Non-dominant POS	Classifier	96800	97480
+English translation	She was sneaking to downstair in the house while my parents were sleeping.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	98280
+End frame:	105800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	CL:5"opening the object"	98720	99680	OK	100120	100880	CL:5"getting the objects"	101240	101960	SOME	102160	102360	CL:5"getting the objects"	102600	103040	CL:1"person going up"	103400	103680	IN	103840	103960	POSS-1p	104120	104160	ROOM	104640	105560
+non-dominant hand gloss
+head pos: tilt fr/bk	front	98280	99160	end	99200	99560	start	101080	101520	front	101560	102800	end	102840	103000	start	103040	103160	back	103200	103800	start	103840	104400	front	104440	104960	start	105000	105440	slightly back	105480	105800
+head pos: turn	start	98280	98840	right	98880	99320	end	99360	99600	start	99880	100200	slightly left	100240	100360	start	100400	100800	right	100840	101080	start	101120	101560	left	101600	102160	start	102200	102560	slightly right	102600	102880	end	102920	103000	start	103040	103320	left	103360	103680	start	103720	104120	right	104160	105000	end	105040	105800
+head pos: tilt side	start	98280	98760	right	98800	99360	start	99400	99880	left	99920	100320	start	100360	101560	left	101600	102160	start	102200	103000	left	103040	103800	start	103840	104440	slightly right	104480	105440	end	105480	105800
+head pos: jut	back	98280	98520	end	98560	98880	start	100280	100840	slightly back	100880	102560	start	102600	103040	slightly forward	103080	103440	start	103480	103640	back	103680	105800
+head mvmt: nod
+	start	101920	101960	slight rapid head nod	102000	102680	end	102720	102920	start	104120	104160	single	104200	105040	end	105080	105520
+head mvmt: side to side	start	98280	98880	slow	98920	105480	end	105520	105800
+body lean	start	98280	98800	right	98840	99320	start	99360	99960	left	100000	100360	end	100400	100960	start	103040	103400	left	103440	104120	start	104160	104680	slightly forward	104720	105120	end	105160	105680
+eye brows	slightly lowered	98280	98800	start	98840	99160	raised	99200	99760	end	99800	100120	start	100920	101120	lowered	101160	103200	start	103240	103640	slightly lowered	103680	105800
+eye gaze	down	100080	100880
+eye aperture	squint	98280	99800	start	99840	100120	lowered lid	100160	100920	start	100960	101920	further squinted	101960	103360	start	103400	103640	squint	103680	104120	start	104160	104960	further squinted	105000	105800
+nose	start	101160	101720	wrinkle	101800	105800
+role shift	Dana	101160	103680
+POS	Classifier	98720	99680	Classifier	101240	101960	Adjective	102160	102360	Classifier	102600	103040	Classifier	103400	103680	Preposition	103840	103960	Possessive	104120	104160	Noun	104640	105560
+English translation
+Notes - number of character bytes:	33
+-Not sure how to do english part?
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	105840
+End frame:	112960
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	CL:5"banging the objects"+	107320	108440	IX-1p	108560	108640	WAKE-UP	108880	109760	CRY++	110080	112920	|>		112960
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	105840	105960	start	106000	106240	front	106280	107400	end	107440	107520	start	107760	107920	front	107960	108240	start	108280	108360	slightly front	108400	109320	start	109360	109600	front	109640	112880	end	112920	112960
+head pos: turn	start	106000	106240	left	106280	106840	start	106880	107000	slightly right	107040	107280	end	107320	107400	start	107600	107800	slightly right	107840	108400	start	108440	108560	slightly right	108600	108640	start	108680	109200	left	109240	110040	end	110080	110440	start	111320	111720	slightly left	111760	112640	end	112680	112960
+head pos: tilt side	start	105840	106080	left	106120	106560	end	106600	106840	start	107200	107360	slightly left	107400	107440	start	107480	107800	right	107840	108680	start	108720	109000	left	109040	110080	start	110120	111000	right	111040	111280	start	111320	111720	left	111760	112680	end	112720	112960
+head pos: jut	slightly back	105840	106040	start	106080	106280	back	106320	107000	start	107040	107200	forward	107240	107400	start	107440	107560	back	107600	107920	start	107960	108360	back	108400	109520	end	109560	110080
+head mvmt: nod
+	start	106600	107000	slow	107040	108400	end	108440	108640	start	109960	110400	slight slow head nod	110440	112680	end	112720	112960
+head mvmt: shake	start	106040	106240	single	106280	107000	end	107040	107400
+body lean	start	107040	107440	slightly forward	107480	107680	end	107720	107960	start	110080	111000	slightly forward	111040	112720	end	112760	112960
+eye brows	slightly lowered	105840	106120	start	106160	106400	raised	106440	108240	end	108280	108560
+eye gaze	left	106480	106960
+eye aperture	further squinted	105840	106080	start	106120	106440	wide	106480	107480	end	107520	107800	start	109720	110080	slightly squinted	110120	112360	end	112400	112720
+nose	wrinkle	105840	106120	end	106160	106400	start	106880	107040	tensed	107080	107760	end	107800	107960	start	110680	111280	wrinkle	111320	112680	end	112720	112960
+role shift	Dana	105840	108440
+POS	Classifier	107320	108440	Pronoun	108560	108640	Verb	108880	109760	Verb	110080	112920
+English translation	She made a lot of noises as banging and banging. I woke up and cried.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	113000
+End frame:	118040
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	fs-DANA	114520	114960	LOOK	115160	115400	OBVIOUS	115600	115920	HEARING	116160	116880	NAH	117080	117320
+non-dominant hand gloss	CRY	113000	113040	|>		113240
+head pos: tilt fr/bk	start	114480	114760	slightly front	114800	115200	end	115240	115400	start	116400	116560	slightly front	116600	118040
+head pos: turn	start	113040	113280	slightly right	113320	116320	start	116360	117000	left	117040	118040
+head pos: tilt side	start	113520	113880	slightly left	113920	115280	start	115320	115680	right	115720	116400	start	116440	116960	left	117000	117880	end	117920	118040
+head pos: jut	start	113280	113480	back	113520	115960	end	116000	116320
+body lean	start	113440	113840	slightly back	113880	115680	end	115720	116160
+eye brows	start	113160	113480	lowered	113520	116080	start	116120	116280	slightly lowered	116320	117320	end	117360	118040
+eye gaze	down	117440	118040
+eye aperture	start	113240	113440	closed	113480	116240	start	116280	116920	lowered lid	116960	118040
+nose	start	114800	115120	wrinkle	115160	118040
+POS	Proper Noun	114520	114960	Verb	115160	115400	Adjective	115600	115920	Verb	116160	116880
+Non-dominant POS	Verb	113000	113040
+English translation	Dana was looking at me and said," he obviously can hear."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	118080
+End frame:	122040
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	DEPRESS	118400	119920	NAH	120160	120320	CL:1"person walking across"	120560	120920	TELL	121080	121240	POSS-1p	121400	121480	MOTHER-FATHER	121640	122040
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	118080	118520	end	118560	119040	start	120000	120120	front	120160	122040
+head pos: turn	slightly left	118080	118120	start	118160	119600	right	119640	120760	start	120800	121240	left	121280	122040
+head pos: tilt side	start	118080	118760	slightly right	118800	119600	start	119640	120240	slightly left	120280	120400	start	120440	120800	slightly right	120840	120880	start	120920	121240	left	121280	122040
+body lean	start	118080	118520	slightly back	118560	119920	end	119960	120200	start	121040	121840	slightly forward	121880	122040
+eye brows	start	120880	121080	lowered	121120	122040
+eye gaze	down	118080	119200	right	120120	120320
+eye aperture	lowered lid	118080	119640	start	119680	119960	closed	120000	120040	start	120080	120120	slightly squinted	120160	120920	start	120960	121240	squint	121280	122040
+nose	wrinkle	118080	122040
+POS	Verb	118400	119920	Classifier	120560	120920	Verb	121080	121240	Possessive	121400	121480	Noun	121640	122040
+English translation	She was depressed and walked over to tell my parents.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	122080
+End frame:	126280
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	SAY	122200	122400	KNOW	122640	123040	IX-3p:i	123120	123920	REALLY	124160	124400	POSS-3p:i	124560	124720	HEARING	124920	125280	NOT	125360	125480	DEAF	125680	126200
+non-dominant hand gloss	MOTHER-FATHER	122080	122120
+head pos: tilt fr/bk	front	122080	126280
+head pos: turn	left	122080	122120	start	122160	122720	right	122760	123880	end	123920	124160	start	124520	124640	slightly right	124680	125000	start	125040	125560	left	125600	126280
+head pos: tilt side	left	122080	122240	start	122280	122680	right	122720	123840	end	123880	124160	start	124440	124680	right	124720	125320	start	125360	125600	left	125640	126000	end	126040	126280
+body lean	slightly forward	122080	122280	start	122320	123120	slightly forward	123160	125120	end	125160	125680
+eye brows	lowered	122080	125680	end	125720	126280
+eye gaze	down	126240	126280
+eye aperture	squint	122080	123080	start	123120	123240	closed	123280	124720	start	124760	125000	squint	125040	125960	end	126000	126280
+nose	wrinkle	122080	125800	end	125840	126280
+role shift	Dana	122600	126280
+POS	Verb	122200	122400	Verb	122640	123040	Pronoun	123120	123920	Adverb	124160	124400	Possessive	124560	124720	Adjective	124920	125280	Negation	125360	125480	Adjective	125680	126200
+Non-dominant POS	Noun	122080	122120
+English translation	She said,"Know what? Hes really hearing, not Deaf."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	126320
+End frame:	128240
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	POSS-1p	126360	126440	MOTHER-FATHER	126520	126920	part:indef	127040	127520	HOW	127680	127800	KNOW	127960	128240
+non-dominant hand gloss	HOW	127680	127800	|>		128240
+head pos: tilt fr/bk	front	126320	128240
+head pos: turn	left	126320	127200	start	127240	127560	slightly right	127600	128240
+head pos: tilt side	start	126480	126600	slightly right	126640	127200	end	127240	127400	start	127640	127840	left	127880	128240
+head pos: jut	start	126920	127000	forward	127040	127960	end	128000	128120
+body lean	start	126800	126960	forward/right	127000	127320	start	127360	127960	forward/left	128000	128240
+eye brows	start	126760	126920	lowered	126960	128240
+eye gaze	down	126360	126560	down/left	126600	126960
+eye aperture	start	126440	126600	further squinted	126640	128240
+nose	start	126800	126960	wrinkle	127000	128240
+role shift	Mother	127000	128240
+POS	Possessive	126360	126440	Noun	126520	126920	Particle	127040	127520	Wh-word	127680	127800	Verb	127960	128240
+Non-dominant POS	Wh-word	127680	127800
+English translation	My parents asked "how did you know?"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	128280
+End frame:	133440
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p:i	128400	128600	fs-DANA	128680	129200	SAY	129320	129480	REALLY	129680	130040	IX-1p	130200	130320	CL:1"person walking down"	130480	130800	GET	130960	131280	fs-POTS	131440	132160	AND	132280	132440	fs-PANS	132600	133000	CL:S"getting the objects"	133160	133440
+non-dominant hand gloss	KNOW	128280	128320
+head pos: tilt fr/bk	front	128280	128520	start	128560	130040	slightly front	130080	130120	start	130160	130440	front	130480	133440
+head pos: turn	slightly right	128280	128280	start	128320	128600	right	128640	132280	start	132320	133040	left	133080	133440
+head pos: tilt side	left	128280	128360	end	128400	128560	start	129240	129440	left	129480	132320	start	132360	133200	slightly right	133240	133440
+head pos: jut	start	130120	130640	forward	130680	131040	end	131080	131720
+body lean	forward/left	128280	128600	end	128640	128960	start	129520	130000	slightly forward	130040	131360	end	131400	131960
+eye brows	lowered	128280	132640	end	132680	133200
+eye aperture	further squinted	128280	132560	end	132600	133160
+nose	wrinkle	128280	132200	end	132240	132600
+role shift	Dana	129680	133440
+POS	Pronoun	128400	128600	Proper Noun	128680	129200	Verb	129320	129480	Adverb	129680	130040	Pronoun	130200	130320	Classifier	130480	130800	Verb	130960	131280	Noun	131440	132160	Conjunction	132280	132440	Noun	132600	133000	Classifier	133160	133440
+Non-dominant POS	Verb	128280	128320
+English translation	Dana said," I went down to get pots and pans."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	133480
+End frame:	135840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	CL:S"banging the objects"+	133720	134680	WHEN	134920	135120	IX-1p	135200	135280	SLEEP	135480	135840
+non-dominant hand gloss	CL:S"banging the objects"+	133720	134680	|>		135840
+head pos: tilt fr/bk	front	133480	135840
+head pos: turn	left	133480	135840
+head pos: tilt side	right	133480	135840
+head pos: jut	start	133600	133720	forward	133760	134360	end	134400	134720	start	134920	135120	back	135160	135840
+head mvmt: nod
+	start	133520	133680	slow	133720	134760	end	134800	135120
+body lean	start	133720	133840	forward	133880	134760	end	134800	135000	start	135200	135360	back/right	135400	135840
+POS	Classifier	133720	134680	Wh-word	134920	135120	Pronoun	135200	135280	Verb	135480	135840
+Non-dominant POS	Classifier	133720	134680
+English translation	Banging them when I was sleeping.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	135880
+End frame:	138360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IX-1p	135920	136000	WAKE-UP	136200	136560	CRY+	136720	137440	|>		138040
+non-dominant hand gloss
+head pos: tilt fr/bk	front	135880	137720	end	137760	137960
+head pos: turn	left	135880	137440	end	137480	137680	start	137800	138040	right	138080	138360
+head pos: tilt side	slightly right	135880	136600	end	136640	136920
+head pos: jut	back	135880	136640	end	136680	136920
+body lean	back/right	135880	136920	end	136960	137280
+eye brows	start	137520	137680	slightly lowered	137720	138160	end	138200	138360
+eye gaze	down	138200	138360
+eye aperture	start	137320	137480	squint	137520	138360
+POS	Pronoun	135920	136000	Verb	136200	136560	Verb	136720	137440
+English translation	I woke up and cried.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	41
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	138400
+End frame:	141320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	MOTHER-FATHER	138600	138920	TRUE-BUSINESS	139160	139840	part:indef	140000	140120	NAH	140320	140600
+non-dominant hand gloss
+head pos: tilt fr/bk	start	138400	138600	front	138640	140760	end	140800	141000
+head pos: turn	right	138400	138440	start	138480	138880	left	138920	139880	end	139920	140000	start	140120	140440	right	140480	140960	end	141000	141160
+head pos: tilt side	start	138680	138880	slightly left	138920	139000	start	139040	139400	slightly right	139440	139840	start	139880	140000	right	140040	140840	start	140880	141160	slightly left	141200	141320
+head pos: jut	start	138880	139000	forward	139040	139640	end	139680	139840	start	140200	140400	slightly forward	140440	140680	end	140720	140960
+head mvmt: nod
+	start	139760	139920	slight rapid head nod	139960	140760	end	140800	140960
+body lean	start	139040	139320	forward	139360	139840	end	139880	140040	start	140200	140320	right	140360	140720	end	140760	140960
+eye brows	start	138440	138680	slightly lowered	138720	138920	start	138960	139160	slightly raised	139200	139600	end	139640	139920
+eye gaze	down	138400	138440	down/left	138480	139680	down	139720	140040	down/right	140160	140400	left	141160	141320
+eye aperture	squint	138400	139120	start	139160	139600	blink	139640	139760	start	139800	140080	blink	140120	140200	start	140240	140360	blink	140400	140880	end	140920	141040
+POS	Noun	138600	138920	Particle	140000	140120
+English translation	My parents said, really? Oh well.
+Notes - number of character bytes:	154
+- pos for TRUE BUSINESS?
+- not sure whats proper thing to gloss for the english part?
+- not sure if NAH is correct for that kind of sign, perhaps OH WELL?
+
+
+Utterance ID:	42
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	141360
+End frame:	142920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	NEXT	141640	141720	fs-DAY	141840	142160	NAH	142240	142600	WAKE-UP	142760	142920
+non-dominant hand gloss
+head pos: tilt fr/bk	start	141920	142040	front	142080	142600	end	142640	142760
+head pos: turn	start	141480	141600	left	141640	142600	end	142640	142760
+head pos: tilt side	left	141360	142640	end	142680	142800
+head pos: jut	start	142080	142200	slightly forward	142240	142480	end	142520	142680
+head mvmt: nod
+	start	141800	141920	single	141960	142520	end	142560	142760
+body lean	start	141960	142080	forward/left	142120	142440	end	142480	142640
+eye brows	start	142800	142880	slightly lowered	142920	142920
+eye gaze	left	141360	141680	down	142480	142720
+eye aperture	start	141880	142000	slightly squinted	142040	142080	start	142120	142120	blink	142160	142520	start	142560	142640	slightly squinted	142680	142920
+nose	start	142760	142880	wrinkle	142920	142920
+POS	Adjective	141640	141720	Noun	141840	142160	Verb	142760	142920
+English translation	Next day, I woke up.
+Notes - number of character bytes:	47
+- i dont think its as NAH in that kind of sign?
+
+
+Utterance ID:	43
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	142960
+End frame:	148080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	fs-DANA	143080	143400	STILL	143600	143680	UPSET	143800	144160	THAT	144240	144320	IX-1p	144400	144560	NOT	144680	144720	DEAF	145040	145160	NOT	145640	146120	DEAF	146280	146960	IX-3p:i	147200	147320	part:indef	147520	147760
+non-dominant hand gloss
+head pos: tilt fr/bk	start	142960	143200	front	143240	146760	start	146800	147520	slightly front	147560	147720	start	147760	148040	slightly back	148080	148080
+head pos: turn	start	142960	143320	right	143360	144280	start	144320	144680	left	144720	145840	start	145880	146520	left	146560	146800	start	146840	147600	slightly right	147640	148080
+head pos: tilt side	start	142960	143120	right	143160	144280	start	144320	144880	left	144920	145920	end	145960	146160	start	146880	147240	slightly right	147280	147680	end	147720	148000
+head pos: jut	start	142960	143400	back	143440	146000	end	146040	146480
+head mvmt: nod
+	start	145080	145800	slight rapid head nod	145840	146480	start	146520	147400	single	147440	147720	end	147760	148080
+body lean	start	143040	143360	back/right	143400	144200	end	144240	144480	start	145160	145680	slightly back	145720	146160	start	146200	146760	slightly forward	146800	146960	end	147000	147400
+eye brows	slightly lowered	142960	143320	end	143360	143720	start	146000	146160	lowered	146200	146640	end	146680	146840	start	147400	147520	slightly lowered	147560	147680	end	147720	148040
+eye gaze	left	148040	148080
+eye aperture	slightly squinted	142960	143120	end	143160	143400	start	146040	146440	slightly squinted	146480	147720	start	147760	148000	further lowered	148040	148080
+nose	wrinkle	142960	143000	end	143040	143360	start	145920	146080	wrinkle	146120	146720	end	146760	147280
+POS	Proper Noun	143080	143400	Adjective	143600	143680	Verb	143800	144160	Pronoun	144240	144320	Pronoun	144400	144560	Negation	144680	144720	Adjective	145040	145160	Negation	145640	146120	Adjective	146280	146960	Pronoun	147200	147320	Particle	147520	147760
+English translation	Dana was still upset that I am not Deaf.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	44
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	148120
+End frame:	151480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	part:indef	148440	148480	IX-3p:i	148600	148680	DECIDE	148880	149080	#TO	149160	149360	DO	149480	150000	SOMETHING	150120	150240	ELSE	150400	150800
+non-dominant hand gloss	DO	149480	150000	|>		150360
+head pos: tilt fr/bk	slightly back	148120	148640	start	148680	148960	front	149000	149440	start	149480	149640	further front	149680	150760	start	150800	150880	front	150920	151000	end	151040	151480
+head pos: turn	slightly right	148120	148120	start	148160	148440	slightly left	148480	148720	start	148760	149000	right	149040	150720	end	150760	150920	start	151320	151400	left	151440	151480
+head pos: tilt side	start	148160	148440	slightly left	148480	148680	start	148720	148960	right	149000	150880	start	150920	151400	slightly left	151440	151480
+head pos: jut	start	148680	148800	back	148840	150920	start	150960	151080	slightly back	151120	151480
+head mvmt: nod
+	start	148640	148680	slight rapid head nod	148720	149480	end	149520	150120
+body lean	start	149360	149560	slightly forward	149600	150880	end	150920	151120
+eye brows	start	148760	148880	slightly lowered	148920	149120	end	149160	149480
+eye gaze	left	148120	148560	left	150840	151320
+eye aperture	further lowered	148120	148120	start	148160	148440	slightly lowered	148480	148720	start	148760	148880	slightly squinted	148920	149080	end	149120	149560	start	150400	150560	blink	150600	150920	end	150960	151160
+POS	Particle	148440	148480	Pronoun	148600	148680	Verb	148880	149080	Preposition	149160	149360	Verb	149480	150000	Noun	150120	150240	Adjective	150400	150800
+Non-dominant POS	Verb	149480	150000
+English translation	She decided to do something else.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	45
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	151520
+End frame:	154320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	151760	151840	IX-1p	151920	152000	SIT	152280	152840	|>		153360	part:indef	153600	154320
+non-dominant hand gloss	CL:3"person sitting"	153160	153400
+head pos: tilt fr/bk	start	152080	152280	front	152320	154160	start	154200	154240	slightly front	154280	154320
+head pos: turn	left	151520	151840	start	151880	152880	right	152920	154120	end	154160	154320
+head pos: tilt side	left	151520	151920	start	151960	152840	slightly right	152880	154160	end	154200	154320
+head pos: jut	slightly back	151520	151800	start	151840	152240	back	152280	154320
+head mvmt: shake	start	153360	153400	slight rapid head shake	153440	154080	end	154120	154320
+body lean	start	153320	153360	slightly forward	153400	154320
+eye brows	start	151920	152000	lowered	152040	154320
+eye aperture	start	151880	152080	squint	152120	152880	start	152920	153160	closed	153200	154320
+nose	start	151840	152000	wrinkle	152040	154320
+POS	Discourse Marker	151760	151840	Pronoun	151920	152000	Verb	152280	152840	Particle	153600	154320
+Non-dominant POS	Classifier	153160	153400
+English translation	Really, I was sitting...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	46
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	154360
+End frame:	157160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	SOMETHING	154440	154640	POSS-1p	154880	155440	CL:5"shape of the object"	155600	156160	BABY	156360	156560	fs-STOOL	156720	157160
+non-dominant hand gloss	part:indef	154360	154400	|>		154600	BABY	156360	156560	|>		157160
+head pos: tilt fr/bk	slightly front	154360	154640	end	154680	154920	start	155400	155480	front	155520	155840	end	155880	155960
+head pos: jut	back	154360	154640	end	154680	154920	start	155360	155480	back	155520	155840	end	155880	156040
+body lean	slightly forward	154360	157160
+eye brows	lowered	154360	156040	end	156080	156320
+eye aperture	closed	154360	156160	start	156200	156480	further squinted	156520	157160
+nose	wrinkle	154360	156200	end	156240	156520
+POS	Noun	154440	154640	Possessive	154880	155440	Classifier	155600	156160	Noun	156360	156560	Noun	156720	157160
+Non-dominant POS	Particle	154360	154400	Noun	156360	156560
+English translation
+Notes - number of character bytes:	23
+- English translation??
+
+
+Utterance ID:	47
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	157200
+End frame:	161440
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	KNOW	157320	157400	SIT	157680	157800	WHEN	157840	157960	EAT	158080	158360	HAVE	158480	158640	fs-TRAY	158800	159240	CL:1"shape of the object"	159440	159880	WITH	160000	160120	fs-BIB	160280	160600	CL:1"shape of the object"	160840	161440
+non-dominant hand gloss	SIT	157680	157800	|>		158040
+head pos: tilt fr/bk	start	157200	157360	slightly front	157400	157880	start	157920	158560	slightly back	158600	159280	end	159320	159840	start	160680	161200	front	161240	161440
+head pos: turn	start	157200	157480	slightly left	157520	157920	end	157960	158120	start	158760	159120	slightly right	159160	159840	start	159880	160080	right	160120	160760	start	160800	161240	slightly left	161280	161440
+head pos: tilt side	start	157200	157400	slightly left	157440	157600	end	157640	157920	start	159880	160080	right	160120	160680	start	160720	161240	left	161280	161440
+head pos: jut	start	159000	159240	back	159280	161440
+head mvmt: side to side	start	159920	160160	single	160200	161400	end	161440	161440
+body lean	slightly forward	157200	159880	end	159920	160120	start	161000	161240	slightly forward	161280	161440
+eye brows	slightly lowered	157200	158200	end	158240	158760
+eye aperture	further squinted	157200	158000	start	158040	158360	squint	158400	161440
+nose	start	159880	160080	tensed	160120	160800	end	160840	161400
+wh question	wh	157200	158200
+POS	Verb	157320	157400	Verb	157680	157800	Wh-word	157840	157960	Verb	158080	158360	Verb	158480	158640	Noun	158800	159240	Classifier	159440	159880	Preposition	160000	160120	Noun	160280	160600	Classifier	160840	161440
+Non-dominant POS	Verb	157680	157800
+English translation	You know when we have to sit down and eat, there is tray in front of me with bib on.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	48
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	161520
+End frame:	162520
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	010
+main gloss	HAVE	161600	161680	PICTURE	161840	162160	CUTE	162240	162520
+non-dominant hand gloss
+head pos: tilt fr/bk	front	161520	162240	start	162280	162360	slightly front	162400	162520
+head pos: turn	slightly left	161520	161560	start	161600	161680	right	161720	162240	end	162280	162320	start	162440	162480	slightly left	162520	162520
+head pos: tilt side	left	161520	161520	start	161560	161680	slightly right	161720	162200	end	162240	162320	start	162440	162480	slightly left	162520	162520
+head pos: jut	back	161520	162160	end	162200	162280
+body lean	slightly forward	161520	162520
+eye aperture	squint	161520	161520	start	161560	161560	closed	161600	162520
+POS	Verb	161600	161680	Noun	161840	162160	Adjective	162240	162520
+English translation	I have a picture, it was cute.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	49
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	162560
+End frame:	163640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	BUT	162680	162760	ANYWAY	162920	162960	SIT	163280	163600	|>		163640
+non-dominant hand gloss	CUTE	162560	162600
+head pos: tilt fr/bk	slightly front	162560	162640	start	162680	162720	front	162760	163480	start	163520	163600	slightly front	163640	163640
+head pos: turn	slightly left	162560	162840	end	162880	163000
+head pos: tilt side	left	162560	163000	end	163040	163160	start	163400	163480	slightly right	163520	163640
+head pos: jut	start	162720	162800	back	162840	163640
+body lean	slightly forward	162560	163040	end	163080	163200
+eye aperture	closed	162560	162840	start	162880	162920	squint	162960	163640
+nose	start	162800	162840	wrinkle	162880	163640
+POS	Conjunction	162680	162760	Adverb	162920	162960	Verb	163280	163600
+Non-dominant POS	Adjective	162560	162600
+English translation	But anyway I was sitting...
+Notes - number of character bytes:	0
+
+
+Utterance ID:	50
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	163680
+End frame:	167040
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	fs-DANA	163800	164440	SCREAM+	165560	167040
+non-dominant hand gloss	CL:1"person walking behind"	164840	165280	|>		167040
+head pos: tilt fr/bk	slightly front	163680	163720	end	163760	163880	start	164480	164560	front	164600	165320	end	165360	165640	start	166520	166800	slightly front	166840	167040
+head pos: turn	start	164680	164840	right	164880	165080	end	165120	165240	start	166160	166320	slightly left	166360	167040
+head pos: tilt side	slightly right	163680	164400	start	164440	164600	right	164640	165200	end	165240	165280	start	166240	166520	left	166560	167040
+head pos: jut	back	163680	164960	end	165000	165240	start	165280	165400	back	165440	167040
+head mvmt: nod
+	start	164320	164440	single	164480	165280	end	165320	165720
+body lean	start	164640	164960	slightly forward	165000	167040
+eye brows	start	166880	167000	raised	167040	167040
+eye aperture	slightly squinted	163680	163840	end	163880	164160	start	166880	167000	wide	167040	167040
+nose	wrinkle	163680	163920	end	163960	164320
+POS	Proper Noun	163800	164440	Verb	165560	167040
+Non-dominant POS	Classifier	164840	165280
+English translation	Dana walked around behind me and was screaming.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	51
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	167080
+End frame:	169160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	IX-1p	167200	167560	NOT	167640	167680	#EVEN	167840	167960	LOOK-BACK	168280	169160
+non-dominant hand gloss	CL:1"person walking behind"	167080	167120	|>		169160
+head pos: tilt fr/bk	front	167080	167360	end	167400	167600	start	168560	168680	slightly front	168720	169160
+head pos: turn	slightly left	167080	167120	start	167160	167280	left	167320	168040	end	168080	168240	start	168600	168680	left	168720	169160
+head pos: tilt side	left	167080	169160
+head pos: jut	slightly back	167080	167120	start	167160	167600	back	167640	169160
+head mvmt: shake	start	167240	167480	slow	167520	169080	end	169120	169160
+body lean	slightly forward	167080	167240	end	167280	167480	start	168440	168600	slightly back	168640	169160
+eye brows	raised	167080	169160
+eye gaze	left	169120	169160
+eye aperture	wide	167080	169160
+nose	start	167960	168160	tensed	168200	169000	end	169040	169160
+negative	negation	167520	169080
+POS	Pronoun	167200	167560	Negation	167640	167680	Adjective	167840	167960	Verb	168280	169160
+Non-dominant POS	Classifier	167080	167120
+English translation	I was not even look back.
+Notes - number of character bytes:	33
+- pos for "LOOK-BACK" is it verb?
+
+
+Utterance ID:	52
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	169240
+End frame:	171320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	AND	169360	169560	POSS-1p	169720	169840	MOTHER	169960	170160	SAW	170320	170440	WHOLE	170560	170760	THING	170920	171320
+non-dominant hand gloss	LOOK-BACK	169240	169280	|>		169320
+head pos: tilt fr/bk	slightly front	169240	169680	start	169720	169840	front	169880	170240	start	170280	170480	front	170520	171320
+head pos: turn	left	169240	169320	start	169360	169680	right	169720	170200	end	170240	170440	start	170560	170680	slightly left	170720	171120	end	171160	171320
+head pos: tilt side	left	169240	169280	start	169320	169640	right	169680	170160	end	170200	170320	start	170440	170640	slightly left	170680	171320
+head pos: jut	back	169240	169720	end	169760	169880
+body lean	slightly back	169240	169320	end	169360	169520	start	170720	170840	slightly forward	170880	171320
+eye brows	raised	169240	170840	start	170880	170920	slightly raised	170960	171320
+eye gaze	left	169240	169520	left	171240	171320
+eye aperture	wide	169240	170760	end	170800	170920	start	171160	171200	wide	171240	171320
+POS	Conjunction	169360	169560	Possessive	169720	169840	Noun	169960	170160	Verb	170320	170440	Adjective	170560	170760	Noun	170920	171320
+Non-dominant POS	Verb	169240	169280
+English translation	And my mother saw the whole thing.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	53
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	171360
+End frame:	173600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	POSS-1p	171440	171520	MOTHER	171680	171720	LOOK	171960	172240	|>		173600
+non-dominant hand gloss	THING	171360	171400	|>		171880
+head pos: tilt fr/bk	slightly front	171360	171520	end	171560	171680	start	172840	172960	slightly front	173000	173600
+head pos: tilt side	slightly left	171360	171440	end	171480	171560
+head pos: jut	start	172880	173000	slightly forward	173040	173600
+body lean	slightly forward	171360	171600	end	171640	171760
+eye brows	raised	171360	171720	end	171760	172040
+eye gaze	left	171360	171720	up/left	171760	172000	up	172040	172680	up/left	172720	173600
+eye aperture	wide	171360	173600
+role shift	Mother	171960	173600
+POS	Possessive	171440	171520	Noun	171680	171720	Verb	171960	172240
+Non-dominant POS	Noun	171360	171400
+English translation	My  mother was staring.
+Notes - number of character bytes:	43
+- right way to say in english translation? 
+
+
+Utterance ID:	54
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	173640
+End frame:	176120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	CL:1"person walking across"	173800	174360	fs-DANA	174480	174880	SAY	175040	175120	MAYBE	175240	175600	DEAF	175760	176120
+non-dominant hand gloss	LOOK	173640	173680	MAYBE	175240	175600	|>		176120
+head pos: tilt fr/bk	slightly front	173640	173960	start	174000	174280	front	174320	176120
+head pos: turn	start	174640	174800	slightly right	174840	175760	start	175800	176040	slightly left	176080	176120
+head pos: tilt side	start	174200	174280	left	174320	176120
+head pos: jut	slightly forward	173640	173960	end	174000	174200	start	174440	174560	forward	174600	175960	end	176000	176120
+head mvmt: nod
+	start	175040	175240	single	175280	175720	end	175760	176120
+body lean	start	174160	174320	forward/left	174360	175720	start	175760	175880	slightly forward	175920	176120
+eye gaze	up/left	173640	174480	left	174920	175240
+eye aperture	wide	173640	174280	end	174320	174600
+role shift	Mother	175200	176120
+POS	Classifier	173800	174360	Proper Noun	174480	174880	Verb	175040	175120	Adverb	175240	175600	Adjective	175760	176120
+Non-dominant POS	Verb	173640	173680	Adverb	175240	175600
+English translation	She walked to Dana and said, "maybe he is Deaf."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	55
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	176160
+End frame:	180160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	SEE	176200	176640	LOOK	176960	177320	|>		178080	#AT	178200	178360	IX-1p	178480	178680	LOOK	178960	179280	|>		180160
+non-dominant hand gloss
+head pos: tilt fr/bk	front	176160	180160
+head pos: turn	left	176160	176840	end	176880	177280	start	177880	178080	right	178120	178880	end	178920	179280
+head pos: tilt side	left	176160	176960	end	177000	177440	start	177840	178400	left	178440	178880	start	178920	179160	slightly left	179200	180160
+head pos: jut	start	177960	178240	back	178280	178920	end	178960	179280
+head mvmt: nod
+	start	177360	177720	slight rapid head nod	177760	178720	end	178760	179000
+body lean	slightly forward	176160	176240	start	176280	176720	forward/left	176760	177040	start	177080	177400	slightly forward	177440	178080	end	178120	178440	start	179040	179440	slightly forward	179480	180160
+eye gaze	right	176360	177000	down	177040	177640	down/left	178720	179680	left	180160	180160
+role shift	Mother	176160	177640	Mother	178960	180160
+POS	Verb	176200	176640	Verb	176960	177320	Preposition	178200	178360	Pronoun	178480	178680	Verb	178960	179280
+English translation	She was looking at me.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	56
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	180200
+End frame:	183000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	CL:5"sound in ear"	180800	181320	IX-1p	181520	181720	part:indef	181840	182120	NOT	182200	182320	PAY-ATTENTION	182480	183000
+non-dominant hand gloss	LOOK	180200	180240	|>		180520	part:indef	181840	182120	|>		182280
+head pos: tilt fr/bk	front	180200	183000
+head pos: turn	start	180600	180720	left	180760	181520	start	181560	181920	right	181960	182800	start	182840	182880	slightly right	182920	183000
+head pos: tilt side	left	180200	180920	start	180960	181320	slightly left	181360	181800	start	181840	182120	left	182160	183000
+head pos: jut	start	181840	182040	slightly back	182080	182720	end	182760	183000
+head mvmt: shake	start	181840	182000	slight rapid head shake	182040	182560	end	182600	182920
+body lean	slightly forward	180200	180480	start	180520	180600	left	180640	183000
+shoulders	start	181640	181800	raised	181840	183000
+eye gaze	left	180200	181640	left	182920	183000
+negative	negation	182040	182560
+role shift	Mother	180200	181320
+POS	Classifier	180800	181320	Pronoun	181520	181720	Particle	181840	182120	Negation	182200	182320	Verb	182480	183000
+Non-dominant POS	Verb	180200	180240	Particle	181840	182120
+English translation	She was talking to my ears and I was not pay attention to her.
+Notes - number of character bytes:	184
+- UNKNOWN, I know what hes signing: someone is talking to his ear, but that kind of  sign can be SHOWER, SUN, etc.. so not sure what do you want me to gloss for that UNKNOWN? as CL or?
+
+
+Utterance ID:	57
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	183040
+End frame:	186400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	IX-3p:i	183160	183200	SCREAM	183360	183760	POSS-1p	183880	183920	NAME	184040	184640	IN	184760	184960	POSS-1p	185000	185040	EAR	185160	185400	SCREAM	185560	186200	|>		186360
+non-dominant hand gloss	PAY-ATTENTION	183040	183080	|>		183200
+head pos: tilt fr/bk	slightly front	183040	183200	start	183240	183440	front	183480	183760	end	183800	183920	start	184680	184800	front	184840	186200	start	186240	186360	slightly front	186400	186400
+head pos: turn	slightly right	183040	183080	start	183120	183560	slightly left	183600	184680	start	184720	184880	left	184920	185960	end	186000	186400
+head pos: tilt side	left	183040	183080	end	183120	183200	start	183600	183880	slightly right	183920	184440	start	184480	184920	left	184960	185960	end	186000	186280
+head pos: jut	start	183400	183640	forward	183680	183880	start	183920	184680	back	184720	185760	start	185800	186000	slightly forward	186040	186280	end	186320	186400
+body lean	left	183040	183120	start	183160	183360	slightly forward	183400	183920	end	183960	184280	start	185480	185720	slightly forward	185760	186400
+eye gaze	left	183040	183520
+POS	Pronoun	183160	183200	Verb	183360	183760	Possessive	183880	183920	Noun	184040	184640	Preposition	184760	184960	Possessive	185000	185040	Noun	185160	185400	Verb	185560	186200
+Non-dominant POS	Verb	183040	183080
+English translation	She was screaming for my name in my ear. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	58
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	186440
+End frame:	189760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	186600	186840	part:indef	187040	187480	IX-1p	187600	187720	NOT	188040	188160	#EVEN	188240	188320	HEAR	188480	188680	#IT	188840	189080	part:indef	189400	189760
+non-dominant hand gloss	part:indef	187040	187480	|>		189640
+head pos: tilt fr/bk	slightly front	186440	188240	start	188280	188560	front	188600	189200	start	189240	189640	back	189680	189760
+head pos: turn	start	186440	186720	right	186760	188320	start	188360	188640	left	188680	189280	start	189320	189640	slightly right	189680	189760
+head pos: tilt side	start	186560	186760	left	186800	189000	start	189040	189480	right	189520	189760
+head pos: jut	start	186720	186920	back	186960	188680	end	188720	189000	start	189400	189600	slightly back	189640	189760
+body lean	slightly forward	186440	186600	end	186640	186920	start	187480	187560	slightly forward	187600	189280	end	189320	189520
+shoulders	start	187600	187840	raised	187880	188640	end	188680	188920
+eye gaze	right	186680	186920
+eye aperture	start	188680	189000	slightly lowered	189040	189760
+POS	Pronoun	186600	186840	Particle	187040	187480	Pronoun	187600	187720	Negation	188040	188160	Adjective	188240	188320	Verb	188480	188680	Pronoun	188840	189080	Particle	189400	189760
+Non-dominant POS	Particle	187040	187480
+English translation	I did not even hear it.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	59
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	189800
+End frame:	191440
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	FINE	189920	190080	MOTHER	190160	190240	SAY	190440	190520	INFORM	190680	190840	fs-DANA	190960	191440
+non-dominant hand gloss	INFORM	190680	190840	|>		191440
+head pos: tilt fr/bk	back	189800	189960	start	190000	190200	front	190240	191440
+head pos: turn	slightly right	189800	189920	end	189960	190160	start	190360	190400	slightly left	190440	190880	start	190920	191000	left	191040	191440
+head pos: tilt side	right	189800	189960	end	190000	190160	start	190320	190440	left	190480	190840	start	190880	191040	right	191080	191440
+head pos: jut	slightly back	189800	189960	end	190000	190120	start	190360	190480	forward	190520	191440
+head mvmt: nod
+	start	190360	190560	single	190600	190800	end	190840	190920	start	191080	191120	slight rapid head nod	191160	191400	end	191440	191440
+body lean	slightly back	189800	190080	end	190120	190200	start	190440	190520	forward	190560	191440
+eye brows	start	190320	190400	raised	190440	191440
+eye gaze	left	189960	190520
+eye aperture	slightly lowered	189800	190440	end	190480	190560
+POS	Adjective	189920	190080	Noun	190160	190240	Verb	190440	190520	Verb	190680	190840	Proper Noun	190960	191440
+Non-dominant POS	Verb	190680	190840
+English translation
+Notes - number of character bytes:	41
+- Whats english translation for this one?
+
+
+Utterance ID:	60
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	191480
+End frame:	193000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	TRUE-BUSINESS	191640	192160	IX-1p	192280	192400	DEAF	192600	192960
+non-dominant hand gloss	TRUE-BUSINESS	191640	192160	|>		192720
+head pos: tilt fr/bk	front	191480	192160	start	192200	192280	slightly front	192320	192560	start	192600	192800	front	192840	193000
+head pos: turn	left	191480	193000
+head pos: tilt side	right	191480	192360	end	192400	192480
+head pos: jut	forward	191480	191880	end	191920	192040
+head mvmt: nod
+	start	191600	191680	slight rapid head nod	191720	192040	end	192080	192200
+body lean	forward	191480	192000	end	192040	192200	start	192760	192840	slightly forward	192880	193000
+eye brows	raised	191480	191560	end	191600	191760
+eye gaze	up/left	191600	191760
+eye aperture	start	192200	192280	slightly squinted	192320	193000
+POS	Pronoun	192280	192400	Adjective	192600	192960
+English translation	I am definitely Deaf.
+Notes - number of character bytes:	24
+- pos for TRUE BUSINESS?
+
+
+Utterance ID:	61
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	193040
+End frame:	194360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	HAVE	193200	193240	DEAF	193520	193760	BROTHER	193920	194240	|>		194360
+non-dominant hand gloss
+head pos: tilt fr/bk	front	193040	194360
+head pos: turn	left	193040	194360
+head pos: tilt side	start	193040	193080	right	193120	194160	end	194200	194280
+head pos: jut	start	193200	193320	slightly forward	193360	194360
+body lean	slightly forward	193040	194360
+eye aperture	slightly squinted	193040	194360
+role shift	Mother	193040	194360
+POS	Verb	193200	193240	Adjective	193520	193760	Noun	193920	194240
+English translation	You have a Deaf brother.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	62
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	194440
+End frame:	197720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	fs-DANA	194560	194960	JUMP++	195200	196040	EXCITED+	196360	197520	|>		197720
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly front	194440	194480	end	194520	194640	start	194960	195160	back	195200	195880	end	195920	196160	start	197360	197520	slightly front	197560	197720
+head pos: turn	left	194440	194440	start	194480	194920	slightly right	194960	195160	start	195200	195720	left	195760	196320	start	196360	196720	right	196760	197240	start	197280	197600	left	197640	197720
+head pos: tilt side	start	194680	194920	right	194960	195160	start	195200	195640	left	195680	196200	start	196240	196600	right	196640	197240	start	197280	197560	left	197600	197720
+head pos: jut	slightly forward	194440	194480	end	194520	194640	start	195160	195440	back	195480	197160	start	197200	197520	slightly back	197560	197720
+head mvmt: side to side	start	194960	195200	slow	195240	197200	end	197240	197440
+body lean	slightly forward	194440	194560	end	194600	194760	start	195200	195400	slightly back	195440	195800	end	195840	196200
+eye brows	start	197280	197480	slightly raised	197520	197720
+eye aperture	slightly squinted	194440	194760	start	194800	194880	closed	194920	196600	start	196640	196920	squint	196960	197720
+POS	Proper Noun	194560	194960	Verb	195200	196040	Verb	196360	197520
+English translation	Dana was jumping around and got excited.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	63
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	197800
+End frame:	201640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	TO	197960	198000	NOW	198200	198440	DAY	198680	199200	IX-3p:i	199360	199480	fs-DANA	199600	200080	STILL	200280	200440	TELL	200640	200680	EVERYONE	200920	201640
+non-dominant hand gloss	STILL	200280	200440	|>		200680
+head pos: tilt fr/bk	slightly front	197800	198160	end	198200	198320	start	198600	198760	front	198800	199640	end	199680	199800	start	200360	200520	back	200560	201000	start	201040	201400	front	201440	201640
+head pos: turn	left	197800	198160	end	198200	198320	start	198600	198760	right	198800	199800	start	199840	200360	left	200400	200680	start	200720	201360	right	201400	201640
+head pos: tilt side	left	197800	198280	start	198320	198800	right	198840	199720	start	199760	200400	left	200440	200720	start	200760	201240	right	201280	201640
+head pos: jut	slightly back	197800	197840	end	197880	198000	start	199760	200120	back	200160	201640
+head mvmt: nod
+	start	198880	199200	slight rapid head nod	199240	199480	end	199520	200000
+body lean	slightly forward	197800	199440	end	199480	200000	start	201400	201520	slightly forward	201560	201640
+eye brows	raised	197800	198520	end	198560	198880
+eye aperture	squint	197800	201640
+POS	Preposition	197960	198000	Adverb	198200	198440	Noun	198680	199200	Determiner	199360	199480	Proper Noun	199600	200080	Adjective	200280	200440	Verb	200640	200680	Pronoun	200920	201640
+Non-dominant POS	Adjective	200280	200440
+English translation	Even today, Dana would still tell everyone.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	64
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	201680
+End frame:	203080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	NOW	201760	201920	IX-3p:i	202080	202120	IN	202280	202400	EUROPE	202640	203080
+non-dominant hand gloss	NOW	201760	201920	|>		202080
+head pos: tilt fr/bk	front	201680	202280	start	202320	202440	slightly front	202480	203080
+head pos: turn	right	201680	202640	end	202680	202760	start	202880	202920	slightly right	202960	203080
+head pos: tilt side	right	201680	202480	end	202520	202640
+head pos: jut	start	202360	202440	back	202480	203080
+body lean	slightly forward	201680	202320	end	202360	202480
+eye brows	start	201760	201880	lowered	201920	202280	end	202320	202440
+eye aperture	squint	201680	201800	start	201840	201920	further squinted	201960	202280	start	202320	202360	squint	202400	203080
+nose	start	201760	201840	wrinkle	201880	202360	end	202400	202480
+POS	Adverb	201760	201920	Pronoun	202080	202120	Preposition	202280	202400	Noun	202640	203080
+Non-dominant POS	Adverb	201760	201920
+English translation	She is in Europe now.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	65
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	203120
+End frame:	205600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	203200	203280	SURE	203360	203440	IX-3p:i	203520	203560	STILL	203640	203680	TELL	203880	203920	MANY	204080	204360	STRANGER	204560	204880	ABOUT	205040	205200	IX-1p	205320	205600
+non-dominant hand gloss	ABOUT	205040	205200	|>		205480
+head pos: tilt fr/bk	slightly front	203120	203120	start	203160	203360	slightly back	203400	204000	start	204040	204440	front	204480	205600
+head pos: turn	slightly right	203120	203920	end	203960	204080	start	204400	204560	slightly left	204600	205000	start	205040	205320	right	205360	205600
+head pos: tilt side	start	203160	203280	slightly right	203320	204000	start	204040	204440	slightly left	204480	204920	start	204960	205320	right	205360	205600
+head pos: jut	back	203120	205600
+body lean	start	203680	203840	slightly forward	203880	205320	end	205360	205600
+eye brows	start	205000	205160	slightly lowered	205200	205600
+eye aperture	squint	203120	205600
+nose	start	205000	205160	wrinkle	205200	205480	end	205520	205600
+POS	Pronoun	203200	203280	Adjective	203360	203440	Pronoun	203520	203560	Adjective	203640	203680	Verb	203880	203920	Adjective	204080	204360	Noun	204560	204880	Adverb	205040	205200	Pronoun	205320	205600
+Non-dominant POS	Adverb	205040	205200
+English translation	I am sure she still tell many strangers about me.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	66
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_0.mov
+Video	NCSLGRv6:movies:siblings:siblings_1066_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	205640
+End frame:	209800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	HOW	205920	206120	FIND	206320	206360	#OUT	206440	206680	THAT	206800	206840	IX-1p	207040	207120	BECOME	207280	207600	DEAF	207760	208240	FIND	208400	208520	#OUT	208600	208880	part:indef	209040	209200
+non-dominant hand gloss	HOW	205920	206120	|>		207080
+head pos: tilt fr/bk	front	205640	209800
+head pos: turn	right	205640	205840	end	205880	206160	start	206400	206680	slightly left	206720	206840	start	206880	207040	left	207080	208360	start	208400	208480	slightly right	208520	209800
+head pos: tilt side	right	205640	205920	start	205960	206360	left	206400	208320	start	208360	208560	slightly right	208600	209800
+head pos: jut	back	205640	205920	end	205960	206320	start	206920	207080	back	207120	209800
+head mvmt: nod
+	start	208760	209080	slight rapid head nod	209120	209760	end	209800	209800
+body lean	start	205960	206320	slightly forward	206360	209680	end	209720	209800
+shoulders	start	206880	207120	left/raised	207160	208600	end	208640	209120
+eye brows	slightly lowered	205640	205920	end	205960	206320
+eye aperture	squint	205640	207960	start	208000	208240	closed	208280	208520	start	208560	208600	squint	208640	209800
+POS	Wh-word	205920	206120	Verb	206320	206360	Preposition	206440	206680	Pronoun	206800	206840	Pronoun	207040	207120	Verb	207280	207600	Adjective	207760	208240	Verb	208400	208520	Preposition	208600	208880	Particle	209040	209200
+Non-dominant POS	Wh-word	205920	206120
+English translation	How she found out that I became Deaf.
+Notes - number of character bytes:	0

@@ -1,0 +1,2265 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	accident	Firewire 38200:NCSLGRv4:accident
+Number of utterances:	72
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	0
+End frame:	4240
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	480	640	|>		1040	IX-1p	1360	1440	SURE	1600	1840	IX-2p	1880	1920	NOTICE	2080	2600	IX-3p:i	2760	3320	|>		3520	WHAT	3600	3840	IX-3p:i	4000	4240
+non-dominant hand gloss	HAND	840	960	|>		4240
+head pos: tilt fr/bk	start	0	120	slightly back	160	440	start	480	760	front	800	4240
+head pos: turn	start	0	480	slightly right	520	1000	start	1040	1280	right	1320	2000	start	2040	2720	slightly left	2760	2800	start	2840	3360	right	3400	3560	start	3600	3800	left	3840	3920	start	3960	4120	slightly right	4160	4240
+head pos: tilt side	start	0	720	slightly left	760	1200	start	1240	2960	right	3000	4240
+head pos: jut	start	0	600	forward	640	760	start	800	880	slightly back	920	1360	start	1400	2360	back	2400	4080	end	4120	4240
+body lean	start	2760	3320	right	3360	4240
+eye brows	start	1360	1800	lowered	1840	4000	end	4040	4240
+eye gaze	to addressee	0	520	watch hands	560	1000	to addressee	1040	2560	watch hands	2600	2840	to addressee	4160	4240
+eye aperture	start	0	720	lowered lid	760	1000	start	1040	2040	squint	2080	4040	start	4080	4080	closed	4120	4160	start	4200	4200	squint	4240	4240
+nose	start	2080	2720	wrinkle	2760	4040	end	4080	4240
+POS	Pronoun	480	640	Determiner	1360	1440	Adjective	1600	1840	Pronoun	1880	1920	Verb	2080	2600	Pronoun	2760	3320	Wh-word	3600	3840	Pronoun	4000	4240
+Non-dominant POS	Noun	840	960
+English translation	I am sure you noticed and wondering what happened to my hand.
+Notes - number of character bytes:	5
+- CBD
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	4240
+End frame:	7280
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	part:indef	4320	4600	|>		4680	REALLY	4760	5040	YESTERDAY	5160	5640	IX-1p	5760	5800	WORK	5880	6080	WITH	6200	6400	FRIEND	6560	7000	IX-3p:i	7120	7280
+non-dominant hand gloss	FRIEND	6560	7000	|>		7280
+head pos: tilt fr/bk	front	4240	4760	start	4800	6000	front	6040	7280
+head pos: turn	right	4240	4800	start	4840	5400	left	5440	5800	start	5840	6400	right	6440	7280
+head pos: tilt side	right	4240	4840	start	4880	5200	left	5240	5800	end	5840	6400
+head pos: jut	start	4240	4440	slightly back	4480	4800	start	4840	5560	back/left	5600	5760	end	5800	6400
+body lean	start	5040	5320	slightly back	5360	6240	end	6280	7280
+eye brows	start	5880	6400	lowered	6440	7280
+eye gaze	to addressee	4240	7280
+eye aperture	lowered lid	4240	4280	start	4320	4320	closed	4360	4880	start	4920	5120	lowered lid	5160	6080	start	6120	6520	squint	6560	7280
+nose	start	5880	6400	wrinkle	6440	7280
+POS	Discourse Marker	4760	5040	Tense Marker	5160	5640	Pronoun	5760	5800	Verb	5880	6080	Preposition	6200	6400	Noun	6560	7000	Determiner	7120	7280
+Non-dominant POS	Noun	6560	7000
+English translation	Yesterday, I worked with my friend.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	7280
+End frame:	10080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	fs-TONY	7440	8160	IX-1p-pl-2:x/y	8320	8480	GREW-UP	8640	8960	POSS-1p	9080	9240	BEST	9320	9440	FRIEND	9560	10000
+non-dominant hand gloss	IX-3p:i	7280	7320	|>		8320
+head pos: tilt fr/bk	front	7280	9160	start	9200	9560	front	9600	10080
+head pos: turn	right	7280	8960	start	9000	9440	slightly left	9480	10080
+head pos: tilt side	right	7280	9120	start	9160	9800	left	9840	10080
+head pos: jut	start	7280	7520	back/right	7560	9040	start	9080	9280	slightly back	9320	10040	end	10080	10080
+body lean	start	7280	7520	back/left	7560	9040	end	9080	10000
+eye brows	lowered	7280	10080
+eye gaze	to addressee	7280	9760	left	9800	10080
+eye aperture	squint	7280	8280	start	8320	8320	closed	8360	9000	start	9040	9120	further squinted	9160	9720	start	9760	9760	squint	9800	10080
+nose	wrinkle	7280	10080
+POS	Proper Noun	7440	8160	Determiner	8320	8480	Verb	8640	8960	Pronoun	9080	9240	Adjective	9320	9440	Noun	9560	10000
+Non-dominant POS	Pronoun	7280	7320
+English translation	Tony and I grew up best friends.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	10080
+End frame:	14960
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p-pl-2:x/y	10160	10560	WORK	10720	10880	LANDSCAPE	11040	11520	fs-LANDSCAPING	11720	14080	IX-1p	14240	14560	part:indef	14760	14960
+non-dominant hand gloss
+head pos: tilt fr/bk	front	10080	10440	start	10480	14040	front	14080	14960
+head pos: turn	slightly left	10080	10080	start	10120	10440	right	10480	14960
+head pos: tilt side	slightly left	10080	10120	start	10160	14760	right	14800	14960
+head pos: jut	slightly back	10080	10120	start	10160	10480	forward	10520	10880	end	10920	14080
+head mvmt: nod
+	start	12240	12960	slight rapid head nod	13000	14840	end	14880	14960
+body lean	start	10080	10480	slightly back	10520	10760	start	10800	14840	right	14880	14960
+eye brows	lowered	10080	10960	start	11000	11040	slightly lowered	11080	14960
+eye gaze	to addressee	10080	14960
+eye aperture	squint	10080	14280	start	14320	14440	closed	14480	14760	start	14800	14840	squint	14880	14960
+nose	wrinkle	10080	10880	start	10920	14240	wrinkle	14280	14960
+POS	Pronoun	10160	10560	Verb	10720	10880	Noun	11040	11520	Verb	11720	14080	Pronoun	14240	14560
+English translation	We both work for landscape.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	14960
+End frame:	21880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p-pl-2:x/y	15080	15440	CUT	15760	16240	fs-WOOD	16480	17600	fs-CUTTER	18040	18680	SAME	18760	19000	cl:5 "size of the object"	19120	19680	WITH	19920	20160	METAL	20280	20600	CORNER	20920	21880
+non-dominant hand gloss
+head pos: tilt fr/bk	front	14960	15680	start	15720	17160	front	17200	20000	start	20040	21280	front	21320	21880
+head pos: turn	right	14960	15120	start	15160	15680	slightly left	15720	15840	start	15880	16480	slightly right	16520	18640	start	18680	18840	slightly left	18880	19240	start	19280	21160	slightly right	21200	21880
+head pos: tilt side	right	14960	15120	start	15160	15520	left	15560	15760	start	15800	21160	slightly right	21200	21880
+head pos: jut	start	14960	18680	back	18720	19680	start	19720	20920	back	20960	21880
+body lean	start	19920	21080	left	21120	21880
+eye brows	start	14960	15160	lowered	15200	20600	start	20640	21120	slightly lowered	21160	21880
+eye gaze	to addressee	14960	21880
+eye aperture	squint	14960	21880
+nose	wrinkle	14960	21880
+POS	Pronoun	15080	15440	Verb	15760	16240	Noun	16480	17600	Verb	18040	18680	Adjective	18760	19000	Classifier	19120	19680	Adverb	19920	20160	Noun	20280	20600	Noun	20920	21880
+English translation	We cut the woods through metal corner.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	21880
+End frame:	26400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	CORNER	21880	21920	REALLY	22000	22160	IX-3p:i	22240	22360	SHARP	22440	23000	cl:y "wow"	23120	23360	METAL	23520	24240	WITH	24360	24680	BIG	24760	25200	fs-LOG	25280	25800	cl:5 "size of the object"	25960	26400
+non-dominant hand gloss	CORNER	21880	21920	|>		24240
+head pos: tilt fr/bk	front	21880	23360	start	23400	24680	front	24720	26400
+head pos: turn	slightly right	21880	21920	start	21960	22240	slightly left	22280	22360	start	22400	22640	right	22680	23000	start	23040	23480	left	23520	25280	start	25320	26200	slightly left	26240	26320	end	26360	26400
+head pos: tilt side	slightly right	21880	22240	start	22280	22440	left	22480	23320	start	23360	24240	right	24280	24800	start	24840	25960	left	26000	26320	end	26360	26400
+head pos: jut	back	21880	24760	end	24800	26400
+head mvmt: shake	start	21880	21920	slow	21960	23800	end	23840	25200
+body lean	left	21880	22520	start	22560	22760	right	22800	25320	end	25360	26400
+eye brows	lowered	21880	26400
+eye gaze	to addressee	21880	21880	down	21920	22120	to addressee	22160	26400
+eye aperture	lowered lid	21880	22040	start	22080	22160	squint	22200	26400
+nose	wrinkle	21880	23000	start	23040	24560	wrinkle	24600	26400
+POS	Noun	21880	21920	Discourse Marker	22000	22160	Pronoun	22240	22360	Adjective	22440	23000	Classifier	23120	23360	Noun	23520	24240	Preposition	24360	24680	Adjective	24760	25200	Noun	25280	25800	Classifier	25960	26400
+Non-dominant POS	Noun	21880	21920
+English translation	The metal corner was really sharp! It was with big log in.
+Notes - number of character bytes:	82
+-the first cl; "wow," is it correct? OR is there any specific gloss for that sign?
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	26400
+End frame:	29520
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	cl:5 "size of the object"	26400	26960	REALLY	27080	27160	DIFFERENT	27240	27480	SIZE	27560	28040	REALLY	28360	28600	cl:5 "bunch of them"	28680	29520
+non-dominant hand gloss	cl:5 "size of the object"	26400	26960	|>		27080	SIZE	27560	28040	|>		29520
+head pos: tilt fr/bk	front	26400	26960	start	27000	28240	front	28280	29520
+head pos: turn	start	26400	26640	slightly right	26680	27040	start	27080	28160	right	28200	28600	start	28640	28960	slightly left	29000	29520
+head pos: tilt side	start	26400	26560	right	26600	27080	start	27120	28080	right	28120	28520	start	28560	28680	left	28720	29520
+head pos: jut	start	26400	26800	forward	26840	27120	start	27160	27520	back	27560	29520
+body lean	start	26400	26720	slightly forward	26760	27120	start	27160	27600	left	27640	28280	start	28320	28720	right	28760	29520
+eye brows	lowered	26400	28600	end	28640	29520
+eye gaze	to addressee	27160	28320	right	28360	28520	to addressee	28560	29520
+eye aperture	closed	26400	27120	start	27160	27160	squint	27200	28600	end	28640	29520
+nose	wrinkle	26400	27720	start	27760	28320	wrinkle	28360	28600	end	28640	29520
+POS	Classifier	26400	26960	Discourse Marker	27080	27160	Adjective	27240	27480	Adjective	27560	28040	Discourse Marker	28360	28600	Classifier	28680	29520
+Non-dominant POS	Classifier	26400	26960	Adjective	27560	28040
+English translation	There was many different sizes.
+Notes - number of character bytes:	44
+- Is the second CL correct, "bunch of them"?
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	29520
+End frame:	31560
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	REALLY	29640	29800	POSS-1p	29880	30040	BOSS	30160	30360	PRETTY	30480	30760	STRICT	30840	31320	SAME	31440	31560
+non-dominant hand gloss	SIZE	29520	29560	|>		31560
+head pos: tilt fr/bk	front	29520	31560
+head pos: turn	left	29520	29680	start	29720	30120	right	30160	31160	start	31200	31520	slightly left	31560	31560
+head pos: tilt side	left	29520	29720	start	29760	30000	right	30040	30880	start	30920	31440	left	31480	31560
+head pos: jut	back	29520	30080	start	30120	30120	back/right	30160	31160	start	31200	31520	back/left	31560	31560
+head mvmt: nod
+	start	29520	29800	slight rapid head nod	29840	30720	end	30760	31320
+body lean	back/right	29520	29800	start	29840	30400	left	30440	31560
+eye brows	start	29520	29680	lowered	29720	31560
+eye gaze	to addressee	29520	31560
+eye aperture	start	29520	29760	squint	29800	31560
+nose	start	29520	29720	wrinkle	29760	31560
+POS	Discourse Marker	29640	29800	Pronoun	29880	30040	Pronoun	30160	30360	Adjective	30480	30760	Verb	30840	31320	Adjective	31440	31560
+Non-dominant POS	Adjective	29520	29560
+English translation	My boss is pretty strict.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	31560
+End frame:	34920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	SAY	31680	31800	"come on"	32000	32240	MUST	32320	32480	FINISH	32560	32760	#ALL	32840	33560	BEFORE	33840	34160	SUNSET	34400	34920
+non-dominant hand gloss	FINISH	32560	32760	|>		33480
+head pos: tilt fr/bk	front	31560	34920
+head pos: turn	slightly left	31560	31720	start	31760	31840	left	31880	32480	start	32520	33560	slightly right	33600	33880	start	33920	34240	left	34280	34920
+head pos: tilt side	left	31560	32400	start	32440	33560	right	33600	33920	start	33960	34320	left	34360	34920
+head pos: jut	back	31560	34600	end	34640	34920
+body lean	start	31560	32080	forward	32120	32600	end	32640	34920
+eye brows	lowered	31560	31600	start	31640	31800	raised	31840	32160	start	32200	33920	lowered	33960	34640	end	34680	34920
+eye gaze	right	31560	31600	to addressee	31640	34920
+eye aperture	squint	31560	31640	start	31680	31880	wide	31920	32320	start	32360	34160	squint	34200	34680	start	34720	34840	lowered lid	34880	34920
+nose	wrinkle	31560	31640	start	31680	33920	wrinkle	33960	34680	end	34720	34920
+POS	Verb	31680	31800	Adverb	32320	32480	Verb	32560	32760	Adjective	32840	33560	Adverb	33840	34160	Noun	34400	34920
+Non-dominant POS	Verb	32560	32760
+English translation	He would tell us to hurry up and finish everything before sunset.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	34920
+End frame:	37920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	35000	35160	FINE	35200	35400	IX-1p	35520	35600	cl:5 "moving the object"++	35760	37920
+non-dominant hand gloss
+head pos: tilt fr/bk	front	34920	35000	start	35040	35320	slightly back	35360	35520	start	35560	35800	front	35840	36080	start	36120	36240	back	36280	36400	start	36440	36640	front	36680	36840	start	36880	37000	slightly back	37040	37240	start	37280	37560	front	37600	37880	end	37920	37920
+head pos: turn	left	34920	35040	start	35080	35440	slightly right	35480	35640	start	35680	35840	left	35880	36960	start	37000	37440	slightly right	37480	37920
+head pos: tilt side	left	34920	34920	start	34960	35120	right	35160	35720	start	35760	35960	left	36000	36920	start	36960	37400	right	37440	37920
+head pos: jut	start	34920	35320	back/right	35360	35720	start	35760	35880	forward	35920	37200	end	37240	37920
+head mvmt: nod
+	start	34920	35840	slow	35880	37760	end	37800	37920
+body lean	start	34920	35840	forward	35880	36280	start	36320	36760	forward	36800	37080	start	37120	37560	forward	37600	37920
+eye brows	start	34920	35360	raised	35400	37600	end	37640	37920
+eye gaze	to addressee	34920	35040	right	35080	36280	to addressee	36320	37920
+eye aperture	lowered lid	34920	35280	start	35320	35320	blink	35360	35400	start	35440	35440	lowered lid	35480	35560	start	35600	35600	blink	35640	35760	further lowered	35800	35800	closed	35840	36200	start	36240	36280	blink	36320	36480	start	36520	36560	lowered lid	36600	37920
+nose	start	34920	35080	tensed	35120	36520	end	36560	37920
+POS	Pronoun	35000	35160	Adjective	35200	35400	Pronoun	35520	35600	Classifier	35760	37920
+English translation	I did the work as much as I can.
+Notes - number of character bytes:	33
+- is English translation correct?
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	37920
+End frame:	43640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IMPACT	38040	38640	ONE	38760	39000	BIG	39240	39640	fs-LOG	39680	39880	cl:5 "size of the object"	40040	40600	IX-1p	40720	40840	cl:5 "picking up the object"	41120	42680	cl:5 "dropping the object"	42720	43640
+non-dominant hand gloss	IMPACT	38040	38640	|>		38960	cl:5 "size of the object"	40040	40600	|>		40880
+head pos: tilt fr/bk	front	37920	38000	start	38040	38200	slightly back	38240	38640	start	38680	39000	front	39040	41320	start	41360	42440	slightly back	42480	43120	start	43160	43520	front	43560	43640
+head pos: turn	slightly right	37920	38040	start	38080	38640	left	38680	40520	start	40560	41280	right	41320	41880	start	41920	42480	slightly left	42520	43640
+head pos: tilt side	right	37920	38040	start	38080	38480	left	38520	39960	start	40000	41120	right	41160	42480	start	42520	43040	left	43080	43360	end	43400	43640
+head pos: jut	start	37920	38560	back	38600	43640
+body lean	forward	37920	37960	start	38000	40800	forward	40840	43640
+shoulders	start	37920	41160	down	41200	41320	start	41360	41920	raised	41960	43280	start	43320	43520	down	43560	43640
+eye brows	start	37920	38960	lowered	39000	40560	start	40600	40920	raised	40960	42680	end	42720	43640
+eye gaze	to addressee	37920	42240	down/left	42280	42600	to addressee	42640	43640
+eye aperture	lowered lid	37920	38640	start	38680	38960	squint	39000	40600	start	40640	40720	further lowered	40760	40880	start	40920	41120	closed	41160	42040	start	42080	42280	lowered lid	42320	43640
+nose	start	37920	39040	wrinkle	39080	40000	start	40040	43600	tensed	43640	43640
+POS	Noun	38040	38640	Number	38760	39000	Adjective	39240	39640	Noun	39680	39880	Classifier	40040	40600	Pronoun	40720	40840	Classifier	41120	42680	Classifier	42720	43640
+Non-dominant POS	Noun	38040	38640	Classifier	40040	40600
+English translation	There was one big log that I picked up but then I dropped it.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	43640
+End frame:	46120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	43760	43880	CATCH	44000	44880	GET	45000	45080	#IT	45120	45720	#BACK	45800	46120
+non-dominant hand gloss	cl:5 "dropping  the object"	43640	43680	|>		43880
+head pos: tilt fr/bk	front	43640	43800	start	43840	43920	back	43960	44360	start	44400	44880	front	44920	46120
+head pos: turn	slightly left	43640	43800	start	43840	43880	left	43920	44640	start	44680	45080	right	45120	46120
+head pos: tilt side	start	43640	43920	left	43960	46120
+head pos: jut	back	43640	45000	start	45040	45280	back/right	45320	46120
+body lean	forward	43640	44280	start	44320	44400	forward/left	44440	45640	end	45680	46120
+eye brows	start	43640	43760	raised	43800	44600	start	44640	45000	raised	45040	46120
+eye gaze	to addressee	43640	43760	left	43800	44040	to addressee	44080	46120
+eye aperture	lowered lid	43640	43720	end	43760	43880
+nose	tensed	43640	43760	end	43800	44000
+POS	Pronoun	43760	43880	Verb	44000	44880	Verb	45000	45080	Pronoun	45120	45720	Noun	45800	46120
+Non-dominant POS	Classifier	43640	43680
+English translation	I caught and got it back.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	46120
+End frame:	49600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	BUT	46240	46440	STILL	46520	46720	cl:5 "holding the object"	46880	47080	HIT	47200	47920	METAL	48160	48560	CORNER	48760	49600
+non-dominant hand gloss
+head pos: tilt fr/bk	front	46120	46720	start	46760	47000	front	47040	49600
+head pos: turn	right	46120	46240	start	46280	46840	left	46880	47160	start	47200	47720	slightly right	47760	48320	start	48360	48520	right	48560	49600
+head pos: tilt side	right	46120	46680	start	46720	46840	left	46880	47160	start	47200	47480	right	47520	47920	start	47960	48560	right	48600	49600
+head pos: jut	back/right	46120	46720	start	46760	46960	back/left	47000	47160	start	47200	47400	back/right	47440	49600
+body lean	start	46120	46280	right	46320	46680	start	46720	47040	forward	47080	48200	start	48240	48720	left	48760	49600
+eye brows	slightly raised	46120	46160	start	46200	48600	lowered	48640	49600
+eye gaze	to addressee	46120	49600
+eye aperture	wide	46120	46960	start	47000	48640	squint	48680	49600
+nose	start	48160	48600	wrinkle	48640	49600
+POS	Conjunction	46240	46440	Adjective	46520	46720	Classifier	46880	47080	Verb	47200	47920	Noun	48160	48560	Noun	48760	49600
+English translation	When I got the log and my hand was hitting the metal corner
+Notes - number of character bytes:	0
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	49640
+End frame:	53400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	CORNER	49640	49680	HIT	50040	50240	|>		50560	part:indef	50960	51240	REALLY	51400	51840	part:indef	52000	52280	IX-3p:i	52480	52720	"wow"	53000	53400
+non-dominant hand gloss	HAND	50040	50240	|>		50800
+head pos: tilt fr/bk	front	49640	50600	start	50640	50880	front	50920	53400
+head pos: turn	right	49640	49720	start	49760	49880	left	49920	50120	start	50160	50800	right	50840	51200	start	51240	52120	slightly left	52160	52560	start	52600	52800	right	52840	53040	start	53080	53360	right	53400	53400
+head pos: tilt side	right	49640	49720	start	49760	49920	left	49960	50360	start	50400	50960	right	51000	51400	start	51440	52360	left	52400	52560	start	52600	52840	right	52880	53400
+head pos: jut	back/right	49640	50400	start	50440	52280	back	52320	53400
+head mvmt: nod
+	start	49640	50560	rapid	50600	51440	end	51480	52000
+head mvmt: shake	start	52000	52440	rapid	52480	53280	end	53320	53400
+body lean	left	49640	51200	end	51240	52280
+eye brows	start	51400	51720	lowered	51760	53400
+eye gaze	to addressee	49640	49920	watch hands	49960	50160	to addressee	50200	53400
+eye aperture	start	49640	49960	lowered lid	50000	50360	start	50400	50840	blink	50880	51240	start	51280	51440	lowered lid	51480	51520	start	51560	51680	squint	51720	52240	start	52280	52440	further squinted	52480	53400
+nose	start	51400	51680	wrinkle	51720	53400
+POS	Noun	49640	49680	Verb	50040	50240	Particle	50960	51240	Discourse Marker	51400	51840	Particle	52000	52280	Pronoun	52480	52720
+Non-dominant POS	Noun	50040	50240
+English translation	My hand got hit and, wow!
+Notes - number of character bytes:	28
+- not sure abt english part?
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	53440
+End frame:	56480
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	LOOK	53640	53680	SAME	53800	54000	IX-3p:i	54080	54160	TRUE-BUSINESS	54280	54680	OFF	54880	55400	IX-1p	55520	55680	part:indef	55840	56480
+non-dominant hand gloss
+head pos: tilt fr/bk	front	53440	56480
+head pos: turn	right	53440	55560	start	55600	55720	slightly right	55760	56480
+head pos: tilt side	slightly right	53440	53680	start	53720	54280	left	54320	55680	end	55720	56480
+head pos: jut	back	53440	53720	start	53760	54040	back/right	54080	55480	end	55520	56480
+body lean	start	54880	55040	forward	55080	56480
+eye brows	lowered	53440	53640	start	53680	54000	raised	54040	56480
+eye gaze	to addressee	53560	55440	down/left	55480	56120	to addressee	56160	56480
+eye aperture	further squinted	53440	53480	start	53520	54040	wide	54080	55360	start	55400	55640	lowered lid	55680	55760	start	55800	55840	blink	55880	56040	end	56080	56480
+nose	wrinkle	53440	53760	end	53800	54160
+POS	Verb	53640	53680	Adjective	53800	54000	Pronoun	54080	54160	Adverb	54880	55400	Pronoun	55520	55680	Particle	55840	56480
+English translation	It looks like it would cut my hand off!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	56520
+End frame:	62880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p:i	56720	57080	NOT	57240	57280	FIRST	57440	57560	TIME	57720	57840	SOMEONE	57960	58160	ELSE	58240	58600	TRUE-BUSINESS	58720	59160	CUT	59240	59520	|>		60200	POSS-3p:i	60360	60480	cl:1 "cut"	60960	61320	FOR	61640	61680	SAME	61760	61920	POSS-3p:j	62000	62160	MACHINE	62240	62880
+non-dominant hand gloss	FINGER	60640	60800	|>		61640
+head pos: tilt fr/bk	front	56520	56640	start	56680	58400	front	58440	62880
+head pos: turn	slightly right	56520	56640	start	56680	57000	right	57040	60440	start	60480	60640	slightly right	60680	60760	start	60800	60920	right	60960	62480	end	62520	62880
+head pos: tilt side	start	56520	57040	right	57080	58440	end	58480	59160
+head pos: jut	start	56520	56880	back/right	56920	57840	start	57880	58400	forward/right	58440	60440	start	60480	60600	back	60640	60760	start	60800	61240	back/right	61280	62320	end	62360	62880
+body lean	forward	56520	56880	start	56920	57680	back	57720	58400	start	58440	58800	slightly forward	58840	60440	end	60480	61320
+eye brows	raised	56520	56880	start	56920	57520	lowered	57560	62880
+eye gaze	to addressee	56520	60440	watch hands	60480	60800	to addressee	60840	62880
+eye aperture	wide	56520	56880	start	56920	57520	squint	57560	62880
+nose	start	56520	57560	wrinkle	57600	62880
+POS	Pronoun	56720	57080	Negation	57240	57280	Number	57440	57560	Noun	57720	57840	Noun	57960	58160	Noun	58240	58600	Verb	59240	59520	Pronoun	60360	60480	Classifier	60960	61320	Preposition	61640	61680	Adjective	61760	61920	Pronoun	62000	62160	Noun	62240	62880
+Non-dominant POS	Noun	60640	60800
+English translation	It was not first time accident, there was someone else actually cut his finger off.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	62920
+End frame:	67880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	STILL	62920	63080	part:indef	63160	64200	ANYWAY	64440	64720	SAME	64840	64920	IX-1p	65000	65160	part:indef	65280	65680	IX-1p	65760	65920	cl:5 "tapping"	66000	66280	fs-TONY	66400	66880	BAD	67000	67160	fs-NEWS	67280	67880
+non-dominant hand gloss	part:indef	65280	65680	|>		67880
+head pos: tilt fr/bk	slightly front	62920	63080	start	63120	63920	front	63960	67880
+head pos: turn	start	62920	63400	right	63440	63640	start	63680	64280	left	64320	64480	start	64520	64640	slightly right	64680	65960	start	66000	67400	right	67440	67880
+head pos: tilt side	start	62920	64160	left	64200	64520	start	64560	65160	right	65200	65600	start	65640	66080	left	66120	66720	start	66760	67520	right	67560	67880
+head pos: jut	start	62920	63120	back	63160	63760	start	63800	65440	forward	65480	65680	end	65720	66280
+head mvmt: nod
+	start	62920	63920	rapid	63960	64480	end	64520	64840
+head mvmt: side to side	start	62920	63320	slow	63360	64200	start	64240	65240	slow	65280	66920	end	66960	67280
+body lean	start	62920	63440	slightly back	63480	63960	start	64000	65360	forward	65400	65760	start	65800	66240	slightly forward	66280	66800	end	66840	67160
+eye brows	lowered	62920	62920	start	62960	64240	lowered	64280	64680	start	64720	65000	raised	65040	65680	end	65720	66000
+eye gaze	to addressee	62920	64640	right	64680	64960	left	65000	65520	to addressee	65560	65840	left	65880	66280	to addressee	66320	67760	left	67800	67880
+eye aperture	lowered lid	62920	62920	start	62960	62960	closed	63000	63920	start	63960	64160	squint	64200	64800	start	64840	64920	blink	64960	65120	start	65160	65160	lowered lid	65200	65680	start	65720	66000	squint	66040	67880
+nose	wrinkle	62920	62960	start	63000	64240	wrinkle	64280	64840	end	64880	65160
+POS	Adjective	62920	63080	Particle	63160	64200	Adverb	64440	64720	Adjective	64840	64920	Pronoun	65000	65160	Particle	65280	65680	Pronoun	65760	65920	Classifier	66000	66280	Proper Noun	66400	66880	Adjective	67000	67160	Noun	67280	67880
+Non-dominant POS	Particle	65280	65680
+English translation	Anyway, I tapped Tony and told him about bad news.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	67920
+End frame:	72200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	BLOOD++	68880	71120	REALLY	71360	71640	part:indef	71720	72200
+non-dominant hand gloss	"hand"	68000	68680	|>		72200
+head pos: tilt fr/bk	front	67920	71760	start	71800	72040	back	72080	72200
+head pos: turn	right	67920	70240	start	70280	71120	slightly right	71160	71200	start	71240	71560	left	71600	72200
+head pos: tilt side	right	67920	67960	start	68000	68800	right	68840	71000	start	71040	71520	left	71560	72200
+head pos: jut	start	67920	68960	back/right	69000	70240	start	70280	70640	back	70680	71520	start	71560	71560	back/left	71600	72200
+head mvmt: nod
+	start	67920	68120	single	68160	68680	end	68720	68880
+head mvmt: shake	start	67920	68960	slow	69000	71440	end	71480	71720
+body lean	forward	67920	71360	end	71400	72200
+eye brows	start	71040	71200	lowered	71240	71840	end	71880	72200
+eye gaze	left	67920	68320	to addressee	68360	72200
+eye aperture	slightly squinted	67920	71160	start	71200	71240	closed	71280	72040	end	72080	72200
+nose	start	71040	71200	wrinkle	71240	71920	end	71960	72200
+POS	Noun	68880	71120	Discourse Marker	71360	71640	Particle	71720	72200
+Non-dominant POS	Noun	68000	68680
+English translation	I showed my hand and it was bleeding.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	72240
+End frame:	76200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	fs-TONY	72360	72680	SAY	72840	73000	part:indef	73080	73160	MUST	73240	73400	GO	73480	73600	HOSPITAL	73680	74480	IX-1p	74560	74680	part:indef	74760	75120	IX-2p	75280	75560	SURE	75720	76200
+non-dominant hand gloss	part:indef	73080	73160	|>		73520	part:indef	74760	75120	|>		76200
+head pos: tilt fr/bk	slightly back	72240	72280	start	72320	72800	front	72840	76200
+head pos: turn	left	72240	72320	start	72360	73120	slightly right	73160	73400	start	73440	73800	slightly left	73840	74560	start	74600	75480	slightly right	75520	76200
+head pos: tilt side	left	72240	72320	start	72360	72840	right	72880	73400	start	73440	73800	left	73840	73920	start	73960	74720	right	74760	75280	start	75320	75680	left	75720	76200
+head pos: jut	back	72240	72360	start	72400	73440	forward	73480	76200
+head mvmt: side to side	start	72360	72840	slow	72880	74520	start	74560	74880	slow	74920	76000	end	76040	76200
+body lean	start	72240	73120	slightly forward	73160	76200
+eye brows	start	72240	72960	lowered	73000	76200
+eye gaze	to addressee	72240	76200
+eye aperture	squint	72240	72640	start	72680	72840	closed	72880	73520	start	73560	73680	squint	73720	74480	start	74520	74520	further squinted	74560	76200
+nose	start	72240	72880	wrinkle	72920	76200
+POS	Proper Noun	72360	72680	Verb	72840	73000	Particle	73080	73160	Adverb	73240	73400	Verb	73480	73600	Noun	73680	74480	Determiner	74560	74680	Particle	74760	75120	Pronoun	75280	75560	Adjective	75720	76200
+Non-dominant POS	Particle	73080	73160	Particle	74760	75120
+English translation	Tony said that I should go to the hospital and I asked, "are you sure?"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	76240
+End frame:	83360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p:i	76240	76280	IX-1p	76360	76520	part:indef	76600	77000	IX-1p	77080	77200	THINK	77320	77520	CAN	77640	77800	BANDAGE	77960	78400	cl:5 "holding"	78640	79080	HOLD	79320	79720	cl:2 "quotation"	79800	79960	PRESSURE	80200	80480	ON	80520	80560	#IT	80640	80880	cl:5 "holding"	81080	81280	FUTURE-NOT	81480	82240	BLOOD	82560	82760	MORE	82960	83360
+non-dominant hand gloss	part:indef	76600	77000	|>		77520
+head pos: tilt fr/bk	front	76240	77000	start	77040	77600	back	77640	79720	start	79760	80920	front	80960	83360
+head pos: turn	slightly right	76240	77000	start	77040	77520	slightly left	77560	78920	start	78960	79600	right	79640	81520	start	81560	81880	left	81920	82800	start	82840	83080	slightly left	83120	83360
+head pos: tilt side	left	76240	76360	start	76400	77280	left	77320	78640	start	78680	79200	right	79240	79920	start	79960	81120	slightly right	81160	81360	start	81400	81880	left	81920	83040	end	83080	83360
+head mvmt: side to side	start	76240	76600	slow	76640	77400	end	77440	77800
+body lean	slightly forward	76240	83360
+eye brows	lowered	76240	77520	start	77560	79600	lowered	79640	83360
+eye gaze	to addressee	76240	83360
+eye aperture	further squinted	76240	76280	start	76320	76360	blink	76400	76960	start	77000	77000	squint	77040	77520	start	77560	79720	squint	79760	83240	start	83280	83280	closed	83360	83360
+nose	wrinkle	76240	77320	start	77360	79920	wrinkle	79960	83360
+POS	Pronoun	76240	76280	Determiner	76360	76520	Particle	76600	77000	Pronoun	77080	77200	Verb	77320	77520	Verb	77640	77800	Noun	77960	78400	Classifier	78640	79080	Verb	79320	79720	Classifier	79800	79960	Verb	80200	80480	Preposition	80520	80560	Noun	80640	80880	Classifier	81080	81280	Negation	81480	82240	Noun	82560	82760	Adjective	82960	83360
+Non-dominant POS	Particle	76600	77000
+English translation	I thought maybe I could just put bandage on and hold so it wont be bleeding anymore.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	83400
+End frame:	88520
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	83560	83840	TRUE-BUSINESS	83920	84480	IX-1p	84560	84680	HOLD	84960	85200	STILL	85280	85360	BLOOD	85480	85720	THROUGH	85880	86160	POSS-1p	86240	86320	SHIRT	86400	86920	IMAGINE	87040	87720	REALLY	87840	88040	part:indef	88120	88520
+non-dominant hand gloss	IMAGINE	87040	87720	|>		88080
+head pos: tilt fr/bk	slightly front	83400	84200	start	84240	85720	slightly front	85760	86400	start	86440	87000	front	87040	88360	end	88400	88520
+head pos: turn	slightly left	83400	83640	start	83680	83800	right	83840	83920	start	83960	84200	right	84240	84520	start	84560	85040	left	85080	85440	start	85480	85800	right	85840	86360	start	86400	87000	left	87040	88040	end	88080	88520
+head pos: tilt side	start	83400	83680	right	83720	84640	start	84680	85200	left	85240	85360	start	85400	85800	slightly right	85840	86280	start	86320	86680	left	86720	88520
+head pos: jut	start	83400	84200	back/right	84240	84760	start	84800	84880	back	84920	86760	start	86800	86960	back/left	87000	88520
+head mvmt: shake	start	83400	83800	rapid	83840	84680	start	84720	85320	single	85360	85840	start	85880	87360	slight rapid headshake	87400	88480	end	88520	88520
+body lean	forward	83400	83720	start	83760	85720	slightly forward	85760	86440	start	86480	87000	forward	87040	87920	end	87960	88520
+eye brows	start	83400	83600	raised	83640	85120	end	85160	85720
+eye gaze	to addressee	83400	84600	left	84640	85000	to addressee	85040	88520
+eye aperture	lowered lid	83400	83400	start	83440	83600	wide	83640	85200	start	85240	87960	blink	88000	88360	end	88400	88520
+POS	Discourse Marker	83560	83840	Pronoun	84560	84680	Verb	84960	85200	Adjective	85280	85360	Noun	85480	85720	Preposition	85880	86160	Pronoun	86240	86320	Noun	86400	86920	Verb	87040	87720	Discourse Marker	87840	88040	Particle	88120	88520
+Non-dominant POS	Verb	87040	87720
+English translation	I was holding my hand but its still bleeding through my shirt.  Can you imagine that?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	88560
+End frame:	91360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	part:indef	88560	88600	IX-1p	88840	89000	UNKNOWN	89080	89320	DECIDE	89440	89640	GO	89760	89960	HOSPITAL	90040	90760	|>		91080	FINE	91200	91360
+non-dominant hand gloss
+head pos: tilt fr/bk	start	88560	88920	front	88960	90680	end	90720	91360
+head pos: turn	start	88560	89000	right	89040	89720	start	89760	90760	slightly left	90800	91360
+head pos: tilt side	slightly left	88560	88560	start	88600	88960	right	89000	89800	start	89840	90920	left	90960	91360
+head pos: jut	back	88560	89000	start	89040	89600	back	89640	90640	start	90680	90960	back/left	91000	91360
+head mvmt: shake	start	88560	88920	slight rapid headshake	88960	89720	end	89760	90040
+body lean	start	88560	89880	back	89920	90760	end	90800	91360
+eye gaze	to addressee	88560	89200	left	89240	89520	left	89560	91320	left	91360	91360
+eye aperture	start	88560	89080	blink	89120	89400	start	89440	89560	lowered lid	89600	91360
+POS	Particle	88560	88600	Pronoun	88840	89000	Verb	89440	89640	Verb	89760	89960	Noun	90040	90760	Adjective	91200	91360
+English translation	So I decided go to the hospital.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	91400
+End frame:	95880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	91480	91640	TELL	91680	91800	BOSS	91920	92320	part:indef	92440	92880	IX-1p	92960	93040	MUST	93080	93120	GO	93240	93600	IX-3p:i	93760	94080	NEED	94240	94360	STITCH	94440	95440	|>		95760
+non-dominant hand gloss
+head pos: tilt fr/bk	start	91400	91720	front	91760	94240	end	94280	95440
+head pos: turn	left	91400	91520	start	91560	91600	slightly left	91640	93200	start	93240	93520	left	93560	95480	end	95520	95880
+head pos: tilt side	left	91400	91680	start	91720	92520	right	92560	92960	start	93000	93280	left	93320	94000	start	94040	94600	left	94640	95640	end	95680	95880
+head pos: jut	back/left	91400	91600	start	91640	91760	back	91800	94200	end	94240	95440
+head mvmt: side to side	start	91400	92320	rapid	92360	93680	end	93720	94080
+body lean	start	91400	92640	slightly forward	92680	93040	start	93080	93280	slightly forward	93320	94160	end	94200	95440
+eye gaze	left	91400	91800	to addressee	91840	92320	left	92360	92640	to addressee	92680	93440	left	93480	93960	to addressee	94000	95880
+eye aperture	slightly squinted	91400	93760	start	93800	95760	lowered lid	95800	95880
+nose	start	91400	91600	wrinkle	91640	91800	end	91840	92880
+POS	Pronoun	91480	91640	Verb	91680	91800	Pronoun	91920	92320	Particle	92440	92880	Pronoun	92960	93040	Adverb	93080	93120	Verb	93240	93600	Pronoun	93760	94080	Verb	94240	94360	Noun	94440	95440
+English translation	I told my boss that I have to go to hospital because I need stitches.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	95920
+End frame:	98600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	IX-1p	96000	96160	FINE	96240	96720	GO	96840	97120	HOSPITAL	97200	97920	|>		98080	IX-1p	98200	98440	UNKNOWN	98560	98600
+non-dominant hand gloss
+head pos: tilt fr/bk	start	95920	96120	front	96160	96800	start	96840	97160	slightly back	97200	97320	start	97360	97760	front	97800	98200	start	98240	98560	back	98600	98600
+head pos: turn	start	95920	96160	right	96200	97720	start	97760	98280	slightly left	98320	98600
+head pos: tilt side	right	95920	97800	start	97840	98200	left	98240	98600
+head pos: jut	start	95920	96320	forward	96360	96760	start	96800	97120	back	97160	97800	start	97840	98480	forward	98520	98600
+body lean	start	95920	97120	forward	97160	98080	end	98120	98600
+eye gaze	left	95920	96760	to addressee	96800	97680	left	97720	98320	up	98360	98600
+eye aperture	lowered lid	95920	96120	start	96160	96160	closed	96200	96840	start	96880	97120	lowered lid	97160	98080	end	98120	98440
+POS	Pronoun	96000	96160	Adjective	96240	96720	Verb	96840	97120	Noun	97200	97920	Determiner	98200	98440
+English translation	I went to the hospital.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	98640
+End frame:	102880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	FINE	98640	98680	UNKNOWN	98720	99120	THINK	99320	99520	POP-UP	99600	100240	IX-1p	100400	100640	cl:5 "picking the object"	101120	101480	POSS-1p	101680	101720	WALLET	101800	102360	cl:5 "opening the object"	102640	102880
+non-dominant hand gloss
+head pos: tilt fr/bk	back	98640	99160	start	99200	99880	front	99920	100720	start	100760	101160	back	101200	101400	start	101440	101720	front	101760	102880
+head pos: turn	slightly left	98640	100400	start	100440	101000	right	101040	101200	start	101240	101640	slightly right	101680	102880
+head pos: tilt side	slightly left	98640	100760	start	100800	101000	left	101040	102360	start	102400	102840	slightly right	102880	102880
+head pos: jut	forward	98640	98680	start	98720	99200	back	99240	100400	start	100440	100640	back/right	100680	102880
+body lean	start	100640	101120	left	101160	102880
+eye brows	start	98640	98760	raised	98800	99920	end	99960	100640
+eye gaze	up/left	98640	98680	to addressee	98720	102440	down/left	102480	102880
+eye aperture	start	98640	98680	blink	98720	99120	start	99160	99160	wide	99200	100000	start	100040	102440	lowered lid	102480	102880
+POS	Adjective	98640	98680	Verb	99320	99520	Pronoun	100400	100640	Classifier	101120	101480	Pronoun	101680	101720	Noun	101800	102360	Classifier	102640	102880
+English translation	Just thought of something, so I pulled my wallet out and checked.
+Notes - number of character bytes:	28
+- Is "pop-up" correct gloss?
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	102920
+End frame:	108440
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	cl:5 "opening the object"	102920	103600	NOT	103760	103840	HAVE	103880	104040	POSS-1p	104160	104360	INSURANCE	104440	104960	INFORMATION	105120	105520	WITH	105680	105880	IX-1p	106040	106320	|>		106840	IX-1p	106960	107080	part:indef	107320	108440
+non-dominant hand gloss	cl:5 "opening the object"	102920	103600	|>		104080	WITH	105680	105880	|>		106880
+head pos: tilt fr/bk	front	102920	106200	start	106240	107680	front	107720	108040	end	108080	108440
+head pos: turn	right	102920	103640	start	103680	103760	slightly right	103800	104240	start	104280	104400	right	104440	106040	start	106080	106320	slightly right	106360	108440
+head pos: tilt side	start	103880	104560	left	104600	106280	start	106320	107600	slightly right	107640	108240	end	108280	108440
+head pos: jut	back	102920	103760	start	103800	104240	back/right	104280	106360	start	106400	107600	slightly back	107640	108120	end	108160	108440
+head mvmt: nod
+	start	107320	107600	single	107640	108240	end	108280	108440
+body lean	left	102920	103000	start	103040	104760	left	104800	106400	end	106440	108440
+eye gaze	down/left	102920	103520	to addressee	103560	106840	left	106880	107920	to addressee	107960	108440
+eye aperture	lowered lid	102920	102960	start	103000	103000	closed	103040	103560	start	103600	103680	lowered lid	103720	107080	start	107120	107200	closed	107240	107880	start	107920	107920	lowered lid	107960	108440
+POS	Classifier	102920	103600	Negation	103760	103840	Adverb	103880	104040	Pronoun	104160	104360	Noun	104440	104960	Noun	105120	105520	Preposition	105680	105880	Pronoun	106040	106320	Determiner	106960	107080	Particle	107320	108440
+Non-dominant POS	Classifier	102920	103600	Preposition	105680	105880
+English translation	I realized I didnt have my insurance information with me.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	108480
+End frame:	112760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	part:indef	108480	108520	#SO	108600	108840	IX-1p	108920	108960	cl:3 "car pulling over"	109120	109560	PAY-PHONE	109680	110760	fs-TONY	110920	111360	|>		111880	POSS-3p	112000	112120	BOSS	112320	112760
+non-dominant hand gloss	part:indef	108480	108520	|>		109560	CALL	111560	111920	|>		112760
+head pos: tilt fr/bk	start	108480	108720	back	108760	109080	start	109120	109480	front	109520	112760
+head pos: turn	slightly right	108480	108480	start	108520	108720	slightly left	108760	108960	start	109000	109440	slightly right	109480	109920	start	109960	110400	left	110440	110960	start	111000	111760	right	111800	112280	start	112320	112560	slightly right	112600	112760
+head pos: tilt side	start	108480	108640	left	108680	108960	start	109000	109440	right	109480	109960	start	110000	110720	left	110760	111000	start	111040	111640	right	111680	112280	end	112320	112760
+head pos: jut	start	108480	108760	back	108800	109280	start	109320	109520	back/right	109560	109960	start	110000	111640	back/right	111680	112760
+body lean	start	109680	110080	left	110120	112760
+eye gaze	to addressee	108480	112760
+eye aperture	lowered lid	108480	112760
+POS	Particle	108480	108520	Discourse Marker	108600	108840	Pronoun	108920	108960	Classifier	109120	109560	Noun	109680	110760	Proper Noun	110920	111360	Pronoun	112000	112120	Pronoun	112320	112760
+Non-dominant POS	Particle	108480	108520	Verb	111560	111920
+English translation	So I pulled over the car and Tony called his boss on pay phone.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	112800
+End frame:	118800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	SAY	112880	113120	part:indef	113280	113560	FUTURE	113760	113920	POSS-3p	114080	114280	COMPANY	114360	114520	COVER	114680	115160	POSS-1p	115840	116160	IX-3p:i	116600	116800	STITCH	116960	117600	UNKNOWN	117720	117840	EVERYTHING	118000	118800
+non-dominant hand gloss	FINGER	116600	116760	|>		117520
+head pos: tilt fr/bk	front	112800	118400	end	118440	118800
+head pos: turn	slightly right	112800	112800	start	112840	113040	slightly left	113080	113480	start	113520	114080	right	114120	116800	start	116840	117600	slightly left	117640	118320	end	118360	118800
+head pos: tilt side	start	112800	113160	slightly left	113200	113480	start	113520	114480	right	114520	116840	end	116880	118800
+head pos: jut	back	112800	113560	start	113600	114120	back/right	114160	116880	start	116920	117960	back	118000	118400	end	118440	118800
+head mvmt: nod
+	start	112800	113120	single	113160	113520	start	113560	117720	single	117760	118600	end	118640	118800
+head mvmt: side to side	start	114680	116040	single	116080	116920	end	116960	117600
+body lean	back/left	112800	112840	start	112880	113280	forward	113320	113840	start	113880	116800	forward	116840	117560	end	117600	118800
+shoulders	start	114680	116120	right/raised	116160	116960	end	117000	117600
+eye gaze	to addressee	112800	112920	left	112960	113240	to addressee	113280	118680	left	118720	118800
+POS	Verb	112880	113120	Particle	113280	113560	Tense Marker	113760	113920	Pronoun	114080	114280	Noun	114360	114520	Verb	114680	115160	Pronoun	115840	116200	Determiner	116600	116800	Verb	116960	117600	Pronoun	118000	118800
+Non-dominant POS	Noun	116600	116760
+English translation	He asked if company will cover the insurance for stitches on my finger and everything.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	118840
+End frame:	123280
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IX-3p:i	119080	119240	SAY	119360	119400	YES	119520	119840	GO-AHEAD	120000	120280	USE	120400	120640	POSS-1p	120760	120840	NAME	120960	121520	IX-1p	121760	121960	part:indef	122080	122280	WHEW	122360	122880	FINE	122920	123280
+non-dominant hand gloss	USE	120400	120640	|>		120840	NAME	120960	121520	|>		121920	WHEW	122360	122880	|>		123280
+head pos: tilt fr/bk	start	118840	119840	front	119880	120400	start	120440	122160	back	122200	122440	start	122480	122960	front	123000	123280
+head pos: turn	start	118840	119840	slightly left	119880	120320	start	120360	120800	slightly right	120840	121960	start	122000	122440	slightly left	122480	123000	end	123040	123280
+head pos: tilt side	start	118840	119520	left	119560	120440	start	120480	122200	right	122240	123000	end	123040	123280
+head pos: jut	start	118840	119840	forward/left	119880	120360	start	120400	120760	back	120800	123280
+body lean	start	118840	119880	forward	119920	120760	start	120800	122200	back	122240	122920	end	122960	123280
+eye gaze	left	118840	119120	left	120040	120080	to addressee	120120	123280
+eye aperture	lowered lid	118840	118920	start	118960	119120	blink	119160	119960	start	120000	120000	lowered lid	120040	121880	start	121920	121960	blink	122000	122920	end	122960	123280
+POS	Pronoun	119080	119240	Verb	119360	119400	Verb	120000	120280	Verb	120400	120640	Pronoun	120760	120840	Noun	120960	121520	Pronoun	121760	121960	Particle	122080	122280	Adjective	122920	123280
+Non-dominant POS	Verb	120400	120640	Noun	120960	121520
+English translation	he said "yes, go ahead use my name. " I was relief.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	123320
+End frame:	126360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IF	123360	123560	TRUE-BUSINESS	123720	124160	IX-3p:i	124240	124560	NOT	124680	124800	PAY	124880	125320	THEN	125400	125640	IX-1p	125720	125840	part:indef	126000	126360
+non-dominant hand gloss	TRUE-BUSINESS	123720	124160	|>		125360
+head pos: tilt fr/bk	front	123320	123720	start	123760	124400	front	124440	126000	end	126040	126360
+head pos: turn	start	123320	123560	left	123600	123800	start	123840	124200	right	124240	124600	start	124640	125320	slightly right	125360	126360
+head pos: tilt side	start	123320	123480	left	123520	123840	end	123880	124240
+head pos: jut	back	123320	123440	start	123480	124400	forward/right	124440	124640	start	124680	125360	back	125400	126360
+body lean	start	123320	123880	left	123920	125920	end	125960	126360
+shoulders	start	125840	126120	raised	126160	126360
+eye brows	raised	123320	124920	end	124960	125400
+eye gaze	to addressee	123320	125280	left	125320	126040	to addressee	126080	126360
+POS	Conjunction	123360	123560	Pronoun	124240	124560	Negation	124680	124800	Verb	124880	125320	Preposition	125400	125640	Pronoun	125720	125840	Particle	126000	126360
+English translation	If he won't pay for it, then....
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	126400
+End frame:	131240
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	MAYBE	126640	127040	MUST	127160	127360	SEND	127520	127800	BILL	128000	128280	fs-BILL	128360	128720	TO	128760	128920	POSS-1p	129040	129120	MOTHER-FATHER	129200	129480	POSS-3p:i	129640	129720	REALLY	129880	130040	HAPPY	130120	130640	part:indef	130840	131240
+non-dominant hand gloss	MAYBE	126640	127040	|>		127880
+head pos: tilt fr/bk	start	126400	127040	front	127080	129760	start	129800	130640	front	130680	131240
+head pos: turn	slightly right	126400	126600	start	126640	127120	left	127160	128880	start	128920	129200	left	129240	131240
+head pos: tilt side	start	126400	127360	slightly left	127400	129520	start	129560	130440	left	130480	131240
+head pos: jut	back	126400	129680	start	129720	130000	back	130040	131240
+head mvmt: nod
+	start	126400	128000	slight rapid head nod	128040	128720	end	128760	129040
+body lean	start	126400	130080	slightly back	130120	130800	end	130840	131240
+eye brows	start	129200	129560	raised	129600	129720	end	129760	130040
+eye gaze	to addressee	126400	131240
+eye aperture	lowered lid	126400	129440	start	129480	129680	wide	129720	130000	end	130040	130640
+POS	Adverb	126640	127040	Adverb	127160	127360	Verb	127520	127800	Noun	128000	128280	Noun	128360	128720	Preposition	128760	128920	Pronoun	129040	129120	Proper Noun	129200	129480	Determiner	129640	129720	Adjective	129880	130040	Verb	130120	130640	Particle	130840	131240
+Non-dominant POS	Adverb	126640	127040
+English translation	They maybe have to send the bill to my parents. My parents wouldn't be very happy.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	131280
+End frame:	136720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	#SO	131360	131560	UNKNOWN	131680	131880	IX-1p	132040	132200	GO	132280	132680	HOSPITAL	132760	133280	IX-1p	133400	133480	part:indef	133640	133960	REALLY	134080	134480	KNOW	134840	135040	HOSPITAL	135160	135520	TEND	135640	135840	FOREVER	135920	136720
+non-dominant hand gloss
+head pos: tilt fr/bk	front	131280	133360	start	133400	133600	back	133640	134200	start	134240	134880	front	134920	136720
+head pos: turn	left	131280	131320	start	131360	131600	right	131640	132280	start	132320	132800	slightly left	132840	133680	start	133720	133920	left	133960	134400	start	134440	134880	slightly right	134920	136160	start	136200	136440	slightly left	136480	136720
+head pos: tilt side	slightly left	131280	131320	start	131360	131640	right	131680	132120	start	132160	133640	left	133680	134480	start	134520	134840	right	134880	135920	start	135960	136360	left	136400	136720
+head pos: jut	slightly back	131280	131440	start	131480	131600	back/right	131640	132360	start	132400	132760	back	132800	133160	start	133200	133640	forward	133680	133920	start	133960	134840	back	134880	136440	end	136480	136720
+head mvmt: nod
+	start	131280	131280	rapid	131320	131880	start	131920	132760	single	132800	133400	end	133440	133960
+head mvmt: side to side	start	133640	134040	slow	134080	135520	end	135560	135920
+body lean	start	132040	132320	slightly back	132360	132800	start	132840	136360	forward	136400	136720
+eye brows	start	131280	131960	lowered	132000	133640	start	133680	135600	lowered	135640	136400	end	136440	136720
+eye gaze	to addressee	131280	132440	left	132480	132680	to addressee	132720	133280	up/left	133320	133560	to addressee	133600	136720
+eye aperture	lowered lid	131280	131600	start	131640	131680	blink	131720	131800	start	131840	132040	squint	132080	133600	start	133640	133800	closed	133840	135000	start	135040	135120	lowered lid	135160	135640	start	135680	135920	squint	135960	136720
+nose	start	131280	132040	wrinkle	132080	132800	start	132840	135640	wrinkle	135680	135960	end	136000	136720
+POS	Discourse Marker	131360	131560	Pronoun	132040	132200	Verb	132280	132680	Noun	132760	133280	Determiner	133400	133480	Particle	133640	133960	Discourse Marker	134080	134480	Verb	134840	135040	Noun	135160	135520	Verb	135640	135840	Adverb	135920	136720
+English translation	I went to the hospital but you know how hospitals are, tend to take forever. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	136760
+End frame:	143960
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	cl:3 "sit down"	136920	137120	WORK-OUT	137240	137640	INSURANCE	137760	138520	part:indef	138560	139120	POSS-2p:i	139280	139400	INFORMATION	139480	139920	IN	140040	140280	fs-DATE	140400	141440	#SS	141560	141880	NUMBER	142040	142640	REALLY	142760	142920	cl:1 "list"	143000	143400	UNKNOWN	143640	143960
+non-dominant hand gloss
+head pos: tilt fr/bk	front	136760	136880	start	136920	137720	front	137760	138040	start	138080	138480	back	138520	141680	start	141720	142000	front	142040	142320	start	142360	142560	back	142600	142720	start	142760	142920	front	142960	143960
+head pos: turn	slightly left	136760	136760	start	136800	137240	right	137280	137760	start	137800	139360	right	139400	139920	start	139960	141680	slightly right	141720	142360	start	142400	143040	left	143080	143360	start	143400	143760	right	143800	143960
+head pos: tilt side	slightly left	136760	136840	start	136880	137160	right	137200	137800	start	137840	138480	slightly left	138520	138920	start	138960	139400	slightly right	139440	139960	start	140000	140320	left	140360	141200	start	141240	141520	right	141560	142400	start	142440	142800	left	142840	143360	start	143400	143720	right	143760	143960
+head pos: jut	start	136760	137600	forward	137640	139360	start	139400	139760	forward	139800	142280	end	142320	142640
+head mvmt: nod
+	start	136760	137160	slow	137200	137760	start	137800	139360	slow	139400	139880	start	139920	141280	slow	141320	142000	end	142040	142640
+body lean	forward	136760	137000	start	137040	137480	forward	137520	138520	start	138560	139800	forward	139840	140040	start	140080	140400	forward	140440	141480	start	141520	141960	forward	142000	142360	end	142400	142920
+eye brows	start	141480	142640	lowered	142680	143400	start	143440	143920	slightly raised	143960	143960
+eye gaze	to addressee	136760	138080	left	138120	138760	to addressee	138800	142280	left	142320	142680
+eye aperture	lowered lid	136760	142040	start	142080	142640	squint	142680	142680	closed	142720	143960
+nose	start	136760	142680	wrinkle	142720	143480	end	143520	143960
+POS	Classifier	136920	137120	Verb	137240	137640	Noun	137760	138520	Particle	138560	139120	Pronoun	139280	139400	Noun	139480	139920	Preposition	140040	140280	Noun	140400	141440	Noun	141560	141880	Number	142040	142640	Discourse Marker	142760	142920	Classifier	143000	143400
+English translation	I had to sit down and have to make sure they would get information about insurance, date, my social security number, etc. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	144000
+End frame:	148040
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	144040	144080	cl:3 "sit down"	144240	144480	WAIT++	144600	145640	FINALLY	145800	146480	IX-1p	146600	146680	GO-IN	146760	147160	|>		148040
+non-dominant hand gloss	UNKNOWN	147800	148040
+head pos: tilt fr/bk	front	144000	145480	start	145520	146120	back	146160	146640	start	146680	147000	front	147040	147360	end	147400	148040
+head pos: turn	right	144000	144760	start	144800	145200	slightly right	145240	145520	start	145560	145920	left	145960	146640	start	146680	147800	right	147840	148040
+head pos: tilt side	right	144000	145520	start	145560	145920	left	145960	146840	start	146880	147680	right	147720	148040
+head pos: jut	start	144600	145680	back/left	145720	146760	start	146800	147680	back	147720	148040
+body lean	start	144000	144400	slightly forward	144440	145800	start	145840	146920	forward	146960	147600	end	147640	148040
+eye brows	slightly raised	144000	145560	start	145600	146120	raised	146160	146520	start	146560	147600	lowered	147640	148040
+eye gaze	to addressee	144040	144240	left	144280	145480	to addressee	145520	147080	left	147120	147400	to addressee	147440	148040
+eye aperture	closed	144000	144000	start	144040	144120	blink	144160	144240	start	144280	144320	lowered lid	144360	144440	start	144480	144480	blink	144520	144680	start	144720	144720	lowered lid	144760	145200	start	145240	147560	further squinted	147600	148040
+nose	start	147160	147600	wrinkle	147640	148040
+POS	Pronoun	144040	144080	Classifier	144240	144480	Verb	144600	145640	Adverb	145800	146480	Pronoun	146600	146680	Verb	146760	147160
+English translation	I sat down and waiting for long time.  Then, I finally got in. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	148080
+End frame:	153633
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	148120	148280	IX-3p	148320	148680	FAST	149120	149360	fs-EXPRESS	149480	150520	|>		151400	CARE	151520	151920	EMERGENCY	152000	152240	HOSPITAL	152400	152880	AREA	152960	153320
+non-dominant hand gloss	UNKNOWN	148080	148520	FAST	149120	149360	|>		149840	1:"focus"	149880	150320	|>		151440
+head pos: tilt fr/bk	start	150520	150960	front	151000	153120	end	153160	153633
+head pos: turn	right	148080	148520	start	148560	148840	slightly right	148880	151480	start	151520	151760	right	151800	153000	end	153040	153633
+head pos: tilt side	slightly right	148080	148520	start	148560	151920	slightly left	151960	152520	end	152560	153633
+head pos: jut	back	148080	151440	start	151480	152480	back/right	152520	152880	start	152920	153120	back	153160	153633
+head mvmt: nod
+	start	152000	152400	slight rapid head nod	152440	153200	end	153240	153633
+eye brows	lowered	148080	153633
+eye gaze	to addressee	148800	153633
+eye aperture	further squinted	148080	148800	start	148840	149160	squint	149200	153633
+nose	wrinkle	148080	153633
+POS	Discourse Marker	148120	148280	Pronoun	148320	148680	Adjective	149120	149360	Adjective	149480	150520	Verb	151520	151920	Noun	152000	152240	Noun	152400	152880	Noun	152960	153320
+Non-dominant POS	Adjective	149120	149360
+English translation	I was in express care area in the hospital where it is for emergency only.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	153640
+End frame:	157920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	HAVE	153760	153960	DIFFERENT	154040	154280	BUILDING	154320	154600	cl:5 "many places"	154680	155240	IX-1p	155440	155600	GO-IN	155640	156240	IX-1p	156360	156520	IX-1p	156920	157000	WAIT++	157240	157920
+non-dominant hand gloss	UNKNOWN	156680	156920	|>		157920
+head pos: tilt fr/bk	start	153640	154080	front	154120	155320	start	155360	155880	front	155920	156320	start	156360	156760	front	156800	156960	start	157000	157440	slightly back	157480	157840	end	157880	157920
+head pos: turn	start	153640	153880	slightly left	153920	153960	start	154000	154240	right	154280	155200	start	155240	155560	left	155600	156000	start	156040	156680	right	156720	157280	start	157320	157680	slightly left	157720	157920
+head pos: tilt side	start	153640	155560	left	155600	156240	start	156280	156680	right	156720	157240	start	157280	157640	left	157680	157920
+head pos: jut	back	153640	155240	start	155280	157480	slightly back	157520	157920
+head mvmt: nod
+	start	155240	155600	single	155640	156280	start	156320	157160	rapid	157200	157720	end	157760	157920
+body lean	start	154320	154680	slightly forward	154720	155320	start	155360	155880	forward	155920	156320	end	156360	156920
+eye brows	lowered	153640	155640	start	155680	157880	slightly lowered	157920	157920
+eye gaze	to addressee	153640	155200	left	155240	155600	to addressee	155640	156320	up	156360	157080	to addressee	157120	157640	up/left	157680	157920
+eye aperture	further squinted	153640	155320	start	155360	155480	squint	155520	156080	start	156120	157880	slightly squinted	157920	157920
+nose	wrinkle	153640	156520	start	156560	157880	wrinkle	157920	157920
+POS	Adverb	153760	153960	Adjective	154040	154280	Noun	154320	154600	Classifier	154680	155240	Pronoun	155440	155600	Verb	155640	156240	Pronoun	156360	156520	Determiner	156920	157000	Verb	157240	157920
+English translation	I went in one of few buildings and waiting. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	157960
+End frame:	162040
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	REALLY	158040	158120	BLOOD	158240	158760	STILL	158800	158920	BLOOD++	159000	160240	IX-1p	160400	160560	WAIT++	160680	162040
+non-dominant hand gloss	UNKNOWN	157960	158120	|>		160240	WAIT++	160480	162040
+head pos: tilt fr/bk	start	157960	158160	front	158200	159720	start	159760	160440	back	160480	161720	end	161760	162040
+head pos: turn	slightly left	157960	158080	start	158120	158320	right	158360	159760	start	159800	160960	left	161000	161680	start	161720	162000	slightly right	162040	162040
+head pos: tilt side	left	157960	159720	start	159760	160400	slightly right	160440	160720	start	160760	161040	left	161080	161560	start	161600	161920	slightly right	161960	162040
+head pos: jut	back/left	157960	158040	start	158080	158480	forward/right	158520	159800	start	159840	161080	back/left	161120	161680	end	161720	162040
+head mvmt: nod
+	start	157960	159080	slight rapid head nod	159120	160280	end	160320	160560
+body lean	start	157960	158440	slightly forward	158480	160280	end	160320	160960
+eye brows	lowered	157960	159760	start	159800	160480	raised	160520	162040
+eye gaze	to addressee	157960	160240	right	160280	160520	to addressee	160560	160960	left	161000	161600	to addressee	161640	162040
+eye aperture	squint	157960	159840	start	159880	160440	wide	160480	160560	start	160600	160880	blink	160920	161080	end	161120	161600
+nose	wrinkle	157960	160280	end	160320	160600
+POS	Discourse Marker	158040	158120	Noun	158240	158760	Adjective	158800	158920	Noun	159000	160240	Pronoun	160400	160560	Verb	160680	162040
+Non-dominant POS	Noun	158240	158760	Verb	160480	162040
+English translation	Really,  it was still bleeding and I was waiting for long time.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	38
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	162080
+End frame:	168160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	REALLY	162200	162280	ONE	162400	162520	DOCTOR	162640	163160	cl:1 "walking toward us"	163280	164080	REALLY	164160	164280	POSS-3p:i	164400	164480	NEW+	164680	165360	JUST	165520	166040	JOIN	166440	166920	POSS-3p:i	167040	167160	fs-STAFF	167240	167960
+non-dominant hand gloss	part:indef	162080	162160	|>		162520
+head pos: tilt fr/bk	start	162080	162200	back	162240	162520	start	162560	163400	front	163440	163960	start	164000	165960	back	166000	167000	end	167040	168160
+head pos: turn	right	162080	163040	start	163080	165480	left	165520	167040	end	167080	168160
+head pos: tilt side	right	162080	162480	start	162520	163320	left	163360	163600	start	163640	164280	right	164320	164800	start	164840	165560	left	165600	167040	start	167080	168080	slightly right	168120	168160
+head pos: jut	start	162080	162280	forward	162320	162520	start	162560	164320	back	164360	164840	start	164880	167360	back	167400	168120	end	168160	168160
+head mvmt: nod
+	start	162080	162640	slight rapid head nod	162680	163440	end	163480	164080
+body lean	start	162080	162520	back	162560	163360	start	163400	163880	slightly forward	163920	164440	start	164480	167400	slightly forward	167440	168160
+eye brows	raised	162080	162480	start	162520	162680	lowered	162720	163520	end	163560	164080
+eye gaze	to addressee	162080	163160	left	163200	163560	to addressee	163600	168160
+eye aperture	start	162080	163120	squint	163160	163560	start	163600	164320	squint	164360	168160
+POS	Discourse Marker	162200	162280	Number	162400	162520	Proper Noun	162640	163160	Classifier	163280	164080	Discourse Marker	164160	164280	Pronoun	164400	164480	Adjective	164680	165360	Adjective	165520	166040	Verb	166440	166920	Pronoun	167040	167160	Noun	167240	167960
+English translation	A doctor came in, he is new and just joined the staff.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	39
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	168200
+End frame:	173120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	168280	168480	LOOK	168560	168760	|>		169640	IX-1p	169760	169880	TRUST	169960	170200	YOUNG	170280	170640	DOCTOR	170720	170880	IX-1p	170960	171080	PREFER	171160	171240	OLDER	171320	171840	BUT	171920	172160	IX-1p	172240	172320	UNKNOWN	172400	172640	FINE	172840	173120
+non-dominant hand gloss	part:indef	168880	169720	DOCTOR	170720	170880	|>		171400	BUT	171920	172160	|>		172360
+head pos: tilt fr/bk	start	168200	168480	slightly back	168520	169600	start	169640	169960	slightly front	170000	170440	start	170480	171560	front	171600	172480	start	172520	173000	back	173040	173120
+head pos: turn	start	168200	170200	slightly left	170240	172560	end	172600	173120
+head pos: tilt side	slightly right	168200	168960	start	169000	169840	slightly left	169880	170480	start	170520	170960	right	171000	172720	end	172760	173120
+head pos: jut	start	168200	169880	back	169920	172640	end	172680	173120
+body lean	slightly forward	168200	171240	start	171280	171400	forward	171440	172000	end	172040	172320
+eye brows	start	168560	169800	slightly raised	169840	170280	start	170320	172000	lowered	172040	172360	start	172400	172920	slightly raised	172960	173120
+eye gaze	to addressee	168200	168440	left	168480	169120	to addressee	169160	173120
+eye aperture	squint	168200	168240	start	168280	168360	blink	168400	168560	start	168600	169680	slightly squinted	169720	171840	start	171880	172000	closed	172040	172520	start	172560	172640	blink	172680	172880	end	172920	173120
+nose	start	170720	170920	tensed	170960	172840	end	172880	173120
+POS	Pronoun	168280	168480	Verb	168560	168760	Pronoun	169760	169880	Verb	169960	170200	Adjective	170280	170640	Proper Noun	170720	170880	Determiner	170960	171080	Verb	171160	171240	Preposition	171320	171840	Conjunction	171920	172160	Pronoun	172240	172320	Adjective	172840	173120
+Non-dominant POS	Particle	168880	169720	Proper Noun	170720	170880	Conjunction	171920	172160
+English translation	I would rather to have an older doctor, because I don't know if I could trust young doctors.  But that is fine.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	40
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	173160
+End frame:	177840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	LOOK	173360	173760	"nah"	175320	175640	IX-1p	175720	175840	CALL	176000	176480	FOR	176600	176800	SECOND	176880	177040	OPINION	177160	177760
+non-dominant hand gloss	FINGER	173480	173800	|>		175560	CALL	176000	176480	|>		177480
+head pos: tilt fr/bk	start	173160	173440	front	173480	174320	start	174360	176480	front	176520	177840
+head pos: turn	start	173160	174880	slightly left	174920	175280	start	175320	176480	left	176520	177200	end	177240	177840
+head pos: tilt side	start	173160	173280	left	173320	174080	start	174120	174800	left	174840	175320	start	175360	176480	left	176520	177600	end	177640	177840
+head pos: jut	start	173160	176320	back/right	176360	176520	end	176560	177040
+head mvmt: shake	start	174360	174640	slight rapid headshake	174680	175640	end	175680	175840
+head mvmt: side to side	start	173160	174080	rapid	174120	175320	end	175360	175640
+body lean	start	173160	173640	forward	173680	175360	end	175400	176480
+eye brows	slightly raised	173160	173720	end	173760	174160
+eye gaze	to addressee	173160	173640	down	173680	175320	to addressee	175360	177800	right	177840	177840
+eye aperture	start	173160	173680	lowered lid	173720	174680	start	174720	174720	blink	174760	175040	start	175080	175080	lowered lid	175120	175200	start	175240	175240	blink	175280	175440	end	175480	175840
+POS	Verb	173360	173760	Pronoun	175720	175840	Verb	176000	176480	Preposition	176600	176800	Number	176880	177040	Noun	177160	177760
+Non-dominant POS	Noun	173480	173800	Verb	176000	176480
+English translation	He looked at my finger and said he would like to call for second opinion.
+Notes - number of character bytes:	47
+-Not sure if "nah" is proper for gesture gloss?
+
+
+Utterance ID:	41
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	177880
+End frame:	181520
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	178000	178320	LOOK	178440	178520	part:indef	178720	179040	|>		179480	FINE	179640	179680	IX-1p	179760	179960	WAIT++	180080	181520
+non-dominant hand gloss	WAIT++	179960	181520
+head pos: tilt fr/bk	front	177880	178000	start	178040	178360	slightly back	178400	178840	start	178880	179120	front	179160	179840	start	179880	180320	slightly back	180360	180680	start	180720	181360	slightly front	181400	181520
+head pos: turn	start	177880	178160	slightly right	178200	179720	start	179760	180360	left	180400	180880	start	180920	181400	right	181440	181520
+head pos: tilt side	start	177880	178400	right	178440	179680	start	179720	180200	left	180240	180920	start	180960	181400	slightly right	181440	181520
+head pos: jut	start	177880	178360	back	178400	181520
+head mvmt: nod
+	start	177880	178360	slow	178400	179640	end	179680	180080
+body lean	start	177880	178960	forward	179000	179880	start	179920	180080	slightly back	180120	181240	end	181280	181520
+eye gaze	right	177880	178080	to addressee	178120	178920	left	178960	180320	up/left	180360	180640	to addressee	180680	181520
+eye aperture	start	177880	178880	lowered lid	178920	179120	start	179160	179840	wide	179880	180600	end	180640	181080
+POS	Pronoun	178000	178320	Verb	178440	178520	Particle	178720	179040	Adjective	179640	179680	Pronoun	179760	179960	Verb	180080	181520
+Non-dominant POS	Verb	179960	181520
+English translation	I had to wait for a while again.
+Notes - number of character bytes:	66
+-not sure how to fill out the english part.. check if it is right.
+
+
+Utterance ID:	42
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	181560
+End frame:	187520
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REALLY	181680	181800	part:indef	181960	182360	|>		182880	IX-1p	183000	183240	|>		184600	IX-1p	184800	185080	ALREADY	185240	185640	SAME	185720	186080	FOUR-THIRTY	186200	187240	FIVE	187320	187520
+non-dominant hand gloss	IX-3p:i	183240	183640	TWO	183840	184600	|>		184880	G:"focus"	185880	186080	|>		187520
+head pos: tilt fr/bk	front	181560	185200	start	185240	185920	slightly back	185960	186680	end	186720	187520
+head pos: turn	right	181560	182440	start	182480	182880	left	182920	183240	start	183280	183760	right	183800	187520
+head pos: tilt side	right	181560	182520	start	182560	182720	slightly left	182760	183280	start	183320	184160	left	184200	187520
+head pos: jut	back/right	181560	182400	start	182440	182840	back	182880	187520
+body lean	start	181560	182200	back	182240	187520
+eye brows	start	181560	181720	lowered	181760	184560	start	184600	184880	raised	184920	187520
+eye gaze	to addressee	181560	181720	right	181760	182480	left	182520	183440	to addressee	183480	187520
+eye aperture	start	181560	181720	squint	181760	184280	start	184320	184760	wide	184800	187520
+nose	start	181560	182080	wrinkle	182120	184760	end	184800	185640
+POS	Discourse Marker	181680	181800	Particle	181960	182360	Pronoun	183000	183240	Determiner	184800	185080	Adverb	185240	185640	Adjective	185720	186080	Number	186200	187240	Number	187320	187520
+Non-dominant POS	Pronoun	183240	183640	Number	183840	184600
+English translation	I arrived at two o'clock and it is already 4:30 to 5 o'clock.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	43
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	187560
+End frame:	190360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	FIVE	187560	187600	IX-1p	187720	187760	STILL	187800	187920	YET	188000	188240	GET	188320	188440	STITCH	188520	189240	SAME	189360	189440	IX-1p	189560	189760	part:indef	189880	190360
+non-dominant hand gloss	G:"focus"	187560	187600	|>		187640
+head pos: tilt fr/bk	start	187560	187800	front	187840	190360
+head pos: turn	right	187560	189520	start	189560	189800	slightly right	189840	190360
+head pos: tilt side	slightly left	187560	188480	start	188520	190200	slightly left	190240	190360
+head pos: jut	back/right	187560	189480	start	189520	190280	forward/right	190320	190360
+body lean	back	187560	187840	start	187880	188200	forward	188240	189640	start	189680	190040	forward	190080	190360
+eye brows	raised	187560	190360
+eye gaze	to addressee	187560	190360
+eye aperture	wide	187560	189480	start	189520	189600	blink	189640	189840	start	189880	189920	wide	189960	190360
+mouth	start	187920	188000	tongue out	188040	188240	end	188280	188440
+POS	Number	187560	187600	Pronoun	187720	187760	Adjective	187800	187920	Adverb	188000	188240	Verb	188320	188440	Noun	188520	189240	Adjective	189360	189440	Pronoun	189560	189760	Particle	189880	190360
+English translation	I still have not get my finger stitches yet.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	44
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	190400
+End frame:	196040
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	190520	190600	HOPE	190680	190840	IX-3p:i	190960	191200	NOT	191280	191320	BECOME	191480	191800	fs-DRY	191920	192640	DRY	192720	193040	TRUE-BUSINESS	193160	193520	UNKNOWN	193840	194440	UNKNOWN	194520	194760	FINE	194800	195120	IX-1p	195240	195360	WAIT++	195440	196040
+non-dominant hand gloss	part:indef	190400	190560	|>		190800	HAND	190960	191200	|>		191360	WAIT++	195320	196040
+head pos: tilt fr/bk	front	190400	191200	start	191240	191560	back	191600	192040	start	192080	192400	front	192440	195520	start	195560	195960	back	196000	196040
+head pos: turn	slightly right	190400	190480	start	190520	190560	right	190600	194240	start	194280	194760	left	194800	195240	start	195280	195560	slightly right	195600	196040
+head pos: tilt side	slightly left	190400	194480	start	194520	194720	left	194760	195040	start	195080	195320	right	195360	196040
+head pos: jut	forward	190400	190600	start	190640	191040	back/right	191080	194360	start	194400	194520	back	194560	195040	end	195080	195360
+head mvmt: nod
+	start	195240	195480	slight rapid head nod	195520	195840	end	195880	196040
+body lean	forward	190400	190920	start	190960	192440	forward	192480	193360	end	193400	194240
+eye brows	raised	190400	190600	start	190640	195280	raised	195320	196040
+eye gaze	to addressee	190400	195480	left	195520	196000	to addressee	196040	196040
+eye aperture	wide	190400	190640	start	190680	195360	blink	195400	195600	end	195640	196040
+POS	Pronoun	190560	190600	Verb	190680	190840	Pronoun	190960	191200	Negation	191280	191320	Verb	191480	191800	Adjective	191920	192640	Adjective	192720	193040	Adjective	194800	195120	Pronoun	195240	195360	Verb	195440	196040
+Non-dominant POS	Particle	190400	190560	Noun	190960	191200	Verb	195320	196040
+English translation	I hope my finger didnt get dry however, I was still waiting.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	45
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	196080
+End frame:	201640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	FINALLY	196200	196720	IX-3p:i	196800	197000	ONE	197200	197440	OLDER	197600	198120	MAN	198280	198680	IX-3p	198840	198920	cl:1 "field"	199000	199520	PLASTIC	199680	200000	SURGERON	200120	200880	cl:1 "person walking toward to us"	201200	201640
+non-dominant hand gloss	FINALLY	196200	196720	|>		198800	SURGERON	200120	200880	|>		201640
+head pos: tilt fr/bk	back	196080	196920	start	196960	197440	front	197480	199360	start	199400	200360	front	200400	201640
+head pos: turn	start	196080	196480	slightly left	196520	197200	start	197240	197640	right	197680	198000	start	198040	198640	left	198680	198960	start	199000	200280	right	200320	201040	end	201120	201640
+head pos: tilt side	slightly right	196080	196120	start	196160	196520	slightly left	196560	197240	start	197280	197680	right	197720	198080	start	198120	198640	left	198680	199000	end	199040	199520
+head pos: jut	start	196080	196120	forward	196160	196240	start	196280	196520	back	196560	198120	end	198160	198920
+body lean	start	196080	196200	back	196240	196760	end	196800	197000
+eye brows	raised	196080	196520	start	196560	197120	slightly lowered	197160	197600	start	197640	197880	lowered	197920	199440	end	199480	199520
+eye gaze	to addressee	196080	201280	left	201320	201560	up/left	201600	201640
+eye aperture	start	196080	197120	closed	197160	197720	start	197760	198000	further squinted	198040	199480	end	199520	200000
+nose	start	197600	198040	wrinkle	198080	199520	end	199560	200000
+POS	Adverb	196200	196720	Pronoun	196800	197000	Number	197200	197440	Adjective	197600	198120	Noun	198280	198680	Determiner	198840	198920	Classifier	199000	199520	Noun	199680	200000	Proper Noun	200120	200880	Classifier	201200	201640
+Non-dominant POS	Adverb	196200	196720	Proper Noun	200120	200880
+English translation	Finally, an older man who is plastic surgeron came in.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	46
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	201680
+End frame:	206080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	201840	201920	LOOK	202000	202400	FEEL	202480	202680	FUNNY	202800	202920	WHY	203000	203080	PLASTIC	203400	203840	SURGEON	203960	204840	DO	204920	205120	STITCH	205200	205520	ON	205640	205800	IX-1p	205880	206080
+non-dominant hand gloss
+head pos: tilt fr/bk	front	201680	201840	start	201880	202360	back	202400	202640	start	202680	203000	slightly front	203040	203360	start	203400	204600	front	204640	206080
+head pos: turn	start	202480	202840	right	202880	206080
+head pos: tilt side	start	201680	202680	slightly left	202720	206080
+head pos: jut	back	201680	206080
+head mvmt: nod
+	start	202800	203520	slight rapid head nod	203560	204000	end	204040	204840
+body lean	start	201680	202200	back	202240	203000	start	203040	203760	back/left	203800	206080
+eye brows	start	205640	206000	slightly lowered	206040	206080
+eye gaze	up/left	201680	201920	to addressee	201960	206080
+eye aperture	start	201680	201920	blink	201960	202040	end	202080	202400
+nose	start	205880	206040	wrinkle	206080	206080
+POS	Pronoun	201840	201920	Verb	202000	202400	Verb	202480	202680	Adjective	202800	202920	Wh-word	203000	203080	Noun	203400	203840	Noun	203960	204840	Verb	204920	205120	Noun	205200	205520	Preposition	205640	205800	Pronoun	205880	206080
+English translation	I felt funny, why would plastic surgeon do stitches on me?
+Notes - number of character bytes:	0
+
+
+Utterance ID:	47
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	206120
+End frame:	213840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	IX-1p	206200	206320	THINK	206480	206640	REGULAR	206800	207160	DOCTOR	207280	207520	#OR	207640	207840	MAYBE	207920	208280	#EVEN	208400	208680	NURSE	208800	209080	CAN	209240	209280	DO	209360	209480	#IT	209560	210080	part:indef	210280	210960	SAME	211000	211080	IX-1p	211160	211440	#OR	211720	211840	DOCTOR	212040	212200	ASSISTANT	212480	212760	part:indef	212920	213040	#EVEN	213200	213560	MAYBE	213680	213800
+non-dominant hand gloss	part:indef	210280	210960	|>		211560
+head pos: tilt fr/bk	front	206120	207520	start	207560	208160	back	208200	209240	start	209280	210040	slightly front	210080	211640	start	211680	211880	back	211920	212760	end	212800	213840
+head pos: turn	right	206120	206400	start	206440	206880	slightly left	206920	207720	start	207760	208400	right	208440	211520	start	211560	211920	slightly left	211960	212240	start	212280	212520	right	212560	213560	start	213600	213760	slightly right	213800	213840
+head pos: tilt side	left	206120	206560	start	206600	206920	right	206960	207880	start	207920	208400	left	208440	210240	start	210280	210760	slightly right	210800	211120	start	211160	211600	left	211640	212240	start	212280	212560	right	212600	213520	end	213560	213840
+head pos: jut	back/right	206120	206320	start	206360	207320	forward/left	207360	207880	start	207920	208720	back/right	208760	209360	start	209400	211320	back	211360	213840
+head mvmt: shake	start	211680	211920	slight rapid headshake	211960	212560	end	212600	212760
+body lean	back/left	206120	206360	start	206400	207440	slightly forward	207480	208040	start	208080	208800	back/left	208840	209520	start	209560	211880	back	211920	212440	start	212480	212800	forward	212840	213840
+shoulders	start	206120	211680	raised	211720	212240	start	212280	212480	right/raised	212520	213120	start	213160	213440	raised	213480	213600	end	213640	213840
+eye brows	lowered	206120	211080	start	211120	211440	raised	211480	213280	end	213320	213840
+eye gaze	to addressee	206120	213840
+eye aperture	squint	206120	207840	start	207880	208160	further squinted	208200	210280	start	210320	210600	blink	210640	210960	start	211000	211040	blink	211080	211200	start	211240	211480	wide	211520	213440	end	213480	213840
+nose	wrinkle	206120	211240	start	211280	211600	tensed	211640	212520	end	212560	212760
+POS	Pronoun	206200	206320	Verb	206480	206640	Adjective	206800	207160	Proper Noun	207280	207520	Conjunction	207640	207840	Adverb	207920	208280	Adjective	208400	208680	Proper Noun	208800	209080	Verb	209240	209280	Verb	209360	209480	Noun	209560	210080	Particle	210280	210960	Adjective	211000	211080	Pronoun	211160	211440	Conjunction	211720	211840	Proper Noun	212040	212200	Proper Noun	212480	212760	Particle	212920	213040	Adjective	213200	213560	Adverb	213680	213800
+Non-dominant POS	Particle	210280	210960
+English translation	I thought some regular doctor, nurse or even doctor's assistant would do it.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	48
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	213880
+End frame:	218400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	BUT	213960	214320	part:indef	214520	215040	SAME	215120	215320	IX-1p	215400	215600	part:indef	215720	216440	IX-3p:i	216480	216600	SAY	216680	216840	BETTER	216960	217080	DOWN	217200	217480	#X-RAY	217600	218360
+non-dominant hand gloss	part:indef	214520	215040	|>		218400
+head pos: tilt fr/bk	start	213880	214000	front	214040	214560	start	214600	215040	front	215080	216520	start	216560	218360	slightly front	218400	218400
+head pos: turn	start	213880	214080	left	214120	214720	start	214760	215000	right	215040	215400	start	215440	215920	slightly left	215960	216240	start	216280	217280	slightly right	217320	218400
+head pos: tilt side	start	213880	213960	left	214000	214640	start	214680	214960	right	215000	215440	start	215480	215920	left	215960	216360	start	216400	216640	slightly right	216680	218400
+head pos: jut	back	213880	215000	start	215040	216040	forward/left	216080	216400	start	216440	217120	back	217160	218400
+head mvmt: shake	start	213880	214320	slow	214360	215480	end	215520	216440
+body lean	slightly forward	213880	214400	start	214440	214640	slightly back	214680	215040	start	215080	216080	forward	216120	216800	start	216840	217560	left	217600	218400
+eye brows	start	215400	215920	slightly raised	215960	216440	end	216480	216600
+eye gaze	to addressee	213880	214320	left	214360	214680	to addressee	214720	215440	left	215480	216240	to addressee	216280	217480	left	217520	218000	to addressee	218040	218400
+eye aperture	start	214520	215440	lowered lid	215480	216520	start	216560	216600	lowered lid	216640	218400
+POS	Conjunction	213960	214320	Particle	214520	215040	Adjective	215120	215320	Pronoun	215400	215600	Particle	215720	216440	Pronoun	216480	216600	Verb	216680	216840	Adjective	216960	217080	Pronoun	217200	217480	Noun	217600	218360
+Non-dominant POS	Particle	214520	215040
+English translation	He told me to go downstair for x-ray.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	49
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	218440
+End frame:	223640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	WANT	218560	218680	CHECK	218760	219120	IF	219200	219440	HAVE	219520	219720	SOME	219840	220040	#AIR	220160	220600	IN	220840	221240	IX-3p:i	221320	221840	WHY	222040	222200	FUTURE	222320	222360	CAUSE	222480	222720	INFECTION	222840	223640
+non-dominant hand gloss	G:"focus"	220320	220520	FINGER	220920	221240	|>		222120	CAUSE	222480	222720	|>		223640
+head pos: tilt fr/bk	front	218440	219440	start	219480	220880	slightly front	220920	221880	start	221920	223160	front	223200	223640
+head pos: turn	slightly right	218440	218480	start	218520	218560	right	218600	219200	start	219240	220240	right	220280	223640
+head pos: tilt side	slightly right	218440	219160	start	219200	221520	slightly right	221560	221840	start	221880	223160	right	223200	223640
+head pos: jut	slightly back	218440	218560	start	218600	219000	back/right	219040	219200	start	219240	223000	back/right	223040	223640
+head mvmt: nod
+	start	220160	221000	slight rapid head nod	221040	221880	end	221920	222480
+body lean	start	218440	218720	left	218760	223640
+eye brows	start	218440	218560	lowered	218600	223640
+eye gaze	to addressee	218440	223640
+eye aperture	lowered lid	218440	218440	start	218480	218520	squint	218560	223520	end	223560	223640
+nose	start	220160	220680	wrinkle	220720	222160	end	222200	222360
+POS	Verb	218560	218680	Verb	218760	219120	Preposition	219200	219440	Adverb	219520	219720	Adjective	219840	220040	Noun	220160	220600	Preposition	220840	221240	Pronoun	221320	221840	Wh-word	222040	222200	Tense Marker	222320	222360	Verb	222480	222720	Noun	222840	223640
+Non-dominant POS	Noun	220920	221240	Verb	222480	222720
+English translation	He wanted to check if I have some air in my finger which may cause infection.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	50
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	223680
+End frame:	231280
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	THAT	223800	223920	KIND	224080	224200	#OF	224280	224480	CUT	224760	225200	REALLY	225400	225760	|>		225920	CUT	226040	226560	POSS-1p	226600	226680	fs-JOINT	226880	227720	BONE	228120	228400	IX-3p:i	228720	229040	AFTER	229240	229480	#X-RAY	229560	230400	RESULT	230560	231280
+non-dominant hand gloss	FINGER	224760	225240	|>		227960	FINGER	228800	229080
+head pos: tilt fr/bk	front	223680	225240	start	225280	226560	slightly back	226600	226800	start	226840	228160	front	228200	230960	end	231000	231280
+head pos: turn	right	223680	223840	start	223880	224080	slightly right	224120	224360	start	224400	224560	right	224600	225360	start	225400	225640	slightly right	225680	226160	start	226200	226560	right	226600	226640	start	226680	226840	slightly right	226880	229480	start	229520	230480	left	230520	231280
+head pos: tilt side	slightly right	223680	224560	start	224600	225200	right	225240	226760	start	226800	230360	left	230400	231120	end	231160	231280
+head pos: jut	back/right	223680	225240	start	225280	225840	slightly back	225880	226680	start	226720	228120	back	228160	229320	start	229360	230560	back/left	230600	231000	end	231040	231280
+head mvmt: nod
+	start	228120	229000	rapid	229040	231160	end	231200	231280
+body lean	left	223680	227560	start	227600	230800	slightly forward	230840	231120	end	231160	231280
+eye brows	start	223680	223760	raised	223800	224640	start	224680	225160	lowered	225200	226400	start	226440	226440	slightly lowered	226480	228160	start	228200	229040	lowered	229080	231280
+eye gaze	to addressee	223680	231280
+eye aperture	start	223680	224680	squint	224720	231280
+POS	Pronoun	223800	223920	Noun	224080	224200	Preposition	224280	224480	Verb	224760	225200	Adverb	225400	225760	Verb	226040	226560	Pronoun	226600	226680	Noun	226880	227720	Noun	228120	228400	Determiner	228720	229040	Adverb	229240	229480	Noun	229560	230400	Verb	230560	231280
+Non-dominant POS	Noun	224760	225240	Noun	228800	229080
+English translation	After my x-ray result, it showed that my finger was deep cut and cut my joint bone.
+Notes - number of character bytes:	67
+- "THAT" not sure if its proper gloss even though he did sign that.
+
+
+Utterance ID:	51
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	231320
+End frame:	237800
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	SAY	231440	231520	EXPLAIN	231640	231960	"wow"	232120	232280	IX-3p:i	232320	232440	LUCKY	232560	233040	NOT	233080	233240	CUT	233360	233600	MORE	233720	233960	CUT	234120	234360	#SO	234440	234560	IX-1p	234680	234880	LOSE	235040	235360	cl:5 "object felling off"	235600	236480	IX-1p	236760	237040	LOOK	237160	237320	"relief"	237400	237800
+non-dominant hand gloss
+head pos: tilt fr/bk	start	231320	231720	front	231760	232080	start	232120	232760	back	232800	233320	start	233360	234040	front	234080	236960	start	237000	237200	slightly back	237240	237520	start	237560	237640	front	237680	237800
+head pos: turn	left	231320	231440	start	231480	234440	right	234480	235960	start	236000	237360	slightly left	237400	237800
+head pos: tilt side	start	231320	231680	right	231720	232120	start	232160	232400	left	232440	233080	start	233120	233680	right	233720	236320	start	236360	237040	left	237080	237800
+head pos: jut	start	231320	232760	back	232800	237800
+head mvmt: shake	start	234680	235040	slight rapid headshake	235080	236240	end	236280	236440
+body lean	start	233720	234160	slightly forward	234200	236480	end	236520	237040
+eye gaze	to addressee	231320	231480	left	231520	232240	to addressee	232280	237160	left	237200	237760	to addressee	237800	237800
+eye aperture	squint	231320	231840	start	231880	231920	blink	231960	232120	end	232160	232320
+nose	wrinkle	231320	231960	end	232000	232280
+negative	start	234680	235040	neg	235080	236240	end	236280	236440
+POS	Verb	231440	231520	Verb	231640	231960	Pronoun	232320	232440	Adjective	232560	233040	Negation	233080	233240	Verb	233360	233600	Adjective	233720	233960	Verb	234120	234360	Preposition	234440	234560	Pronoun	234680	234880	Verb	235040	235360	Classifier	235600	236480	Pronoun	236760	237040	Verb	237160	237320
+English translation	He said that I am very lucky not to get cut that deep or else I would lose my finger. I thought whew.
+Notes - number of character bytes:	29
+- relief or whew (last word)?
+
+
+Utterance ID:	52
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	237840
+End frame:	242760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	FINE	237920	238360	IX-1p	238480	238640	cl:1 "walking up"	238880	239520	GIFT	239680	240080	PLASTIC	240240	240400	SURGEON	240520	241200	POSS-1p	241280	241400	#X-RAY	241560	241920	RESULT	242160	242600
+non-dominant hand gloss
+head pos: tilt fr/bk	front	237840	237920	start	237960	238360	back	238400	238640	start	238680	238960	front	239000	242760
+head pos: turn	slightly left	237840	237880	start	237920	238400	slightly right	238440	239320	start	239360	239520	right	239560	241360	start	241400	242080	left	242120	242760
+head pos: tilt side	left	237840	237920	start	237960	238320	right	238360	238920	start	238960	239680	slightly right	239720	240080	start	240120	241360	slightly left	241400	242600	end	242640	242760
+head pos: jut	slightly back	237840	238680	end	238720	239520
+head mvmt: nod
+	start	237840	239160	rapid	239200	241240	end	241280	241400
+body lean	left	237840	237960	start	238000	238400	right	238440	238920	start	238960	239160	forward	239200	242760
+eye brows	start	238880	239240	lowered	239280	242600	end	242640	242760
+eye gaze	to addressee	237840	238640	left	238680	239000	to addressee	239040	242680	left	242720	242760
+eye aperture	start	237840	239240	squint	239280	241520	end	241560	242160
+nose	start	238840	239320	wrinkle	239360	241600	end	241640	242160
+POS	Adjective	237920	238360	Pronoun	238480	238640	Classifier	238880	239520	Noun	239680	240080	Noun	240240	240400	Proper Noun	240520	241200	Determiner	241280	241400	Noun	241560	241920	Verb	242160	242600
+English translation	I went up back to give plastic surgeon my X-Ray result. 
+Notes - number of character bytes:	0
+
+
+Utterance ID:	53
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	242800
+End frame:	247400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	UNKNOWN	242840	243040	IX-3p:i	243160	243240	SAY	243360	243440	FINALLY	243640	243840	UNKNOWN	243920	244000	FINE	244080	244400	READY++	244480	245080	SET-UP++	245440	246440	UNKNOWN	246640	247240
+non-dominant hand gloss	UNKNOWN	243920	244000	|>		244360
+head pos: tilt fr/bk	front	242800	243240	start	243280	243920	front	243960	247000	end	247040	247400
+head pos: turn	left	242800	242920	start	242960	243920	left	243960	244320	start	244360	244720	right	244760	245000	start	245040	245520	left	245560	246600	start	246640	247240	slightly right	247280	247400
+head pos: tilt side	start	242800	243000	right	243040	243520	start	243560	243840	left	243880	244440	start	244480	245360	left	245400	246600	start	246640	247000	right	247040	247400
+head pos: jut	start	242800	243880	back/left	243920	244200	start	244240	245880	back/left	245920	246480	end	246520	247240
+head mvmt: nod
+	start	243920	244440	rapid	244480	245280	end	245320	245640
+body lean	forward	242800	243440	start	243480	244280	left	244320	244520	start	244560	245280	right	245320	245480	start	245520	245720	forward	245760	246760	end	246800	247240
+eye brows	start	243920	244120	lowered	244160	246440	end	246480	247240
+eye gaze	left	242800	244120	to addressee	244160	244960	left	245000	245280	to addressee	245320	247400
+eye aperture	start	243120	243320	blink	243360	243520	start	243560	243560	closed	243600	244040	start	244080	244160	squint	244200	246440	start	246480	247040	slightly lowered	247080	247400
+nose	start	243920	244120	wrinkle	244160	245600	end	245640	246440
+POS	Pronoun	243160	243240	Verb	243360	243440	Adverb	243640	243840	Adjective	244080	244400	Adjective	244480	245080	Verb	245440	246440
+English translation	He said finally. Then, He got things ready.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	54
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	247440
+End frame:	254160
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	GET	247560	247680	SCISSOR	247760	248360	STRING	248960	249680	METAL	249800	249960	REALLY	250120	250200	IX-1p	250320	250400	LOOK	250480	250600	METAL	250960	251920	THICK	252200	252480	STRING	252560	253040	IX-1p	253120	253200	LOOK	253280	253360	"wow"	253440	254160
+non-dominant hand gloss	STRING	248960	249680	|>		252400	STRING	252560	253040	|>		254160
+head pos: tilt fr/bk	start	247440	247800	front	247840	248400	start	248440	249120	front	249160	250520	start	250560	251560	slightly front	251600	252520	start	252560	252760	front	252800	253440	start	253480	254080	slightly front	254120	254160
+head pos: turn	slightly right	247440	247840	start	247880	248720	right	248760	249600	start	249640	249960	left	250000	250560	start	250600	252160	left	252200	252560	start	252600	252800	slightly left	252840	253160	start	253200	253480	slightly right	253520	254160
+head pos: tilt side	right	247440	247720	start	247760	248120	left	248160	248400	start	248440	248880	right	248920	249720	start	249760	250040	left	250080	250560	start	250600	252280	left	252320	252800	start	252840	253440	right	253480	253840	end	253880	254160
+head pos: jut	start	247440	248040	forward	248080	248440	start	248480	249320	forward/right	249360	249720	start	249760	250160	back/left	250200	250760	start	250800	252600	slightly back	252640	254160
+head mvmt: nod
+	start	247440	247840	single	247880	248400	start	248440	249160	single	249200	249760	start	249800	250640	slight rapid head nod	250680	252000	end	252040	252480
+body lean	start	247440	248040	forward	248080	248440	start	248480	249240	forward	249280	249640	start	249680	250480	slightly back	250520	250840	start	250880	252800	slightly forward	252840	253440	end	253480	254160
+eye brows	start	247440	247720	lowered	247760	254160
+eye gaze	to addressee	247440	254160
+eye aperture	lowered lid	247440	247560	start	247600	247680	squint	247720	253240	start	253280	253280	closed	253320	254160
+nose	start	247440	247640	wrinkle	247680	254160
+POS	Verb	247560	247680	Noun	247760	248360	Noun	248960	249680	Noun	249800	249960	Discourse Marker	250120	250200	Pronoun	250320	250400	Verb	250480	250600	Noun	250960	251920	Adjective	252200	252480	Noun	252560	253040	Determiner	253120	253200	Verb	253280	253360
+Non-dominant POS	Noun	248960	249680	Noun	252560	253040
+English translation	He got scissor, strings and metal.  When I was looking at the metal, its really thick string, wow!
+Notes - number of character bytes:	0
+
+
+Utterance ID:	55
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	254200
+End frame:	258760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	#SO	254240	254400	IX-3p:i	254520	255280	REALLY	255440	255720	SHOT++	256120	257160	FEW	257240	257480	TIME	257640	257760	SHOT++	257840	258640	IX-1p	258720	258760
+non-dominant hand gloss	HAND	256280	256880	|>		258760
+head pos: tilt fr/bk	slightly front	254200	254920	start	254960	255880	front	255920	258640	end	258680	258760
+head pos: turn	slightly right	254200	254200	start	254240	254440	slightly left	254480	254520	start	254560	255320	slightly right	255360	256720	start	256760	256760	right	256800	257240	start	257280	258000	left	258040	258760
+head pos: tilt side	start	254200	254200	left	254240	254560	start	254600	255400	right	255440	257400	start	257440	257920	left	257960	258520	start	258560	258720	slightly right	258760	258760
+head pos: jut	slightly back	254200	254680	start	254720	256160	back	256200	258280	end	258320	258760
+head mvmt: nod
+	start	257640	257920	rapid	257960	258560	end	258600	258720
+body lean	start	254200	254480	forward	254520	254960	start	255000	256520	left	256560	258640	end	258680	258760
+eye brows	slightly lowered	254200	254280	start	254320	254800	slightly raised	254840	256120	start	256160	257160	lowered	257200	258760
+eye gaze	to addressee	254280	256160	down	256200	256680	to addressee	256720	258760
+eye aperture	closed	254200	254280	start	254320	254520	squint	254560	255880	start	255920	256200	lowered lid	256240	256680	start	256720	257200	slightly squinted	257240	258320	start	258360	258560	closed	258600	258760
+nose	start	256720	257200	wrinkle	257240	258760
+POS	Preposition	254240	254400	Pronoun	254520	255280	Discourse Marker	255440	255720	Verb	256120	257160	Adjective	257240	257480	Noun	257640	257760	Verb	257840	258640	Pronoun	258720	258760
+Non-dominant POS	Noun	256280	256880
+English translation	So he shot all over my hand few times.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	56
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	258800
+End frame:	263200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	258840	259000	part:indef	259160	259240	BECOME	259360	259480	fs-NUMB	259640	260200	IX-1p	260560	260680	IX-3p:i	261600	262000	STITCH++	262120	263200
+non-dominant hand gloss	HAND	258800	258840	|>		259240	HAND	260640	260680	|>		261880	HAND	262160	262200	|>		263200
+head pos: tilt fr/bk	start	258800	259200	back	259240	259520	start	259560	260080	front	260120	263200
+head pos: turn	slightly left	258800	258840	start	258880	260000	right	260040	260960	start	261000	261520	slightly right	261560	262200	start	262240	262760	left	262800	263200
+head pos: tilt side	right	258800	259480	start	259520	260640	left	260680	262400	start	262440	263120	slightly right	263160	263200
+head pos: jut	start	258800	259400	slightly back	259440	259840	start	259880	260920	slightly back	260960	262000	start	262040	262680	slightly forward	262720	263040	end	263080	263200
+head mvmt: nod
+	start	259360	259720	single	259760	260120	end	260160	260680
+body lean	start	258800	258800	forward	258840	259200	start	259240	259880	slightly forward	259920	260680	start	260720	262200	slightly forward	262240	263200
+eye brows	lowered	258800	263200
+eye gaze	to addressee	259160	260680	down/left	260720	261560	to addressee	261600	263200
+eye aperture	closed	258800	259000	start	259040	259200	squint	259240	260240	start	260280	260560	closed	260600	260720	start	260760	260800	further squinted	260840	261560	start	261640	261640	squint	261680	263200
+nose	wrinkle	258800	263200
+POS	Pronoun	258840	259000	Particle	259160	259240	Verb	259360	259480	Adjective	259640	260200	Pronoun	260560	260680	Determiner	261600	262000	Verb	262120	263200
+Non-dominant POS	Noun	258800	258840	Noun	260640	260680	Noun	262160	262200
+English translation	My hand became numb while stitching.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	57
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	263240
+End frame:	268680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	263360	263560	CAN	263760	263840	FEEL	264000	264800	PULL	264920	266000	STITCH	266160	266280	SAME	266360	266680	STITCH	266800	266960	cl:2 "quotation"	267160	267280	TIE	267480	267920	POSS-2p	268040	268080	SHOE	268200	268560
+non-dominant hand gloss
+head pos: tilt fr/bk	front	263240	263800	start	263840	264600	front	264640	266360	start	266400	267000	back	267040	268320	start	268360	268560	front	268600	268680
+head pos: turn	left	263240	263640	start	263680	264400	right	264440	268680
+head pos: tilt side	slightly right	263240	263600	start	263640	264560	left	264600	265440	start	265480	266000	right	266040	266200	start	266240	266800	left	266840	268160	end	268200	268680
+head pos: jut	back/left	263240	263760	start	263800	264160	back/right	264200	266360	start	266400	267040	forward/right	267080	268160	end	268200	268680
+body lean	slightly forward	263240	263560	start	263600	263840	back	263880	265600	start	265640	266160	right	266200	266400	start	266440	266720	slightly forward	266760	268520	end	268560	268680
+eye brows	lowered	263240	263360	end	263400	263720
+eye gaze	to addressee	263240	268680
+eye aperture	squint	263240	263360	start	263400	263440	blink	263480	263640	start	263680	263760	lowered lid	263800	268680
+nose	wrinkle	263240	263400	end	263440	263560
+POS	Pronoun	263360	263560	Adverb	263760	263840	Verb	264000	264800	Verb	264920	266000	Verb	266160	266280	Adjective	266360	266680	Verb	266800	266960	Classifier	267160	267280	Noun	267480	267920	Pronoun	268040	268080	Noun	268200	268560
+English translation	I can feel stitches as pulling, same feeling as when you tie your shoes.
+Notes - number of character bytes:	52
+-CL:quotation, is there any specific gloss for that?
+
+
+Utterance ID:	58
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	268720
+End frame:	271840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	ALMOST	268760	269000	SAME	269040	269280	STITCH++	269360	269840	FEEL	270120	270200	#IT	270280	270520	IX-1p	270600	270760	UNKNOWN	271000	271040	|>		271840
+non-dominant hand gloss
+head pos: tilt fr/bk	front	268720	271840
+head pos: turn	right	268720	270360	start	270400	271000	slightly left	271040	271840
+head pos: tilt side	start	268720	268840	slightly left	268880	270240	start	270280	270960	right	271000	271840
+head pos: jut	start	268720	268920	back/right	268960	270240	start	270280	271040	back/left	271080	271840
+head mvmt: nod
+	start	270600	271000	slight rapid head nod	271040	271800	end	271840	271840
+body lean	slightly forward	268720	271720	end	271760	271840
+eye brows	start	270600	270960	raised	271000	271840
+eye gaze	to addressee	268720	270560	left	270600	271160	down	271200	271840
+eye aperture	lowered lid	268720	270440	start	270480	270520	blink	270560	271000	start	271040	271160	slightly lowered	271200	271640	start	271680	271720	closed	271760	271840
+POS	Adverb	268760	269000	Adjective	269040	269280	Verb	269360	269840	Verb	270120	270200	Pronoun	270280	270520	Determiner	270600	270760
+English translation
+Notes - number of character bytes:	28
+-Not sure about English part
+
+
+Utterance ID:	59
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	271880
+End frame:	275320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	FINISH	272240	272760	part:indef	272880	273040	cl:5 "wrapping up"++	273320	274160	#THEN	274280	274520	IX-1p	274600	274800	part:indef	275000	275240
+non-dominant hand gloss
+head pos: tilt fr/bk	front	271880	271880	start	271920	272120	back	272160	272680	start	272720	273160	front	273200	273880	start	273920	274240	back	274280	274560	start	274600	274720	slightly front	274760	274840	start	274880	275080	back	275120	275320
+head pos: turn	slightly left	271880	272080	start	272120	272280	left	272320	272840	start	272880	273280	slightly right	273320	274200	start	274240	274640	slightly left	274680	274960	end	275000	275320
+head pos: tilt side	slightly right	271880	271920	start	271960	272200	further left	272240	272560	start	272600	273160	further right	273200	273880	start	273920	274520	left	274560	274840	start	274880	275160	slightly right	275200	275320
+head pos: jut	back/left	271880	271920	start	271960	272200	forward	272240	272400	start	272440	272480	back/left	272520	272720	start	272760	273280	forward/right	273320	274160	start	274200	274640	back/left	274680	274840	start	274880	275120	slightly forward	275160	275320
+body lean	slightly forward	271880	271960	start	272000	272480	back/left	272520	272880	start	272920	273440	forward	273480	274040	end	274080	274800
+eye brows	raised	271880	272760	end	272800	273040
+eye gaze	to addressee	272800	274800	left	274840	275320
+eye aperture	closed	271880	272480	start	272520	272880	further lowered	272920	273400	start	273440	274200	further lowered	274240	274680	start	274720	274760	blink	274800	274880	start	274920	275000	lowered lid	275040	275320
+POS	Verb	272240	272760	Particle	272880	273040	Classifier	273320	274160	Adverb	274280	274520	Pronoun	274600	274800	Particle	275000	275240
+English translation	When it is finished, he wrapped around my finger.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	60
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	275360
+End frame:	279000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p	275440	275480	SAY	275560	275720	GIFT	275880	276160	EXPLAIN	276280	276600	SAY	276800	276920	"no"	277160	277480	IX-2p	277560	277800	CAN-NOT	277920	278160	GET	278240	278360	WET	278480	279000
+non-dominant hand gloss	EXPLAIN	276280	276600	|>		277120
+head pos: tilt fr/bk	slightly back	275360	275440	start	275480	275840	front	275880	276720	start	276760	277520	front	277560	279000
+head pos: turn	start	275360	275840	right	275880	277520	start	277560	278440	slightly left	278480	279000
+head pos: tilt side	right	275360	275720	start	275760	276040	left	276080	276800	start	276840	278080	left	278120	278560	end	278600	279000
+head pos: jut	slightly forward	275360	275400	start	275440	276040	forward/right	276080	276680	start	276720	278600	forward	278640	279000
+head mvmt: nod
+	start	275360	275760	slow	275800	276760	start	276800	277120	single	277160	277640	start	277680	278040	slow	278080	278880	end	278920	279000
+body lean	start	275360	276000	forward	276040	276680	start	276720	278560	forward	278600	279000
+eye brows	start	275360	275800	lowered	275840	279000
+eye gaze	to addressee	275360	279000
+eye aperture	lowered lid	275360	275600	start	275640	275840	squint	275880	279000
+POS	Pronoun	275440	275480	Verb	275560	275720	Noun	275880	276160	Verb	276280	276600	Verb	276800	276920	Pronoun	277560	277800	Negation	277920	278160	Verb	278240	278360	Noun	278480	279000
+Non-dominant POS	Verb	276280	276600
+English translation	He gave me the instruction and said "you can not get wet."
+Notes - number of character bytes:	0
+
+
+Utterance ID:	61
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	279040
+End frame:	284600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	cl:1 "list"	279200	279480	IX-2p	279600	279880	UNKNOWN	280200	280240	IX-2p	280320	280560	SHOWER	280680	281120	MUST	281280	281400	USE	281480	281640	PLASTIC	281840	282400	fs-BAG	282480	282880	cl:s "putting the object on"	283000	284040
+non-dominant hand gloss	cl:1 "list"	279200	279480	|>		280760
+head pos: tilt fr/bk	front	279040	279200	start	279240	279440	back	279480	279800	start	279840	280200	front	280240	281480	start	281520	284040	front	284080	284320	end	284360	284600
+head pos: turn	slightly left	279040	279080	start	279120	279840	right	279880	281320	start	281360	283200	slightly right	283240	283760	end	283800	284600
+head pos: tilt side	start	279040	279400	right	279440	279840	start	279880	280360	left	280400	281480	start	281520	283400	right	283440	284600
+head pos: jut	forward	279040	279120	start	279160	280440	back/right	280480	281400	start	281440	282800	back	282840	284080	end	284120	284600
+head mvmt: nod
+	start	281840	284000	single	284040	284360	end	284400	284600
+body lean	forward	279040	279200	start	279240	280240	forward	280280	282920	start	282960	283440	left	283480	284080	end	284120	284600
+eye brows	slightly lowered	279040	280320	start	280360	280640	raised	280680	281200	start	281240	281440	slightly lowered	281480	284600
+eye gaze	to addressee	279040	283240	right	283280	283800	to addressee	283840	284600
+eye aperture	start	279040	279440	slightly squinted	279480	280400	start	280440	280640	wide	280680	281240	start	281280	281440	slightly squinted	281480	284040	start	284080	284360	further squinted	284400	284600
+nose	start	284040	284320	wrinkle	284360	284600
+POS	Classifier	279200	279480	Pronoun	279600	279880	Pronoun	280320	280560	Noun	280680	281120	Verb	281280	281400	Verb	281480	281640	Noun	281840	282400	Noun	282480	282880	Classifier	283000	284040
+Non-dominant POS	Classifier	279200	279480
+English translation	Second, when you take shower, you will need to put your hand in plastic bag.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	62
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	284640
+End frame:	288680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	#SO	284760	285000	part:indef	285240	286080	MUST	286240	286440	EXPLAIN	286640	287080	cl:5 "etc"	287160	287480	EVERYTHING	287680	287960	IX-1p	288120	288240	FINE	288320	288520	UNKNOWN	288560	288680
+non-dominant hand gloss	EVERYTHING	287680	287960	|>		288480
+head pos: tilt fr/bk	start	284640	285200	front	285240	287920	start	287960	288600	slightly front	288640	288680
+head pos: turn	start	284640	285120	right	285160	286080	start	286120	286440	left	286480	288680
+head pos: tilt side	slightly right	284640	285120	start	285160	286360	left	286400	287280	start	287320	288400	left	288440	288680
+head pos: jut	start	284640	285480	forward/right	285520	286120	start	286160	286400	back	286440	287760	start	287800	288480	back/left	288520	288680
+head mvmt: nod
+	start	286080	286440	rapid	286480	287280	start	287320	288360	single	288400	288640	end	288680	288680
+body lean	start	284640	285440	slightly forward	285480	286120	start	286160	286440	slightly forward	286480	288120	end	288160	288680
+eye brows	lowered	284640	285280	start	285320	285440	slightly raised	285480	286080	start	286120	286200	lowered	286240	288000	end	288040	288680
+eye gaze	left	284640	286840	to addressee	286880	288000	left	288040	288680
+eye aperture	squint	284640	285240	start	285280	286200	closed	286240	286760	start	286800	286840	further squinted	286880	287280	start	287320	287320	blink	287360	287720	start	287760	287760	squint	287800	288000	start	288040	288520	closed	288560	288680
+nose	wrinkle	284640	285320	start	285360	286240	wrinkle	286280	287920	end	287960	288680
+POS	Preposition	284760	285000	Particle	285240	286080	Verb	286240	286440	Verb	286640	287080	Classifier	287160	287480	Noun	287680	287960	Determiner	288120	288240	Verb	288320	288520
+Non-dominant POS	Noun	287680	287960
+English translation	He exlained everything and I said fine.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	63
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	288720
+End frame:	291600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	288800	288960	FINALLY	289120	289240	ARRIVE	289360	289560	HOME	289680	290000	SEVEN-THIRTY	290160	290800	IX-1p	291040	291200	UNKNOWN	291320	291600
+non-dominant hand gloss	ARRIVE	289360	289560	|>		291240
+head pos: tilt fr/bk	front	288720	288800	start	288840	289040	back	289080	289600	start	289640	290000	front	290040	291000	start	291040	291400	slightly front	291440	291600
+head pos: turn	left	288720	288840	start	288880	289400	slightly right	289440	289680	start	289720	290600	slightly left	290640	290920	start	290960	291520	right	291560	291600
+head pos: tilt side	left	288720	288880	start	288920	289120	right	289160	289760	start	289800	290440	left	290480	290880	start	290920	291240	right	291280	291600
+head pos: jut	back/left	288720	288880	start	288920	289160	back/right	289200	289680	start	289720	291240	back	291280	291600
+head mvmt: side to side	start	288720	288960	single	289000	290000	end	290040	290440
+body lean	left	288720	289040	start	289080	290120	forward	290160	290880	end	290920	291600
+eye brows	start	291200	291560	lowered	291600	291600
+eye gaze	to addressee	288720	291600
+eye aperture	lowered lid	288720	288840	start	288880	291320	closed	291360	291600
+POS	Pronoun	288800	288960	Adverb	289120	289240	Verb	289360	289560	Noun	289680	290000	Number	290160	290800	Pronoun	291040	291200
+Non-dominant POS	Verb	289360	289560
+English translation	I finally arrived home at 7:30.
+Notes - number of character bytes:	26
+- is number gloss correct?
+
+
+Utterance ID:	64
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	291640
+End frame:	295640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	REALLY	291760	291840	IX-1p	291920	292000	MUST	292040	292080	SHOWER	292120	292280	IX-1p	292400	292480	WORK	292560	292760	ALL-DAY	292880	293160	PLUS	293320	293440	BLOOD	293560	294040	cl:5 "all over on the shirt"	294120	294480	EVERYWHERE	294600	295000	ON	295080	295240	IX-1p	295400	295640
+non-dominant hand gloss
+head pos: tilt fr/bk	front	291640	291760	start	291800	292040	front	292080	293520	start	293560	293920	front	293960	295320	end	295360	295640
+head pos: turn	right	291640	291720	start	291760	291960	slightly left	292000	292480	start	292520	293760	right	293800	294400	start	294440	294640	slightly left	294680	295200	start	295240	295560	slightly right	295600	295640
+head pos: tilt side	right	291640	291800	start	291840	292000	left	292040	293320	start	293360	293920	right	293960	294360	start	294400	294840	left	294880	295360	end	295400	295640
+head pos: jut	back	291640	295320	end	295360	295640
+head mvmt: side to side	start	291640	292000	rapid	292040	295400	end	295440	295640
+body lean	forward	291640	295400	end	295440	295640
+eye brows	lowered	291640	293040	start	293080	293360	slightly raised	293400	294080	start	294120	294440	lowered	294480	295640
+eye aperture	closed	291640	295640
+nose	start	291640	291800	wrinkle	291840	293080	start	293120	294360	wrinkle	294400	295640
+POS	Discourse Marker	291760	291840	Pronoun	291920	292000	Adverb	292040	292080	Noun	292120	292280	Determiner	292400	292480	Verb	292560	292760	Noun	292880	293160	Adjective	293320	293440	Noun	293560	294040	Classifier	294120	294480	Noun	294600	295000	Preposition	295080	295240	Pronoun	295400	295640
+English translation	Really, I have to take shower because I was working all day, and plus blood all over on me.
+Notes - number of character bytes:	44
+- was his eyes actually closed all the way ?
+
+
+Utterance ID:	65
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	295680
+End frame:	302840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	#SO	295760	295880	UNKNOWN	296080	296480	IX-1p	296600	296800	IN	296920	297160	SHOWER	297520	298040	UNKNOWN	298200	298280	IX-1p	298480	298840	UNKNOWN	299040	299160	IX-1p	299240	299320	cl:s "pulling on the object"	299480	300000	TWO	300400	300720	fs-BAGS	300840	301240	PULL-ON	301400	301960	#BE	302080	302240	SAFE	302360	302840
+non-dominant hand gloss
+head pos: tilt fr/bk	start	295680	297560	front	297600	298240	start	298280	298640	back	298680	298920	start	298960	299360	front	299400	300160	start	300200	300640	slightly front	300680	302840
+head pos: turn	slightly right	295680	296600	start	296640	297560	left	297600	298240	start	298280	298920	slightly right	298960	299120	start	299160	299480	left	299520	299960	start	300000	300680	right	300720	302840
+head pos: tilt side	start	295680	295960	right	296000	296760	start	296800	297280	left	297320	298240	start	298280	298640	right	298680	299200	start	299240	299440	left	299480	300200	start	300240	300720	slightly right	300760	302640	end	302680	302840
+head pos: jut	start	295680	296120	slightly back	296160	297560	start	297600	298640	slightly back	298680	299160	start	299200	300480	back/right	300520	302840
+head mvmt: nod
+	start	295680	297400	single	297440	298240	start	298280	301200	slight rapid head nod	301240	302760	end	302800	302840
+body lean	start	295680	296920	back	296960	297320	start	297360	297920	forward	297960	298280	start	298320	299840	forward/left	299880	300200	start	300240	301320	slightly forward	301360	302320	end	302360	302840
+eye brows	lowered	295680	299320	start	299360	300400	lowered	300440	302840
+eye gaze	to addressee	297040	299040	left	299080	300120	to addressee	300160	302640	left	302680	302840
+eye aperture	closed	295680	296680	start	296720	297200	further squinted	297240	298240	start	298280	298280	blink	298320	298640	start	298680	298680	squint	298720	299360	start	299400	300360	squint	300400	302840
+nose	wrinkle	295680	298480	start	298520	300400	wrinkle	300440	302840
+POS	Preposition	295760	295880	Pronoun	296600	296800	Preposition	296920	297160	Noun	297520	298040	Pronoun	298480	298840	Pronoun	299240	299320	Classifier	299480	300000	Number	300400	300720	Noun	300840	301240	Verb	301400	301960	Verb	302080	302240	Adjective	302360	302840
+English translation	So I went in the shower and put two bags on my hand to be safe.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	66
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	302880
+End frame:	307320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	302920	303120	WRAP	303200	303480	WITH	303600	303800	RUBBER	304000	304480	WRAP-AROUND	304720	305560	IX-1p	305840	305920	WALK	306080	306240	IN	306360	306480	SHOWER	306600	307280
+non-dominant hand gloss
+head pos: tilt fr/bk	front	302880	303520	start	303560	304520	front	304560	305880	start	305920	306200	front	306240	307320
+head pos: turn	slightly right	302880	302920	start	302960	303160	slightly left	303200	303560	start	303600	304360	right	304400	306200	start	306240	306880	slightly left	306920	307320
+head pos: tilt side	start	302880	303040	left	303080	303600	start	303640	304960	right	305000	306240	start	306280	306600	left	306640	307280	end	307320	307320
+head pos: jut	back/right	302880	302880	start	302920	303480	back/left	303520	303600	start	303640	304280	back/right	304320	305840	start	305880	306600	back	306640	307280	end	307320	307320
+head mvmt: nod
+	start	302880	304920	slow	304960	305800	start	305840	306560	slow	306600	307280	end	307320	307320
+body lean	forward	302880	305880	start	305920	306880	forward	306920	307320
+eye brows	lowered	302880	307320
+eye gaze	left	302880	302960	to addressee	303000	304760	left	304800	305120	to addressee	305160	307080	left	307120	307320
+eye aperture	lowered lid	302880	304800	start	304840	305000	blink	305040	305560	start	305600	305880	slightly squinted	305920	306960	end	307000	307320
+nose	wrinkle	302880	302920	start	302960	306320	wrinkle	306360	306920	end	306960	307320
+POS	Pronoun	302920	303120	Verb	303200	303480	Preposition	303600	303800	Noun	304000	304480	Verb	304720	305560	Pronoun	305840	305920	Verb	306080	306240	Preposition	306360	306480	Noun	306600	307280
+English translation	I wrapped around my hand with rubber band and walked into the shower.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	67
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	307360
+End frame:	313840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IX-1p	307480	307760	UNKNOWN	307880	308400	WATER	308560	308920	cl:4 "running"	309120	309280	WASH	309360	310400	UNKNOWN	310480	310960	LEAVE	311120	311360	IX-3p	311520	311600	CAN-NOT	311680	311800	USE	311920	312080	IX-3p:i	312240	312520	IX-1p	312640	312800	part:indef	312960	313840
+non-dominant hand gloss
+head pos: tilt fr/bk	front	307360	307400	start	307440	308520	front	308560	309440	start	309480	310120	back	310160	310800	start	310840	311040	front	311080	313680	end	313720	313840
+head pos: turn	slightly left	307360	307440	start	307480	310320	slightly left	310360	311240	start	311280	311680	slightly right	311720	312200	start	312240	312720	right	312760	313160	start	313200	313640	slightly left	313680	313720	end	313760	313840
+head pos: tilt side	start	307360	307760	right	307800	308680	start	308720	310160	left	310200	313200	end	313240	313840
+head pos: jut	start	307360	308600	forward	308640	309320	start	309360	309960	back/left	310000	313000	end	313040	313840
+head mvmt: nod
+	start	307360	307600	rapid	307640	308560	end	308600	309280
+body lean	forward	307360	307360	start	307400	307880	right	307920	308640	start	308680	309080	forward/right	309120	309400	start	309440	309920	back	309960	312840	end	312880	313840
+eye gaze	left	307360	308360	up	308400	309120	left	309160	309400	up	309440	310720	to addressee	310760	313840
+eye aperture	start	310480	311040	slightly lowered	311080	313840
+POS	Pronoun	307480	307760	Noun	308560	308920	Classifier	309120	309280	Verb	309360	310400	Verb	311120	311360	Pronoun	311520	311600	Negation	311680	311800	Verb	311920	312080	Pronoun	312240	312520	Determiner	312640	312800	Particle	312960	313840
+English translation	While water running, I had to leave my arm out since I could not use it.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	68
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	313880
+End frame:	320120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	IX-1p	313960	314040	SHAMPOO	314240	314640	fs-SHAMPOO	314840	315640	SHAMPOO	315720	316080	IX-1p	316280	316360	cl:5 "picking the object up"	316560	317320	cl:5 "dumping the object"	317480	318200
+non-dominant hand gloss
+head pos: tilt fr/bk	start	313880	314320	front	314360	316600	start	316640	317040	back	317080	318240	start	318280	318760	front	318800	319520
+head pos: turn	start	313880	314400	slightly left	314440	314920	start	314960	315400	left	315440	316040	start	316080	317240	slightly left	317280	318200	start	318240	318760	slightly right	318800	319520
+head pos: tilt side	start	315720	316320	right	316360	317000	start	317040	317320	left	317360	318120	start	318160	318800	slightly right	318840	319520
+head pos: jut	start	318160	318640	slightly back	318680	319520
+body lean	start	313880	315320	slightly forward	315360	316320	start	316360	316680	right	316720	317160	end	317200	319520
+eye brows	start	313880	315160	lowered	315200	316080	end	316120	316360
+eye gaze	to addressee	313880	316400	left	316440	317000	up	317040	318280	down	318320	319520
+eye aperture	start	316280	316480	lowered lid	316520	316720	start	316760	318640	closed	318680	319520
+POS	Pronoun	313960	314040	Noun	314240	314640	Noun	314840	315640	Noun	315720	316080	Determiner	316280	316360	Classifier	316560	317320	Classifier	317480	318200
+English translation	I picked the shampoo and dump it on my hand.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	69
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	320160
+End frame:	324920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	IX-1p	320360	320480	NOT	320560	320600	THINK	320680	321440	IX-3p:i	321680	321960	|>		322640	cl:5 "liquid all over"	322880	323640	IX-1p	323800	324000	part:indef	324120	324520
+non-dominant hand gloss	UNKNOWN	320160	320360	|>		324920
+head pos: tilt fr/bk	front	320160	321920	start	321960	322880	front	322920	324920
+head pos: turn	slightly right	320160	320520	start	320560	321440	slightly left	321480	323840	start	323880	324360	right	324400	324640	start	324680	324880	slightly left	324920	324920
+head pos: tilt side	right	320160	324680	end	324720	324920
+head pos: jut	slightly back	320160	324920
+body lean	slightly forward	320160	323560	start	323600	324120	right	324160	324920
+eye gaze	to addressee	320160	321600	left	321640	323000	to addressee	323040	324120	right	324160	324480	to addressee	324520	324920
+eye aperture	lowered lid	320160	323760	start	323800	323880	blink	323920	324160	start	324200	324200	slightly squinted	324240	324920
+POS	Pronoun	320360	320480	Negation	320560	320600	Verb	320680	321440	Pronoun	321680	321960	Classifier	322880	323640	Pronoun	323800	324000	Particle	324120	324520
+English translation	I was not thinking.  The liquid was all over on my hand.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	70
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	324960
+End frame:	327720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	cl:1 "walking over"	325080	325440	GET	325520	325720	ANOTHER	325840	326120	#BAG	326240	326640	cl:s "pulling over"	326760	327600	THEN	327680	327720
+non-dominant hand gloss	GET	325520	325720	|>		326200
+head pos: tilt fr/bk	front	324960	327720
+head pos: turn	start	324960	325040	left	325080	325560	start	325600	326160	slightly right	326200	327720
+head pos: tilt side	left	324960	327720
+head pos: jut	slightly back	324960	327720
+body lean	right	324960	325160	start	325200	326160	forward/left	326200	327720
+eye gaze	left	324960	325480	to addressee	325520	327720
+eye aperture	slightly squinted	324960	327720
+POS	Classifier	325080	325440	Verb	325520	325720	Noun	325840	326120	Noun	326240	326640	Classifier	326760	327600	Adverb	327680	327720
+Non-dominant POS	Verb	325520	325720
+English translation	I walked over and got another bag to put on my hand.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	71
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	327760
+End frame:	330720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	011
+main gloss	cl:1 "walking back"	327840	328200	SHOWER	328400	329120	WASH	329360	329800	FEEL	329880	330040	GOOD	330120	330720
+non-dominant hand gloss
+head pos: tilt fr/bk	front	327760	329600	start	329640	329840	back	329880	330560	end	330600	330720
+head pos: turn	slightly right	327760	328880	start	328920	329400	left	329440	330280	end	330320	330720
+head pos: tilt side	slightly left	327760	327880	start	327920	328080	right	328120	329160	start	329200	329520	left	329560	330320	start	330360	330640	right	330680	330720
+head pos: jut	back	327760	330720
+body lean	left	327760	327880	start	327920	328200	right	328240	329160	start	329200	330040	back	330080	330600	end	330640	330720
+eye gaze	to addressee	327760	330720
+eye aperture	slightly squinted	327760	328960	start	329000	329120	closed	329160	329840	start	329880	329880	lowered lid	329920	330720
+POS	Classifier	327840	328200	Noun	328400	329120	Verb	329360	329800	Verb	329880	330040	Adjective	330120	330720
+English translation	I walked back in the shower and washed.  I felt good. 
+Notes - number of character bytes:	85
+- last word: GOOD, is it proper gloss even if he  did "THUMBS UP", is it gesture or??
+
+
+Utterance ID:	72
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv4:movies:accident:accident_1065_small_0.mov
+Video	NCSLGRv4:movies:accident:accident_1065_small_2.mov
+Video	
+Video	
+Audio	
+Start frame:	330760
+End frame:	336920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	#THEN	330840	331080	SAME	331480	331600	IX-1p	332040	332120	BED	332320	332960	ALL-NIGHT	333160	333320	READY	333440	333560	FOR	333680	333800	WORK	333880	334080	TODAY	334200	334400	ALL-DAY	334560	334920
+non-dominant hand gloss
+head pos: tilt fr/bk	start	330760	331320	front	331360	333800	start	333840	334480	front	334520	336000	end	336040	336920
+head pos: turn	start	330760	331000	slightly left	331040	331520	start	331560	331720	left	331760	332040	start	332080	332480	right	332520	333720	start	333760	334200	left	334240	334920	start	334960	336200	slightly right	336240	336920
+head pos: tilt side	right	330760	331360	start	331400	331760	left	331800	332160	start	332200	333200	right	333240	333680	start	333720	334400	left	334440	334920	start	334960	336240	slightly right	336280	336920
+head pos: jut	back	330760	332360	start	332400	333960	slightly back	334000	334960	end	335000	336920
+head mvmt: nod
+	start	334400	334840	slight rapid head nod	334880	335640	end	335680	336240
+body lean	start	330760	331040	back/right	331080	332360	start	332400	333120	slightly forward	333160	333560	start	333600	334440	left	334480	335280	end	335320	336240
+eye brows	start	330760	331040	slightly raised	331080	334680	end	334720	334960
+eye gaze	to addressee	330760	336440	right	336480	336920
+eye aperture	lowered lid	330760	330760	start	330800	330800	blink	330840	332000	start	332040	332040	slightly squinted	332080	336920
+POS	Adverb	330840	331080	Adjective	331480	331600	Proper Noun	332040	332120	Noun	332320	332960	Noun	333160	333320	Adjective	333440	333560	Preposition	333680	333800	Verb	333880	334080	Noun	334200	334400	Noun	334560	334920
+English translation	Then, I went to bed all night to get ready for work all day today.
+Notes - number of character bytes:	0

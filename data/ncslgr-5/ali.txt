@@ -1,0 +1,1207 @@
+SIGNSTREAM EXPORT DATA FILE
+Export data format version:	5
+Database:	ali	Firewire 38200:NCSLGRv5:ali
+Number of utterances:	37
+
+
+Utterance ID:	1
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	0
+End frame:	4240
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	520	720	REALLY	1200	1400	IX-1p	1560	1760	PAST	1920	2240	IX-1p	2520	2640	FOUR-YEAR	2760	3240	FIVE-YEAR	3440	4240
+non-dominant hand gloss	IX-3p:i	2400	2640
+head pos: tilt fr/bk	slightly back	0	160	start	200	280	slightly front	320	440	start	480	600	back	640	1760	start	1800	3640	front	3680	3960	start	4000	4200	back	4240	4240
+head pos: turn	start	640	1040	right	1080	1520	start	1560	2080	left	2120	2440	start	2480	2800	right	2840	4000	start	4040	4200	slightly right	4240	4240
+head pos: tilt side	start	0	480	slightly right	520	880	start	920	1240	slightly left	1280	1640	start	1680	2320	slightly right	2360	3160	end	3200	4240
+head pos: jut	slightly forward	0	160	start	200	320	slightly back	360	440	start	480	680	slightly forward	720	1000	start	1040	1840	slightly back	1880	2040	start	2080	3680	slightly back	3720	3960	end	4000	4240
+head mvmt: nod
+	start	0	160	single	200	360	start	400	1760	single	1800	2120	start	2160	3600	single	3640	4040	end	4080	4240
+body lean	start	0	720	forward	760	1120	start	1160	3000	forward	3040	4240
+eye brows	start	1160	1240	slightly lowered	1280	2360	start	2400	2440	lowered	2480	4240
+eye gaze	to addressee	0	3920	left	4040	4240
+eye aperture	start	0	1040	closed	1080	3000	start	3040	3040	further squinted	3080	4240
+nose	start	2080	2400	wrinkle	2440	4240
+POS	Pronoun	520	720	Discourse Marker	1200	1400	Pronoun	1560	1760	Tense Marker	1920	2240	Pronoun	2520	2640	Number	2760	3240	Number	3440	4240
+Non-dominant POS	Pronoun	2400	2640
+English translation	In the past when I was four or five years old.
+Notes - number of character bytes:	193
+-CBD
+- Not sure whats happening with his second hand where I glossed as "IX-3p:i", not sure if its correct.
+- I m not sure how to gloss the age part where I just put "four-year" and "five-year"
+
+
+Utterance ID:	2
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	4240
+End frame:	10121
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	4560	4720	POSS-1p	4840	4920	GRANDFATHER	5120	5440	IX-3p:i	5600	5840	BIG	6000	6520	BOXING	6680	7280	#FAN	7480	8080	KNOW	8200	8320	fs-BOXING	8440	9200	BOXING	9360	9760	UNKNOWN	10040	10121
+non-dominant hand gloss	GRANDFATHER	5120	5440	|>		5840	BOXING	6680	7280	|>		9240
+head pos: tilt fr/bk	slightly back	4240	4720	start	4760	5160	front	5200	9720	end	9760	10121
+head pos: turn	slightly right	4240	4440	start	4480	4600	right	4640	5840	start	5880	6360	left	6400	6680	start	6720	7480	right	7520	9600	start	9640	9920	left	9960	10121
+head pos: tilt side	start	4240	5640	slightly right	5680	5840	start	5880	6120	left	6160	6680	start	6720	7280	slightly right	7320	8120	start	8160	9840	left	9880	10121
+head pos: jut	slightly forward	4240	4360	start	4400	5080	back	5120	5760	start	5800	6280	back	6320	7280	start	7320	8800	back	8840	9600	start	9640	9840	slightly forward	9880	10121
+head mvmt: nod
+	start	8840	9240	single	9280	9680	end	9720	9920
+body lean	slightly forward	4240	4360	start	4400	5080	slightly back	5120	5480	start	5520	7440	forward	7480	9920	end	9960	10121
+eye brows	lowered	4240	10121
+eye gaze	left	4240	4280	to addressee	4320	9680	left	9720	10121
+eye aperture	squint	4240	10121
+nose	wrinkle	4240	10121
+POS	Pronoun	4560	4720	Possessive	4840	4920	Proper Noun	5120	5440	Determiner	5600	5840	Adjective	6000	6520	Verb	6680	7280	Noun	7480	8080	Verb	8200	8320	Verb	8440	9200	Verb	9360	9760
+Non-dominant POS	Proper Noun	5120	5440	Verb	6680	7280
+English translation	My grandfather was big boxing fan.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	3
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	10121
+End frame:	14440
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	REALLY	10520	10680	POSS-1p	10800	10880	CL:3"sit down"	11280	11400	"come on"	11520	11840	LOOK++	11960	12640	BOXING	12840	13280	IX-1p	13560	13800	part:indef	14040	14440
+non-dominant hand gloss
+head pos: tilt fr/bk	start	10800	11280	front	11320	13440	start	13480	14000	back	14040	14400	end	14440	14440
+head pos: turn	left	10121	10360	start	10400	10760	right	10800	10960	start	11000	11520	slightly left	11560	11720	start	11760	12760	right	12800	13000	start	13040	13600	slightly left	13640	14040	end	14080	14440
+head pos: tilt side	left	10121	10240	start	10280	10640	right	10680	11040	start	11080	11320	left	11360	11880	start	11920	12240	right	12280	13200	start	13240	13600	slightly right	13640	14040	start	14080	14400	slightly left	14440	14440
+head pos: jut	start	10121	10720	back	10760	11560	start	11600	11920	slightly forward	11960	13600	start	13640	14040	back	14080	14440
+body lean	start	10880	11360	forward/left	11400	11960	start	12000	12080	forward	12120	12640	start	12680	12800	forward/right	12840	13280	end	13320	14440
+eye brows	lowered	10121	14440
+eye gaze	left	10121	10400	to addressee	10440	13320	left	13360	14040	to addressee	14080	14440
+eye aperture	squint	10121	10880	start	10920	11360	slightly squinted	11400	13320	start	13360	13480	slightly squinted	13520	13600	start	13640	13920	blink	13960	14120	start	14160	14400	slightly squinted	14440	14440
+nose	wrinkle	10121	10840	end	10880	10920
+POS	Discourse Marker	10520	10680	Possessive	10800	10880	Classifier	11280	11400	Verb	11960	12640	Verb	12840	13280	Pronoun	13560	13800	Particle	14040	14440
+English translation	He asked me to sit down and watch boxing but I was clueless.
+Notes - number of character bytes:	63
+- POSS-1p, it appears to say "MY" but it could means "PLEASE"??
+
+
+Utterance ID:	4
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	14440
+End frame:	16840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	FINE	14560	14920	IX-1p	15040	15120	SMALL	15360	15480	YOUNG	15720	15960	NOT	16000	16080	REMEMBER	16160	16440	#BUT	16520	16840
+non-dominant hand gloss	SMALL	15360	15520	|>		15640	REMEMBER	16160	16440	|>		16840
+head pos: tilt fr/bk	start	14440	14840	slightly front	14880	16840
+head pos: turn	start	14440	15040	right	15080	16480	end	16520	16840
+head pos: tilt side	slightly right	14440	14600	start	14640	16200	slightly right	16240	16720	end	16760	16840
+head pos: jut	back	14440	16840
+head mvmt: shake	start	15360	15640	slight rapid head shake	15680	16240	end	16280	16520
+body lean	slightly back	14440	14560	start	14600	14920	back	14960	15200	start	15240	15320	left	15360	16000	start	16040	16520	slightly forward	16560	16840
+eye brows	slightly lowered	14440	15040	start	15080	15080	lowered	15120	16840
+eye gaze	to addressee	14440	16840
+eye aperture	start	14440	14600	blink	14640	14800	start	14840	15040	further squinted	15080	16840
+nose	start	14960	15040	wrinkle	15080	16840
+negative	negation	15680	16240
+POS	Discourse Marker	14560	14920	Proper Noun	15040	15120	Adjective	15360	15480	Adjective	15720	15960	Negation	16000	16080	Verb	16160	16440	Conjunction	16520	16840
+Non-dominant POS	Adjective	15360	15520	Verb	16160	16440
+English translation	I couldn't remember anything because I was too young.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	5
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	16840
+End frame:	21120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	POSS-1p	17200	17240	FATHER	17400	17480	EXPLAIN	17640	17840	SAY	18000	18160	"wave"	18680	18800	IX-2p	18880	18920	REALLY	19080	19160	IX-2p	19280	19320	KISS	19520	19600	BOXING	19760	20200
+non-dominant hand gloss	REMEMBER	16840	16880	|>		17280	EXPLAIN	17640	17840	|>		19480	GREW-UP	20600	20960
+head pos: tilt fr/bk	front	16840	17760	start	17800	18480	back	18520	19520	start	19560	20280	slightly front	20320	20920	end	20960	21120
+head pos: turn	start	16840	17080	right	17120	18040	start	18080	18720	slightly left	18760	18920	start	18960	19480	right	19520	19960	start	20000	20720	slightly left	20760	20800	start	20840	21040	slightly right	21080	21120
+head pos: tilt side	start	16840	17000	left	17040	18200	start	18240	18720	right	18760	19600	start	19640	20320	left	20360	20760	start	20800	21080	right	21120	21120
+head mvmt: nod
+	start	20360	20760	single	20800	20880	end	20920	21120
+head mvmt: side to side	start	17800	18120	slow	18160	20400	end	20440	20760
+body lean	slightly forward	16840	17040	start	17080	17280	slightly back	17320	17760	start	17800	18240	forward	18280	18760	start	18800	19120	right	19160	19560	start	19600	20000	forward	20040	20760	end	20800	21120
+eye brows	lowered	16840	21120
+eye gaze	to addressee	16840	20080	right	20120	21120
+eye aperture	further squinted	16840	19040	start	19080	19520	squint	19560	21120
+nose	wrinkle	16840	21120
+POS	Possessive	17200	17240	Proper Noun	17400	17480	Verb	17640	17840	Verb	18000	18160	Pronoun	18880	18920	Discourse Marker	19080	19160	Pronoun	19280	19320	Verb	19520	19600	Verb	19760	20200
+Non-dominant POS	Verb	16840	16880	Verb	17640	17840	Verb	20600	20960
+English translation	My father told me that I used to love boxing when I grew up.
+Notes - number of character bytes:	103
+- the wave gesture, is there any specific gloss for that?
+-Not sure if English translation is correct? 
+
+
+Utterance ID:	6
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	21120
+End frame:	23640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-1p	21280	21400	LOOK	21560	21600	"ohh"	21680	21880	IX-1p	22000	22120	LOOK	22280	22360	CL:L"holding remote"	22480	22880	BOXING	23120	23640
+non-dominant hand gloss	GREW-UP	21120	21280	|>		22200
+head pos: tilt fr/bk	start	21480	21720	slightly back	21760	22080	start	22120	22520	slightly front	22560	23280	end	23320	23640
+head pos: turn	slightly right	21120	21120	start	21160	21440	left	21480	22000	start	22040	22520	slightly right	22560	23640
+head pos: tilt side	slightly right	21120	21640	start	21680	21960	left	22000	22200	start	22240	22760	right	22800	23640
+head pos: jut	start	22280	22520	forward	22560	23120	end	23160	23640
+body lean	slightly forward	21120	21160	start	21200	21960	slightly back	22000	22240	start	22280	22480	forward	22520	23240	end	23280	23640
+eye brows	lowered	21120	21200	start	21240	21440	raised	21480	23640
+eye gaze	right	21120	21360	left	21400	21720	to addressee	21760	23520	left	23560	23640
+eye aperture	squint	21120	21240	start	21280	21280	lowered lid	21320	21440	start	21480	21600	wide	21640	23640
+nose	wrinkle	21120	21280	start	21320	21560	tensed	21600	22160	end	22200	22480
+POS	Pronoun	21280	21400	Verb	21560	21600	Pronoun	22000	22120	Verb	22280	22360	Classifier	22480	22880	Verb	23120	23640
+Non-dominant POS	Verb	21120	21280
+English translation	I said oh, then watched boxing on TV.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	7
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	23640
+End frame:	26080
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	IX-1p	23760	23840	LOOK	24040	24200	MIND	24400	24720	IX-1p	24840	25120	FUTURE	25280	25480	BOXING	25640	26080
+non-dominant hand gloss	BOXING	23640	23760	|>		25320
+head pos: tilt fr/bk	start	23640	24240	slightly front	24280	26080
+head pos: turn	slightly right	23640	24200	start	24240	24320	right	24360	25200	start	25240	25640	slightly left	25680	26080
+head pos: tilt side	slightly right	23640	23800	start	23840	24200	left	24240	25200	end	25240	25600
+head pos: jut	start	23640	24080	back	24120	26080
+body lean	slightly forward	23640	23840	start	23880	24240	back/left	24280	25120	start	25160	25600	right	25640	25800	start	25840	26000	forward/left	26040	26080
+eye brows	raised	23640	23800	end	23840	24200
+eye gaze	left	23640	23800	to addressee	23840	26080
+eye aperture	wide	23640	24120	start	24160	25360	slightly squinted	25400	26080
+POS	Pronoun	23760	23840	Verb	24040	24200	Verb	24400	24720	Pronoun	24840	25120	Tense Marker	25280	25480	Verb	25640	26080
+Non-dominant POS	Verb	23640	23760
+English translation	I would not mind to boxing someday in the future.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	8
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	26080
+End frame:	31280
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-1p	26360	26400	WORK-OUT++	26600	27280	BCL:5"muscles on stomach"	27440	28160	REALLY	28520	28600	"wow"	28720	29200	BUT	29360	29600	"wow"	29760	30120	A-LOT	30280	30400	TIME	30680	30760	REQUIRE	30960	31280
+non-dominant hand gloss	BOXING	26080	26120	|>		26400	BCL:5"muscles on stomach"	27440	28160	|>		29120	BUT	29360	29600	|>		29960
+head pos: tilt fr/bk	front	26080	31280
+head pos: turn	left	26080	26360	start	26400	26880	slightly left	26920	28600	start	28640	29680	right	29720	29960	start	30000	30240	left	30280	31280
+head pos: tilt side	start	26080	26360	left	26400	27120	start	27160	27720	right	27760	28120	start	28160	28520	left	28560	28960	start	29000	29320	right	29360	30080	start	30120	30720	left	30760	31160	end	31200	31280
+head pos: jut	back	26080	26400	start	26440	26720	forward	26760	27120	start	27160	27480	back	27520	28160	start	28200	28760	forward	28800	29040	start	29080	29520	back	29560	30320	start	30360	30920	forward	30960	31280
+head mvmt: nod
+	start	30320	30640	slight rapid head nod	30680	31240	end	31280	31280
+body lean	back/right	26080	26440	start	26480	26880	forward	26920	27160	start	27200	27600	back	27640	28160	start	28200	28720	forward	28760	29200	start	29240	29640	back	29680	30400	start	30440	31200	forward	31240	31280
+eye brows	start	26080	26440	slightly lowered	26480	26920	start	26960	27320	lowered	27360	27880	start	27920	29200	lowered	29240	29480	start	29520	30640	lowered	30680	31280
+eye gaze	to addressee	26080	31280
+eye aperture	start	26080	26400	squint	26440	29040	start	29080	29240	closed	29280	29480	start	29520	29600	blink	29640	29840	start	29880	30720	squint	30760	31280
+nose	start	26760	27280	wrinkle	27320	28160	start	28200	29280	wrinkle	29320	29520	start	29560	30840	wrinkle	30880	31280
+POS	Pronoun	26360	26400	Verb	26600	27280	Classifier	27440	28160	Discourse Marker	28520	28600	Conjunction	29360	29600	Adjective	30280	30400	Noun	30680	30760	Verb	30960	31280
+Non-dominant POS	Verb	26080	26120	Classifier	27440	28160	Conjunction	29360	29600
+English translation	I would work out and have those kind of muscles on my stomach.  It would be nice, but it is going to take a lot of my time.
+Notes - number of character bytes:	217
+-WORKOUT, even tho its correct sign for WORKOUT but not sure what about gloss as if you prefer to gloss as weighing or something?
+
+-Two "wow"s different signs.. not even sure if "wow" is correct gloss for either sign?
+
+
+Utterance ID:	9
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	31280
+End frame:	35400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	#SO	31360	31440	IX-1p	31560	31640	UNKNOWN	31840	31920	IX-1p	32040	32120	CL:L"holding the remote"	32360	32720	UNKNOWN	33000	33160	IMPACT	33760	34120	REALLY	34280	34440	part:indef	34800	35400
+non-dominant hand gloss	IMPACT	33760	34120	|>		34440
+head pos: tilt fr/bk	front	31280	31360	start	31400	32040	slightly back	32080	32240	start	32280	32440	front	32480	32640	start	32680	33040	back	33080	33800	end	33840	35400
+head pos: turn	left	31280	31320	start	31360	31680	right	31720	32720	start	32760	33440	left	33480	34000	start	34040	34360	right	34400	35120	start	35160	35360	left	35400	35400
+head pos: tilt side	start	31280	31480	right	31520	32720	start	32760	33280	left	33320	34040	start	34080	35360	slightly left	35400	35400
+head pos: jut	start	32680	32760	forward	32800	33760	start	33800	34920	slightly back	34960	35400
+head mvmt: nod
+	start	31280	31280	rapid	31320	31920	start	31960	32280	single	32320	32720	end	32760	33080
+head mvmt: shake	start	33080	33640	slow	33680	35360	end	35400	35400
+body lean	forward	31280	31560	start	31600	32200	forward/right	32240	32880	start	32920	34200	slightly forward	34240	34400	end	34440	35400
+eye brows	lowered	31280	31840	start	31880	32360	lowered	32400	35400
+eye gaze	to addressee	31280	31720	left	31760	32440
+eye aperture	squint	31280	31560	start	31600	31640	closed	31680	31720	start	31760	32400	squint	32440	33080	start	33120	33160	closed	33200	35400
+nose	wrinkle	31280	31760	start	31800	33400	wrinkle	33440	35400
+POS	Preposition	31360	31440	Pronoun	31560	31640	Pronoun	32040	32120	Classifier	32360	32720	Verb	33760	34120	Discourse Marker	34280	34440	Particle	34800	35400
+Non-dominant POS	Verb	33760	34120
+English translation	One thing that impacted me when I was watching TV.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	10
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	35400
+End frame:	43840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	LAST-YEAR	35720	36200	IX-1p	36360	36440	CL:L"holding the remote"	36880	37200	ONE	37280	37360	STORY	37560	38080	ON	38360	38440	fs-MUHAMMAD	38640	40520	fs-ALI	40800	41520	ON	41800	42000	CHANNEL	42200	42440	#CNN	42680	43840
+non-dominant hand gloss	G:"focus"	38600	39960
+head pos: tilt fr/bk	start	35400	36320	slightly back	36360	39920	start	39960	41000	slightly front	41040	42280	start	42320	43360	slightly back	43400	43840
+head pos: turn	left	35400	35840	start	35880	36400	right	36440	38000	start	38040	40880	right	40920	43560	end	43600	43840
+head pos: tilt side	slightly left	35400	35840	start	35880	36280	right	36320	37040	start	37080	37720	slightly right	37760	38120	start	38160	40280	right	40320	41840	start	41880	43720	slightly left	43760	43840
+head pos: jut	slightly back	35400	36280	start	36320	39120	back	39160	41920	start	41960	43720	forward	43760	43840
+head mvmt: nod
+	start	41000	41840	slight rapid head nod	41880	42240	end	42280	43360
+body lean	start	35400	35920	slightly back	35960	36320	start	36360	37000	forward	37040	37480	start	37520	38360	slightly forward	38400	38640	start	38680	39360	left	39400	43840
+eye brows	lowered	35400	43840
+eye gaze	to addressee	36160	43840
+eye aperture	further squinted	35400	38720	start	38760	42200	squint	42240	43160	start	43200	43560	closed	43600	43840
+nose	wrinkle	35400	38720	start	38760	41840	wrinkle	41880	43840
+POS	Tense Marker	35720	36200	Pronoun	36360	36440	Classifier	36880	37200	Number	37280	37360	Noun	37560	38080	Preposition	38360	38440	Proper Noun	38640	40520	Proper Noun	40800	41520	Preposition	41800	42000	Noun	42200	42440	Proper Noun	42680	43840
+English translation	Last year, I watched a story about Muhammad Ali on channel CNN.
+Notes - number of character bytes:	27
+-LAST-YEAR, correct gloss??
+
+
+Utterance ID:	11
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	43840
+End frame:	49360
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	POSS-3p:i	43960	44080	LIFE	44240	44560	TIME	44800	44920	STORY	45080	45760	IX-1p	45920	46040	CL:L"holding the remote"	46120	46160	ATTRACT	46400	47200	REALLY	47440	47480	CL:3"falling"	47760	48200	REALLY	48520	48600	"wow"	48680	49360
+non-dominant hand gloss	STORY	45080	45760	|>		46160
+head pos: tilt fr/bk	slightly back	43840	44560	start	44600	45200	front	45240	45920	start	45960	48440	slightly back	48480	49120	end	49160	49360
+head pos: turn	start	43840	44560	left	44600	45880	start	45920	46400	right	46440	47280	start	47320	47720	left	47760	48160	start	48200	48960	right	49000	49360
+head pos: tilt side	slightly left	43840	44080	start	44120	44560	left	44600	45320	start	45360	45920	right	45960	47200	start	47240	47600	left	47640	48160	start	48200	48680	slightly right	48720	49360
+head pos: jut	forward	43840	44040	start	44080	44360	back	44400	45320	start	45360	48960	back	49000	49360
+body lean	slightly forward	43840	44360	start	44400	44800	back/right	44840	46400	start	46440	47280	forward	47320	48600	end	48640	49360
+eye brows	lowered	43840	46160	start	46200	49160	lowered	49200	49360
+eye gaze	to addressee	44560	49360
+eye aperture	squint	43840	45320	start	45360	45520	blink	45560	45960	start	46000	46080	lowered lid	46120	46240	start	46280	46440	blink	46480	47440	start	47480	47720	blink	47760	48160	start	48200	49240	squint	49280	49360
+nose	wrinkle	43840	45880	start	45920	49160	wrinkle	49200	49360
+POS	Possessive	43960	44080	Noun	44240	44560	Noun	44800	44920	Noun	45080	45760	Pronoun	45920	46040	Classifier	46120	46160	Verb	46400	47200	Discourse Marker	47440	47480	Classifier	47760	48200	Discourse Marker	48520	48600
+Non-dominant POS	Noun	45080	45760
+English translation
+Notes - number of character bytes:	88
+-second cl, is it right, "falling" ?
+- WOW, is it correct gloss? 
+- English translation?
+
+
+Utterance ID:	12
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	49360
+End frame:	55200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	AFTER	49600	49680	IX-3p:i	49800	49840	STORY	50000	50440	IX-3p:i	50600	50800	fs-MUHAMMAD	51080	52920	fs-ALI	53040	53560	POSS-1p	53720	53840	FAVORITE	53920	54080	BOXING	54240	54320	FINISH	54640	54800
+non-dominant hand gloss	G:"focus"	52960	53560
+head pos: tilt fr/bk	start	49360	49520	front	49560	50600	start	50640	55040	slightly back	55080	55200
+head pos: turn	right	49360	51440	start	51480	52920	slightly left	52960	53400	start	53440	53560	left	53600	54800	start	54840	55160	right	55200	55200
+head pos: tilt side	slightly right	49360	49520	start	49560	50400	left	50440	51440	start	51480	53160	slightly right	53200	53560	start	53600	53920	left	53960	54760	end	54800	55200
+head pos: jut	back	49360	50400	start	50440	52920	back	52960	53400	start	53440	55000	slightly forward	55040	55120	end	55160	55200
+head mvmt: shake	start	49840	50560	slight rapid head shake	50600	50960	start	51000	53720	slight rapid head shake	53760	54000	end	54040	54760
+body lean	start	49360	49560	slightly forward	49600	49800	start	49840	50320	slightly back	50360	50520	start	50560	50760	forward	50800	51040	start	51080	54280	forward	54320	55200
+eye brows	lowered	49360	55200
+eye gaze	to addressee	49360	55200
+eye aperture	squint	49360	54280	start	54320	54480	closed	54520	55200
+nose	wrinkle	49360	55200
+POS	Adverb	49600	49680	Pronoun	49800	49840	Noun	50000	50440	Determiner	50600	50800	Proper Noun	51080	52920	Proper Noun	53040	53560	Possessive	53720	53840	Noun	53920	54080	Verb	54240	54320	Adverb	54640	54800
+English translation	After I watched that story, Muhammad Ali is my favorite boxing.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	13
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	55200
+End frame:	59640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	REALLY	55320	55480	IX-3p:i	55640	56200	POSS-3p:i	56400	56480	WIFE	56680	57040	INVITE	57160	57560	REPORTER	57800	58120	GO	58320	58400	POSS-3p:i	58520	58760	HOUSE	58960	59640
+non-dominant hand gloss	REPORTER	57800	58120	|>		58680
+head pos: tilt fr/bk	slightly back	55200	55240	start	55280	55440	back	55480	56680	start	56720	57080	slightly front	57120	57280	start	57320	58320	front	58360	59440	end	59480	59640
+head pos: turn	right	55200	55680	start	55720	56840	right	56880	59640
+head pos: tilt side	start	55200	55240	right	55280	55680	start	55720	56360	right	56400	57640	end	57680	58120
+head pos: jut	slightly forward	55200	55640	start	55680	56400	back	56440	59160	start	59200	59520	forward	59560	59640
+head mvmt: nod
+	start	55200	55240	slight rapid head nod	55280	55720	end	55760	56360
+body lean	forward	55200	55440	start	55480	56440	slightly back	56480	57040	start	57080	57320	back/left	57360	58640	start	58680	59080	forward	59120	59640
+eye brows	lowered	55200	57040	start	57080	58320	slightly lowered	58360	59640
+eye gaze	to addressee	56240	59640
+eye aperture	closed	55200	55840	start	55880	56400	squint	56440	57040	end	57080	57360
+nose	wrinkle	55200	56280	start	56320	57120	wrinkle	57160	59640
+POS	Discourse Marker	55320	55480	Pronoun	55640	56200	Possessive	56400	56480	Pronoun	56680	57040	Verb	57160	57560	Proper Noun	57800	58120	Verb	58320	58400	Possessive	58520	58760	Noun	58960	59640
+Non-dominant POS	Proper Noun	57800	58120
+English translation	His wife invited reporter over their house.
+Notes - number of character bytes:	51
+-INVITE OR WELCOME, which is more proper for gloss?
+
+
+Utterance ID:	14
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	59640
+End frame:	68411
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	HAVE	59920	60000	DINNER	60160	61000	part:indef	61600	61760	REALLY	62480	62560	SPORT	62680	62800	THUMB-IX-3p:i	62920	63080	SPORT	63200	63400	REPORTER	63640	64000	COLLECT	64320	64720	MORE	64840	64960	INFORMATION	65160	65320	ABOUT	65480	65640	fs-MUHAMMAD	65960	67200	fs-ALI	67320	67960	|>		68240
+non-dominant hand gloss	ABOUT	65480	65640	|>		67920	IX-3p:i	67960	68240
+head pos: tilt fr/bk	start	59640	59800	back	59840	61280	start	61320	61640	front	61680	61720	start	61760	61960	back	62000	62320	start	62360	62800	front	62840	63040	start	63080	63680	back	63720	64920	start	64960	66400	front	66440	66840	start	66880	67920	front	67960	68240	end	68280	68411
+head pos: turn	slightly right	59640	59720	start	59760	59960	right	60000	61240	start	61280	61720	left	61760	62080	start	62120	62560	right	62600	62840	start	62880	63240	slightly left	63280	63960	start	64000	66120	slightly right	66160	66480	start	66520	66840	slightly left	66880	68411
+head pos: tilt side	start	59640	61600	slightly left	61640	61960	start	62000	62840	slightly right	62880	63960	start	64000	64400	left	64440	65000	start	65040	65640	right	65680	66480	start	66520	67960	left	68000	68280	end	68320	68411
+head pos: jut	forward	59640	59680	start	59720	60960	forward	61000	61280	start	61320	62560	back	62600	63400	start	63440	64000	forward	64040	65000	start	65040	66160	back	66200	66960	start	67000	67280	back	67320	68200	end	68240	68411
+head mvmt: nod
+	start	59640	60520	single	60560	61760	start	61800	66320	single	66360	67320	start	67360	68000	single	68040	68360	end	68400	68411
+body lean	slightly forward	59640	59720	start	59760	60520	forward	60560	61360	start	61400	64200	forward	64240	65200	start	65240	66520	slightly forward	66560	66920	start	66960	68200	slightly forward	68240	68411
+eye brows	lowered	59640	63800	start	63840	66560	lowered	66600	66680	start	66720	67960	lowered	68000	68411
+eye gaze	to addressee	59640	61600	left	61640	62040	to addressee	62080	68280	left	68320	68411
+eye aperture	slightly squinted	59640	61320	start	61360	61560	blink	61600	61680	start	61720	61760	squint	61800	63760	start	63800	67920	slightly squinted	67960	68000	start	68040	68120	blink	68160	68320	slightly squinted	68360	68411
+nose	wrinkle	59640	63720	start	63760	67920	wrinkle	67960	68411
+POS	Adverb	59920	60000	Noun	60160	61000	Particle	61600	61760	Discourse Marker	62480	62560	Noun	62680	62800	Pronoun	62920	63080	Adjective	63200	63400	Proper Noun	63640	64000	Verb	64320	64720	Adjective	64840	64960	Noun	65160	65320	Adverb	65480	65640	Proper Noun	65960	67200	Proper Noun	67320	67960
+Non-dominant POS	Adverb	65480	65640	Determiner	67960	68240
+English translation	They had dinner while sport reporter collecting more information about Muhammad Ail.
+Notes - number of character bytes:	104
+-DINNER, not sure if its proper gloss or should I put "eat night"?
+-Is it correct POS for THUMB-IX-3p:i?
+
+
+Utterance ID:	15
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	68411
+End frame:	73960
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	IX-3p	69480	69680	WIFE	69960	70240	COOK	70360	70520	CL:L"setting up the objects"++	71040	71960	READY	72080	72240	CL:3"sitting around"	72480	72920	CHAT++	73040	73800
+non-dominant hand gloss
+head pos: tilt fr/bk	start	68411	68680	back	68720	69280	start	69320	70120	front	70160	72200	end	72240	73960
+head pos: turn	slightly left	68411	68440	start	68480	68920	right	68960	69320	start	69360	69680	slightly left	69720	70000	start	70040	70640	left	70680	71160	start	71200	71440	right	71480	71720	start	71760	71960	slightly left	72000	72240	start	72280	72880	right	72920	73560	start	73600	73880	slightly left	73920	73960
+head pos: tilt side	start	68411	68720	right	68760	69160	start	69200	70680	left	70720	71040	start	71080	72440	right	72480	73640	start	73680	73920	slightly left	73960	73960
+head pos: jut	start	68411	70560	forward	70600	71800	start	71840	72880	forward	72920	73680	end	73720	73960
+head mvmt: nod
+	start	68411	70640	rapid	70680	71920	start	71960	72920	rapid	72960	73680	end	73720	73960
+body lean	start	68411	68720	back	68760	70000	start	70040	70520	forward	70560	72200	start	72240	73600	right	73640	73920	end	73960	73960
+eye brows	lowered	68411	71200	start	71240	72880	slightly lowered	72920	73600	end	73640	73960
+eye gaze	left	68411	68640	right	68680	69080	left	69120	71000	down/right	71040	71520	down/left	71560	72080	right	72120	73960
+eye aperture	slightly squinted	68411	70000	start	70040	72920	further lowered	72960	73400	end	73440	73960
+nose	wrinkle	68411	70720	start	70760	72840	tensed	72880	73480	end	73520	73960
+POS	Determiner	69480	69680	Pronoun	69960	70240	Verb	70360	70520	Classifier	71040	71960	Adjective	72080	72240	Classifier	72480	72920	Verb	73040	73800
+English translation	His wife cooked and get things ready for dinner.  They sat down and chatting.
+Notes - number of character bytes:	78
+-his eyebrow in end, not sure if I should either put slightly lowered or none?
+
+
+Utterance ID:	16
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	73960
+End frame:	78880
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	REPORTER	74160	74680	part:indef	75000	75120	ASK	75280	75760	fs-MUHAMMAD	75960	76840	fs-ALI	76920	77400	part:indef	77520	77640	SIMPLE	77760	78040	QUESTION	78200	78680	part:indef	78800	78880
+non-dominant hand gloss	REPORTER	74160	74680	|>		77040	SIMPLE	77760	78040	|>		78560
+head pos: tilt fr/bk	back	73960	74160	start	74200	74800	back	74840	75480	end	75520	76840
+head pos: turn	slightly left	73960	75080	start	75120	75360	right	75400	76840	start	76880	77360	left	77400	77680	start	77720	78160	right	78200	78680	end	78720	78880
+head pos: tilt side	left	73960	74560	start	74600	74920	right	74960	75240	start	75280	75840	left	75880	76760	start	76800	77400	left	77440	77760	end	77800	78880
+head pos: jut	slightly forward	73960	74200	start	74240	74880	forward	74920	75120	start	75160	75760	slightly back	75800	77360	start	77400	77560	forward	77600	78240	end	78280	78880
+head mvmt: nod
+	start	75760	75880	slight rapid head nod	75920	77000	end	77040	77560
+head mvmt: shake	start	77800	78280	slight rapid head shake	78320	78760	end	78800	78880
+body lean	slightly forward	73960	74840	start	74880	75600	forward	75640	75920	start	75960	78720	slightly forward	78760	78880
+eye brows	start	73960	74640	lowered	74680	78880
+eye gaze	right	73960	74240	to addressee	74280	74720	left	74760	75000	to addressee	75040	78880
+eye aperture	start	73960	74960	squint	75000	75440	start	75480	75480	further squinted	75520	78880
+nose	start	76880	77400	wrinkle	77440	78880
+POS	Proper Noun	74160	74680	Particle	75000	75120	Verb	75280	75760	Proper Noun	75960	76840	Proper Noun	76920	77400	Particle	77520	77640	Adjective	77760	78040	Noun	78200	78680	Particle	78800	78880
+Non-dominant POS	Proper Noun	74160	74680	Adjective	77760	78040
+English translation	The reporter decided to ask Muhammad Ali a simple question.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	17
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	78880
+End frame:	85200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	fs-ALI	79120	79640	START	79800	80000	#TO	80040	80320	part:indef	80520	80840	IX-3p:i	80920	81000	KNOW	81120	81280	IX-3p:i	81520	81720	HAVE	81840	82040	fs-PAKINSON	82320	83760	SICK	83880	84680	IX-3p:i	84800	85120	SICK	85160	85200
+non-dominant hand gloss	part:indef	78880	78920	IX-3p:i	81520	81720	|>		83480	SICK	83880	84680	|>		85120
+head pos: tilt fr/bk	start	81840	83320	front	83360	85120	end	85160	85200
+head pos: turn	slightly right	78880	78880	start	78920	80440	left	80480	80720	start	80760	80960	right	81000	83840	start	83880	84640	left	84680	85200
+head pos: tilt side	start	78880	80200	left	80240	80760	start	80800	83240	slightly right	83280	83880	start	83920	84640	left	84680	85080	end	85120	85200
+head pos: jut	start	78880	79240	back	79280	80360	start	80400	81680	slightly back	81720	82320	start	82400	83240	back	83280	84400	end	84440	85200
+head mvmt: nod
+	start	80240	80400	slight rapid head nod	80440	80800	start	80840	82120	single	82160	83760	start	83800	84680	slight rapid head nod	84720	85080	end	85120	85200
+head mvmt: shake	start	78880	79240	slight rapid head shake	79280	79800	end	79840	80000
+eye brows	slightly lowered	78880	79000	start	79040	80840	lowered	80880	85200
+eye gaze	to addressee	78880	80280	left	80320	80520	to addressee	80560	85200
+eye aperture	slightly lowered	78880	79000	start	79040	80800	squint	80840	85200
+nose	wrinkle	78880	78920	start	78960	80920	wrinkle	80960	85200
+POS	Proper Noun	79120	79640	Verb	79800	80000	Preposition	80040	80320	Particle	80520	80840	Pronoun	80920	81000	Verb	81120	81280	Pronoun	81520	81720	Adverb	81840	82040	Proper Noun	82320	83760	Verb	83880	84680	Pronoun	84800	85120	Verb	85160	85200
+Non-dominant POS	Particle	78880	78920	Pronoun	81520	81720	Verb	83880	84680
+English translation	Ali start to.. you know, he had Parkinson's disease.
+Notes - number of character bytes:	239
+-He didnt spell parkinson correct, which is why I didn t spell right.. not sure if I should either spell correct for him or just copy what he spelled?
+-I glossed SICK instead of DISEASE because it appears it would be more proper for gloss?
+
+
+Utterance ID:	18
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	85200
+End frame:	89560
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	SICK	85200	85280	TEND	85440	85520	SHAKE	85640	86400	SOMETIME	86720	86960	NOT	87080	87120	ATTENTION	87200	87840	HAVE	88040	88120	HARD	88280	88360	TIME	88480	88560	FOCUS	88840	89560
+non-dominant hand gloss	part:indef	85400	85480
+head pos: tilt fr/bk	start	85200	85480	slightly back	85520	86200	start	86240	87200	front	87240	87720	start	87760	88320	front	88360	89320	end	89360	89560
+head pos: turn	slightly left	85200	85280	start	85320	85760	left	85800	86880	start	86920	87240	right	87280	89560
+head pos: tilt side	start	85200	85360	right	85400	85520	start	85560	85840	left	85880	86800	start	86840	87120	slightly right	87160	87640	end	87680	89560
+head pos: jut	start	85200	85520	slightly back	85560	87080	start	87120	87560	forward	87600	87800	start	87840	88040	back	88080	88560	start	88600	89160	forward	89200	89560
+body lean	start	85200	85640	back/right	85680	87160	start	87200	87680	forward	87720	88080	start	88120	88760	forward	88800	89440	end	89480	89560
+eye brows	lowered	85200	85240	start	85280	88080	lowered	88120	89560
+eye gaze	to addressee	85200	89560
+eye aperture	squint	85200	85320	start	85360	88080	squint	88120	89560
+nose	wrinkle	85200	85280	start	85320	88120	wrinkle	88160	89560
+POS	Noun	85200	85280	Verb	85440	85520	Verb	85640	86400	Adverb	86720	86960	Negation	87080	87120	Noun	87200	87840	Adverb	88040	88120	Adjective	88280	88360	Noun	88480	88560	Verb	88840	89560
+Non-dominant POS	Particle	85400	85480
+English translation	He tend to shaking sometime, that he have hard time to focus on things.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	19
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	89560
+End frame:	96400
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	#SO	89680	89760	START	90080	90200	#TO	90320	90520	UNKNOWN	90640	90880	REALLY	91000	91120	SHAKE	91240	92200	REPORTER	92440	92760	part:indef	92960	93120	LITTLE-BIT	93200	93360	SCARE	93760	94000	NOT	94120	94160	KNOW	94280	94360	HOW	94440	94480	TO	94560	94640	APPROACH	94880	95120	IX-3p:i	95240	95360	SITUATION	95560	96400
+non-dominant hand gloss
+head pos: tilt fr/bk	start	89560	91080	slightly back	91120	92280	start	92320	92520	slightly front	92560	92960	start	93000	93840	slightly back	93880	94040	start	94080	94280	front	94320	95840	end	95880	96400
+head pos: turn	right	89560	90360	start	90400	91600	right	91640	91840	start	91880	92520	left	92560	95240	start	95280	95720	right	95760	96400
+head pos: tilt side	start	89560	91240	right	91280	91880	start	91920	92480	left	92520	93000	start	93040	94960	slightly left	95000	95040	end	95080	96400
+head mvmt: shake	start	89560	91240	rapid	91280	91960	end	92000	92760
+body lean	slightly forward	89560	89760	start	89800	90240	back	90280	92440	start	92480	92640	slightly forward	92680	93000	start	93040	93200	back/right	93240	94080	start	94120	95000	forward	95040	95960	end	96000	96400
+eye brows	slightly lowered	89560	89680	start	89720	90240	raised	90280	91800	start	91840	94560	lowered	94600	96400
+eye gaze	to addressee	89560	90560	left	90600	90840	to addressee	90880	92560	left	92600	92920	right	92960	94000	left	94040	94360	to addressee	94400	96400
+eye aperture	squint	89560	89760	start	89800	90360	wide	90400	90640	start	90680	90840	lowered lid	90880	90920	start	90960	91120	blink	91160	91600	start	91640	92760	wide	92800	93280	start	93320	94600	squint	94640	95840	start	95880	95960	further squinted	96000	96400
+nose	start	94640	95240	wrinkle	95280	96400
+POS	Discourse Marker	89680	89760	Verb	90080	90200	Preposition	90320	90520	Adverb	91000	91120	Verb	91240	92200	Proper Noun	92440	92760	Particle	92960	93120	Adjective	93200	93360	Verb	93760	94000	Negation	94120	94160	Verb	94280	94360	Wh-word	94440	94480	Preposition	94560	94640	Verb	94880	95120	Pronoun	95240	95360	Noun	95560	96400
+English translation	He started to really shaking and reporter got scared.  Hes not sure how to approach that kind of situation.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	20
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	96400
+End frame:	99320
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	part:indef	96560	97000	TELL	97320	97640	WIFE	98040	98280	IX-3p:i	98360	98560	ALLRIGHT	98800	99320
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	96400	96800	start	96840	97120	front	97160	99200	end	99240	99320
+head pos: turn	right	96400	99320
+head pos: tilt side	slightly right	96400	97000	start	97040	98200	slightly right	98240	98440	end	98480	99320
+head pos: jut	slightly back	96400	98040	start	98080	99040	forward	99080	99320
+body lean	start	97320	97840	forward	97880	99320
+eye brows	lowered	96400	99040	end	99080	99320
+eye gaze	to addressee	97120	99320
+eye aperture	further squinted	96400	96520	start	96560	96560	blink	96600	96760	start	96800	96800	squint	96840	99040	end	99080	99320
+nose	wrinkle	96400	99040	end	99080	99320
+POS	Particle	96560	97000	Verb	97320	97640	Pronoun	98040	98280	Determiner	98360	98560	Adjective	98800	99320
+English translation	Asked his wife if he is allright.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	21
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	99320
+End frame:	102600
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	WIFE	99560	99880	SAY	100080	100160	SO-SO	100240	100560	SOMETIME	100760	101200	IX-3p:i	101280	101320	HAVE	101480	101560	BAD	101800	102080	DREAM	102240	102600
+non-dominant hand gloss
+head pos: tilt fr/bk	start	99320	99960	back	100000	102600
+head pos: turn	right	99320	99400	end	99440	99880
+head pos: tilt side	start	99320	99600	right	99640	100360	start	100400	100800	left	100840	101640	start	101680	102480	slightly right	102520	102600
+head pos: jut	forward	99320	99600	start	99640	101280	slightly back	101320	101680	start	101720	102040	back	102080	102600
+body lean	forward	99320	99440	start	99480	100600	slightly back	100640	101320	start	101360	102160	back	102200	102600
+eye brows	start	99320	99560	slightly lowered	99600	99760	end	99800	100000
+eye gaze	to addressee	99320	99520	right	99560	99600	left	99640	100560	to addressee	100600	102600
+eye aperture	slightly squinted	99320	99480	start	99520	99520	blink	99560	99720	end	99760	100000
+POS	Pronoun	99560	99880	Verb	100080	100160	Adverb	100760	101200	Pronoun	101280	101320	Adverb	101480	101560	Adjective	101800	102080	Noun	102240	102600
+English translation	Wife said, so-so, sometime he would have a bad dream.
+Notes - number of character bytes:	57
+-so-so , is it correct gloss? whats POS for that as well?
+
+
+Utterance ID:	22
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	102600
+End frame:	108200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	013
+main gloss	SAME	102720	102840	CL:5"dream"	103040	103400	IX-3p:i	103640	103920	STILL	104040	104240	BOXING	104320	105600	REALLY	106080	106240	STILL	106400	106760	THINK	107120	107360	IN	107480	107560	#RING	107680	108200
+non-dominant hand gloss	STILL	106400	106760	|>		107280
+head pos: tilt fr/bk	slightly back	102600	102680	start	102720	103040	front	103080	104960	start	105000	105600	slightly back	105640	106200	end	106240	106760
+head pos: turn	left	102600	104120	start	104160	104960	right	105000	106520	start	106560	107400	slightly left	107440	108200
+head pos: tilt side	slightly right	102600	102960	start	103000	104840	left	104880	105240	start	105280	106360	left	106400	107280	start	107320	108080	slightly left	108120	108200
+head pos: jut	slightly back	102600	102760	start	102800	103000	back	103040	104360	start	104400	105280	forward	105320	105640	start	105680	106640	forward	106680	106920	start	106960	108120	forward	108160	108200
+body lean	slightly back	102600	102920	start	102960	103320	back/right	103360	103720	start	103760	104480	forward	104520	105320	start	105360	106520	forward	106560	107360	start	107400	108080	slightly forward	108120	108200
+eye brows	start	102600	103040	raised	103080	103840	end	103880	104360
+eye gaze	to addressee	102600	108200
+eye aperture	start	102600	103080	wide	103120	104120	start	104160	104920	wide	104960	108200
+POS	Adjective	102720	102840	Classifier	103040	103400	Pronoun	103640	103920	Adjective	104040	104240	Verb	104320	105600	Discourse Marker	106080	106240	Adjective	106400	106760	Verb	107120	107360	Preposition	107480	107560	Noun	107680	108200
+Non-dominant POS	Adjective	106400	106760
+English translation	He dreamed that he was still boxing, thought hes in ring.
+Notes - number of character bytes:	19
+-first cl, correct?
+
+
+Utterance ID:	23
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	108200
+End frame:	114680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	STILL	108320	108560	CL:S"punching person's face"	108760	109600	REALLY	110120	110160	SOMETIME	110360	110600	IX-3p:i	110720	110920	STAND-UP	111360	111800	START	112440	112720	"punching"++	112880	114680
+non-dominant hand gloss
+head pos: tilt fr/bk	slightly back	108200	109200	start	109240	110640	slightly front	110680	114680
+head pos: turn	left	108200	108560	start	108600	109080	left	109120	109560	start	109600	110080	right	110120	112000	start	112040	112920	left	112960	113080	start	113120	113320	right	113360	113480	start	113520	113600	left	113640	113920	start	113960	114000	slightly right	114040	114360	end	114400	114680
+head pos: tilt side	start	108200	108600	right	108640	108920	start	108960	109560	left	109600	109760	start	109800	110480	slightly left	110520	111840	start	111880	112720	left	112760	113080	start	113120	113240	right	113280	113440	start	113480	113600	left	113640	113880	start	113920	114040	slightly right	114080	114320	end	114360	114680
+head pos: jut	forward	108200	109640	start	109680	110440	slightly back	110480	110760	start	110800	111360	back	111400	112760	start	112800	114120	slightly back	114160	114680
+head mvmt: shake	start	108200	108800	rapid	108840	109600	end	109640	110080
+head mvmt: side to side	start	111840	112760	rapid	112800	114360	end	114400	114640
+body lean	forward	108200	109800	start	109840	112640	forward	112680	114040	end	114080	114680
+eye brows	slightly raised	108200	109680	start	109720	110040	lowered	110080	110680	end	110720	111360
+eye gaze	to addressee	108200	114680
+eye aperture	wide	108200	109600	start	109640	110120	squint	110160	110680	start	110720	110840	blink	110880	111640	start	111680	113080	lowered lid	113120	114680
+nose	start	109600	109920	wrinkle	109960	110640	end	110680	111360
+POS	Adjective	108320	108560	Classifier	108760	109600	Discourse Marker	110120	110160	Adverb	110360	110600	Pronoun	110720	110920	Verb	111360	111800	Verb	112440	112720
+English translation
+Notes - number of character bytes:	22
+-english translation??
+
+
+Utterance ID:	24
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	114680
+End frame:	120040
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REPORTER	115000	115240	SAY	115440	115480	REALLY	115520	115760	TRUE-BUSINESS	115880	116320	REALLY	116600	116760	fs-MUHAMMAD	117040	117680	fs-ALI	117760	118120	FUTURE	118240	118280	STAND-UP	118480	118720	PUNCH+	118960	119320	AT	119440	119520	PEOPLE	119640	119840
+non-dominant hand gloss	TRUE-BUSINESS	115880	116320	|>		117880
+head pos: tilt fr/bk	start	114680	115440	front	115480	120040
+head pos: turn	start	114680	115200	left	115240	115640	start	115680	116320	right	116360	119840	slightly right	119880	120040
+head pos: tilt side	start	114680	116600	slightly left	116640	119840	end	119880	120040
+head pos: jut	slightly back	114680	115320	start	115360	115680	forward	115720	116280	start	116320	117000	slightly back	117040	120040
+head mvmt: nod
+	start	116320	117040	rapid	117080	119600	end	119640	119840
+body lean	slightly forward	114680	115480	start	115520	116040	forward	116080	116320	start	116360	119040	forward	119080	119680	end	119720	120040
+eye brows	start	114680	115240	raised	115280	120040
+eye gaze	to addressee	114680	114760	left	114800	115480	to addressee	115520	115800	right	115840	116040	to addressee	116080	119880	left	119920	120040
+eye aperture	start	114680	115480	wide	115520	115800	start	115840	116280	slightly squinted	116320	120040
+nose	start	114680	115720	wrinkle	115760	120040
+POS	Proper Noun	115000	115240	Verb	115440	115480	Adverb	115520	115760	Discourse Marker	116600	116760	Proper Noun	117040	117680	Proper Noun	117760	118120	Tense Marker	118240	118280	Verb	118480	118720	Verb	118960	119320	Preposition	119440	119520	Noun	119640	119840
+English translation	The reporter said, "Really, Muhammad Ali would stand up and punching at people?"
+Notes - number of character bytes:	129
+- PUNCH part, in this utterance and previous few utterances, I m wondering if its CL or sign for GLOSS???
+-POS for True-Business?
+
+
+Utterance ID:	25
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	120040
+End frame:	125000
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	REALLY	120120	120200	WIFE	120280	120560	YES	120720	120840	IX-1p	120960	121040	SEE	121280	121360	IX-3p:i	121520	121560	BEAT	121800	122440	ONE	122560	122600	MAN	122680	123080	PAST	123160	123440	REALLY	123520	123680	NO	123800	123880	REASON	123960	124600
+non-dominant hand gloss
+head pos: tilt fr/bk	front	120040	124280	start	124320	124880	slightly back	124920	125000
+head pos: turn	slightly right	120040	120080	start	120120	120400	slightly left	120440	120800	start	120840	122400	right	122440	122680	start	122720	123200	slightly left	123240	123360	start	123400	123600	slightly left	123640	125000
+head pos: tilt side	slightly left	120040	120040	start	120080	120600	slightly left	120640	121320	start	121360	122040	slightly right	122080	122720	start	122760	124560	slightly right	124600	125000
+head pos: jut	start	120040	120440	back	120480	124080	start	124120	124960	forward	125000	125000
+head mvmt: shake	start	122720	123360	rapid	123400	124560	end	124600	125000
+body lean	start	120040	121000	slightly back	121040	121680	start	121720	122560	slightly forward	122600	123120	start	123160	124080	forward	124120	124600	end	124640	125000
+eye brows	raised	120040	125000
+eye gaze	left	120040	120840	to addressee	120880	125000
+eye aperture	squint	120040	124320	end	124360	125000
+nose	wrinkle	120040	124200	end	124240	125000
+negative	negation	123400	124560
+POS	Discourse Marker	120120	120200	Pronoun	120280	120560	Discourse Marker	120720	120840	Pronoun	120960	121040	Verb	121280	121360	Pronoun	121520	121560	Verb	121800	122440	Number	122560	122600	Pronoun	122680	123080	Tense Marker	123160	123440	Discourse Marker	123520	123680	Negation	123800	123880	Noun	123960	124600
+English translation	The wife said "Yes, I have seen him beating up one man for no reason"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	26
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	125000
+End frame:	128920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REPORTER	125240	125560	SAY	125680	125720	LOOK	125840	125880	TRUE-BUSINESS	126040	126680	LOOK	127040	127240	AT	127360	127480	fs-MUHAMMAD	127680	128360	fs-ALI	128520	128920
+non-dominant hand gloss	TRUE-BUSINESS	126040	126680	|>		127160
+head pos: tilt fr/bk	start	125000	125720	front	125760	126240	start	126280	127400	front	127440	128920
+head pos: turn	slightly left	125000	125440	start	125480	125840	left	125880	127320	start	127360	127840	right	127880	128920
+head pos: tilt side	start	125000	125160	slightly right	125200	127520	end	127560	128360
+head pos: jut	forward	125000	125240	start	125280	126080	forward	126120	126480	start	126520	127240	back	127280	128920
+head mvmt: nod
+	start	127360	127520	slight rapid head nod	127560	128880	end	128920	128920
+body lean	start	125000	125920	slightly forward	125960	126400	start	126440	127240	slightly forward	127280	127440	end	127480	128920
+eye brows	raised	125000	128920
+eye gaze	to addressee	125000	125040	left	125080	127160	to addressee	127200	128920
+eye aperture	slightly squinted	125000	126520	start	126560	126640	blink	126680	127120	start	127160	127160	wide	127200	128920
+nose	start	125000	125760	wrinkle	125800	126800	start	126840	127440	wrinkle	127480	128000	end	128040	128520
+POS	Proper Noun	125240	125560	Verb	125680	125720	Verb	125840	125880	Verb	127040	127240	Preposition	127360	127480	Proper Noun	127680	128360	Proper Noun	128520	128920
+English translation	The reporter said really? then he looked at Muhammad Ali.
+Notes - number of character bytes:	66
+- POS for true business?
+- second word, SAY , it could be REALLY??
+
+
+Utterance ID:	27
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	128920
+End frame:	136440
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	fs-ALI	129000	129440	SIT	129640	130200	"shake"	130520	131120	STAND-UP	131640	132400	UNKNOWN	132520	133000	"punching"++	133200	136440
+non-dominant hand gloss
+head pos: tilt fr/bk	front	128920	129600	start	129640	130240	back	130280	136200	end	136240	136440
+head pos: turn	right	128920	129080	start	129120	129520	left	129560	129760	start	129800	132320	slightly left	132360	132560	start	132600	132960	slightly right	133000	133960	start	134000	134120	left	134160	134240	start	134280	134400	slightly left	134440	134480	start	134520	134920	right	134960	135240	start	135280	135760	left	135800	135960	end	136000	136440
+head pos: tilt side	start	128920	129680	right	129720	129920	start	129960	131800	left	131840	132480	start	132520	133000	right	133040	134000	start	134040	134160	left	134200	134240	start	134280	134920	right	134960	135280	end	135320	136440
+head pos: jut	back	128920	133720	start	133760	134280	forward	134320	135960	end	136000	136440
+head mvmt: shake	start	129680	130160	slight rapid head shake	130200	131120	start	131160	133640	slow	133680	136200	end	136240	136440
+body lean	slightly forward	128920	129280	start	129320	130200	slightly back	130240	131120	start	131160	131800	forward	131840	132560	start	132600	134240	slightly forward	134280	136440
+shoulders	start	130280	131680	raised	131720	133920	end	133960	134480
+eye brows	raised	128920	132480	start	132520	132920	slightly lowered	132960	136440
+eye gaze	to addressee	128920	129320	left	129360	129840	to addressee	129880	136440
+eye aperture	wide	128920	129680	start	129720	129760	blink	129800	129920	start	129960	130160	closed	130200	131120	start	131160	131840	wide	131880	132160	start	132200	132360	closed	132400	135800	start	135840	136360	squint	136400	136440
+POS	Proper Noun	129000	129440	Verb	129640	130200	Verb	131640	132400
+English translation	Ali was sitting and then he got stand up and start to punching.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	28
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	136440
+End frame:	141760
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	CL:1"walking to person"	137040	137600	REPORTER	137720	138040	CL:5"grabbing person"++	138840	140680	CL:S"want to punch"	141120	141760
+non-dominant hand gloss
+head pos: tilt fr/bk	start	136440	137160	front	137200	141760
+head pos: turn	start	136440	137560	right	137600	138040	start	138080	139320	slightly left	139360	140840	end	140880	141760
+head pos: jut	start	138080	138960	forward	139000	141760
+body lean	slightly forward	136440	137120	start	137160	137480	forward	137520	137880	start	137920	139280	forward/left	139320	141760
+eye brows	slightly lowered	136440	136600	start	136640	137080	raised	137120	137720	start	137760	138480	lowered	138520	141760
+eye gaze	to addressee	136440	141760
+eye aperture	squint	136440	136600	start	136640	137040	wide	137080	138040	start	138080	138360	squint	138400	141680	end	141720	141760
+nose	start	138080	138800	wrinkle	138840	141760
+POS	Classifier	137040	137600	Proper Noun	137720	138040	Classifier	138840	140680	Classifier	141120	141760
+English translation	He walked toward to the reporter and grabbed him.  He put his hand as fist to him. 
+Notes - number of character bytes:	42
+-both CL's, not sure if its correct gloss?
+
+
+Utterance ID:	29
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	141760
+End frame:	149720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	REPORTER	142080	142360	REALLY	142520	142560	SCARE	143000	143360	"ahhh"	143680	144360	fs-MUHAMMAD	144720	145080	fs-ALI	145200	145560	IX-1p	146640	146720	TEASE++	147000	148280	NOT	148360	148400	WORRY	148480	149120	UNKNOWN	149280	149720
+non-dominant hand gloss	CL:S"grabbing person"	146240	146560
+head pos: tilt fr/bk	front	141760	141800	start	141840	143520	back	143560	144520	start	144560	145040	front	145080	149720
+head pos: turn	start	141760	142560	left	142600	144080	start	144120	146680	slightly left	146720	147280	start	147320	148400	slightly right	148440	149720
+head pos: tilt side	start	141760	143120	slightly left	143160	143720	start	143760	146720	left	146760	147000	start	147040	147960	right	148000	149720
+head pos: jut	forward	141760	141800	start	141840	142200	back	142240	145640	start	145680	146400	forward	146440	146640	start	146680	147080	back	147120	149720
+body lean	forward	141760	141840	start	141880	143240	back	143280	144640	start	144680	145040	slightly back	145080	145600	start	145640	146440	forward	146480	146720	start	146760	147040	forward/left	147080	149720
+eye brows	slightly lowered	141760	141760	start	141800	141840	raised	141880	144520	end	144560	145080
+eye gaze	to addressee	141760	143440	up	143480	144280	to addressee	144320	149720
+eye aperture	start	141760	141960	wide	142000	144360	start	144400	145840	squint	145880	149720
+nose	wrinkle	141760	141800	end	141840	142200
+POS	Proper Noun	142080	142360	Adverb	142520	142560	Verb	143000	143360	Proper Noun	144720	145080	Proper Noun	145200	145560	Pronoun	146640	146720	Verb	147000	148280	Negation	148360	148400	Verb	148480	149120
+Non-dominant POS	Classifier	146240	146560
+English translation	The reporter was really scared and screamed.  Muhammad Ali grabbed him, and said, "I am teasing, dont worry!"
+Notes - number of character bytes:	0
+
+
+Utterance ID:	30
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	149720
+End frame:	154200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	012
+main gloss	LAUGH	149960	150280	CL:3"sitting down"	150640	151440	IX-1p	151880	152120	DCL:4"hair up on the arm"	152680	154200
+non-dominant hand gloss	CL:3"sitting down"	150640	151440	|>		152040
+head pos: tilt fr/bk	front	149720	149800	start	149840	150480	back	150520	153680	end	153720	154200
+head pos: turn	slightly right	149720	149800	start	149840	150080	left	150120	150880	start	150920	153680	right	153720	154200
+head pos: tilt side	slightly right	149720	149840	start	149880	150360	left	150400	150920	start	150960	152080	right	152120	154200
+head pos: jut	slightly back	149720	150680	start	150720	150960	back	151000	151720	start	151760	153280	back	153320	154200
+body lean	forward	149720	149920	start	149960	150880	back	150920	151360	start	151400	153120	back	153160	154200
+eye gaze	right	149720	149880	to addressee	149920	151160	right	151200	151760	right	153040	153920	to addressee	153960	154200
+eye aperture	squint	149720	151320	start	151360	151360	blink	151400	151520	start	151560	151560	squint	151600	151640	start	151680	151680	closed	151720	153000	start	153040	153120	further squinted	153160	154200
+POS	Verb	149960	150280	Classifier	150640	151440	Pronoun	151880	152120	Classifier	152680	154200
+Non-dominant POS	Classifier	150640	151440
+English translation	He laughed and sitted down.  I got goose chills on my arms.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	31
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	154200
+End frame:	158920
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	016
+main gloss	REALLY	154400	154440	IX-1p	154560	154600	LAUGH	154760	155120	NO	155280	155880	IX-1p	155960	156120	KNOW	156320	156600	IX-3p:i	156680	156720	FUNNY	156880	157000	YES	157120	157240	BUT	157360	157520	IX-1p	157680	157720	REALLY	157840	157920	DCL:4"hair up on arms"	158120	158920
+non-dominant hand gloss	BUT	157360	157520	|>		157880
+head pos: tilt fr/bk	start	154200	154400	front	154440	154640	start	154680	156480	slightly front	156520	156680	start	156720	158040	back	158080	158720	end	158760	158920
+head pos: turn	right	154200	154240	start	154280	154520	left	154560	155160	start	155200	155400	right	155440	155640	start	155680	156000	right	156040	156480	start	156520	156720	slightly left	156760	158840	end	158880	158920
+head pos: tilt side	slightly right	154200	154280	start	154320	155960	left	156000	156440	start	156480	156680	right	156720	158920
+head pos: jut	slightly back	154200	154640	start	154680	155600	slightly forward	155640	155680	start	155720	155960	back	156000	156960	start	157000	157720	forward	157760	158560	start	158600	158880	back	158920	158920
+head mvmt: shake	start	154680	155400	rapid	155440	156080	start	156120	157120	slight rapid head shake	157160	157440	end	157480	157720
+body lean	slightly back	154200	154400	start	154440	155200	slightly forward	155240	156040	start	156080	157000	right	157040	158360	start	158400	158680	back	158720	158920
+eye brows	start	154200	154400	slightly lowered	154440	154600	start	154640	154840	lowered	154880	155880	start	155920	156080	raised	156120	156720	start	156760	156960	lowered	157000	158920
+eye gaze	to addressee	154200	158920
+eye aperture	slightly squinted	154200	154440	start	154480	155160	squint	155200	155720	start	155760	155920	closed	155960	156400	start	156440	157040	squint	157080	157240	start	157280	157400	closed	157440	158800	start	158840	158840	further squinted	158880	158920
+nose	start	154200	154360	wrinkle	154400	154520	start	154560	155120	wrinkle	155160	155760	start	155800	156000	tensed	156040	156720	start	156760	156960	wrinkle	157000	157360	end	157400	157720
+negative	negation	155440	156080
+POS	Discourse Marker	154400	154440	Pronoun	154560	154600	Verb	154760	155120	Negation	155280	155880	Pronoun	155960	156120	Verb	156320	156600	Pronoun	156680	156720	Adjective	156880	157000	Discourse Marker	157120	157240	Conjunction	157360	157520	Pronoun	157680	157720	Discourse Marker	157840	157920	Classifier	158120	158920
+Non-dominant POS	Conjunction	157360	157520
+English translation	I was not laughing, yes I know it was funny, but I got goose chills on my arms.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	32
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	158920
+End frame:	163120
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	WHY	159000	159040	IX-3p:i	159160	159320	fs-MUHAMMAD	159560	160160	fs-ALI	160320	160760	IX-3p:i	160960	161160	HAVE	161320	161360	fs-PARKINSON	161440	162280	DISEASE	162480	162960	IX-3p:i	163080	163120
+non-dominant hand gloss	IX-3p:i	160960	161160	|>		162000
+head pos: tilt fr/bk	start	158920	159200	front	159240	163120
+head pos: turn	start	158920	159120	right	159160	163120
+head pos: tilt side	start	158920	159400	slightly left	159440	160440	start	160480	161040	left	161080	162520	start	162560	163040	slightly right	163080	163120
+head pos: jut	back	158920	159160	start	159200	160080	forward	160120	160440	start	160480	161080	slightly back	161120	161680	start	161720	162320	forward	162360	163120
+body lean	slightly back	158920	159240	start	159280	160160	forward	160200	160480	start	160520	161600	slightly back	161640	161680	start	161720	162280	forward	162320	163120
+eye brows	lowered	158920	163120
+eye gaze	to addressee	158920	163120
+eye aperture	further squinted	158920	163120
+nose	start	160480	160720	wrinkle	160760	161160	start	161200	162840	wrinkle	162880	163120
+POS	Wh-word	159000	159040	Pronoun	159160	159320	Proper Noun	159560	160160	Proper Noun	160320	160760	Determiner	160960	161160	Adverb	161320	161360	Proper Noun	161440	162280	Noun	162480	162960	Determiner	163080	163120
+Non-dominant POS	Determiner	160960	161160
+English translation	Because, Muhammad Ali have a Parkinson Disease.
+Notes - number of character bytes:	103
+-AGAIN,he didnt spell PARKINSON the whole word, what shld I do? gloss what he spelled or spell correct?
+
+
+Utterance ID:	33
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	163120
+End frame:	168640
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	IX-3p:i	163160	163200	BUT	163320	163360	IX-3p:i	163480	163520	STILL	163800	164120	IX-3p:i	164320	164440	part:indef	164600	165160	IX-3p:i	165280	165520	STILL	165800	165880	CAN	166040	166240	FIND	166400	166600	FUNNY	167040	167320	IN	167400	167520	MANY	167680	167800	THING	167960	168560
+non-dominant hand gloss	STILL	163800	164120	|>		164440	part:indef	164600	165160	|>		165480	CAN	166040	166240	|>		166600
+head pos: tilt fr/bk	start	163120	164400	slightly back	164440	164920	start	164960	166320	back	166360	167560	start	167600	168320	slightly back	168360	168640
+head pos: turn	slightly right	163120	163200	start	163240	163360	right	163400	164400	start	164440	164720	left	164760	164920	start	164960	165320	right	165360	166440	start	166480	167240	left	167280	168640
+head pos: tilt side	start	167560	168360	slightly right	168400	168640
+head pos: jut	slightly forward	163120	163160	start	163200	163480	back	163520	165240	start	165280	165880	forward	165920	168640
+body lean	forward	163120	163320	start	163360	164400	back	164440	164920	start	164960	165880	slightly forward	165920	166440	start	166480	167320	slightly forward	167360	167680	start	167720	168320	forward	168360	168640
+shoulders	start	165800	165920	raised	165960	167320	end	167360	167600
+eye brows	lowered	163120	165360	end	165400	165920
+eye gaze	to addressee	163120	168640
+eye aperture	squint	163120	163920	start	163960	164040	blink	164080	164280	start	164320	164320	squint	164360	168640
+nose	wrinkle	163120	165400	end	165440	165920
+POS	Pronoun	163160	163200	Conjunction	163320	163360	Pronoun	163480	163520	Adjective	163800	164120	Pronoun	164320	164440	Particle	164600	165160	Pronoun	165280	165520	Adjective	165800	165880	Modal	166040	166240	Verb	166400	166600	Adjective	167040	167320	Preposition	167400	167520	Adjective	167680	167800	Noun	167960	168560
+Non-dominant POS	Adjective	163800	164120	Particle	164600	165160	Modal	166040	166240
+English translation	But, he still can find funny in many things.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	34
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	168640
+End frame:	173840
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	SAME	168800	168960	IX-3p:i	169040	169080	SCARE	169400	169720	REPORTER	169880	170440	CL:1"listing"	170680	170880	part:indef	170960	171120	IX-3p:i	171200	171320	WIFE	171680	172040	GREAT	172200	172560	IX-3p:i	172760	172800	REALLY	172960	173160	"wow"	173280	173840
+non-dominant hand gloss	part:indef	168640	168680	|>		169040
+head pos: tilt fr/bk	back	168640	169080	start	169120	170760	back	170800	171760	start	171800	172960	back	173000	173840
+head pos: turn	slightly left	168640	169080	start	169120	169640	right	169680	172400	start	172440	172760	slightly left	172800	173160	start	173200	173400	right	173440	173840
+head pos: tilt side	slightly right	168640	169120	start	169160	170840	left	170880	172480	start	172520	172760	right	172800	173600	end	173640	173840
+head pos: jut	forward	168640	168880	start	168920	169160	slightly back	169200	169720	start	169760	170080	forward	170120	170920	start	170960	171280	slightly back	171320	173680	end	173720	173840
+head mvmt: shake	start	172760	172960	slow	173000	173680	end	173720	173840
+body lean	slightly forward	168640	168800	start	168840	169920	forward	169960	170680	start	170720	172120	forward	172160	172760	end	172800	173840
+eye brows	start	171320	172440	lowered	172480	173840
+eye gaze	to addressee	168640	170480	left	170520	170720	to addressee	170760	171280	right	171320	172760
+eye aperture	squint	168640	172160	start	172200	172440	closed	172480	173840
+nose	start	171320	172360	wrinkle	172400	173840
+POS	Adjective	168800	168960	Pronoun	169040	169080	Adjective	169400	169720	Proper Noun	169880	170440	Classifier	170680	170880	Particle	170960	171120	Pronoun	171200	171320	Pronoun	171680	172040	Adjective	172200	172560	Pronoun	172760	172800	Discourse Marker	172960	173160
+Non-dominant POS	Particle	168640	168680
+English translation	He scared the reporter, and his wife was great. Wow.
+Notes - number of character bytes:	30
+- CL, listing, is it correct??
+
+
+Utterance ID:	35
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	173840
+End frame:	178720
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	014
+main gloss	#SO	173920	174040	AFTER	174520	174640	THAT	174800	175200	IX-1p	175360	175520	part:indef	175720	175920	IX-1p	176080	176240	WISH	176400	176520	IX-1p	176600	176680	CAN	176800	176920	TELL	177120	177200	POSS-1p	177360	177440	GRANDFATHER	177640	177880	THAT	177960	178080	STORY	178280	178720
+non-dominant hand gloss	CAN	176800	176920	|>		177400
+head pos: tilt fr/bk	start	173840	174680	slightly front	174720	175080	start	175120	176080	slightly back	176120	177160	start	177200	177680	front	177720	178080	end	178120	178720
+head pos: turn	right	173840	175280	start	175320	175920	left	175960	178120	start	178160	178640	slightly right	178680	178720
+head pos: tilt side	start	173840	174320	left	174360	175560	start	175600	176160	slightly right	176200	177520	end	177560	178720
+head pos: jut	start	173840	174520	back	174560	177800	start	177840	178160	forward	178200	178600	end	178640	178720
+body lean	start	173840	174560	back	174600	175200	start	175240	175760	back	175800	175880	start	175920	176240	back/right	176280	177160	start	177200	177680	forward/left	177720	178720
+eye brows	lowered	173840	175600	start	175640	178680	slightly lowered	178720	178720
+eye gaze	to addressee	175520	178720
+eye aperture	closed	173840	175480	start	175520	175880	squint	175920	176160	start	176200	178680	squint	178720	178720
+nose	wrinkle	173840	175600	start	175640	178680	wrinkle	178720	178720
+POS	Discourse Marker	173920	174040	Adverb	174520	174640	Pronoun	174800	175200	Pronoun	175360	175520	Particle	175720	175920	Pronoun	176080	176240	Verb	176400	176520	Pronoun	176600	176680	Modal	176800	176920	Verb	177120	177200	Possessive	177360	177440	Pronoun	177640	177880	Pronoun	177960	178080	Noun	178280	178720
+Non-dominant POS	Modal	176800	176920
+English translation	So, after that, I wish I could tell my grandfather about that story.
+Notes - number of character bytes:	0
+
+
+Utterance ID:	36
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	178720
+End frame:	183200
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	WHY	178800	178840	IX-3p:i	178920	179000	DIE	179160	179640	|>		179920	part:indef	180120	180320	BEFORE	180520	181040	REALLY	181160	181360	part:indef	181640	181920	WHEN	182040	182280	IX-1p	182400	182480	SAME	182520	182600	EIGHT-YEAR	182680	183200
+non-dominant hand gloss	BEFORE	180520	181040	|>		181480	WHEN	182040	182280	|>		183200
+head pos: tilt fr/bk	start	178720	179640	front	179680	182440	start	182480	182760	slightly back	182800	183200
+head pos: turn	right	178720	178960	start	179000	179400	left	179440	180400	start	180440	180600	right	180640	182720	start	182760	183160	slightly left	183200	183200
+head pos: tilt side	start	178720	179440	left	179480	180400	start	180440	180760	right	180800	181880	start	181920	183160	slightly left	183200	183200
+head pos: jut	slightly back	178720	180400	start	180440	180560	back	180600	181200	start	181240	182760	forward	182800	183200
+head mvmt: shake	start	178720	179280	rapid	179320	180120	end	180160	180600
+body lean	forward/left	178720	178840	start	178880	179440	back/right	179480	180000	start	180040	182440	forward	182480	183200
+eye brows	lowered	178720	183200
+eye gaze	to addressee	178720	181040	to addressee	183080	183200
+eye aperture	squint	178720	179360	start	179400	179680	closed	179720	182720	start	182760	183040	squint	183080	183200
+nose	wrinkle	178720	183200
+POS	Wh-word	178800	178840	Pronoun	178920	179000	Verb	179160	179640	Particle	180120	180320	Tense Marker	180520	181040	Discourse Marker	181160	181360	Particle	181640	181920	Wh-word	182040	182280	Pronoun	182400	182480	Adjective	182520	182600	Number	182680	183200
+Non-dominant POS	Tense Marker	180520	181040	Wh-word	182040	182280
+English translation	He died when I was around 8 years old.
+Notes - number of character bytes:	65
+-age part (last gloss) correct gloss?
+- whats pos for last gloss?
+
+
+Utterance ID:	37
+Media:
+Number of video file slots:	4
+Number of audio file slots:	1
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_0_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_2_0.mov
+Video	NCSLGRv5:movies:ali:muhammed_ali_1052_small_3_0.mov
+Video	
+Audio	
+Start frame:	183200
+End frame:	188680
+Number of participant panes:	1
+Participant:	Mike Schlang
+Number of fields:	015
+main gloss	#SO	183320	183520	"darn"	183760	184200	WISH	184320	184920	IX-3p-pl-2:i	185080	185160	CAN	185280	185320	WATCH	185440	185640	TOGETHER	185840	186240	part:indef	186440	186680
+non-dominant hand gloss	CAN	185280	185320	|>		185640
+head pos: tilt fr/bk	start	183200	184320	back	184360	184800	start	184840	185120	slightly front	185160	185880	start	185920	186440	slightly back	186480	187360	end	187400	188680
+head pos: turn	left	183200	183920	start	183960	184280	right	184320	186040	start	186080	186520	left	186560	186840	start	186880	187040	slightly left	187080	187360	start	187400	188160	slightly right	188200	188680
+head pos: tilt side	left	183200	183920	start	183960	184960	slightly left	185000	185880	start	185920	186480	slightly right	186520	188200	end	188240	188680
+head pos: jut	forward	183200	183320	start	183360	183720	forward	183760	183960	start	184000	184400	back	184440	185160	start	185200	185680	forward	185720	186680	end	186720	188680
+head mvmt: nod
+	start	185160	186200	rapid	186240	187000	end	187040	187400
+body lean	forward	183200	183360	start	183400	184480	slightly back	184520	185280	start	185320	185720	forward	185760	186440	end	186480	188680
+eye brows	slightly lowered	183200	183520	end	183560	184280
+eye gaze	to addressee	183200	185400	right	185440	186000	to addressee	186040	187480	left	187520	187960	right	188000	188680
+eye aperture	slightly squinted	183200	188680
+nose	wrinkle	183200	183760	end	183800	184320
+POS	Preposition	183320	183520	Verb	184320	184920	Pronoun	185080	185160	Modal	185280	185320	Verb	185440	185640	Noun	185840	186240	Particle	186440	186680
+Non-dominant POS	Modal	185280	185320
+English translation	So, I wish we both can watch together.
+Notes - number of character bytes:	54
+- second gloss, "darn" what is correct gloss for that?
